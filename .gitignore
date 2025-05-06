@@ -1,2 +1,5 @@
 *.zip
 stranded_resources.zip
+*.WinMerge
+*.bak
+*.tmp
