@@ -1,0 +1,165 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/topbar.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": ["\uE000"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bar2.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE001"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bar3.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE002"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/speed.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE003"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/darkness.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE004"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/death.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE005"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/extraflee.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": ["\uE006"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/foodregen.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE007"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/healthbar.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE008"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/healthsteal.png",
+            "ascent": 28,
+            "height": 28,
+            "chars": ["\uE009"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/rampage.png",
+            "ascent": 28,
+            "height": 28,
+            "chars": ["\uE010"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/lootfinder.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": ["\uE011"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/allay.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE012"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/healthsteal2.png",
+            "ascent": 28,
+            "height": 28,
+            "chars": ["\uE013"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/rampage2.png",
+            "ascent": 28,
+            "height": 28,
+            "chars": ["\uE014"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/slowcast.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE015"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/speed2.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE016"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/mak.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": ["\uE017"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/title.png",
+            "ascent": 30,
+            "height": 30,
+            "chars": ["\uE018"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/lootgoblin.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE019"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/ascendedmural1.png",
+            "ascent": 34,
+            "height": 34,
+            "chars": ["\uE020"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/xp.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE021"]
+        }, 
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/emerald.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE022"]
+        }
+    ]
+}
