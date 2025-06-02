@@ -46,7 +46,7 @@ def process_json_file(input_path, output_path):
 # --- CLI interface ---
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python natural_sort_and_escape_pua.py <input.json> [output.json]")
+        print("Usage: python naturalsort.py <input.json> [output.json]")
         sys.exit(1)
 
     input_file = sys.argv[1]
