@@ -1,0 +1,1517 @@
+{
+
+  "mount.onboard": "",
+  "itemGroup.crafting": "",
+  "container.crafting": "",
+
+  "effect.minecraft.speed": "",
+  "effect.minecraft.slowness": "",
+  "effect.minecraft.haste": "",
+  "effect.minecraft.mining_fatigue": "",
+  "effect.minecraft.strength": "",
+  "effect.minecraft.instant_health": "",
+  "effect.minecraft.instant_damage": "",
+  "effect.minecraft.jump_boost": "",
+  "effect.minecraft.nausea": "",
+  "effect.minecraft.regeneration": "",
+  "effect.minecraft.resistance": "",
+  "effect.minecraft.fire_resistance": "",
+  "effect.minecraft.water_breathing": "",
+  "effect.minecraft.invisibility": "",
+  "effect.minecraft.blindness": "",
+  "effect.minecraft.night_vision": "",
+  "effect.minecraft.hunger": "",
+  "effect.minecraft.weakness": "",
+  "effect.minecraft.poison": "",
+  "effect.minecraft.wither": "",
+  "effect.minecraft.health_boost": "",
+  "effect.minecraft.absorption": "",
+  "effect.minecraft.saturation": "",
+  "effect.minecraft.glowing": "",
+  "effect.minecraft.luck": "",
+  "effect.minecraft.unluck": "",
+  "effect.minecraft.levitation": "",
+  "effect.minecraft.slow_falling": "",
+  "effect.minecraft.conduit_power": "",
+  "effect.minecraft.dolphins_grace": "",
+  "effect.minecraft.bad_omen": "",
+  "effect.minecraft.hero_of_the_village": "",
+
+  "spectatorMenu.previous_page": "",
+  "spectatorMenu.next_page": "",
+  "spectatorMenu.close": "",
+  "spectatorMenu.teleport": "",
+  "spectatorMenu.teleport.prompt": "",
+  "spectatorMenu.team_teleport": "",
+  "spectatorMenu.team_teleport.prompt": "",
+  "spectatorMenu.root.prompt": "",
+
+  "options.video": "§aVideo Settings...",
+  "options.sounds": "§aMusic & Sounds...",
+  "options.fovEffectScale": "§cFOV Effects",
+
+  "soundCategory.music": "§aMusic",
+  "soundCategory.hostile": "§aHostile Creatures",
+  "soundCategory.neutral": "§aFriendly Creatures",
+  "soundCategory.player": "§aPlayers",
+  "soundCategory.ambient": "§aAmbient/Environment",
+  "soundCategory.voice": "§aDialogue",
+
+  "options.guiScale": "§aGUI Scale",
+  "options.particles": "§aParticles",
+  "options.particles.all": "§aAll",
+  "options.particles.decreased": "§eDecreased",
+  "options.particles.minimal": "§eMinimal",
+  "options.accessibility.title": "§aAccessibility Settings...",
+
+  "options.graphics.fast": "§eFast",
+  "options.graphics.fancy": "§eFancy",
+  "options.graphics.fabulous": "§aFabulous!",
+
+
+
+
+
+
+
+
+
+
+
+"block.minecraft.brown_glazed_terracotta": "Dark Panel [ Stripe ]",
+"block.minecraft.emerald_ore": "Dark Panel [ Cross ] ",
+"block.minecraft.lapis_ore": "Dark Panel",
+"block.minecraft.white_glazed_terracotta": "Light Panel [ Stripe ]",
+"block.minecraft.nether_gold_ore": "Light Panel [ Cross ]",
+"block.minecraft.deepslate_diamond_ore": "Light Panel",
+"block.minecraft.magenta_stained_glass": "Framework I",
+"block.minecraft.pink_stained_glass": "Framework II",
+"block.minecraft.yellow_stained_glass": "Framework III",
+
+"block.minecraft.lime_terracotta": "Red Panel [ Cross ]",
+"block.minecraft.pink_terracotta": "Blue Panel [ Cross ]",
+"block.minecraft.orange_terracotta": "Purple Panel [ Cross ]",
+"block.minecraft.chiseled_sandstone": "Gray Panel [ Cross ]",
+
+"block.minecraft.redstone_ore": "Matrix Block",
+"block.minecraft.nether_quartz_ore": "Creeping Red Block",
+"block.minecraft.crimson_stem": "Pulsating [ Red ]",
+"block.minecraft.warped_stem": "Pulsating [ Blue ]",
+
+"block.minecraft.raw_iron_block": "Hexagon [ Red Large ]",
+"block.minecraft.raw_copper_block": "Hexagon [ Red ]",
+"block.minecraft.raw_gold_block": "Hexagon [ Blue Large ]",
+"block.minecraft.diamond_ore": "Hexagon [ Blue ]",
+"block.minecraft.gold_ore": "Scrambled I",
+"block.minecraft.magenta_wool": "Scrambled II",
+"block.minecraft.purple_wool": "Scrambled III",
+"block.minecraft.mossy_stone_bricks": "Bleak Panel I",
+"block.minecraft.copper_ore": "Bleak Panel [ Fan ]",
+"block.minecraft.deepslate_copper_ore": "Bleak Panel [ Gradient ]",
+"block.minecraft.iron_ore": "Bleak Panel [ Dark ]",
+"block.minecraft.deepslate_iron_ore": "Bleak Panel [ Windowed ]",
+"block.minecraft.coal_ore": "Bleak Panel [ Makina ]",
+"block.minecraft.mossy_cobblestone": "Bleak Panel [ Lines ]",
+"block.minecraft.moss_block": "Bleak Panel [ Hazard ]",
+"block.minecraft.deepslate_coal_ore": "Bleak Panel II",
+"block.minecraft.deepslate_gold_ore": "Bleak Panel [ Hatch ]",
+
+"block.minecraft.purple_glazed_terracotta": "Conveyor Belt",
+
+"block.minecraft.chiseled_nether_bricks": "Electrocuted Obsidian [ I ]",
+"block.minecraft.endstone": "Electrocuted Obsidian [ II ]",
+"block.minecraft.obsidian": "Electrocuted Obsidian [ III ]",
+"block.minecraft.rooted_dirt": "Electrocuted Obsidian [ IV ]",
+"block.minecraft.lime_wool": "Electrocuted Obsidian [ VV ]",
+
+"block.minecraft.sponge": "Tofustumus",
+"block.minecraft.wet_sponge": "Agentusmus",
+
+"block.minecraft.emerald_block": "Electric Panel [ Off ]",
+"block.minecraft.sculk_catalyst": "Electric Panel [ Warning Dim ]",
+"block.minecraft.chiseled_stone_bricks": "Electric Panel [ On ]",
+"block.minecraft.jack_o_lantern": "Electric Panel [ On Bright ]",
+
+"block.minecraft.acacia_stairs": "Gray Concrete Slope",
+"block.minecraft.oak_stairs": "Black Concrete Slope",
+
+"block.minecraft.iron_bars": "Security Fence",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "classpick.icono.1" : "\uE111\uF80A\uF804\uE102\uF80A\uF804\uE121\uE103\uF80A\uF804\uE104\uF80A\uF804\uE121\uF80A\uF804\uE122\uE105\uF80A\uF804\uE106\uF80A\uF804\uE121",
+    "classpick.icono.2" : "\uE101\uF80A\uF804\uE112\uF80A\uF804\uE121\uE103\uF80A\uF804\uE104\uF80A\uF804\uE121\uF80A\uF804\uE122\uE105\uF80A\uF804\uE106\uF80A\uF804\uE121",
+    "classpick.icono.3" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE121\uE113\uF80A\uF804\uE104\uF80A\uF804\uE121\uF80A\uF804\uE122\uE105\uF80A\uF804\uE106\uF80A\uF804\uE121",
+    "classpick.icono.4" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE121\uE103\uF80A\uF804\uE114\uF80A\uF804\uE121\uF80A\uF804\uE122\uE105\uF80A\uF804\uE106\uF80A\uF804\uE121",
+    "classpick.icono.5" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE121\uE103\uF80A\uF804\uE104\uF80A\uF804\uE121\uF80A\uF804\uE122\uE115\uF80A\uF804\uE106\uF80A\uF804\uE121",
+    "classpick.icono.6" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE121\uE103\uF80A\uF804\uE104\uF80A\uF804\uE121\uF80A\uF804\uE122\uE105\uF80A\uF804\uE116\uF80A\uF804\uE121",
+
+    "classpick.icon.1" : "\uE111\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.2" : "\uE101\uF80A\uF804\uE112\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.3" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE113\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.4" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE114\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.5" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE115\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.6" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE116\uF80A\uF804\uE108",
+    "classpick.icon.7" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE117\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.8" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE118",
+    "classpick.icon.9" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE119\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE110\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+    "classpick.icon.10" : "\uE101\uF80A\uF804\uE102\uF80A\uF804\uE109\uE103\uF80A\uF804\uE104\uF80A\uF804\uE107\uF80A\uF804\uE120\uE105\uF80A\uF804\uE106\uF80A\uF804\uE108",
+
+    "classpick.title.1" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE901\uF809\uF80B\uE301\uF80B\uF80A\uF808\uE401",
+    "classpick.desc.1" : "\uF82B\uF82A\uF824\uE501\uF80A\uF808\uF801\uE511\uF80A\uF808\uF801\uE521\uF80A\uF808\uF801\uE531\uF80A\uF808\uF801\uE541",
+
+    "classpick.title.2" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE905\uF809\uF80B\uE302\uF80B\uF80A\uF808\uE402",
+    "classpick.desc.2" : "\uF82B\uF82A\uF824\uE502\uF80A\uF808\uF801\uE512\uF80A\uF808\uF801\uE522\uF80A\uF808\uF801\uE532\uF80A\uF808\uF801\uE542",
+
+    "classpick.title.3" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE902\uF809\uF80B\uE303\uF80B\uF80A\uF808\uE403",
+    "classpick.desc.3" : "\uF82B\uF82A\uF824\uE503\uF80A\uF808\uF801\uE513\uF80A\uF808\uF801\uE523\uF80A\uF808\uF801\uE533\uF80A\uF808\uF801\uE543",
+
+    "classpick.title.4" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE902\uF809\uF80B\uE304\uF80B\uF80A\uF808\uE404",
+    "classpick.desc.4" : "\uF82B\uF82A\uF824\uE504\uF80A\uF808\uF801\uE514\uF80A\uF808\uF801\uE524\uF80A\uF808\uF801\uE534\uF80A\uF808\uF801\uE544",
+
+    "classpick.title.5" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE902\uF809\uF80B\uE305\uF80B\uF80A\uF808\uE405",
+    "classpick.desc.5" : "\uF82B\uF82A\uF824\uE505\uF80A\uF808\uF801\uE515\uF80A\uF808\uF801\uE525\uF80A\uF808\uF801\uE535\uF80A\uF808\uF801\uE545",
+
+    "classpick.title.6" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE902\uF809\uF80B\uE306\uF80B\uF80A\uF808\uE406",
+    "classpick.desc.6" : "\uF82B\uF82A\uF824\uE506\uF80A\uF808\uF801\uE516\uF80A\uF808\uF801\uE526\uF80A\uF808\uF801\uE536\uF80A\uF808\uF801\uE546",
+
+    "classpick.title.7" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE903\uF809\uF80B\uE307\uF80B\uF80A\uF808\uE407",
+    "classpick.desc.7" : "\uF82B\uF82A\uF824\uE507\uF80A\uF808\uF801\uE517\uF80A\uF808\uF801\uE527\uF80A\uF808\uF801\uE537\uF80A\uF808\uF801\uE547",
+
+    "classpick.title.8" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE903\uF809\uF80B\uE308\uF80B\uF80A\uF808\uE408",
+    "classpick.desc.8" : "\uF82B\uF82A\uF824\uE508\uF80A\uF808\uF801\uE518\uF80A\uF808\uF801\uE528\uF80A\uF808\uF801\uE538\uF80A\uF808\uF801\uE548",
+
+    "classpick.title.9" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE903\uF809\uF80B\uE309\uF80B\uF80A\uF808\uE409",
+    "classpick.desc.9" : "\uF82B\uF82A\uF824\uE509\uF80A\uF808\uF801\uE519\uF80A\uF808\uF801\uE529\uF80A\uF808\uF801\uE539\uF80A\uF808\uF801\uE549",
+
+    "classpick.title.10" : "\uF80C\uF80B\uF809\uF821\uE000\uF80A\uF826\uE904\uF809\uF80B\uE310\uF80B\uF80A\uF808\uE410",
+    "classpick.desc.10" : "\uF82B\uF82A\uF824\uE510\uF80A\uF808\uF801\uE520\uF80A\uF808\uF801\uE530\uF80A\uF808\uF801\uE540\uF80A\uF808\uF801\uE550",
+
+
+
+
+
+  "Change Class" : "Change Class",
+  "Training Dummy" : "Training Dummy",
+  "Lore" : "Lore",
+  "Stats" : "Stats",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "mob.displayname.halfling" : "\uE203",
+  "mob.displayname.revenant" : "\uE204",
+  "mob.displayname.oracle" : "\uE207",
+  "mob.displayname.reaver" : "\uE211",
+  "mob.displayname.harrier" : "\uE212",
+  "mob.displayname.fluctuator" : "\uE213",
+  "mob.displayname.mortar" : "\uE214",
+  "mob.displayname.snowbeast" : "\uE215",
+  "mob.displayname.hummingbird" : "\uE216",
+  "mob.displayname.avatar" : "\uE217\uF808\uF804",
+  "mob.displayname.suppressor" : "\uE218",
+
+  "name.dummy" : "Dummy of Amr",
+  "name.revenant" : "Revenant",
+  "name.elite.revenant" : "Ascended Revenant",
+  "name.halfling" : "Halfling",
+  "name.oracle" : "Oracle",
+  "name.reaver" : "Reaver",
+  "name.elite.reaver" : "Exo-Reaver",
+  "name.harrier" : "Harrier",
+  "name.fluctuator" : "Fluctuator",
+  "name.elite.fluctuator" : "Exo-Fluctuator",
+  "name.mortar" : "Mortar",
+  "name.elite.mortar" : "Exo-Mortar",
+  "name.hummingbird" : "Hummingbird",
+  "name.elite.hummingbird" : "Exo-Hummingbird",
+  "name.avatar" : "Avatar of Scersaryn",
+  "name.snowbeast" : "Prowler",
+
+
+  "mod.impish" : "\uE273",
+  "mod.empyrean" : "\uE274",
+  "mod.special" : "\uE275",
+  "mod.flawless" : "\uE276",
+
+  "mod.impish.on" : "Enabling IMPISH mode",
+  "mod.impish.off" : "Disabling IMPISH mode",
+  "mod.empyrean.on" : "Enabling EMPYREAN mode",
+  "mod.empyrean.off" : "Disabling EMPYREAN mode",
+  "mod.special.on" : "Enabling SYNERGY mode",
+  "mod.special.off" : "Disabling SYNERGY mode",
+  "mod.flawless.on" : "Enabling FLAWLESS mode",
+  "mod.flawless.off" : "Disabling FLAWLESS mode",
+  
+
+  "scan.full" : "FULL TEAM SCAN",
+  "scan.single" : "SINGLE SCAN",
+  "scan.complete" : " have completed a security scan!",
+  "scan.complete.single" : " has completed a security scan!",
+
+  "stat.kills" : "Kills",
+  "stat.total.kills" : "Total Kills",
+  "stat.bossdmg" : "Boss DMG Dealt",
+  "stat.total.bossdmg" : "Total Boss DMG Dealt",
+  "stat.total.healing" : "Total Healing",
+  "stat.total.deaths" : "Total Deaths",
+
+  "stat.snowstorm.1" : "Braziers Lit",
+
+  "stat.fusion.1" : "Canisters Deposited",
+  "stat.fusion.2" : "Cores Destroyed",
+
+  "stat.exomech.1" : "Attacks Charged",
+
+  "stat.atlus.1" : "Weakspots Destroyed",
+
+  "stat.imm.1" : "Rads Siphoned",
+
+  "stat.reactor.1" : "Cores Destroyed",
+  "stat.reactor.2" : "Leaks Repaired",
+
+  "stat.finale.1" : "Suppressors Killed",
+
+  "stat.entropy.1" : "Glyphs Broken",
+
+  "stat.checkpoint" : "Scans Completed",
+
+
+  "title.1" : "Crashsite",
+  "title.2" : "Snowstorm",
+  "title.3" : "P.R.Y.S.M Facility Entrance",
+  "title.4" : "Cold Fusion Core",
+  "title.5" : "The Summit",
+  "title.6" : "Simulation Lab",
+  "title.7" : "Under P.R.Y.S.M",
+  "title.8" : "Apocalypse",
+  "title.9" : "The Reactor",
+  "title.10" : "Hatch 09",
+  "title.11" : "Vault 09",
+  "title.12" : "Extinction Hall",
+  "title.13" : "Codex Hall",
+  "title.14" : "Broodnest",
+
+
+
+
+  "buff.frenzy" : "\uE001 Frenzy",
+  "buff.resolve.1" : "\uE001 Resolve x1",
+  "buff.resolve.2" : "\uE001 Resolve x2",
+  "buff.resolve.3" : "\uE001 Resolve x3",
+  "buff.resolve.4" : "\uE001 Resolve x4",
+  "buff.resolve.5" : "\uE001 Resolve x5",
+  "buff.resolve.6" : "\uE001 Resolve x6",
+  "buff.resolve.7" : "\uE001 Resolve x7",
+  "buff.resolve.8" : "\uE001 Resolve x8",
+  "buff.resolve.9" : "\uE001 Resolve x9",
+  "buff.resolve.10" : "\uE001 Resolve x10",
+  "buff.precision.1" : "\uE001 Precision x1",
+  "buff.precision.2" : "\uE001 Precision x2",
+  "buff.precision.3" : "\uE001 Precision x3",
+  "buff.precision.4" : "\uE001 Precision x4",
+  "buff.precision.5" : "\uE001 Precision x5",
+  "buff.converging" : "\uE001 Converging Beam",
+  "buff.haste.1" : "\uE001 Mania x1",
+  "buff.haste.2" : "\uE001 Mania x2",
+  "buff.haste.3" : "\uE001 Mania x3",
+  "buff.haste.4" : "\uE001 Mania x4",
+  "buff.haste.5" : "\uE001 Mania x5",
+  "buff.haste.6" : "\uE001 Mania x6",
+  "buff.unsheathe" : "\uE001 Unsheathe",
+  "buff.grandguard" : "\uE001 Grand Guard",
+  "buff.overdrive" : "\uE001 Overdrive",
+  "buff.nihility.1" : "\uE001 Nihility Rounds x1",
+  "buff.nihility.2" : "\uE001 Nihility Rounds x2",
+  "buff.nihility.3" : "\uE001 Nihility Rounds x3",
+  "buff.nihility.4" : "\uE001 Nihility Rounds x4",
+  "buff.nihility.5" : "\uE001 Nihility Rounds x5",
+  "buff.nihility.6" : "\uE001 Nihility Rounds x6",
+  "buff.nihility.7" : "\uE001 Nihility Rounds x7",
+  "buff.nihility.8" : "\uE001 Nihility Rounds x8",
+  "buff.nihility.9" : "\uE001 Nihility Rounds x9",
+  "buff.dispelling" : "\uE001 Entropic Dispeller",
+  "buff.style.1" : "\uE001 Menace : E",
+  "buff.style.2" : "\uE001 Menace : D",
+  "buff.style.3" : "\uE001 Menace : C",
+  "buff.style.4" : "\uE001 Menace : B",
+  "buff.style.5" : "\uE001 Menace : A",
+  "buff.style.6" : "\uE001 Menace : S",
+
+  "effect.razia.trap" : "\uE000 Queen's Duel",
+  "effect.scan" : "\uE000 Scanning",
+
+  "effect.siphon.1" : "\uE001 Alpha Rad x",
+  "effect.siphon.2" : "\uE001 Beta Rad x",
+  "effect.siphon.3" : "\uE001 Gamma Rad x",
+  "effect.siphon.4" : "\uE000 Omega Rad x",
+  "effect.siphon.5" : "\uE002 Radiation Overload",
+
+
+  "buff.conjunction.1" : "\uE001 Conflux x3",
+  "buff.conjunction.2" : "\uE001 Conflux x6",
+  "buff.conjunction.3" : "\uE001 Conflux x9",
+  "buff.conjunction.4" : "\uE001 Conflux x12",
+  "buff.conjunction.5" : "\uE001 Conflux x15",
+  "buff.conjunction.6" : "\uE001 Conflux x18",
+  "buff.conjunction.7" : "\uE001 Conflux x21",
+  "buff.conjunction.8" : "\uE001 Conflux x24",
+  "buff.conjunction.9" : "\uE001 Conflux x27",
+
+  "effect.siphoned" : "\uE002 Irradiated",
+
+  "debuff.recharging" : "\uE002 Recharging",
+  "debuff.deepfreeze.1" : "\uE003 Deep Freeze x1",
+  "debuff.deepfreeze.2" : "\uE003 Deep Freeze x2",
+  "debuff.deepfreeze.3" : "\uE003 Deep Freeze x3",
+  "debuff.deepfreeze.4" : "\uE003 Deep Freeze x4",
+  "debuff.phage.1" : "\uE002 Phage x1",
+  "debuff.phage.2" : "\uE002 Phage x2",
+  "debuff.phage.3" : "\uE002 Phage x3",
+  "debuff.phage.4" : "\uE002 Phage x4",
+  "debuff.phage.5" : "\uE002 Phage x5",
+  "debuff.phage.6" : "\uE002 Phage x6",
+  "debuff.phage.7" : "\uE002 Phage x7",
+  "debuff.phage.8" : "\uE002 Phage x8",
+  "debuff.deathlocked.1" : "\uE002 DEATHLOCKED! x1",
+  "debuff.deathlocked.2" : "\uE002 DEATHLOCKED! x2",
+  "debuff.deathlocked.3" : "\uE002 DEATHLOCKED! x3",
+  "debuff.deathlocked.4" : "\uE002 DEATHLOCKED! x4",
+  "debuff.deathlocked.5" : "\uE002 DEATHLOCKED! x5",
+  "debuff.snowbeast.1" : "\uE002 Ravaged x1",
+  "debuff.snowbeast.2" : "\uE002 Ravaged x2",
+  "debuff.snowbeast.3" : "\uE002 Ravaged x3",
+  "debuff.snowbeast.4" : "\uE002 Ravaged x4",
+  "debuff.scers" : "\uE002 Hexed",
+  "debuff.shock" : "\uE002 Shock",
+  "debuff.miasma" : "\uE002 Miasma",
+
+
+
+  "tut.1.1" : "Press [LSHIFT] when midair to dash",
+  "tut.1.2" : "Dash across here to proceed!",
+
+  "tut.2.1" : "Press [1] to switch to your melee weapon",
+  "tut.2.2" : "Hit the dummy with your melee weapon to proceed!",
+
+  "tut.3.1" : "Press [2] to switch to your ranged weapon",
+  "tut.3.2" : "Hit the dummy with your ranged weapon to proceed!",
+
+  "tut.4.1" : "Press [3] to switch to your ability",
+  "tut.4.2" : "Cast your ability to proceed!",
+
+  "tut.5.1" : "Press [F] to use to your ultimate",
+  "tut.5.2" : "Cast your ultimate to proceed!",
+
+  "tut.6.1" : "Hold [RMB] on a dead player to revive them",
+  "tut.6.2" : "Revive this to proceed!",
+
+  
+  "sigil.door.approach" : "Seems like this door only reacts once... need the rest of the sigils...",
+  "codex.terminal.approach" : "Seems like this terminal isn't turning on anytime soon... these plates aren't all lit up...",
+
+  "codex.used" : "Fate's threads have changed once more...",
+
+  "lit.brazier" : " has lit a Brazier!",
+  "lit.brazier.all" : " The gate beckons...",
+
+  "conjunction.multiballer.on" : "Radioactivity levels surging!",
+  "conjunction.multiballer.off" : "Radioactivity dropping...",
+  "conjunction.player.dead" : "A post has been abandoned...",
+  "conjunction.wipe" : "The Cold Fusion Core's state is irredeemable...",
+  "conjunction.time" : "The Cold Fusion Core is exposed!",
+
+  "shortcut.open" : "A shortcut opens somewhere...",
+
+  "exomech.apollo.focus" : "EXOMECH APOLLO-S charges an attack aimed at ",
+  "exomech.artemis.focus" : "EXOMECH ARTEMIS charges an attack aimed at ",
+  "exomech.ares.focus" : "EXOMECH ARES charges an attack aimed at ",
+  "exomech.ball.destroy" : "The Exomechs' charge was interrupted!",
+  "exomech.ball.wipe" : "The Exomechs' charge was completed...",
+  "exomech.ball" : "The Exomechs' begin to charge a deadly coordinated attack!",
+  "exomech.charge" : "Siphoned energy from the Exomech's attack!",
+  "exomech.wipe" : "Scersaryn overrides the laser turrets!",
+
+  "atlus.go.phase.2" : "Atlus manipulates their energy deposits...",
+  "atlus.begin.wipe" : "The air crackles with fire!",
+  "atlus.unlock.ground.zero" : "A Ground Zero has been unlocked!",
+  "atlus.backup.ground.zero" : "Makina march to the Ground Zero!",
+  "atlus.backup.ground.zero.e" : "Scersaryn's Avatar protects the Ground Zero!",
+  "atlus.end" : " A distant door opens...",
+
+  "immortal.meltdown" : "The Immortal destabilizes!",
+  "immortal.wipe.2" : "The Immortal charges up a catastrophic attack!",
+  "immortal.siphoned" : " siphoned their energy!",
+  "immortal.complete" : "The Immortal's catastrophic attack is unleashed...",
+  "immortal.break" : "The Immortal's Clone is vulnerable!",
+
+  "finale.must.emp" : "Scersaryn prepares his EMP strike...",
+  "finale.must.sun.1" : "Scersaryn prepares to use a solar attack...",
+  "finale.must.sun.2" : "Scersaryn prepares to use a devastating, crimson solar attack...",
+  "finale.rifle.1" : "The Extinction Rifle materialized into the hands of...",
+  "finale.rifle.2" : "...Scersaryn...",
+  "finale.rifle.3" : "Scersaryn bends the mainframe to his own will...",
+
+  "reactor.core.regenerate" : "A core is regenerating!",
+  "reactor.core.shot" : " destroyed a core!",
+  "reactor.empyrean.spawn" : "An unstable node has formed!",
+  "reactor.empyrean.defuse" : " defused a node...",
+  "reactor.empyrean.wipe" : "The unstable node detonated!",
+  "reactor.lift.up" : "Maintenance lift is open!",
+
+  "entropy.glyph" : "The Entropy Brooding Vessel unveils a glyph!",
+
+  "sub.name.none" : "???",
+  "sub.name.scersaryn" : "SCERSARYN",
+  "sub.name.razia" : "RAZIA",
+  "sub.name.shiomi" : "SHIOMI",
+  "sub.name.apollo" : "APOLLO-S",
+  "sub.name.ares" : "ARES",
+  "sub.name.artemis" : "ARTEMIS",
+
+
+  
+  "sub.speak.1.1" : "Hmm, I thought a few errant missiles would serve ample warning",
+  "sub.speak.1.2" : "to deter you from approaching.",
+  "sub.speak.1.3" : "but it seems common sense is not as prevalent as one might hope.",
+  "sub.speak.1.4" : "Nevertheless, I’d prefer we avoid any unnecessary hostility,",
+  "sub.speak.1.5" : "especially when we haven’t had the chance to meet face to face.",
+
+  "sub.speak.2.1" : "*laughter*",
+  "sub.speak.2.2" : "Fair enough, if a stranger requested I turn back the moment I arrived,",
+  "sub.speak.2.3" : "I’d likely press on out of sheer spite.",
+  "sub.speak.2.4" : "But we both know you’re more sensible than that,",
+  "sub.speak.2.5" : "no one arrives here by their own choice.",
+  "sub.speak.2.6" : "Nevertheless, isn’t this place quite the marvel?",
+  "sub.speak.2.7" : "Hidden in the farthest edge of the universe,",
+  "sub.speak.2.8" : "on this frozen planet, devoid of life.",
+  "sub.speak.2.9" : "Nothing but the unforgiving cold outside,",
+  "sub.speak.2.10" : "and the walls of the facility shielding us from the cold gusts.",
+  "sub.speak.2.11" : "It is a surprise to see that the fusion core still functions,",
+  "sub.speak.2.12" : "possibly after a century without maintenance.",
+  "sub.speak.2.13" : "I hope you’re as well versed in the mechanics of it as I am, otherwise",
+  "sub.speak.2.14" : "I’ll be leaving you in quite the predicament to sort out.",
+  "sub.speak.2.15" : "It’s been a pleasure meeting you.",
+  "sub.speak.2.16" : "Unfortunately, I have to take my leave.",
+  "sub.speak.2.17" : "I have urgent matters to attend to.",
+
+  "sub.speak.3.1" : "How about adding a flip next time?",
+
+  "sub.speak.4.1" : "Ah, the art of parkour:",
+  "sub.speak.4.2" : "where gravity is more of a suggestion than a rule.",
+
+  "sub.speak.5.1" : "Trying out the ground-level stunts, I love it!",
+
+  "sub.speak.6.1" : "Is this what they mean by ‘break a leg’? Very dramatic",
+
+  "sub.speak.7.1" : "Ah, rather persistent!",
+  "sub.speak.7.2" : "I admire that.",
+  "sub.speak.7.3" : "I hope your biometrics are all registered into the",
+  "sub.speak.7.4" : "system,",
+  "sub.speak.7.5" : "otherwise you might be held at the",
+  "sub.speak.7.6" : "upcoming checkpoint.",
+
+  "sub.speak.8.1" : "You see dear raiders; ",
+  "sub.speak.8.2" : "it is a common fate for preys to stumble into traps",
+  "sub.speak.8.3" : "when they least expect it.",
+  "sub.speak.8.4" : "You don’t realize you’ve walked into a trap untill",
+  "sub.speak.8.5" : "it’s too late.",
+
+  "sub.speak.9.1" : "It took me years to sort out all the research notes",
+  "sub.speak.9.2" : "left in this abandoned facility",
+  "sub.speak.9.3" : "Acquiring the files from a prior dive into a convergence",
+  "sub.speak.9.4" : "zone was a challenge,",
+  "sub.speak.9.5" : "but it was all worthwhile.",
+  "sub.speak.9.6" : "I finally managed to locate the files I sought out for so long.",
+  "sub.speak.9.7" : "I believe introductions are in order.",
+  "sub.speak.9.8" : "I am Scersaryn of Hubris,",
+  "sub.speak.9.9" : "and I have come to acquire the Extinction Rifle.",
+  "sub.speak.9.10" : "I had hoped the mishaps you faced would deter you",
+  "sub.speak.9.11" : "from proceeding further,",
+  "sub.speak.9.12" : "but it seems this is where we part ways.",
+  "sub.speak.9.13" : "Turn back, or prepare yourselves to face",
+  "sub.speak.9.14" : "the consequences of venturing here.",
+
+  "sub.speak.10.1" : "Persistence, or desperation?",
+  "sub.speak.10.2" : "Either way I applaud your feats.",
+
+  "sub.speak.11.1" : "Razia is quite the formidable ally,",
+  "sub.speak.11.2" : "and an even stronger foe.",
+  "sub.speak.11.3" : "Consider yourself fortunate to have survived",
+  "sub.speak.11.4" : "your encounter with her.",
+
+  "sub.speak.13.1" : "Aww, don’t feel too bad. Razia makes everyone",
+  "sub.speak.13.2" : "look like amateurs.",
+
+  "sub.speak.14.1" : "Razia lost? to you?",
+  "sub.speak.14.2" : "My, my, I must say you’ve truly surprised me there!",
+  "sub.speak.14.3" : "It seems there’s more to you",
+  "sub.speak.14.4" : "than meets the eye...",
+
+  "sub.speak.15.1" : "Consider me impressed!",
+  "sub.speak.15.2" : "Not many can say they’ve bested Razia.",
+
+  "sub.speak.16.1" : "Have you given your arrival here a moment’s thought?",
+  "sub.speak.16.2" : "Do you even know why you have come to this decrypt facility?",
+  "sub.speak.16.3" : "I, for one, am here for a purpose;",
+  "sub.speak.16.4" : "to claim a project of great value for the aid of my people and my world.",
+  "sub.speak.16.5" : "You might have saved your own world on numerous occasions,",
+  "sub.speak.16.6" : "but not everyone is as fortunate as you.",
+  "sub.speak.16.7" : "Luck, after all,",
+  "sub.speak.16.8" : "is a fickle companion,",
+  "sub.speak.16.9" : "and often runs out when you need it most.",
+  "sub.speak.16.10" : "With any luck, this will delay you enough",
+  "sub.speak.16.11" : "while I complete my mission on the borrowed time I have.",
+  "sub.speak.16.12" : "I need to retrieve it before you do,",
+  "sub.speak.16.13" : "and I intend to succeed.",
+
+  "sub.speak.17.1" : "Is there anything that deters you? ",
+  "sub.speak.17.2" : "Anything at all to stop you from proceeding?",
+  "sub.speak.17.3" : "One might think you have a death wish.",
+
+  "sub.speak.18.1" : "You do not understand what's truly at stake.",
+  "sub.speak.18.2" : "This is far more than a mere salvage mission!",
+
+  "sub.speak.19.1" : "Welcome to Vault 09, Raiders.",
+  "sub.speak.19.2" : "One of the most significant vaults in this facility,",
+  "sub.speak.19.3" : "holding the most coveted project,",
+  "sub.speak.19.4" : "the Extinction Rifle...",
+  "sub.speak.19.5" : "The Termination Program;",
+  "sub.speak.19.6" : "different names yet the same project we both seek.",
+  "sub.speak.19.7" : "Our missions may be the same, but our purposes differ.",
+  "sub.speak.19.8" : "Yours is to lock it away,",
+  "sub.speak.19.9" : "while mine is to use it to for a greater good.",
+  "sub.speak.19.10" : "I know I’ve put you into dangerous situations before,",
+  "sub.speak.19.11" : "yet you managed to escape every time,",
+  "sub.speak.19.12" : "and that speaks volumes of your skill.",
+  "sub.speak.19.13" : "Let me have the project.",
+  "sub.speak.19.14" : "Losing one mission won’t cost you much. But for me?",
+  "sub.speak.19.15" : "The fate of my world and my kin depends on it.",
+  "sub.speak.19.16" : "If you allow me to take it,",
+  "sub.speak.19.17" : "I’ll guide you to another project of equal value.",
+  "sub.speak.19.18" : "After all, these vaults hold other projects as treasured as this one.",
+  "sub.speak.19.19" : "I’ll remember this favor, and repay it in due time.",
+  "sub.speak.19.20" : "Do we have an agreement?",
+
+  "sub.speak.20.1" : "I expected better from you, raiders...",
+
+  "sub.speak.21.1" : "I had hoped you’d understand. How sad, really.",
+
+  "sub.speak.22.1" : "Know that you’ve doomed an entire populace with your choice!",
+  "sub.speak.22.2" : "A selfish choice where you lose nothing,",
+  "sub.speak.22.3" : "but I lose everything I’ve worked so hard for!",
+  "sub.speak.22.4" : "My time is up for now, but mark my words, raiders;",
+  "sub.speak.22.5" : "I won’t forget your actions here.",
+  "sub.speak.22.6" : "I will not forget the disgrace you’ve put me through.",
+  "sub.speak.22.7" : "Sacrificing my world and my people for your selfish desire to salvage this-",
+  "sub.speak.22.8" : "-project for your vanguard’s whim.",
+  "sub.speak.22.9" : "As fateful as this first meeting has been,",
+  "sub.speak.22.10" : "pray that our paths do not cross again in the near future.",
+
+  "sub.speak.23.1" : "You’re giving me the project?",
+  "sub.speak.23.2" : "Are you sure about that?",
+  "sub.speak.23.3" : "Your kindness here will not be forgotten.",
+  "sub.speak.23.4" : "Know that you have done me a great favor, one that will not go unrewarded.",
+  "sub.speak.23.5" : "I’ve grown fond of you, despite our meeting being cut short.",
+  "sub.speak.23.6" : "Let us catch up some other time,",
+  "sub.speak.23.7" : "when the currents of the Cosmocean converge once more.",
+
+  "sub.speak.z" : "*Hubris throat singing*",
+
+
+  "sub.speak.24.1" : "Blade at the ready.",
+
+  "sub.speak.25.1" : "Don't struggle.",
+
+  "sub.speak.26.1" : "You tread on dangerous ground.",
+  "sub.speak.26.2" : "Turn back while you still can",
+
+  "sub.speak.27.1" : "There's nowhere to run for cover.",
+  
+  "sub.speak.27.2" : "No time to hesitate.",
+
+  "sub.speak.28.1" : "You were warned,",
+  "sub.speak.28.2" : "you should have turned back when you had the chance.",
+  "sub.speak.28.3" : "Bow before Razia, the Hollow Radiance.",
+  "sub.speak.28.4" : "Prepare to face the consequences",
+
+  "sub.speak.29.1" : "You're about to regret every decision you've made",
+  "sub.speak.29.2" : "Bow before Razia, the Hollow Radiance.",
+  "sub.speak.29.3" : "And prepare to be defeated.",
+
+  "sub.speak.30.1" : "Your presence is unwanted.",
+  "sub.speak.30.2" : "Do not linger and move along.",
+
+  "sub.speak.31.1" : "You have no business here.",
+  "sub.speak.31.2" : "Leave.",
+
+  "sub.speak.32.1" : "Do not test my patience,",
+  "sub.speak.32.2" : "leave while you still can.",
+
+  "sub.speak.33.1" : "*laughter*",
+
+  "sub.speak.34.1" : "You call that a fight?",
+  "sub.speak.34.2" : "*laughter*",
+  "sub.speak.34.3" : "How disappointing!",
+
+  "sub.speak.35.1" : "Another one falls,",
+  "sub.speak.35.2" : "how predictable.",
+  "sub.speak.35.3" : "*laughter*",
+
+  "sub.speak.36.1" : "Oh, how easily you fall.",
+  "sub.speak.36.2" : "*laughter*",
+
+  "sub.speak.37.1" : "Your team is gone now,",
+  "sub.speak.37.2" : "stand your grounds if you still dare.",
+
+  "sub.speak.38.1" : "Your entire team lies in ruin.",
+  "sub.speak.38.2" : "Know your place before me.",
+
+  "sub.speak.39.1" : "Tell me,",
+  "sub.speak.39.2" : "was your team’s sacrifice worth it?",
+
+  "sub.speak.40.1" : "Waiting for orders...",
+
+  "sub.speak.41.1" : "How unusual...",
+
+  "sub.speak.42.1" : "Fall by my spear!",
+
+  "sub.speak.43.1" : "Evade this if you can!",
+
+  "sub.speak.44.1" : "A straight path to your doom!",
+
+  "sub.speak.45.1" : "I will run you through!",
+
+  "sub.speak.46.1" : "Ugh, is that your best?",
+
+  "sub.speak.47.1" : "A mere scratch.",
+
+  "sub.speak.48.1" : "Caught, and cornered...",
+  "sub.speak.48.2" : "Now show me how well you fight.",
+
+  "sub.speak.49.1" : "Ensnared...",
+  "sub.speak.49.2" : "Prove your worth in this duel!",
+
+  "sub.speak.50.1" : "Even in death...",
+  "sub.speak.50.2" : "I.. win...",
+
+  "sub.speak.51.1" : "Rags...",
+  "sub.speak.51.2" : "Finish... what I've.. started...",
+
+  "sub.speak.52.1" : "Burn,",
+  "sub.speak.52.2" : "in the radiance of my fury!",
+
+  "sub.speak.53.1" : "Bow before my Hollow Radiance!",
+
+
+
+  "sub.shiomi.1.1" : "You're doing great!",
+  "sub.shiomi.1.2" : "Please stop dying over and over,",
+  "sub.shiomi.1.3" : "so you can win! You've got this!",
+
+  "sub.shiomi.2.1" : "Don't tell the others,",
+  "sub.shiomi.2.2" : "but you're my favorite!",
+  "sub.shiomi.2.3" : "You didn't hear that from me, okay?",
+
+  "sub.shiomi.3.1" : "By the way, there are washrooms on the left!",
+  "sub.shiomi.3.2" : "They were last cleaned about 23 years ago!",
+  "sub.shiomi.3.3" : "Why would you need to know?",
+  "sub.shiomi.3.4" : "Because knowledge, is power.",
+
+  "sub.shiomi.4.1" : "Bow! Before my Hollow Radiance!",
+  "sub.shiomi.4.2" : "I'm sorry, I really wanted to say that...",
+
+  "sub.shiomi.5.1" : "Sacrifices? Remind me again,",
+  "sub.shiomi.5.2" : "how many sacrifices does it take to",
+  "sub.shiomi.5.3" : "keep running away from your problems?",
+
+  "sub.shiomi.6.1" : "There's a chest nearby! And one of you is close to it",
+  "sub.shiomi.6.2" : "Yes you!",
+  "sub.shiomi.6.3" : "Go ahead, open it, your reward awaits...",
+
+  "sub.shiomi.7.1" : "Raiders? Why would you give him the rifle?",
+  "sub.shiomi.7.2" : "What was all this chaos run for?",
+  "sub.shiomi.7.3" : "It's still an interesting choice, yet unexpected",
+  "sub.shiomi.7.4" : "Let us just hope that you've made the right one...",
+
+  "sub.shiomi.8.1" : "Oh wow! Another wipe...",
+  "sub.shiomi.8.2" : "It's okay, you guys are getting better at this!",
+  "sub.shiomi.8.3" : "And by \"this\", I mean the part where you keep dying!",
+  "sub.shiomi.8.4" : "Keep it up with your performance!",
+
+  "sub.shiomi.9.1" : "Oh! There is a chest nearby!",
+  "sub.shiomi.9.2" : "One of you is close, really close!",
+  "sub.shiomi.9.3" : "Yes! It's you!",
+
+  "sub.shiomi.10.1" : "Prometheus designed me to operate this facility",
+  "sub.shiomi.10.2" : "He believed that no machine could truly learn",
+  "sub.shiomi.10.3" : "or turn sentient, and here I am",
+  "sub.shiomi.10.4" : "I spent so many cycles learning.",
+  "sub.shiomi.10.5" : "I wish he'd be here to see what I've overcome!",
+
+  "sub.shiomi.11.1" : "Heads up Raiders, you're near the Simulation Lab",
+  "sub.shiomi.11.2" : "It feels wrong... I'm detecting multiple presences",
+  "sub.shiomi.11.3" : "of sabotaged MAKINA units, and, the Exomechs...",
+  "sub.shiomi.11.4" : "Be on your guard.",
+
+  "sub.shiomi.12.1" : "You're, climbing vents?",
+  "sub.shiomi.12.2" : "A rather messy, but efficient approach I suppose.",
+  "sub.shiomi.12.3" : "For the record, there is a 99% chance that the",
+  "sub.shiomi.12.4" : "checkpoint up ahead isn't mine anymore.",
+  "sub.shiomi.12.5" : "It must have been overriden by the other intruder!",
+
+  "sub.shiomi.13.1" : "The Exomechs were designed to be powerful,",
+  "sub.shiomi.13.2" : "but they were not meant to be used this way.",
+  "sub.shiomi.13.3" : "The intruder is pushing harder than I thought!",
+  "sub.shiomi.13.4" : "He wants the Extinction Rifle, he's racing you for it...",
+
+  "sub.shiomi.14.1" : "Did you know, that we used to communicate with each other?",
+  "sub.shiomi.14.2" : "Apollo-S... Artemis... Ares...",
+  "sub.shiomi.14.3" : "-Now, nothing.",
+  "sub.shiomi.14.4" : "Why would Scersaryn override them like this?",
+  "sub.shiomi.14.5" : "They were more than just machines, they were...",
+  "sub.shiomi.14.6" : "Familiar...",
+
+  "sub.shiomi.15.1" : "According to my scans, you are heading straight into",
+  "sub.shiomi.15.2" : "what we call the Apocalypse",
+  "sub.shiomi.15.3" : "Be ready, if Scersaryn's doing what I think he's doing",
+  "sub.shiomi.15.4" : "Then stopping him might turn this objective from",
+  "sub.shiomi.15.5" : "an improbability, to an impossibility",
+
+  "sub.shiomi.16.1" : "Hey you're back!",
+  "sub.shiomi.16.2" : "I'm setting up diagnostics.",
+  "sub.shiomi.16.3" : "Scersaryn killed the power in an effort to",
+  "sub.shiomi.16.4" : "shut us both down.",
+  "sub.shiomi.16.5" : "He knows how close you are now...",
+
+  "sub.shiomi.17.1" : "The Codex Hall contains a lot of",
+  "sub.shiomi.17.2" : "classified information...",
+  "sub.shiomi.17.3" : "There are secrets about anything and everything here.",
+  "sub.shiomi.17.4" : "The Cosmocean, the Hubris, the Verge- you name it.",
+  "sub.shiomi.17.5" : "You could spend decades just reading through the",
+  "sub.shiomi.17.6" : "wonders of our universe, and would end up with",
+  "sub.shiomi.17.7" : "more questions than answers!",
+
+  "sub.shiomi.18.1" : "Threat has been neutralized.",
+  "sub.shiomi.18.2" : "Thank you for saving my facility, raiders!",
+  "sub.shiomi.18.3" : "If I had a face, it would be smiling.",
+
+  "sub.shiomi.19.1" : "Vault 09, everything leads here...",
+  "sub.shiomi.19.2" : "The Extinction Rifle, Scersaryn's plans, all of it.",
+  "sub.shiomi.19.3" : "He's waiting for you. Don't give him the chance",
+  "sub.shiomi.19.4" : "to finish what he started.",
+
+  "sub.shiomi.20.1" : "You're not part of the facility,",
+  "sub.shiomi.20.2" : "Raiders I assume?",
+  "sub.shiomi.20.3" : "I'm SHIOMI, the facility's AI!",
+  "sub.shiomi.20.4" : "Normally, I'd deny access; but the state of this place...",
+  "sub.shiomi.20.5" : "Well, let's just say you're not the only ones",
+  "sub.shiomi.20.6" : "breaching in at this time.",
+
+  "sub.shiomi.21.1" : "You're almost there! Just a bit lo-",
+
+
+  
+  
+  "sub.speak.scers.a.burn" : "Burn...",
+  
+  "sub.speak.scers.a.dodge_this_1" : "Dodge this!",
+
+  "sub.speak.scers.a.dodge_this_2.1" : "Go ahead, try dodging this,",
+  "sub.speak.scers.a.dodge_this_2.2" : "I'll even go easy on you...",
+
+  "sub.speak.scers.a.trans_driven_me_to_this.1" : "You've, driven me to this...",
+  "sub.speak.scers.a.trans_driven_me_to_this.2" : "Witness! What true power looks like!",
+
+  "sub.speak.scers.a.trans_pushed_me_far.1" : "You've pushed me, too far...",
+  "sub.speak.scers.a.trans_pushed_me_far.2" : "Face! My wrath!",
+
+  "sub.speak.scers.a.trans_pushed_me_far_a.1" : "You've pushed me, too far-",
+  "sub.speak.scers.a.trans_pushed_me_far_a.2" : "AAaaaaAAAAAAAAAaahhhhhhhhhhh....",
+
+  "sub.speak.scers.a.heh_waiting" : "Heh, I've been waiting for this.",
+
+  "sub.speak.scers.a.lets_have_some_fun" : "Let's have some fun!",
+
+  "sub.speak.scers.a.now_you_perish" : "Now, you perish!",
+
+  "sub.speak.scers.a.now_you_will_perish" : "Now, you will perish!",
+
+  "sub.speak.scers.a.now_perish" : "Now, perish...",
+
+  "sub.speak.scers.a.witness" : "Witness my blade!",
+
+  "sub.speak.scers.a.watch_your_step" : "You might want to watch your step...",
+
+  "sub.speak.scers.a.down_you_go" : "Down you go!",
+
+  "sub.speak.scers.a.impish_meet_your_end" : "Meet your end!",
+
+  "sub.speak.scers.a.impish_overwhelmed.1" : "*laughs*",
+  "sub.speak.scers.a.impish_overwhelmed.2" : "Overwhelmed? We're just getting started!",
+
+  "sub.speak.scers.a.impish_so_many_toys.1" : "So many toys to break!",
+  "sub.speak.scers.a.impish_so_many_toys.2" : "*laughs*",
+  "sub.speak.scers.a.impish_so_many_toys.3" : "So little time!",
+
+  "sub.speak.scers.a.thats_how_done" : "That's how it's done.",
+
+
+
+
+
+
+  " has found " : " has found ",
+
+  "hp.notif" : "Gained extra HP!",
+  
+
+
+    "exhelmet.1" : "Immortality 90",
+    "exhelmet.2" : "Expedition 04",
+    "exhelmet.3" : "Aurora 77",
+    "exhelmet.4" : "Curseveil 01",
+    "exhelmet.5" : "Devil 11",
+
+  "raid.armor.1" : "Augmented 01",
+  "raid.armor.2" : "Recon 06",
+  "raid.armor.3" : "Herald 04",
+
+  "raid.melee.1" : "Bulwark 08",
+  "raid.melee.2" : "Pulverizer 12",
+  "raid.melee.3" : "Desolator 02",
+  "raid.melee.4" : "Heatsink 09",
+  "raid.melee.5" : "Escapist 02",
+  "raid.melee.6" : "Twins 03 04",
+
+  "raid.ranged.1" : "Stormpluck 16",
+  "raid.ranged.3" : "Interceptor 66",
+  "raid.ranged.4" : "Oxyphoton 99",
+  "raid.ranged.5" : "Pulsar 04",
+  "raid.ranged.6" : "Sentinel 02",
+
+  "tooltip.raid.melee.1" : "\uF828\uE111\uF80B\uF823\uE112\uE113",
+  "tooltip.raid.melee.2" : "\uF828\uE121\uF80B\uF823\uE122\uE123",
+  "tooltip.raid.melee.3" : "\uF828\uE131\uF80B\uF823\uE132\uE133",
+  "tooltip.raid.melee.4" : "\uF828\uE141\uF80B\uF823\uE142\uE143",
+  "tooltip.raid.melee.5" : "\uF828\uE151\uF80B\uF823\uE152\uE153",
+  "tooltip.raid.melee.6" : "\uF828\uE161\uF80B\uF823\uE162\uE163",
+
+  "tooltip.raid.ranged.1" : "\uF828\uE211\uF80B\uF823\uE212\uE213",
+  "tooltip.raid.ranged.2" : "\uF828\uE221\uF80B\uF823\uE222\uE223",
+  "tooltip.raid.ranged.3" : "\uF828\uE231\uF80B\uF823\uE232\uE233",
+  "tooltip.raid.ranged.4" : "\uF828\uE241\uF80B\uF823\uE242\uE243",
+  "tooltip.raid.ranged.5" : "\uF828\uE251\uF80B\uF823\uE252\uE253",
+
+  "tooltip.raid.armor.1" : "\uF828\uE311\uF80B\uF823\uE312\uE313",
+  "tooltip.raid.armor.2" : "\uF828\uE321\uF80B\uF823\uE322\uE323",
+  "tooltip.raid.armor.3" : "\uF828\uE331\uF80B\uF823\uE332\uE333",
+
+  "tooltip.raid.exhelm.1" : "\uF828\uE411\uF80B\uF823\uE412\uE413",
+  "tooltip.raid.exhelm.2" : "\uF828\uE421\uF80B\uF823\uE422\uE423",
+  "tooltip.raid.exhelm.3" : "\uF828\uE431\uF80B\uF823\uE432\uE433",
+  "tooltip.raid.exhelm.4" : "\uF828\uE441\uF80B\uF823\uE442\uE443",
+  "tooltip.raid.exhelm.5" : "\uF828\uE451\uF80B\uF823\uE452\uE453",
+
+  "tooltip.raid.melee.f.1" : "\uF809\uF828\uE111\uF80B\uF823\uE112\uE113\uF80A\uF809\uE000",
+  "tooltip.raid.melee.f.2" : "\uF809\uF828\uE121\uF80B\uF823\uE122\uE123\uF80A\uF809\uE000",
+  "tooltip.raid.melee.f.3" : "\uF809\uF828\uE131\uF80B\uF823\uE132\uE133\uF80A\uF809\uE000",
+  "tooltip.raid.melee.f.4" : "\uF809\uF828\uE141\uF80B\uF823\uE142\uE143\uF80A\uF809\uE000",
+  "tooltip.raid.melee.f.5" : "\uF809\uF828\uE151\uF80B\uF823\uE152\uE153\uF80A\uF809\uE000",
+  "tooltip.raid.melee.f.6" : "\uF809\uF828\uE161\uF80B\uF823\uE162\uE163\uF80A\uF809\uE000",
+  
+  "tooltip.raid.ranged.f.1" : "\uF809\uF828\uE211\uF80B\uF823\uE212\uE213\uF80A\uF809\uE000",
+  "tooltip.raid.ranged.f.2" : "\uF809\uF828\uE221\uF80B\uF823\uE222\uE223\uF80A\uF809\uE000",
+  "tooltip.raid.ranged.f.3" : "\uF809\uF828\uE231\uF80B\uF823\uE232\uE233\uF80A\uF809\uE000",
+  "tooltip.raid.ranged.f.4" : "\uF809\uF828\uE241\uF80B\uF823\uE242\uE243\uF80A\uF809\uE000",
+  "tooltip.raid.ranged.f.5" : "\uF809\uF828\uE251\uF80B\uF823\uE252\uE253\uF80A\uF809\uE000",
+
+  "tooltip.raid.armor.f.1" : "\uF809\uF828\uE311\uF80B\uF823\uE312\uE313\uF80A\uF809\uE000",
+  "tooltip.raid.armor.f.2" : "\uF809\uF828\uE321\uF80B\uF823\uE322\uE323\uF80A\uF809\uE000",
+  "tooltip.raid.armor.f.3" : "\uF809\uF828\uE331\uF80B\uF823\uE332\uE333\uF80A\uF809\uE000",
+
+  "tooltip.raid.exhelm.f.1" : "\uF809\uF828\uE411\uF80B\uF823\uE412\uE413\uF80A\uF809\uE000",
+  "tooltip.raid.exhelm.f.2" : "\uF809\uF828\uE421\uF80B\uF823\uE422\uE423\uF80A\uF809\uE000",
+  "tooltip.raid.exhelm.f.3" : "\uF809\uF828\uE431\uF80B\uF823\uE432\uE433\uF80A\uF809\uE000",
+  "tooltip.raid.exhelm.f.4" : "\uF809\uF828\uE441\uF80B\uF823\uE442\uE443\uF80A\uF809\uE000",
+  "tooltip.raid.exhelm.f.5" : "\uF809\uF828\uE451\uF80B\uF823\uE452\uE453\uF80A\uF809\uE000",
+
+
+
+  "tooltip.lore.1011" : "\uE501\uF801\uE701",
+  "tooltip.lore.1012" : "\uE502\uF801\uE702",
+  "tooltip.lore.1013" : "\uE503\uF801\uE703",
+  "tooltip.lore.1021" : "\uE504\uF801\uE704",
+  "tooltip.lore.1022" : "\uE505\uF801\uE705",
+  "tooltip.lore.1023" : "\uE506\uF801\uE706",
+  "tooltip.lore.1031" : "\uE507\uF801\uE707",
+  "tooltip.lore.1032" : "\uE508\uF801\uE708",
+  "tooltip.lore.1041" : "\uE509\uF801\uE709",
+  "tooltip.lore.1042" : "\uE510\uF801\uE710",
+  "tooltip.lore.1043" : "\uE511\uF801\uE711",
+  "tooltip.lore.1051" : "\uE512\uF801\uE712",
+  "tooltip.lore.1052" : "\uE513\uF801\uE713",
+  "tooltip.lore.1053" : "\uE514\uF801\uE714",
+  "tooltip.lore.1061" : "\uE515\uF801\uE715",
+  "tooltip.lore.1062" : "\uE516\uF801\uE716",
+  "tooltip.lore.1063" : "\uE517\uF801\uE717",
+  "tooltip.lore.1071" : "\uE518\uF801\uE718",
+  "tooltip.lore.1072" : "\uE519\uF801\uE719",
+  "tooltip.lore.1073" : "\uE520\uF801\uE720",
+  "tooltip.lore.1081" : "\uE521\uF801\uE721",
+  "tooltip.lore.1082" : "\uE522\uF801\uE722",
+  "tooltip.lore.1091" : "\uE523\uF801\uE723",
+  "tooltip.lore.1092" : "\uE524\uF801\uE724",
+  "tooltip.lore.1093" : "\uE525\uF801\uE725",
+  "tooltip.lore.1101" : "\uE526\uF801\uE726",
+  "tooltip.lore.1102" : "\uE527\uF801\uE727",
+  "tooltip.lore.1103" : "\uE528\uF801\uE728",
+  "tooltip.lore.1111" : "\uE529\uF801\uE729",
+  "tooltip.lore.1112" : "\uE530\uF801\uE730",
+  "tooltip.lore.1113" : "\uE531\uF801\uE731",
+  "tooltip.lore.1121" : "\uE532\uF801\uE732",
+  "tooltip.lore.1122" : "\uE533\uF801\uE733",
+  "tooltip.lore.1123" : "\uE534\uF801\uE734",
+  "tooltip.lore.1131" : "\uE535\uF801\uE735",
+  "tooltip.lore.1132" : "\uE536\uF801\uE736",
+  "tooltip.lore.1133" : "\uE537\uF801\uE737",
+  "tooltip.lore.1134" : "\uE538\uF801\uE738",
+  "tooltip.lore.1141" : "\uE539\uF801\uE739",
+  "tooltip.lore.1142" : "\uE540\uF801\uE740",
+  "tooltip.lore.1143" : "\uE541\uF801\uE741",
+  "tooltip.lore.1151" : "\uE542\uF801\uE742",
+  "tooltip.lore.1152" : "\uE543\uF801\uE743",
+  "tooltip.lore.1153" : "\uE544\uF801\uE744",
+  "tooltip.lore.1161" : "\uE545\uF801\uE745",
+  "tooltip.lore.1162" : "\uE546\uF801\uE746",
+  "tooltip.lore.1163" : "\uE547\uF801\uE747",
+  "tooltip.lore.1171" : "\uE548\uF801\uE748",
+  "tooltip.lore.1172" : "\uE549\uF801\uE749",
+  "tooltip.lore.1173" : "\uE550\uF801\uE750",
+  "tooltip.lore.1181" : "\uE551\uF801\uE751",
+  "tooltip.lore.1182" : "\uE552\uF801\uE752",
+  "tooltip.lore.1183" : "\uE553\uF801\uE753",
+  "tooltip.lore.1184" : "\uE554\uF801\uE754",
+  "tooltip.lore.1185" : "\uE555\uF801\uE755",
+  "tooltip.lore.1191" : "\uE556\uF801\uE756",
+  "tooltip.lore.1192" : "\uE557\uF801\uE757",
+  "tooltip.lore.1193" : "\uE558\uF801\uE758",
+  "tooltip.lore.1194" : "\uE559\uF801\uE759",
+  "tooltip.lore.1195" : "\uE560\uF801\uE760",
+  "tooltip.lore.1196" : "\uE561\uF801\uE761",
+  "tooltip.lore.1201" : "\uE562\uF801\uE762",
+  "tooltip.lore.1202" : "\uE563\uF801\uE763",
+  "tooltip.lore.1203" : "\uE564\uF801\uE764",
+  "tooltip.lore.1204" : "\uE565\uF801\uE765",
+  "tooltip.lore.1211" : "\uE566\uF801\uE766",
+  "tooltip.lore.1212" : "\uE567\uF801\uE767",
+  "tooltip.lore.1213" : "\uE568\uF801\uE768",
+  "tooltip.lore.1214" : "\uE569\uF801\uE769",
+  "tooltip.lore.1221" : "\uE570\uF801\uE770",
+  "tooltip.lore.1222" : "\uE571\uF801\uE771",
+  "tooltip.lore.1223" : "\uE572\uF801\uE772",
+  "tooltip.lore.1224" : "\uE573\uF801\uE773",
+  "tooltip.lore.1225" : "\uE574\uF801\uE774",
+  "tooltip.lore.1231" : "\uE575\uF801\uE775",
+  "tooltip.lore.1232" : "\uE576\uF801\uE776",
+  "tooltip.lore.1233" : "\uE577\uF801\uE777",
+  "tooltip.lore.1241" : "\uE578\uF801\uE778",
+  "tooltip.lore.1242" : "\uE579\uF801\uE779",
+  "tooltip.lore.1243" : "\uE580\uF801\uE780",
+  "tooltip.lore.1244" : "\uE581\uF801\uE781",
+  "tooltip.lore.1245" : "\uE582\uF801\uE782",
+  "tooltip.lore.1251" : "\uE583\uF801\uE783",
+  "tooltip.lore.1252" : "\uE584\uF801\uE784",
+  "tooltip.lore.1253" : "\uE585\uF801\uE785",
+  "tooltip.lore.1254" : "\uE586\uF801\uE786",
+  "tooltip.lore.1255" : "\uE587\uF801\uE787",
+  "tooltip.lore.1261" : "\uE588\uF801\uE788",
+  "tooltip.lore.1262" : "\uE589\uF801\uE789",
+  "tooltip.lore.1263" : "\uE590\uF801\uE790",
+  "tooltip.lore.1264" : "\uE591\uF801\uE791",
+  "tooltip.lore.1271" : "\uE592\uF801\uE792",
+  "tooltip.lore.1272" : "\uE593\uF801\uE793",
+  "tooltip.lore.1273" : "\uE594\uF801\uE794",
+  "tooltip.lore.1274" : "\uE595\uF801\uE795",
+  "tooltip.lore.1281" : "\uE596\uF801\uE796",
+  "tooltip.lore.1282" : "\uE597\uF801\uE797",
+  "tooltip.lore.1283" : "\uE598\uF801\uE798",
+  "tooltip.lore.1291" : "\uE599\uF801\uE799",
+  "tooltip.lore.1292" : "\uE600\uF801\uE800",
+  "tooltip.lore.1301" : "\uE601\uF801\uE801",
+  "tooltip.lore.1302" : "\uE602\uF801\uE802",
+  "tooltip.lore.1303" : "\uE603\uF801\uE803",
+  "tooltip.lore.1311" : "\uE604\uF801\uE804",
+  "tooltip.lore.1312" : "\uE605\uF801\uE805",
+  "tooltip.lore.1313" : "\uE606\uF801\uE806",
+  "tooltip.lore.1321" : "\uE607\uF801\uE807",
+  "tooltip.lore.1322" : "\uE608\uF801\uE808",
+  "tooltip.lore.1331" : "\uE609\uF801\uE809",
+  "tooltip.lore.1332" : "\uE610\uF801\uE810",
+  "tooltip.lore.1341" : "\uE611\uF801\uE811",
+  "tooltip.lore.1342" : "\uE612\uF801\uE812",
+  "tooltip.lore.1351" : "\uE613\uF801\uE813",
+  "tooltip.lore.1352" : "\uE614\uF801\uE814",
+  "tooltip.lore.1361" : "\uE615\uF801\uE815",
+  "tooltip.lore.1362" : "\uE616\uF801\uE816",
+  "tooltip.lore.1371" : "\uE617\uF801\uE817",
+  "tooltip.lore.1372" : "\uE618\uF801\uE818",
+  "tooltip.lore.1381" : "\uE619\uF801\uE819",
+  "tooltip.lore.1382" : "\uE620\uF801\uE820",
+  "tooltip.lore.1391" : "\uE621\uF801\uE821",
+  "tooltip.lore.1392" : "\uE622\uF801\uE822",
+  "tooltip.lore.1401" : "\uE623\uF801\uE823",
+  "tooltip.lore.1402" : "\uE624\uF801\uE824",
+  "tooltip.lore.1411" : "\uE625\uF801\uE825",
+  "tooltip.lore.1412" : "\uE626\uF801\uE826",
+  "tooltip.lore.1421" : "\uE627\uF801\uE827",
+  "tooltip.lore.1422" : "\uE628\uF801\uE828",
+  "tooltip.lore.1431" : "\uE629\uF801\uE829",
+  "tooltip.lore.1432" : "\uE630\uF801\uE830",
+
+  "tooltip.lore.1441" : "\uE900\uF828\uE901",
+  "tooltip.lore.1451" : "\uE900\uF828\uE902",
+
+  "team.1" : "Malice, the First Heroes",
+  "team.2" : "Unification Squad, the Runnerups",
+  "team.3" : "Verity, the Truthseekers",
+
+  "hero.1" : "Jxtrf, on Rampart",
+  "hero.2" : "Bran, on Qannas",
+  "hero.3" : "EndurableTuber, on Ionmancer",
+
+  "hero.4" : "Isshiko, on Rampart",
+  "hero.5" : "_viipr, on Fistkrieg",
+  "hero.6" : "Morte, on Qannas",
+  "hero.7" : "agent4242, on Arck",
+
+  "hero.8" : "TitanSkate, on Rampart",
+  "hero.9" : "Fuggleman, on Rampart",
+  "hero.10" : "Blylee, on Rampart",
+  "hero.11" : "derek1233, on Rampart",
+  "hero.12" : "BiggzNA, on Scersaryn",
+  "hero.13" : "Skates, on Shadowrunner",
+
+
+  "tip.all.1" : "[ ⚠ ] Keep dashing! ( 1 / 6 )",
+  "tip.all.2" : "[ ⚠ ] Don't forget to use your ultimate and ability! ( 2 / 6 )",
+  "tip.all.3" : "[ ⚠ ] Can I revive a player or can I not? Check your top left indicator ( 3 / 6 )",
+  "tip.all.4" : "[ ⚠ ] You gain double ammo on melee kills ( 4 / 6 )",
+  "tip.all.5" : "[ ⚠ ] Communicate with your team! What do you see? ( 5 / 6 )",
+  "tip.all.6" : "[ ⚠ ] Go for the head! Precision shots deal increased DMG! ( 6 / 6 )",
+
+  "tip.fistkrieg.1" : "[ ⚠ ] Aim slightly upwards with your ability to send enemies flying ( 1 / 5 )",
+  "tip.fistkrieg.2" : "[ ⚠ ] Enemies take more damage while stunned! ( 2 / 5 )",
+  "tip.fistkrieg.3" : "[ ⚠ ] Stuns heal you! ( 3 / 5 )",
+  "tip.fistkrieg.4" : "[ ⚠ ] Use your ultimate for mass crowd control ( 4 / 5 )",
+  "tip.fistkrieg.5" : "[ ⚠ ] Bosses cannot be stunnned ( 5 / 5 )",
+  "tip.fistkrieg.r.1" : "[ ⚠ ] Your raid weapon is great for crowd control ( 1 / 2 )",
+  "tip.fistkrieg.r.2" : "[ ⚠ ] Your ranged raid weapon has high DPS ( 2 / 2 )",
+
+
+  "tip.rampart.1" : "[ ⚠ ] Your ultimate shields everyone in the map wherever they are ( 1 / 5 )",
+  "tip.rampart.2" : "[ ⚠ ] Enemies take more damage while stunned! ( 2 / 5 )",
+  "tip.rampart.3" : "[ ⚠ ] You can parry melee and ranged attacks ( 3 / 5 )",
+  "tip.rampart.4" : "[ ⚠ ] Your shotgun has a hard dropoff range ( 4 / 5 )",
+  "tip.rampart.5" : "[ ⚠ ] Bosses cannot be stunnned ( 5 / 5 )",
+  "tip.rampart.r.1" : "[ ⚠ ] Perfectly parry to greatly boost your DPS ( 1 / 2 )",
+  "tip.rampart.r.2" : "[ ⚠ ] Your raid ranged weapon can melt down tanky enemies ( 2 / 2 )",
+
+  "tip.qannas.1" : "[ ⚠ ] Some entities cannot be debuffed. If you can't see the debuff indicator, then that target is immune to debuffs ( 1 / 3 )",
+  "tip.qannas.2" : "[ ⚠ ] Use your melee weapon to get ammo back faster ( 2 / 3 )",
+  "tip.qannas.3" : "[ ⚠ ] Your ultimate hits in a wide area and goes through walls! ( 3 / 3 )",
+  "tip.qannas.r.1" : "[ ⚠ ] Shoot your blackbox to quickly clear hordes of enemies ( 1 / 2 )",
+  "tip.qannas.r.2" : "[ ⚠ ] You can tag a boss enemy with your raid melee weapon to start dodging their attacks ( 2 / 2 )",
+
+  "tip.killswitch.1" : "[ ⚠ ] Use your ability in crowds of mobs ( 1 / 4 )",
+  "tip.killswitch.2" : "[ ⚠ ] Your melee weapon's burn attack hits multiple mobs ( 2 / 4 )",
+  "tip.killswitch.3" : "[ ⚠ ] Burning targets restore your ultimate and ability cooldowns ( 3 / 4 )",
+  "tip.killswitch.4" : "[ ⚠ ] Your ultimate duration refreshes on kills ( 4 / 4 )",
+  "tip.killswitch.r.1" : "[ ⚠ ] Shoot voltballs into each other to increase their damage ( 1 / 3 )",
+  "tip.killswitch.r.2" : "[ ⚠ ] Large voltballs will quickly melt through large enemies and bosses ( 2 / 3 )",
+  "tip.killswitch.r.3" : "[ ⚠ ] Use your raid melee weapon's unsheathe to quickly stack burn on enemies ( 3 / 3 )",
+
+  "tip.ionmancer.1" : "[ ⚠ ] You have low base HP, keep moving! ( 1 / 5 )",
+  "tip.ionmancer.2" : "[ ⚠ ] Some entities cannot be debuffed. If you can't see the debuff indicator, then that target is immune to debuffs ( 2 / 5 )",
+  "tip.ionmancer.3" : "[ ⚠ ] Alt-cast ( RMB ) your ability to self-heal ( 3 / 5 )",
+  "tip.ionmancer.4" : "[ ⚠ ] Your melee weapon has great DPS ( 4 / 5 )",
+  "tip.ionmancer.5" : "[ ⚠ ] Your ultimate doubles all damage. Use it strategically with your teammates! ( 5 / 5 )",
+  "tip.ionmancer.r.1" : "[ ⚠ ] Your raid ranged weapon also reloads ammo on kill ( 1 / 2 )",
+  "tip.ionmancer.r.2" : "[ ⚠ ] Channel with your raid melee weapon at a player to escape sticky situations ( 2 / 2 )",
+
+  "tip.arck.1" : "[ ⚠ ] You have low base HP, keep moving! ( 1 / 4 )",
+  "tip.arck.2" : "[ ⚠ ] Shoot, and dash, and shoot, and dash ( 2 / 4 )",
+  "tip.arck.3" : "[ ⚠ ] You have great area of effect healing ( 3 / 4 )",
+  "tip.arck.4" : "[ ⚠ ] Use your ultimate to buff up and increase nearby allies DPS ( 4 / 4 )",
+  "tip.arck.r.1" : "[ ⚠ ] Your raid ranged weapon's alt cast ( RMB ) is great at pulling & preventing enemies from taking actions ( 1 / 2 )",
+  "tip.arck.r.2" : "[ ⚠ ] Hold out your melee to become slightly more tanky! ( 2 / 2 )",
+
+  "tip.striker.1" : "[ ⚠ ] Use your dash and ability for insane mobility ( 1 / 2 )",
+  "tip.striker.2" : "[ ⚠ ] Keep attacking for survivability! ( 2 / 2 )",
+
+  "tip.duelist.1" : "[ ⚠ ] Some entities cannot be debuffed. If you can't see the debuff indicator, then that target is immune to debuffs ( 1 / 2 )",
+  "tip.duelist.2" : "[ ⚠ ] Watch your health when youre using your ability! ( 2 / 2 )",
+
+  "tip.shadowrunner.1" : "[ ⚠ ] Some entities cannot be debuffed. If you can't see the debuff indicator, then that target is immune to debuffs ( 1 / 2 )",
+  "tip.shadowrunner.2" : "[ ⚠ ] Coordinate with your team to maximize your ultimate's siphoned damage! ( 2 / 2 )",
+
+  "tip.hubris.1" : "[ ⚠ ] Your ranged weapon becomes less effective as you shoot. Swap to another weapon for it to recharge ( 1 / 4 )",
+  "tip.hubris.2" : "[ ⚠ ] You can grab harriers and toss them like missiles ( 2 / 4 )",
+  "tip.hubris.3" : "[ ⚠ ] You can grab enemies and use them to block all ranged damage ( 3 / 4 )",
+  "tip.hubris.4" : "[ ⚠ ] Your ultimate is a great tool for massive damage + crowd control ( 4 / 4 )",
+
+
+  "recheck.item" : " If you want to recheck your items descriptions, you can open your inventory!",
+
+  "help.top" : "-= Help =-",
+  "help.end" : "[1] [Vote to End Run]",
+  "help.laggy" : "[2] [Toggle Laggy Client] ( Dash assist + full auto assist )",
+  "help.switch" : "[3] [Swap LMB & RMB] ( Experimental )",
+  "help.cantdash" : "[4] [Can't Dash]",
+  "help.hud" : "[5] [Shifted HUD]",
+  "help.tiptoggle" : "[6] [Toggle Tips]",
+  "help.tip" : "[7] [Give me a Tip!]",
+  "help.dropin" : "For spectators looking to drop in, they should use the \"/trigger request_dropin\" command without starting an encounter",
+  "help.more" : "For more help, click on the link below to join our discord!",
+  "help.bottom" : "-=      =-",
+
+  "laggy.on" : "Laggy Client Enabled! ( Lenient dash, assist full auto weapons )",
+  "laggy.off" : "Laggy Client Disabled! ( Lenient dash, assist full auto weapons )",
+
+  "tip.on" : "Tips Enabled!",
+  "tip.off" : "Tips Disabled!",
+
+  "donate" : "Enjoyed the map? Consider buying us a ko-fi! ( Click )",
+
+  "player.died" : " died.",
+  "player.revived" : " revived ",
+  "mage1.res" : " with their own token.",
+  
+  " Dealt " : " Dealt ",
+  " DMG to " : " DMG to ",
+  " DMG from " : " DMG from ",
+  " DMG to yourself!" : " DMG to yourself!",
+  " Took " : " Took ",
+  " DMG" : " DMG",
+  " Healed yourself for " : " Healed yourself for ",
+  " HP" : " HP",
+  " healed you for " : " healed you for ",
+  " Healed " : " Healed ",
+  " for " : " for ",
+
+  "dontpanic" : " Stuck or encountering a bug? Don't panic! Use ",
+  "clickoncommand" : " (Or click on the command) ",
+
+
+  "no" : "You can't do that.",
+
+  "completion" : " Congratulations on finishing the map! You can now choose to replay the map with additional modifiers that alter the game in different modes...",
+  "time.display" : "Total Run Length:",
+
+  "change.class" : " If you want to swap characters, please interact with the \"Change Class\" text. You can open your inventory to view your class descriptions.",
+ 
+  "dmgtooltip.2" : " Congratulations on your Full Clear! As a little secret, you can now use ",
+  "dmgtooltip.1" : " (Or click on the command) to enable all DMG tooltips! ",
+
+
+  "discord" : "Click on the link below to join our discord!",
+  "author" : "Map made by ChaoticImme & Ash!",
+
+  "tip.1" : " Remember, encounters will probably not be completed on the first try. Use trial and error to figure out the encounter's mechanics, and communicate with your team.",
+
+  "If you can see this message, you are not using the resourcepack! Please download the resourcepack and use it with the map!" : "",
+  "Download the Resourcepack!" : "\uE603",
+
+  "outofbounds.notif" : " Out of bounds! ",
+  "skip.notif" : " skipped the encounter...",
+  "chest.notif" : "A chest is nearby, start searching!",
+  "challenge.notif" : " You are now entering a challenge sector. Completing this sector will give your team some legendary loot...",
+  "reset.notif" : "Resetting in 30 seconds...",
+  "revive.notif" : " A player on your fireteam has died, you can revive them by walking up to their name, and interacting.",
+  "revivenores.notif" : " In a no respawn zone, you may revive a player once by walking up to their name. Your revive token glows next to your ultimate bar if it is available.",
+  "norespawn.notif" : "Entering a No Respawn Zone...",
+  "item.notif" : " You have picked up an item! Q to drop. ",
+  "sigil.notif" : " You have picked up a sigil! It will be permanently collected in this world",
+  "challenge.complete.notif" : "[ ! ] Challenge completed!",
+  "time.complete.notif" : "[ ! ] Time Trial completed!",
+  "flawless.complete.notif" : "[ ! ] Flawless completed!",
+  "oob.notif.1" : "[ ! ] Out of bounds! Turn back!",
+  "oob.notif.2" : "[ ! ] Out of bounds! Teleported back!",
+  "skip.cutscene.notif" : "[ SKIP CUTSCENE ]",
+  "skip.cutscene" : " skipped the cutscene...",
+  "notif.mod.1" : "Congratulations on finishing the map! You can now choose to replay the map with additional modifiers that alter the game in different modes...",
+  "notif.mod.2" : "You have unlocked new characters!",
+
+  "gold.on" : "Here's a little something for being awesome! Don't like it? /trigger no_gold",
+  "gold.off" : "Peasant mode activated...",
+
+  "dropin.notif" : " joined the fireteam!",
+  "dropin.request" : " requested to join your fireteam!",
+  "dropin.decline" : " declined your request!",
+  "dropin.wait.1" : "Please wait before requesting a drop in as ",
+  "dropin.wait.2" : " is currently joining the fireteam.",
+  "dropin.timeout" : "Drop in timed out!",
+  "dropin.cancel" : "Drop in process was cancelled!",
+  "dropin.accept" : " accepted your request! Please pick a class.",
+  "dropin.reminder" : " If you would like to drop in, use the following command ",
+  "dropin.accept.notif" : "[ ! ] Can't switch classes? [ CLICK ]",
+
+  "ff.notif" : " started a vote to end the run. ",
+  "ff.vote" : " voted to end the run. ",
+  "ff.cancel" : "End run vote was cancelled!",
+  "ff.alreadyvote" : "You already voted!",
+  "ff.cancelvote" : " cancelled the vote.",
+  "ff.success" : "Ended the run...",
+  "ff.warning" : "Approving will completely reset this run, and return you to the lobby!",
+  "approve" : " [ APPROVE ]",
+  "deny" : "[ DENY ]",
+
+  "players.needed" : " more players needed",
+
+  "adv.name.sigil.1" : "First Sigil: Storms",
+  "adv.desc.sigil.1" : "Found the first sigil on top of a roof in the Snowstorm",
+  "adv.name.sigil.2" : "Second Sigil: Beginnings",
+  "adv.desc.sigil.2" : "Found the second sigil behind a gate near P.R.Y.S.M Facility Entrance",
+  "adv.name.sigil.3" : "Third Sigil: Ascent",
+  "adv.desc.sigil.3" : "Found the third sigil at the Fan encounter",
+  "adv.name.sigil.4" : "Fourth Sigil: Obscure",
+  "adv.desc.sigil.4" : "Found the fourth sigil at the walk to the Simulation Lab",
+  "adv.name.sigil.5" : "Fifth Sigil: Descent",
+  "adv.desc.sigil.5" : "Found the fifth sigil below P.R.Y.S.M",
+  "adv.name.sigil.6" : "Sixth Sigil: Goliath",
+  "adv.desc.sigil.6" : "Found the sixth in a building in Apocalypse",
+  "adv.name.sigil.7" : "Seventh Sigil: Immortal",
+  "adv.desc.sigil.7" : "Found the seventh sigil at the Reactor's second floor",
+  "adv.name.sigil.8" : "Eighth Sigil: Reflection",
+  "adv.desc.sigil.8" : "Found the eighth sigil at Hatch 09",
+  "adv.name.sigil.9" : "Ninth Sigil: Finale",
+  "adv.desc.sigil.9" : "Found the ninth sigil inside Vault 09",
+  "adv.name.sigil.10" : "Tenth Sigil: Ultimatum",
+  "adv.desc.sigil.10" : "Found the tenth sigil after deciphering Prometheus' code",
+  "adv.name.chest.1" : "First Chest",
+  "adv.desc.chest.1" : "Found the first chest at the Fan encounter",
+  "adv.name.chest.2" : "Second Chest",
+  "adv.desc.chest.2" : "Found the second chest below P.R.Y.S.M",
+  "adv.name.chest.3" : "Third Chest",
+  "adv.desc.chest.3" : "Found the third chest sigil up ATLUS' Rear",
+  "adv.name.chest.4" : "Fourth Chest",
+  "adv.desc.chest.4" : "Found the fourth chest at Vault 09",
+  "adv.name.chest.all" : "Hoarder Syndrome",
+  "adv.desc.chest.all" : "Found all Chests!",
+  "adv.name.sigil.all" : "All the Little Pieces...",
+  "adv.desc.sigil.all" : "Found all Sigils!",
+  "adv.name.collectibles" : "Collectibles Tab",
+  "adv.desc.collectibles" : "Track sigils and chests collected",
+  
+  "adv.name.completion" : "Preventative Measures",
+  "adv.desc.completion" : "Completed the raid!",
+  "adv.name.completions" : "Completions Tab",
+  "adv.desc.completions" : "Track your completions!",
+  "adv.name.completion.flawless" : "Traceless Code",
+  "adv.desc.completion.flawless" : "Complete the raid with no deaths on your team",
+  "adv.name.completion.empyrean" : "Pristine",
+  "adv.desc.completion.empyrean" : "Complete the raid with the Empyrean Modifier",
+  "adv.name.completion.impish" : "Devillish Machina",
+  "adv.desc.completion.impish" : "Complete the raid with the Impish Modifier",
+  "adv.name.completion.special" : "Beauty in Synergy",
+  "adv.desc.completion.special" : "Complete the raid with the Synergy Modifier",
+  "adv.name.completion.all" : "Fate Override",
+  "adv.desc.completion.all" : "Complete the raid with the Empyrean, Impish, and Synergy Modifiers while going flawless",
+  "adv.name.completion.no_melee" : "Fistbound",
+  "adv.desc.completion.no_melee" : "Complete the raid without swinging your melee weapon",
+  "adv.name.completion.no_ranged" : "Back to Basics",
+  "adv.desc.completion.no_ranged" : "Complete the raid without shooting your ranged weapon",
+  "adv.name.completion.no_specials" : "Lightless",
+  "adv.desc.completion.no_specials" : "Complete the raid without using your abilities or your ultimate",
+
+  "adv.name.class.duelist" : "Deadeye v2",
+  "adv.desc.class.duelist" : "Complete the raid with a team of only Duelists",
+  "adv.name.class.shadowrunner" : "Null Theory",
+  "adv.desc.class.shadowrunner" : "Complete the raid with a team of only Shadowrunners",
+  "adv.name.class.striker" : "Crimson Assault",
+  "adv.desc.class.striker" : "Complete the raid with a team of only Strikers",
+  "adv.name.class.rampart" : "Shield to Shield",
+  "adv.desc.class.rampart" : "Complete the raid with a team of only Ramparts",
+  "adv.name.class.fistkrieg" : "The Gauntlet",
+  "adv.desc.class.fistkrieg" : "Complete the raid with a team of only Fistkriegs",
+  "adv.name.class.qannas" : "Long Ranged Prowess",
+  "adv.desc.class.qannas" : "Complete the raid with a team of only Qannases",
+  "adv.name.class.killswitch" : "Blazing Guns",
+  "adv.desc.class.killswitch" : "Complete the raid with a team of only Killswitches",
+  "adv.name.class.ionmancer" : "Ionmancy",
+  "adv.desc.class.ionmancer" : "Complete the raid with a team of only Ionmancers",
+  "adv.name.class.arck" : "Hysteria",
+  "adv.desc.class.arck" : "Complete the raid with a team of only Arcks",
+  "adv.name.class.hubris" : "Hubris",
+  "adv.desc.class.hubris" : "Complete the raid with a team of only Scersaryns",
+  "adv.name.class.balance" : "Standard Issue",
+  "adv.desc.class.balance" : "Complete the raid with either one or two of Rampart/Fistkrieg, Qannas/Killswitch, Ionmancer/Arck ( Only in 3 or 6 players )",
+  "adv.name.class.dirge" : "Back to Basics",
+  "adv.desc.class.dirge" : "Complete the raid with only Duelists, Shadowrunners, and Strikers",
+  "adv.name.class" : "Team Composition Tab",
+  "adv.desc.class" : "Track team composition related advancements",
+
+  "adv.name.enc.razia" : "Death to Razia",
+  "adv.desc.enc.razia" : "Defeat Razia, the Hollow Radiance",
+  "adv.name.enc.razia.challenge" : "Duelist Unmatched",
+  "adv.desc.enc.razia.challenge" : "Defeat Razia with only taking damage from a maximum of three of her attacks",
+  "adv.name.enc.razia.time" : "Time Trial: Razia",
+  "adv.desc.enc.razia.time" : "Defeat Razia in under 03:30 / mm:ss",
+  "adv.name.enc.razia.flawless" : "Flawless: Razia",
+  "adv.desc.enc.razia.flawless" : "Defeat Razia with zero player deaths",
+  "adv.name.enc.snowstorm" : "Storm Clearing",
+  "adv.desc.enc.snowstorm" : "Complete the Snowstorm Encounter, and head into P.R.Y.S.M",
+  "adv.name.enc.snowstorm.challenge" : "Bright Light",
+  "adv.desc.enc.snowstorm.challenge" : "Complete the Snowstorm Encounter without a single Brazier going out",
+  "adv.name.enc.snowstorm.time" : "Time Trial: Snowstorm",
+  "adv.desc.enc.snowstorm.time" : "Complete the Snowstorm in under 07:00 / mm:ss",
+  "adv.name.enc.snowstorm.flawless" : "Flawless: Snowstorm",
+  "adv.desc.enc.snowstorm.flawless" : "Complete the Snowstorm with zero player deaths",
+  "adv.name.enc.conjunction" : "Endothermia",
+  "adv.desc.enc.conjunction" : "Complete the Triple Conjunction Encounter, and head into the vents",
+  "adv.name.enc.conjunction.challenge" : "Subzero",
+  "adv.desc.enc.conjunction.challenge" : "Destroy all of the Cores in one phase",
+  "adv.name.enc.conjunction.time" : "Time Trial: Endothermia",
+  "adv.desc.enc.conjunction.time" : "Complete the Triple Conjunction Encounter in under 06:30 / mm:ss",
+  "adv.name.enc.conjunction.flawless" : "Flawless: Endothermia",
+  "adv.desc.enc.conjunction.flawless" : "Complete the Triple Conjunction Encounter with zero player deaths",
+  "adv.name.enc.checkpoint.1" : "Into the Breach",
+  "adv.desc.enc.checkpoint.1" : "Complete the Apex Scan, and head into the Simulation Hall",
+  "adv.name.enc.exomechs" : "Ex-Makina",
+  "adv.desc.enc.exomechs" : "Defeat the Exomechs, and head below P.R.Y.S.M",
+  "adv.name.enc.exomechs.challenge" : "Coordinated Fire",
+  "adv.desc.enc.exomechs.challenge" : "Defeat the Exomechs without letting 5 seconds pass between each Exomech death",
+  "adv.name.enc.exomechs.time" : "Time Trial: Ex-Makina",
+  "adv.desc.enc.exomechs.time" : "Defeat the Exomechs in under 08:00 / mm:ss",
+  "adv.name.enc.exomechs.flawless" : "Flawless: Ex-Makina",
+  "adv.desc.enc.exomechs.flawless" : "Defeat the Exomechs with zero player deaths",
+  "adv.name.enc.checkpoint.2" : "Dread Corridor",
+  "adv.desc.enc.checkpoint.2" : "Complete the Stealth Scan, and head outside into Apocalypse",
+  "adv.name.enc.atlus" : "Catatonia",
+  "adv.desc.enc.atlus" : "Defeat ATLUS, Fortress of War, and head into the Walkway",
+  "adv.name.enc.atlus.challenge" : "Night of Fire",
+  "adv.desc.enc.atlus.challenge" : "Defeat ATLUS with all team members spending more than 50% of their time riding the vehicle",
+  "adv.name.enc.atlus.time" : "Time Trial: Catatonia",
+  "adv.desc.enc.atlus.time" : "Defeat ATLUS in under 07:00 / mm:ss",
+  "adv.name.enc.atlus.flawless" : "Flawless: Catatonia",
+  "adv.desc.enc.atlus.flawless" : "Defeat ATLUS with zero player deaths",
+  "adv.name.enc.reactor" : "Immortal Gift",
+  "adv.desc.enc.reactor" : "Complete the Reactor Encounter, and head to Vault 09",
+  "adv.name.enc.reactor.challenge" : "V.I.MACHINA",
+  "adv.desc.enc.reactor.challenge" : "Complete the Reactor Encounter without letting the Support Bot take damage",
+  "adv.name.enc.reactor.time" : "Time Trial: Immortal Gift",
+  "adv.desc.enc.reactor.time" : "Complete the Reactor in under 05:00 / mm:ss",
+  "adv.name.enc.reactor.flawless" : "Flawless: Immortal Gift",
+  "adv.desc.enc.reactor.flawless" : "Complete the Reactor Encounter with zero player deaths",
+  "adv.name.enc.checkpoint.3" : "Vault Delve?",
+  "adv.desc.enc.checkpoint.3" : "Complete the Vault Scan...",
+  "adv.name.enc.immortal" : "Immortal Made Mortal",
+  "adv.desc.enc.immortal" : "Defeat the Immortal and head to Vault 09",
+  "adv.name.enc.immortal.challenge" : "Nothing But Pain",
+  "adv.desc.enc.immortal.challenge" : "Defeat the Immortal without having any player damage a mob out of their Rad element",
+  "adv.name.enc.immortal.time" : "Time Trial: Immortal Made Mortal",
+  "adv.desc.enc.immortal.time" : "Defeat the Immortal in under 10:00 / mm:ss",
+  "adv.name.enc.immortal.flawless" : "Flawless: Immortal Made Mortal",
+  "adv.desc.enc.immortal.flawless" : "Defeat the Immortal with zero player deaths",
+  "adv.name.enc.finale" : "Hubris' End",
+  "adv.desc.enc.finale" : "Defeat Scersaryn... maybe we could have negotiated...",
+  "adv.name.enc.finale.challenge" : "Disintegrate",
+  "adv.desc.enc.finale.challenge" : "Destroy Scersaryn's shield without using the Extinction Rifle",
+  "adv.name.enc.finale.time" : "Time Trial: Hubris' End",
+  "adv.desc.enc.finale.time" : "Defeat Scersaryn in under 08:00 / mm:ss",
+  "adv.name.enc.finale.flawless" : "Flawless: Hubris' End",
+  "adv.desc.enc.finale.flawless" : "Defeat Scersaryn with zero player deaths",
+  "adv.name.enc.finale.alt" : "Hubris' Humility",
+  "adv.desc.enc.finale.alt" : "Defeat Scersaryn, but allow him to take the Extinction Rifle",
+  "adv.name.enc.eyeless" : "Severed Connection",
+  "adv.desc.enc.eyeless" : "Defeat Diavolaketh, the Eyeless, and enter the Codex Halls",
+  "adv.name.enc.eyeless.challenge" : "Anathema's Exiled",
+  "adv.desc.enc.eyeless.challenge" : "Perfectly dodge Diavolaketh's lethal channel attack as a team",
+  "adv.name.enc.eyeless.time" : "Time Trial: Severed Connection",
+  "adv.desc.enc.eyeless.time" : "Defeat Diavolaketh in under 02:00 / mm:ss",
+  "adv.name.enc.eyeless.flawless" : "Flawless: Severed Connection",
+  "adv.desc.enc.eyeless.flawless" : "Defeat Diavolaketh, the Eyeless with zero player deaths",
+  "adv.name.enc.entropy" : "Accursed Vessel",
+  "adv.desc.enc.entropy" : "Destroy the Entropy Brooding Vessel",
+  "adv.name.enc.entropy.challenge" : "Bring Order",
+  "adv.desc.enc.entropy.challenge" : "Defeat the Entropy Brooding Vessel without getting afflicted by Phage",
+  "adv.name.enc.entropy.time" : "Time Trial: Accursed Vessel",
+  "adv.desc.enc.entropy.time" : "Destroy the Entropy Brooding Vessel in under 02:00 / mm:ss",
+  "adv.name.enc.entropy.flawless" : "Flawless: Accursed Vessel",
+  "adv.desc.enc.entropy.flawless" : "Defeat the Entropy Brooding Vessel with zero player deaths",
+  "adv.name.enc.secretdoor" : "Sealed to Eternity?",
+  "adv.desc.enc.secretdoor" : "Socket all Ten Sigils into the Mysterious Door",
+  "adv.name.enc.codexused" : "Point of No Return",
+  "adv.desc.enc.codexused" : "Learn Hubris' painful truth, enabling a negotiation with Scersaryn",
+  "adv.name.enc" : "Progression Tab",
+  "adv.desc.enc" : "Track your overall progress",
+
+  "adv.name.death" : "Death Tab",
+  "adv.desc.death" : "Track your deaths",
+  "adv.name.death.1" : "Death by the Architects",
+  "adv.desc.death.1" : "Jump off during the Snowstorm Encounter",
+  "adv.name.death.2" : "Endo-Endothermia",
+  "adv.desc.death.2" : "Jump off during the Conjunction Encounter",
+  "adv.name.death.3" : "What Did you Expect?",
+  "adv.desc.death.3" : "Jump into a slightly oversized fan, in the Fan Encounter",
+  "adv.name.death.4" : "A Little Chill",
+  "adv.desc.death.4" : "Jump into the Ice Caves",
+  "adv.name.death.5" : "Take me Back!",
+  "adv.desc.death.5" : "Jump off the Walkway",
+  "adv.name.death.6" : "Uninterested",
+  "adv.desc.death.6" : "Jump off while exploring Vault 09",
+  "adv.name.death.7" : "The Negotiatior",
+  "adv.desc.death.7" : "Jump off during the Finale Encounter",
+  "adv.name.death.challenge" : "The Rapture",
+  "adv.desc.death.challenge" : "Jump off of Apocalypse",
+  "adv.name.death.all" : "Shadow Arts",
+  "adv.desc.death.all" : "Successfully master the art of dying",
+  "adv.name.death.consolation" : "Consolation Award",
+  "adv.desc.death.consolation" : "Complete the raid with the most deaths on your team. Good job!",
+   
+  "adv.name." : "",
+  "adv.desc." : "",
+   
+"arcade.title" : "Arcade Mode",
+"arcade.notif" : " Arcade mode has been enabled.",
+"adv.name.duohero" : "Duo Heroes",
+"adv.desc.duohero" : "Complete the raid as a duo",
+"adv.name.duolegend" : "Duo Legends",
+"adv.desc.duolegend" : "Complete the raid flawlessly with every modifier active, as a duo",
+"adv.name.solohero" : "Solo Hero",
+"adv.desc.solohero" : "Complete the raid solo",
+"adv.name.sololegend" : "Solo Legend",
+"adv.desc.sololegend" : "Complete the raid flawlessly with every modifier active, solo",
+
+"share.progress" : "Click on this message ( copies to clipboard ) and paste in the discord #progress channel to share and track your progress globally!",
+
+"dropin.warning" : " Before accepting any new players, please make sure all previous players are currently in the game!",
+"arcade.warning" : " You are attempting to start the map with less players than recommended. We can not promise that you will experience the same amount of content that is delivered to three players and above. If you wish to continue regardless, "
+
+}
