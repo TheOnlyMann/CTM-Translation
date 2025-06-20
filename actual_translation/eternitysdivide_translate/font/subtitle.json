@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:subtitle_replacement.ttf",
+            "shift": [0.0, 120.0],
+            "size": 15.0,
+            "oversample": 16.0
+        }
+    ]
+}
