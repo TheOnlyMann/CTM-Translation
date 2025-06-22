@@ -1,0 +1,4 @@
+- [ ] Impish 소악마
+- [ ] Empyrean 최고천
+- [ ] Synergy 시너지
+- [ ] Flawless 무결점

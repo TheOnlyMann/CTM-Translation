@@ -1,0 +1,16 @@
+- [ ] avatar.png 스커사린의 아바타
+- [X] champion.png 챔피언
+- [X] dummy.png 더미
+- [X] fluctuator.png 변동기
+- [X] halfling.png 하플링
+- [X] harrier.png 해리어
+- [X] hollow.png 할로우
+- [X] hummingbird.png 허밍버드
+- [X] mortar.png 박격포
+- [X] oracle.png 오라클
+- [X] prowler.png 프라울러
+- [X] reaver.png 리버
+- [X] revenant.png 레버넌트
+- [ ] suppressor.png 서프레서
+- [X] votary.png 신자
+- [ ] zealot.png 열광자
