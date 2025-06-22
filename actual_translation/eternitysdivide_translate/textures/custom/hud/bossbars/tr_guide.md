@@ -1,5 +1,5 @@
 - [ ] atlus 전쟁 요새 아틀러스
-- [ ] entropy 엔트로피의 잉태체
+- [ ] entropy 엔트로피 잉태체
 - [ ] exomechs 아폴로-S 아레스 아르테미스
 - [ ] eyeless 눈 없는 자 디아볼라케스
 - [ ] immortal 불멸자
