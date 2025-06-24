@@ -13,4 +13,4 @@
 - [X] revenant.png 레버넌트
 - [ ] suppressor.png 억제기
 - [X] votary.png 신자
-- [ ] zealot.png 열광자
+- [X] zealot.png 열광자
