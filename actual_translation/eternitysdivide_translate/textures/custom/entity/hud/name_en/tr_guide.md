@@ -11,6 +11,6 @@
 - [X] prowler.png 프라울러
 - [X] reaver.png 리버
 - [X] revenant.png 레버넌트
-- [ ] suppressor.png 서프레서
+- [ ] suppressor.png 억제기
 - [X] votary.png 신자
 - [ ] zealot.png 열광자
