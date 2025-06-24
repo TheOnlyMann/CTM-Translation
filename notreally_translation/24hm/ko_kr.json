@@ -48,5 +48,10 @@
   "area.16.name": "불꽃의 등대",
   "area.17.name": "슬라임 카지노",
   "area.18.name": "밤샘 기적의 요새",
-  "area.19.name": "얼음바위 해안"
+  "area.19.name": "얼음바위 해안",
+  "enchantment.minecraft.melee_protection": "근접무기로부터 보호",
+  
+  "item.adrift.recall_potion": "귀환의 물약",
+  "item.adrift.recall_potion_lore1": "마시면 스폰 지점으로 귀환합니다.",
+  "item.adrift.recall_potion_lore2": "쉬프트를 누르면 기념비로 귀환할 수 있습니다(발견 상태일 경우)."
 }
