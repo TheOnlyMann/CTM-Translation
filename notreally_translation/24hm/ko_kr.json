@@ -1,6 +1,8 @@
 {
   "attribute.name.block_interaction_range": "블록 조작 범위",
   "attribute.name.entity_interaction_range": "근접 공격 범위",
+  "enchantment.minecraft.melee_protection": "근접무기로부터 보호",
+  "effect.minecraft.hunger": "",
 
   "item.minecraft.cookie": "치킨 너겟",
   "item.minecraft.rabbit_hide": "다이아몬드 조각",
@@ -26,6 +28,9 @@
   "item.adrift.makeshift_stone_shovel": "조잡한 돌 삽",
   "item.adrift.makeshift_stone_pickaxe": "조잡한 돌 곡괭이",
   "item.adrift.makeshift_stone_hoe": "조잡한 돌 괭이",
+  "item.adrift.recall_potion": "귀환의 물약",
+  "item.adrift.recall_potion_lore1": "마시면 스폰 지점으로 귀환합니다.",
+  "item.adrift.recall_potion_lore2": "쉬프트를 누르면 기념비로 귀환할 수 있습니다(발견했을 경우).",
   "item.adrift.tan_wool": "연갈색 양털",
   "item.adrift.teal_wool": "옥색 양털",
   "item.adrift.scarlet_wool": "진홍색 양털",
@@ -49,9 +54,20 @@
   "area.17.name": "슬라임 카지노",
   "area.18.name": "밤샘 기적의 요새",
   "area.19.name": "얼음바위 해안",
-  "enchantment.minecraft.melee_protection": "근접무기로부터 보호",
-  
-  "item.adrift.recall_potion": "귀환의 물약",
-  "item.adrift.recall_potion_lore1": "마시면 스폰 지점으로 귀환합니다.",
-  "item.adrift.recall_potion_lore2": "쉬프트를 누르면 기념비로 귀환할 수 있습니다(발견 상태일 경우)."
+
+  "rp_warn": "만약 이 블록이 하얀색 유광 테라코타로 보인다면, 리소스팩이 적용이 되지 않은 상태입니다!\n\n블럭을 때려서 리소스팩 다운로드 링크를 받으세요!",
+
+  "info.1": "\n\n정보",
+  "info.2": "\n\n24-Hour Miracle: Adrift에 오신 걸 환영합니다!\n이 CTM 맵은 2025년 6월 20일 하루 동안 제작된 오픈 월드 맵입니다!\n보다 나은 결과물과 다양한 시간대 유저들의 참여를 위해\n기존의 3시간 이벤트 대신 24시간동안 진행되었습니다.\n\n오픈 월드 형식 아래서 총 19개의 목표를 탐험하고, \n무작위 전리품, 새로운 제작법과 인챈트, \n그리고 화폐 등등을 만나볼 수 있습니다!",
+
+  "rules.1": "\n\n규칙",
+  "rules.2": "\n\n1. 게임 내 명령어를 사용하지 마세요.\n\n2. 맵 경계를 벗어나지 마세요.\n\n3. Objective Items라 표시된 양털만을 기념비에 놓으세요. \n\n4. 월드 파일을 수정하지 마세요.\n\n5. 평화로움 모드에서 플레이하지 마세요.",
+
+  "rp.info": "\n\n%s를 클릭해 Adrift 리소스팩을 설치하세요!",
+  "rp.link": "§l[여기]",
+  "rp.hover": "어서, 클릭하세요!",
+
+  "credits.1": "\n\n총괄 제작: KVT, Mowse, Sequex, & Torix",
+  "credits.2": "\n\n맵 기여자: \n\n",
+  "credits.3": "Celnyx  BSM  ConeOfSnow  sw3aterCS  Sandurs\nMatt_97  Chaos_Guardian  Gizmo  ImSheol  Hectopascal\nPhoraxe  samos36  TheOnlyMann  Riletty  Cake  SlimeKing77777\nTris  Jakkaboi  vertagen  Enderayo  Liminar\nCango  Anistuffs  SealedTugBoat23  1954PinaColada  DINOCREATOR  bigMoma89"  
 }

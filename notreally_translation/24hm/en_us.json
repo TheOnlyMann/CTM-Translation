@@ -53,5 +53,24 @@
   
   "item.adrift.recall_potion": "Recall Potion",
   "item.adrift.recall_potion_lore1": "Consume to return to your spawn point.",
-  "item.adrift.recall_potion_lore2": "Sneak to return to the monument if discovered."
+  "item.adrift.recall_potion_lore2": "Sneak to return to the monument if discovered.",
+
+  
+
+  "rp_warn": "If this looks like White Glazed Terracotta, then you are missing this map's resource pack!\n\nPunch the block for a link to the resource pack!",
+
+  "info.1": "\n\nInfo",
+  "info.2": "\n\nWelcome to 24-Hour Miracle: Adrift, a CTM Map that was\nbuilt in 24 Hours on June 20, 2025! This event lasted 24 hours instead\nof the usual three to make a more time-zone friendly event\nand to create a better product!\n\nThis map is open world, 19 objectives, random loot,\ncustom recipes, enchantments, currency, and more!",
+
+  "rules.1": "\n\nRules",
+  "rules.2": "\n\n1. Do not use in-game commands\n\n2. Do not leave the map boundaries\n\n3. Only place wools that are labeled as Objective Items\n\n4. Do not modify the world's files\n\n5. Do not play in peaceful difficulty",
+
+  "rp.info": "\n\nClick %s to install the Adrift Resource Pack!",
+  "rp.link": "§l[HERE]",
+  "rp.hover": "Go on, click it already!",
+
+  "credits.1": "\n\nCompilers: KVT, Mowse, Sequex, & Torix",
+  "credits.2": "\n\nMap Contributors: \n\n",
+  "credits.3": "Celnyx  BSM  ConeOfSnow  sw3aterCS  Sandurs\nMatt_97  Chaos_Guardian  Gizmo  ImSheol  Hectopascal\nPhoraxe  samos36  TheOnlyMann  Riletty  Cake  SlimeKing77777\nTris  Jakkaboi  vertagen  Enderayo  Liminar\nCango  Anistuffs  SealedTugBoat23  1954PinaColada  DINOCREATOR  bigMoma89"  
+
 }
