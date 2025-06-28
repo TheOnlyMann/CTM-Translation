@@ -1,0 +1,23 @@
+{
+  "soundCategory.music": "Vanilla Music",
+  "soundCategory.record": "Custom Music",
+  "effect.minecraft.hunger": "Freezing",
+  "item.minecraft.lava_bucket": "Frost Lava",
+  "item.minecraft.chorus_fruit": "Strange Fruit",
+  "item.minecraft.ghast_tear": "Drop of Nectar",
+  "item.minecraft.honeycomb": "Nectar",
+  "block.minecraft.blue_ice": "Permafrost",
+  "block.minecraft.sea_lantern": "Everlight",
+  "block.minecraft.warped_wart_block": "Ember",
+  "block.minecraft.stripped_acacia_log": "Recipe Bookshelf",
+  "item.minecraft.echo_shard": "Key Fragment",
+  "item.minecraft.book": "Recipe Book",
+  "item.minecraft.diamond": "Ambrosia",
+  "item.minecraft.emerald": "Vortex Pearl",
+  "block.minecraft.cobblestone": "FAKE COBBLE DONT USE",
+  "block.minecraft.mossy_cobblestone": "Cobblestone",
+  "item.minecraft.flint": "Rock",
+  "selectWorld.backupQuestion.experimental": "Mods will break this map",
+  "selectWorld.backupWarning.experimental": "This map relies on shader and datapack mechanics which mods may mess with in unpredictable ways. Forge and Paper servers and Sodium will break the map.",
+  "selectWorld.backupJoinSkipButton": "Load"
+}

@@ -1,0 +1,23 @@
+{
+  "soundCategory.music": "바닐라 음악",
+  "soundCategory.record": "커스텀 음악",
+  "effect.minecraft.hunger": "추위",
+  "item.minecraft.lava_bucket": "서리 용암",
+  "item.minecraft.chorus_fruit": "이상한 과실",
+  "item.minecraft.ghast_tear": "꿀방울",
+  "item.minecraft.honeycomb": "꿀 덩어리",
+  "block.minecraft.blue_ice": "영구동토",
+  "block.minecraft.sea_lantern": "영원한 빛",
+  "block.minecraft.warped_wart_block": "불꽃",
+  "block.minecraft.stripped_acacia_log": "레시피 책장",
+  "item.minecraft.echo_shard": "열쇠 조각",
+  "item.minecraft.book": "레시피 책",
+  "item.minecraft.diamond": "암브로시아",
+  "item.minecraft.emerald": "보텍스 진주",
+  "block.minecraft.cobblestone": "가짜 조약돌 사용 금지",
+  "block.minecraft.mossy_cobblestone": "조약돌",
+  "item.minecraft.flint": "돌",
+  "selectWorld.backupQuestion.experimental": "이 맵은 모드로 인해 망가집니다",
+  "selectWorld.backupWarning.experimental": "이 맵은 셰이더와 데이터팩 메커니즘에 의존하며, 모드가 예측할 수 없는 방식으로 맵을 망가뜨릴 수 있습니다. 포지와 페이퍼 서버 및 소듐은 맵을 망가뜨립니다.",
+  "selectWorld.backupJoinSkipButton": "불러오기"
+}
