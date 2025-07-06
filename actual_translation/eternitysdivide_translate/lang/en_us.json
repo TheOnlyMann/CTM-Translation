@@ -212,7 +212,7 @@
   "Lore" : "Lore",
   "Stats" : "Stats",
 
-
+  "overload" : "OVERLOADED MODE ACTIVE!",
 
 
 
@@ -1097,6 +1097,10 @@
 
   "tooltip.lore.1441" : "\uE900\uF828\uE901",
   "tooltip.lore.1451" : "\uE900\uF828\uE902",
+  "tooltip.lore.1461" : "\uE900\uF828\uE903",
+  "tooltip.lore.1462" : "\uE900\uF828\uE904",
+  "tooltip.lore.1463" : "\uE900\uF828\uE905",
+  
 
   "team.1" : "Malice, the First Heroes",
   "team.2" : "Unification Squad, the Runnerups",

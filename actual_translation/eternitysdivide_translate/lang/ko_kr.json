@@ -165,6 +165,7 @@
     "Training Dummy": "훈련용 허수아비",
     "Lore": "이야기",
     "Stats": "통계",
+  "overload" : "과부하 모드 활성화!",
     "mob.displayname.halfling" : "\uE203",
     "mob.displayname.revenant" : "\uE204",
     "mob.displayname.oracle" : "\uE207",
