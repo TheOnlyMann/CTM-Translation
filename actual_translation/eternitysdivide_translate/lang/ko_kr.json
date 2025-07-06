@@ -165,7 +165,7 @@
     "Training Dummy": "훈련용 허수아비",
     "Lore": "이야기",
     "Stats": "통계",
-  "overload" : "과부하 모드 활성화!",
+    "overload" : "과부하 모드 활성화!",
     "mob.displayname.halfling" : "\uE203",
     "mob.displayname.revenant" : "\uE204",
     "mob.displayname.oracle" : "\uE207",
@@ -892,6 +892,9 @@
   
     "tooltip.lore.1441" : "\uE900\uF828\uE901",
     "tooltip.lore.1451" : "\uE900\uF828\uE902",
+    "tooltip.lore.1461" : "\uE900\uF828\uE903",
+    "tooltip.lore.1462" : "\uE900\uF828\uE904",
+    "tooltip.lore.1463" : "\uE900\uF828\uE905",
     "team.1" : "악의, 최초의 영웅들",
     "team.2" : "통합 부대, 후속대원",
     "team.3" : "베리티, 진실 추구자",
