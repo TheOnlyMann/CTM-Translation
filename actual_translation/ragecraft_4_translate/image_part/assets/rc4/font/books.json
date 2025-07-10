@@ -507,6 +507,128 @@
       "type": "bitmap",
       "file": "rc4:font/books_ja_jp/rules/packs_r.png",
       "ascent": 45, "height": 180, "chars": ["\uEB24"]
+    },
+
+
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/placement_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB31"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/placement_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB32"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/base_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB33"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/base_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB34"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/materials_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB35"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/materials_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB36"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/order_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB37"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/order_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB38"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/power_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB39"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/crafting/power_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB40"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/repair_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB41"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/repair_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB42"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB43"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB44"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB45"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB46"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB47"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB48"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB49"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB50"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB51"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB52"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_l.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB53"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_r.png",
+      "ascent": 45, "height": 180, "chars": ["\uEB54"]
     }
   ]
 }
