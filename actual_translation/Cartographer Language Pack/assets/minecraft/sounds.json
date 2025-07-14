@@ -1,0 +1,40 @@
+{
+	"loot_sfx":{"sounds":[{"name":"loot_sfx","volume":1.0,"stream":true}]},
+	"respawn_sfx":{"sounds":[{"name":"respawn","volume":2.0,"stream":true}]},
+	
+	"credits":{"sounds":[{"name":"fruit-credits","volume":1.0,"stream":true}]},
+
+    "m.fruit1":{"sounds":[{"name":"fruit-1","volume":1.0,"stream":true}]},
+    "m.fruit2":{"sounds":[{"name":"fruit-2","volume":1.0,"stream":true}]},
+    "m.fruit3":{"sounds":[{"name":"fruit-3","volume":1.0,"stream":true}]},
+    "m.fruit4":{"sounds":[{"name":"fruit-4","volume":1.0,"stream":true}]},
+    "m.fruit5":{"sounds":[{"name":"fruit-5","volume":1.0,"stream":true}]},
+    "m.fruit6":{"sounds":[{"name":"fruit-6","volume":1.0,"stream":true}]},
+    "m.fruit7":{"sounds":[{"name":"fruit-7","volume":1.0,"stream":true}]},
+    "m.fruit8":{"sounds":[{"name":"fruit-8","volume":1.0,"stream":true}]},
+    "m.fruit9":{"sounds":[{"name":"fruit-9","volume":1.0,"stream":true}]},
+    "m.fruit10":{"sounds":[{"name":"fruit-10","volume":1.0,"stream":true}]},
+    "m.fruit11":{"sounds":[{"name":"fruit-11","volume":1.0,"stream":true}]},
+    "m.fruit12":{"sounds":[{"name":"fruit-12","volume":1.0,"stream":true}]},
+    "m.fruit13":{"sounds":[{"name":"fruit-13","volume":1.0,"stream":true}]},
+    "m.fruit14":{"sounds":[{"name":"fruit-14","volume":1.0,"stream":true}]},
+    "m.fruit15":{"sounds":[{"name":"fruit-15","volume":1.0,"stream":true}]},
+
+    "m.cold_light":{"sounds":[{"name":"cold_light","volume":1.0,"stream":true}]},
+    "m.prism":{"sounds":[{"name":"prism","volume":1.0,"stream":true}]},
+    "m.visions":{"sounds":[{"name":"visions","volume":1.0,"stream":true}]},
+	
+    "m.title_loop":{"sounds":[
+		{"name":"fruit-loop-1","volume":1.0,"stream":true},
+		{"name":"fruit-loop-2","volume":1.0,"stream":true},
+		{"name":"fruit-loop-3","volume":1.0,"stream":true},
+		{"name":"fruit-loop-4","volume":1.0,"stream":true}
+	]},
+    "m.title_loop_peer":{"sounds":[
+		{"name":"fruit-loop-1","volume":1.0,"stream":true,"weight":10},
+		{"name":"fruit-loop-2","volume":1.0,"stream":true,"weight":10},
+		{"name":"fruit-loop-3","volume":1.0,"stream":true,"weight":10},
+		{"name":"fruit-loop-4","volume":1.0,"stream":true,"weight":10},
+		{"name":"fruit-loop-5","volume":1.0,"stream":true}
+	]}
+}

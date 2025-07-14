@@ -1,0 +1,2908 @@
+{
+    "enchantment.level.11": "XI",
+    "enchantment.level.12": "XII",
+    "enchantment.level.13": "XIII",
+    "enchantment.level.14": "XIV",
+    "enchantment.level.15": "XV",
+    "enchantment.level.16": "XVI",
+    "enchantment.level.17": "XVII",
+    "enchantment.level.18": "XVIII",
+    "enchantment.level.19": "XIX",
+    "enchantment.level.20": "XX",
+    "enchantment.level.21": "XXI",
+    "enchantment.level.22": "XXII",
+    "enchantment.level.23": "XXIII",
+    "enchantment.level.24": "XXIV",
+    "enchantment.level.25": "XXV",
+    "enchantment.level.26": "XXVI",
+    "enchantment.level.27": "XXVII",
+    "enchantment.level.28": "XXVIII",
+    "enchantment.level.29": "XXIX",
+    "enchantment.level.30": "XXX",
+    "enchantment.level.31": "XXXI",
+    "enchantment.level.32": "XXXII",
+    "enchantment.level.33": "XXXIII",
+    "enchantment.level.34": "XXXIV",
+    "enchantment.level.35": "XXXV",
+    "enchantment.level.36": "XXXVI",
+    "enchantment.level.37": "XXXVII",
+    "enchantment.level.38": "XXXVIII",
+    "enchantment.level.39": "XXXIX",
+    "enchantment.level.40": "XL",
+    "enchantment.level.41": "XLI",
+    "enchantment.level.42": "XLII",
+    "enchantment.level.43": "XLIII",
+    "enchantment.level.44": "XLIV",
+    "enchantment.level.45": "XLV",
+    "enchantment.level.46": "XLVI",
+    "enchantment.level.47": "XLVII",
+    "enchantment.level.48": "XLVIII",
+    "enchantment.level.49": "XLIX",
+    "enchantment.level.50": "L",
+
+    "potion.potency.0": "",
+    "potion.potency.1": "II",
+    "potion.potency.2": "III",
+    "potion.potency.3": "IV",
+    "potion.potency.4": "V",
+    "potion.potency.5": "VI",
+    "potion.potency.6": "VII",
+    "potion.potency.7": "VIII",
+    "potion.potency.8": "IX",
+    "potion.potency.9": "X",
+    "potion.potency.10": "XI",
+    "potion.potency.11": "XII",
+    "potion.potency.12": "XIII",
+    "potion.potency.13": "XIV",
+    "potion.potency.14": "XV",
+    "potion.potency.15": "XVI",
+    "potion.potency.16": "XVII",
+    "potion.potency.17": "XVIII",
+    "potion.potency.18": "XIX",
+    "potion.potency.19": "XX",
+    "potion.potency.20": "XXI",
+
+    "potion.withAmplifier": "%s %s",
+    "potion.withDuration": "%s (%s)",
+    "potion.withChance": "%s (%s%% 確率)",
+
+
+    "## 翻訳メモ・エンチャント1": "--- エンチャント一覧 ---",
+    "enchantment.minecraft.thorns": "棘の鎧",
+    "enchantment.minecraft.unbreaking": "耐久力",
+    "enchantment.minecraft.infinity": "無限",
+    "enchantment.cartographer.hazard_protection": "環境耐性",
+    "enchantment.cartographer.melee_protection": "接近戦耐性",
+    "enchantment.cartographer.ranged_protection": "射撃耐性",
+
+    "## 翻訳メモ・エンチャント2": "属性系のエンチャント",
+    "enchantment.cartographer.agility": "天賦・跳躍力",
+    "enchantment.cartographer.amplitude": "天賦・範囲増幅",
+    "enchantment.cartographer.celerity": "天賦・移動速度",
+    "enchantment.cartographer.cloudstep": "天賦・雲踏み",
+    "enchantment.cartographer.dexterity": "天賦・攻撃速度",
+    "enchantment.cartographer.echo": "天賦・エコー",
+    "enchantment.cartographer.extended": "天賦・操作距離",
+    "enchantment.cartographer.finesse": "天賦・攻撃力",
+    "enchantment.cartographer.handling": "天賦・採掘効率",
+    "enchantment.cartographer.immovable": "天賦・不動心",
+    "enchantment.cartographer.invigorated": "天賦・回復効率",
+    "enchantment.cartographer.lifesteal": "天賦・吸血",
+    "enchantment.cartographer.lucky": "天賦・戦闘運",
+    "enchantment.cartographer.precision": "天賦・射撃精度",
+    "enchantment.cartographer.resonance": "天賦・共振",
+    "enchantment.cartographer.reverb": "天賦・余響",
+    "enchantment.cartographer.technique": "天賦・秘技",
+    "enchantment.cartographer.traveling": "天賦・急行",
+    "enchantment.cartographer.vitality": "天賦・体力",
+    "enchantment.cartographer.windborn": "天賦・疾風",
+
+    "## 翻訳メモ・エンチャント3": "ステータス系のエンチャント",
+    "enchantment.cartographer.bracing": "要塞",
+    "enchantment.cartographer.decontaminate": "解毒",
+    "enchantment.cartographer.evasion": "回避",
+    "enchantment.cartographer.hastiness": "剣速の祝福",
+    "enchantment.cartographer.lifeblood": "生命の血",
+    "enchantment.cartographer.mightiness": "力の祝福",
+    "enchantment.cartographer.nullifying": "鎮痛",
+    "enchantment.cartographer.regeneration": "再生能力",
+    "enchantment.cartographer.sapper": "吸魂",
+    "enchantment.cartographer.shielding": "衝撃盾",
+    "enchantment.cartographer.stealthiness": "ステルスの祝福",
+    "enchantment.cartographer.swiftness": "迅速の祝福",
+
+    "## 翻訳メモ・エンチャント4": "防御系・パッシブのエンチャント",
+    "enchantment.cartographer.adrenaline": "応戦・迅速",
+    "enchantment.cartographer.bulwark": "防御態勢・防壁",
+    "enchantment.cartographer.courageous": "防御態勢・勇敢",
+    "enchantment.cartographer.diversion": "応戦・錯乱",
+    "enchantment.cartographer.ethereal": "応戦・霊体化",
+    "enchantment.cartographer.frenzy": "応戦・熱烈",
+    "enchantment.cartographer.hardened": "防御態勢・順応",
+    "enchantment.cartographer.inertia": "防御態勢・慣性",
+    "enchantment.cartographer.poise": "防御態勢・平静",
+    "enchantment.cartographer.sidestep": "防御態勢・看破",
+    "enchantment.cartographer.steadfast": "防御態勢・堅守",
+    "enchantment.cartographer.tenacity": "防御態勢・堅忍",
+    "enchantment.cartographer.unseen": "防御態勢・暗躍",
+
+    "## 翻訳メモ・エンチャント5": "攻撃系・パッシブのエンチャント",
+    "enchantment.cartographer.aberration": "滲出眷属",
+    "enchantment.cartographer.deadeye": "デッドアイ",
+    "enchantment.cartographer.eruption": "噴火",
+    "enchantment.cartographer.gravity": "落下重打",
+    "enchantment.cartographer.induction": "誘電",
+    "enchantment.cartographer.momentum": "ダッシュチャージ",
+    "enchantment.cartographer.orbit": "衛星",
+    "enchantment.cartographer.quake": "震動",
+    "enchantment.cartographer.soulfire": "魂焔",
+    "enchantment.cartographer.starfall": "星落",
+    "enchantment.cartographer.storm": "暴風",
+    "enchantment.cartographer.surge": "衝撃波",
+    "enchantment.cartographer.trailblazer": "炎の跡",
+    "enchantment.cartographer.vengeance": "応戦・復讐",
+
+    "## 翻訳メモ・エンチャント6": "パッシブ系・他のエンチャント",
+    "enchantment.cartographer.reconstruction": "耐久値再生",
+    "enchantment.cartographer.soulbound": "魂結",
+    "enchantment.cartographer.spurs": "草薙",
+
+    "## 翻訳メモ・エンチャント7": "道具のエンチャント",
+    "enchantment.cartographer.drilling": "即時破壊",
+    "enchantment.cartographer.excavator": "連鎖破壊",
+    "enchantment.cartographer.lightborn": "光源生成",
+    "enchantment.cartographer.multitool": "汎用性",
+
+    "## 翻訳メモ・エンチャント8": "攻撃系・一般武器エンチャント",
+    "enchantment.cartographer.chaotic": "ランダムダメージ増加",
+    "enchantment.cartographer.concentration": "精確攻撃",
+    "enchantment.cartographer.duelist": "人型特効",
+    "enchantment.cartographer.first_strike": "不意打ち",
+    "enchantment.cartographer.focus": "集中",
+    "enchantment.cartographer.follow_up": "連続技",
+    "enchantment.cartographer.hex_eater": "呪喰",
+    "enchantment.cartographer.hunter": "怪物特効",
+
+    "## 翻訳メモ・エンチャント9": "攻撃系・近接武器エンチャント",
+    "enchantment.cartographer.leverage": "ジャンプダメージ増加",
+    "enchantment.cartographer.rushdown": "ダッシュダメージ増加",
+
+    "## 翻訳メモ・エンチャント10": "攻撃系・遠隔武器エンチャント",
+    "enchantment.cartographer.overcharge": "オーバーチャージ",
+    "enchantment.cartographer.point_blank": "近距離強化",
+    "enchantment.cartographer.sharpshot": "遠距離強化",
+
+    "## 翻訳メモ・エンチャント11": "特殊・一般武器エンチャント",
+    "enchantment.cartographer.explosive": "爆発生成",
+    "enchantment.cartographer.pulling": "引力",
+    "enchantment.cartographer.recoil": "リコイル",
+    "enchantment.cartographer.repulsion": "斥力",
+
+    "## 翻訳メモ・エンチャント12": "特殊・近接武器エンチャント",
+    "enchantment.cartographer.ambushing": "奇襲",
+    "enchantment.cartographer.cleaving": "なぎ払い武器",
+    "enchantment.cartographer.lunging": "突進",
+    "enchantment.cartographer.quick_strike": "はやぶさ斬り",
+    "enchantment.cartographer.riposte": "構え",
+    "enchantment.cartographer.slamming": "重打武器",
+    "enchantment.cartographer.throwable": "投擲型",
+    "enchantment.cartographer.thrusting": "刺突武器",
+
+    "## 翻訳メモ・エンチャント13": "特殊・遠隔武器エンチャント",
+    "enchantment.cartographer.barbed": "荊棘・拘束",
+    "enchantment.cartographer.barrage": "連射",
+    "enchantment.cartographer.collapse": "破壊着弾",
+    "enchantment.cartographer.correction": "索敵",
+    "enchantment.cartographer.fleetfoot": "俊足",
+    "enchantment.cartographer.grappling": "かぎ縄",
+    "enchantment.cartographer.ricochet": "跳弾",
+    "enchantment.cartographer.ripper": "荊棘・脆弱化",
+    "enchantment.cartographer.shrapnel": "榴散弾",
+
+    "## 翻訳メモ・エンチャント14": "他のエンチャント",
+    "enchantment.cartographer.auto_charge": "自動リチャージ",
+    "enchantment.cartographer.infinity": "無限",
+    "enchantment.cartographer.repeating": "連続使用",
+    "enchantment.cartographer.scavenger": "スカベンジャー",
+
+    "## 翻訳メモ・エンチャント15": "呪い",
+    "enchantment.cartographer.annulling_curse": "寄生の呪い",
+    "enchantment.cartographer.clumsiness_curse": "不器用の呪い",
+    "enchantment.cartographer.corruption_curse": "汚染封印の呪い",
+    "enchantment.cartographer.crippling_curse": "身障封印の呪い",
+    "enchantment.cartographer.crumbling_curse": "脆弱の呪い",
+    "enchantment.cartographer.encumbering_curse": "負荷の呪い",
+    "enchantment.cartographer.gluttony_curse": "貪食の呪い",
+    "enchantment.cartographer.haunting_curse": "怨霊の呪い",
+    "enchantment.cartographer.heaviness_curse": "重荷の呪い",
+    "enchantment.cartographer.instability_curse": "不安定の呪い",
+    "enchantment.cartographer.irreparability_curse": "修復負荷の呪い",
+    "enchantment.cartographer.jamming_curse": "装填不可の呪い",
+    "enchantment.cartographer.locked_curse": "🔒 封印 🔒",
+    "enchantment.cartographer.melee_fragility_curse": "近戦弱化の呪い",
+    "enchantment.cartographer.pride_curse": "傲慢の呪い",
+    "enchantment.cartographer.projectile_fragility_curse": "射撃弱化の呪い",
+    "enchantment.cartographer.regret_curse": "犠牲の呪い",
+    "enchantment.cartographer.shattering_curse": "破損の呪い",
+    "enchantment.cartographer.two_handed_curse": "両手持ち",
+
+    "enchantment.cartographer.": "",
+
+
+    "## 翻訳メモ・属性1": "--- 属性一覧 ---",
+    "attribute.name.melee_damage": "近接攻撃力",
+    "attribute.name.ranged_damage": "遠隔攻撃力",
+    "attribute.name.ranged_velocity": "射撃速度",
+    "attribute.name.combat_luck": "戦闘運",
+    "attribute.name.potion_size": "ポーション影響範囲",
+    "attribute.name.aoe_size": "効果範囲",
+    "attribute.name.aoe_damage": "範囲ダメージ",
+    "attribute.name.status_inflict_damage": "ステータス付与ダメージ",
+    "attribute.name.status_inflict_duration": "ステータス付与持続時間",
+    "attribute.name.status_inflict_potency": "ステータス付与効力",
+    "attribute.name.status_apply_duration": "ステータス付着持続時間",
+    "attribute.name.status_apply_potency": "ステータス付着効力",
+    "attribute.name.healing_power": "回復効率",
+    "attribute.name.lucky_hit_chance": "会心率",
+    "attribute.name.lucky_hit_damage": "会心ダメージ",
+    "attribute.name.chaining_hit_chance": "連鎖攻撃発生率",
+    "attribute.name.chaining_hit_damage": "連鎖攻撃ダメージ",
+    "attribute.name.chaining_hit_amount": "連鎖攻撃回数",
+    "attribute.name.restrike_hit_chance": "連続攻撃発生率",
+    "attribute.name.restrike_hit_damage": "連続攻撃ダメージ",
+    "attribute.name.restrike_hit_amount": "連続攻撃回数",
+    "attribute.name.restrike_hit_rate": "連続攻撃速度",
+    "attribute.name.life_drain_chance": "吸血効果発生率",
+    "attribute.name.life_drain_amount": "吸血効果回復量",
+    "attribute.name.extra_jump_count": "空中ジャンプ回数",
+    "attribute.name.airdash_count": "空中ダッシュ回数",
+
+    "attribute.name.": "",
+
+
+    "## 翻訳メモ・ステータス1": "--- ステータス一覧 ---",
+    "effect.cartographer.barricade": "完全防御",
+    "effect.cartographer.nullify": "鎮痛能力",
+    "effect.cartographer.evasion": "回避能力",
+    "effect.cartographer.defiance": "九死一生",
+    "effect.cartographer.warding": "衝撃拡散",
+
+    "effect.cartographer.deafened": "聴覚障害",
+    "effect.cartographer.grounded": "釘付け",
+    "effect.cartographer.silenced": "沈黙",
+    "effect.cartographer.frozen": "氷結",
+    "effect.cartographer.asleep": "睡眠",
+    "effect.cartographer.confused": "混乱",
+    "effect.cartographer.morphed": "羊化",
+    "effect.cartographer.stunned": "スタン",
+    "effect.cartographer.dazed": "眩暈",
+
+    "effect.cartographer.stealth": "ステルス",
+    "effect.cartographer.cleansed": "呪詛浄化",
+    "effect.cartographer.purged": "祝福浄化",
+    "effect.cartographer.unstoppable": "拘束解除",
+    "effect.cartographer.siphon_health": "吸収・体力",
+    "effect.cartographer.siphon_speed": "吸収・移動速度",
+    "effect.cartographer.siphon_strength": "吸収・攻撃力",
+    "effect.cartographer.harvest": "収穫",
+
+    "effect.cartographer.bleeding": "出血",
+    "effect.cartographer.shocked": "感電",
+    "effect.cartographer.infected": "感染",
+    "effect.cartographer.exposed": "無防備",
+    "effect.cartographer.shackled": "連鎖",
+    "effect.cartographer.evocation": "召牙",
+    "effect.cartographer.brittle": "脆弱",
+    "effect.cartographer.execute": "打止め",
+    "effect.cartographer.windblast": "爆風",
+    "effect.cartographer.slippery": "潤滑",
+    "effect.cartographer.oiled": "油濡れ",
+    
+    "effect.cartographer.fire_aspect": "燃焼",
+    "effect.cartographer.wither": "衰弱",
+    "effect.cartographer.absorption": "再生衝撃吸収",
+    "effect.cartographer.instant_absorption": "即時衝撃吸収",
+    "effect.cartographer.regeneration": "再生能力",
+    "effect.cartographer.instant_healing": "即時回復",
+    "effect.cartographer.instant_damage": "即時ダメージ",
+    "effect.cartographer.blindness": "盲目",
+    "effect.cartographer.armor_shred": "防御力低下",
+    "effect.cartographer.armor_buff": "防御力上昇",
+    "effect.cartographer.speed": "移動速度上昇",
+    "effect.cartographer.slowness": "移動速度低下",
+    "effect.cartographer.strength": "攻撃力上昇",
+    "effect.cartographer.weakness": "弱体化",
+
+    "effect.cartographer.": "",
+
+    "## 翻訳メモ・ステータス2": "ステータス条件 - マップメーカー用",
+    "item.modifiers.melee_hit": "近接攻撃が行った時：",
+    "item.modifiers.ranged_hit": "遠隔攻撃が命中した時：",
+    "item.modifiers.melee_ranged_hit": "攻撃が行った時：",
+    "item.modifiers.passive": "自動的に：",
+    "item.modifiers.kill": "敵を倒した時：",
+    "item.modifiers.jump": "ジャンプする時：",
+    "item.modifiers.break": "スポナーを破壊する時：",
+    "item.modifiers.consume": "消費時：",
+    "item.modifiers.attacked": "攻撃を受けた時：",
+    "item.modifiers.potion": "ポーションを投げた時：",
+    "item.modifiers.enchant_proc": "「%s」を発揮時：",
+    "item.modifiers.self": "(自分に)",
+    "item.modifiers.target": "(対象に)",
+    "item.modifiers.cooldown.auto_charge": "チャージ時間：%s秒",
+    "item.modifiers.cooldown.scavenger": "チャージ回数：%s回",
+
+    "item.modifiers.": "",
+
+    
+
+    "## 翻訳メモ・事典1": "--- 百科事典 ---",
+
+    "cartographer.lexica.name": "カートグラッファ百科事典",
+        "cartographer.lexica.lore.base_1": "この本にアイテムを置くと",
+        "cartographer.lexica.lore.base_2": "詳しい情報を鑑定する！",
+
+        "cartographer.lexica.lore.read_fail_1": "このアイテムはクリエイティブ",
+        "cartographer.lexica.lore.read_fail_2": "モードで使用できない！",
+
+        "lexica.lore.no_information": "事典情報はない",
+
+        "cartographer.lexica.lore.inspect_1": "鑑定中：",
+        "cartographer.lexica.lore.inspect_2": "カーソルを合わせる＋スクロールをしてページをめくる、",
+        "cartographer.lexica.lore.inspect_3": "そして$[右click]$をして項目を読み込める。",
+        "cartographer.lexica.lore.inspect_4": "",
+
+
+    "lexica.cartographer.effect.barricade.desc.1": "次%1$s回の受けたダメージ",
+    "lexica.cartographer.effect.barricade.desc.2": "を防ぎ、最大で%2$s層",
+    "lexica.cartographer.effect.barricade.desc.3": "累積できる。",
+    "lexica.cartographer.effect.barricade.desc.4": "",
+        "lexica.cartographer.effect.barricade.with.1": "[LVL]",
+        "lexica.cartographer.effect.barricade.with.2": "[2 * LVL]",
+
+
+    "lexica.cartographer.effect.nullify.desc.1": "次の受けたダメージを防ぐ。この",
+    "lexica.cartographer.effect.nullify.desc.2": "効果は15秒後に再度発動できる。LVLが",
+    "lexica.cartographer.effect.nullify.desc.3": "高いほど高ければ、この効果のリチャージ",
+    "lexica.cartographer.effect.nullify.desc.4": "時間を%s分で減少する。",
+        "lexica.cartographer.effect.nullify.with.1": "[15% * LVL (乗算倍率)]",
+        
+
+    "lexica.cartographer.effect.evasion.desc.1": "%sの確率で次の",
+    "lexica.cartographer.effect.evasion.desc.2": "受けたダメージを防ぐ。",
+        "lexica.cartographer.effect.evasion.with.1": "[4% * LVL]",
+
+
+    "lexica.cartographer.effect.defiance.desc.1": "次に体力が0に落ちる瞬間、",
+    "lexica.cartographer.effect.defiance.desc.2": "ダメージを完全に防ぎ、影響者",
+    "lexica.cartographer.effect.defiance.desc.3": "の残り体力が%1$sにし、",
+    "lexica.cartographer.effect.defiance.desc.4": "%2$s間で無敵状態に入る。",
+    "lexica.cartographer.effect.defiance.desc.5": "発動時に「九死一生」を解除する。",
+        "lexica.cartographer.effect.defiance.with.1": "(2❤)",
+        "lexica.cartographer.effect.defiance.with.2": "(00:03)",
+    
+    
+    "lexica.cartographer.effect.warding.desc.1": "次の受けたダメージが%2$s間ごとに",
+    "lexica.cartographer.effect.warding.desc.2": "%1$sに相当する複数ヒットに割れる。",
+    "lexica.cartographer.effect.warding.desc.3": "初回と終回のヒットのみは",
+    "lexica.cartographer.effect.warding.desc.4": "影響者を倒すことができる。",
+    "lexica.cartographer.effect.warding.desc.5": "",
+        "lexica.cartographer.effect.warding.with.1": "[1 + LVL]",
+        "lexica.cartographer.effect.warding.with.2": "(00:01)",
+
+
+    "lexica.cartographer.effect.grounded.desc.1": "影響者は「%s」効果が使用",
+    "lexica.cartographer.effect.grounded.desc.2": "できなくなる。また、ジャンプ",
+    "lexica.cartographer.effect.grounded.desc.3": "や飛行もできなくなる。",
+        "lexica.cartographer.effect.grounded.with.1": "自己移動",
+
+
+    "lexica.cartographer.effect.silenced.desc.1": "影響者は「%s」効果が使用",
+    "lexica.cartographer.effect.silenced.desc.2": "できなくなる。また、影響を",
+    "lexica.cartographer.effect.silenced.desc.3": "受けた敵は投射物を発射できない。",
+    "lexica.cartographer.effect.silenced.desc.4": "",
+        "lexica.cartographer.effect.silenced.with.1": "持続使用",
+
+
+    "lexica.cartographer.effect.frozen.desc.1": "影響者は行動できなくなる。",
+    "lexica.cartographer.effect.frozen.desc.2": "ダメージを%s受けると",
+    "lexica.cartographer.effect.frozen.desc.3": "効果を早めに終了する。",
+        "lexica.cartographer.effect.frozen.with.1": "[LVL * 3]",
+
+
+    "lexica.cartographer.effect.asleep.desc.1": "%1$s後、影響者がダメージを",
+    "lexica.cartographer.effect.asleep.desc.2": "受ける時まで行動できなくなる。",
+    "lexica.cartographer.effect.asleep.desc.3": "ダメージを受けた時、さらに",
+    "lexica.cartographer.effect.asleep.desc.4": "ダメージを%2$s受ける。",
+    "lexica.cartographer.effect.asleep.desc.5": "",
+        "lexica.cartographer.effect.asleep.with.1": "(00:02)",
+        "lexica.cartographer.effect.asleep.with.2": "[10% * LVL]",
+
+
+    "lexica.cartographer.effect.confused.desc.1": "影響者は他の仲間を攻撃とする。",
+    "lexica.cartographer.effect.confused.desc.2": "仲間を攻撃する時、ダメージを",
+    "lexica.cartographer.effect.confused.desc.3": "4与え、移動速度+20%。",
+    "lexica.cartographer.effect.confused.desc.4": "",
+
+
+    "lexica.cartographer.effect.morphed.desc.1": "影響者は子羊に変形する。",
+
+
+    "lexica.cartographer.effect.stunned.desc.1": "影響者は行動できなくなる。",
+    "lexica.cartographer.effect.stunned.desc.2": "効果終了後、「%1$s」をする、",
+    "lexica.cartographer.effect.stunned.desc.3": "継続%2$s%3$s。",
+    "lexica.cartographer.effect.stunned.desc.4": "",
+        "lexica.cartographer.effect.stunned.with.1": "眩暈",
+        "lexica.cartographer.effect.stunned.with.2": "[1 + (LVL * 0.25)]",
+        "lexica.cartographer.effect.stunned.with.3": "秒",
+
+
+    "lexica.cartographer.effect.dazed.desc.1": "影響者の移動速度と攻撃力が",
+    "lexica.cartographer.effect.dazed.desc.2": "半減された。時間経過と共に",
+    "lexica.cartographer.effect.dazed.desc.3": "失った移動速度と攻撃力を取り戻す。",
+
+
+    "lexica.cartographer.effect.stealth.desc.1": "%s範囲外の敵",
+    "lexica.cartographer.effect.stealth.desc.2": "に影響者を発見しにくくなる。",
+    "lexica.cartographer.effect.stealth.desc.3": "",
+        "lexica.cartographer.effect.stealth.with.1": "[19 - (3 * LVL)]",
+
+
+    "lexica.cartographer.effect.cleansed.desc.1": "影響者の%s",
+    "lexica.cartographer.effect.cleansed.desc.2": "全てを解除する。",
+        "lexica.cartographer.effect.cleansed.with.1": "正のステータス",
+
+
+    "lexica.cartographer.effect.purged.desc.1": "影響者の%s",
+    "lexica.cartographer.effect.purged.desc.2": "全てを解除する。",
+        "lexica.cartographer.effect.purged.with.1": "負のステータス",
+
+
+    "lexica.cartographer.effect.unstoppable.desc.1": "影響者の%s",
+    "lexica.cartographer.effect.unstoppable.desc.2": "全てを解除する。",
+        "lexica.cartographer.effect.unstoppable.with.1": "行動制限ステータス",
+
+
+    "lexica.cartographer.effect.siphon_speed.desc.1": "効果を与える者に影響者",
+    "lexica.cartographer.effect.siphon_speed.desc.2": "の移動速度を%s分奪う。",
+        "lexica.cartographer.effect.siphon_speed.with.1": "[10% * LVL]",
+
+
+    "lexica.cartographer.effect.siphon_strength.desc.1": "効果を与える者に影響者",
+    "lexica.cartographer.effect.siphon_strength.desc.2": "の攻撃力を%s分奪う。",
+        "lexica.cartographer.effect.siphon_strength.with.1": "[10% * LVL]",
+
+
+    "lexica.cartographer.effect.siphon_health.desc.1": "影響者にダメージを%1$s与え、効果を",
+    "lexica.cartographer.effect.siphon_health.desc.2": "与える者に%2$s%3$s回復する。",
+        "lexica.cartographer.effect.siphon_health.with.1": "[LVL * 2]",
+        "lexica.cartographer.effect.siphon_health.with.2": "[LVL]",
+        "lexica.cartographer.effect.siphon_health.with.3": "(❤)",
+
+
+    "lexica.cartographer.effect.harvest.desc.1": "影響者がダメージを受けた時、",
+    "lexica.cartographer.effect.harvest.desc.2": "体力回復アイテムを落ちる。",
+    "lexica.cartographer.effect.harvest.desc.3": "拾うと体力を%1$s%2$s回復する。",
+        "lexica.cartographer.effect.harvest.with.1": "[1 + LVL]",
+        "lexica.cartographer.effect.harvest.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.bleeding.desc.1": "出血%1$s層を与える。",
+    "lexica.cartographer.effect.bleeding.desc.2": "%2$s間ごとに、層数に相当する",
+    "lexica.cartographer.effect.bleeding.desc.3": "出血ダメージを与え、層数を半減する。",
+        "lexica.cartographer.effect.bleeding.with.1": "[2 * LVL]",
+        "lexica.cartographer.effect.bleeding.with.2": "(00:02)",
+
+
+    "lexica.cartographer.effect.shocked.desc.1": "%2$s間ごとに、影響者と",
+    "lexica.cartographer.effect.shocked.desc.2": "近くの敵2体にダメージ",
+    "lexica.cartographer.effect.shocked.desc.3": "を%1$s与える。",
+        "lexica.cartographer.effect.shocked.with.1": "[LVL]",
+        "lexica.cartographer.effect.shocked.with.2": "(00:01)",
+
+
+    "lexica.cartographer.effect.infected.desc.1": "%2$s毎にダメージを%1$s与える。",
+    "lexica.cartographer.effect.infected.desc.2": "影響者が死亡時、近くの敵2体に",
+    "lexica.cartographer.effect.infected.desc.3": "ダメージを5与え、「感染」する。",
+    "lexica.cartographer.effect.infected.desc.4": "",
+        "lexica.cartographer.effect.infected.with.1": "[LVL]",
+        "lexica.cartographer.effect.infected.with.2": "(00:01)",
+
+
+    "lexica.cartographer.effect.exposed.desc.1": "全種類の被ダメージ",
+    "lexica.cartographer.effect.exposed.desc.2": "%s。",
+    "lexica.cartographer.effect.exposed.desc.3": "",
+        "lexica.cartographer.effect.exposed.with.1": "+[10% * LVL]",
+
+
+    "lexica.cartographer.effect.shackled.desc.1": "影響者は他の「連鎖」された敵の",
+    "lexica.cartographer.effect.shackled.desc.2": "受けるダメージ%s分を",
+    "lexica.cartographer.effect.shackled.desc.3": "自身にダメージを与える。",
+        "lexica.cartographer.effect.shackled.with.1": "[10% * LVL]",
+
+
+    "lexica.cartographer.effect.evocation.desc.1": "効果終了後、影響者は",
+    "lexica.cartographer.effect.evocation.desc.2": "ダメージを%s受ける。",
+        "lexica.cartographer.effect.evocation.with.1": "[3 * LVL]",
+
+
+    "lexica.cartographer.effect.brittle.desc.1": "影響者は「脆弱」中でダメージを",
+    "lexica.cartographer.effect.brittle.desc.2": "%1$s受けた時、さらにダメージを",
+    "lexica.cartographer.effect.brittle.desc.3": "%2$s受ける。",
+        "lexica.cartographer.effect.brittle.with.1": "[2 * LVL]",
+        "lexica.cartographer.effect.brittle.with.2": "[3 * LVL]",
+
+
+    "lexica.cartographer.effect.execute.desc.1": "影響者の残り体力が",
+    "lexica.cartographer.effect.execute.desc.2": "%2$s%1$s以下に",
+    "lexica.cartographer.effect.execute.desc.3": "落ちた時、即死する。",
+        "lexica.cartographer.effect.execute.with.1": "[5% * LVL]",
+        "lexica.cartographer.effect.execute.with.2": "最大体力",
+
+
+    "lexica.cartographer.effect.windblast.desc.1": "影響者はダメージを受けた時、近くの",
+    "lexica.cartographer.effect.windblast.desc.2": "敵3体にダメージを%s与え、",
+    "lexica.cartographer.effect.windblast.desc.3": "ノックバックさせる。",
+        "lexica.cartographer.effect.windblast.with.1": "[3 * LVL]",
+
+
+    "lexica.cartographer.effect.slippery.desc.1": "影響者の受けたノックバック量は",
+    "lexica.cartographer.effect.slippery.desc.2": "%s分で強める。さらに、どんな高さでも",
+    "lexica.cartographer.effect.slippery.desc.3": "落下ダメージを受ける。",
+    "lexica.cartographer.effect.slippery.desc.4": "",
+        "lexica.cartographer.effect.slippery.with.1": "[30% * LVL]",
+
+
+    "lexica.cartographer.effect.oiled.desc.1": "影響者が点火された時、さらに",
+    "lexica.cartographer.effect.oiled.desc.2": "火炎ダメージを%s受ける。",
+        "lexica.cartographer.effect.oiled.with.1": "[LVL]",
+
+
+    "lexica.cartographer.effect.fire_aspect.desc.1": "持続で影響者が点火する。",
+
+
+    "lexica.cartographer.effect.wither.desc.1": "%1$s間ごとに物理ダメージを1与える。",
+    "lexica.cartographer.effect.wither.desc.2": "LVLが高いほど高ければ、効果の発動頻度",
+    "lexica.cartographer.effect.wither.desc.3": "を%2$sで早くなる。",
+        "lexica.cartographer.effect.wither.with.1": "(00:02)",
+        "lexica.cartographer.effect.wither.with.2": "[残り時間50%]",
+
+
+    "lexica.cartographer.effect.instant_absorption.desc.1": "%1$sの%2$sを即座に与える。",
+    "lexica.cartographer.effect.instant_absorption.desc.2": "効果が終了するまで継続。",
+        "lexica.cartographer.effect.instant_absorption.with.1": "[LVL]",
+        "lexica.cartographer.effect.instant_absorption.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.absorption.desc.1": "%2$s間ごとに%1$sを獲得する。LVLが",
+    "lexica.cartographer.effect.absorption.desc.2": "高いほど高ければ、効果の発動頻度",
+    "lexica.cartographer.effect.absorption.desc.3": "は%3$sで早くなる。",
+    "lexica.cartographer.effect.absorption.desc.4": "効果終了後、%4$sは数秒で維持する。",
+    "lexica.cartographer.effect.absorption.desc.5": "",
+        "lexica.cartographer.effect.absorption.with.1": "(1❤)",
+        "lexica.cartographer.effect.absorption.with.2": "(00:05)",
+        "lexica.cartographer.effect.absorption.with.3": "[50% * LVL (乗算倍率)]",
+        "lexica.cartographer.effect.absorption.with.4": "(❤)",
+
+
+    "lexica.cartographer.effect.regeneration.desc.1": "%2$s間ごとに%1$sを回復する。LVLが",
+    "lexica.cartographer.effect.regeneration.desc.2": "高いほど高ければ、効果の発動頻度",
+    "lexica.cartographer.effect.regeneration.desc.3": "は%3$sで早くなる。",
+        "lexica.cartographer.effect.regeneration.with.1": "(1❤)",
+        "lexica.cartographer.effect.regeneration.with.2": "(00:05)",
+        "lexica.cartographer.effect.regeneration.with.3": "[50% * LVL (乗算倍率)]",
+
+
+    "lexica.cartographer.effect.instant_healing.desc.1": "即座に%2$sを%1$s回復する。",
+        "lexica.cartographer.effect.instant_healing.with.1": "[LVL]",
+        "lexica.cartographer.effect.instant_healing.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.instant_damage.desc.1": "即座に物理ダメージを%s与える。",
+    "lexica.cartographer.effect.instant_damage.desc.2": "",
+        "lexica.cartographer.effect.instant_damage.with.1": "[LVL]",
+
+
+    "lexica.cartographer.effect.blindness.desc.1": "影響者の追跡範囲",
+    "lexica.cartographer.effect.blindness.desc.2": "%s。",
+        "lexica.cartographer.effect.blindness.with.1": "-[10% * LVL]",
+
+
+    "lexica.cartographer.effect.armor_buff.desc.1": "影響者の防御力",
+    "lexica.cartographer.effect.armor_buff.desc.2": "%s。",
+        "lexica.cartographer.effect.armor_buff.with.1": "+[LVL]",
+
+
+    "lexica.cartographer.effect.armor_shred.desc.1": "影響者の防御力",
+    "lexica.cartographer.effect.armor_shred.desc.2": "%s。",
+        "lexica.cartographer.effect.armor_shred.with.1": "-[10% * LVL]",
+
+
+    "lexica.cartographer.effect.speed.desc.1": "影響者の移動速度",
+    "lexica.cartographer.effect.speed.desc.2": "%s。",
+        "lexica.cartographer.effect.speed.with.1": "+[10% * LVL]",
+
+
+    "lexica.cartographer.effect.slowness.desc.1": "影響者の移動速度",
+    "lexica.cartographer.effect.slowness.desc.2": "%s。",
+        "lexica.cartographer.effect.slowness.with.1": "-[10% * LVL]",
+
+
+    "lexica.cartographer.effect.strength.desc.1": "影響者の攻撃力",
+    "lexica.cartographer.effect.strength.desc.2": "%s。",
+        "lexica.cartographer.effect.strength.with.1": "+[10% * LVL]",
+
+
+    "lexica.cartographer.effect.weakness.desc.1": "影響者の攻撃力",
+    "lexica.cartographer.effect.weakness.desc.2": "%s。",
+        "lexica.cartographer.effect.weakness.with.1": "-[10% * LVL]",
+
+
+
+    "lexica.cartographer.attribute.ranged_damage.desc.1": "投射物の与ダメージ",
+    "lexica.cartographer.attribute.ranged_damage.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.ranged_damage.desc.1": "投射物の与ダメージ",
+    "lexica.cartographer.attribute.negative.ranged_damage.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.ranged_velocity.desc.1": "投射物の速度",
+    "lexica.cartographer.attribute.ranged_velocity.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.ranged_velocity.desc.1": "投射物の速度",
+    "lexica.cartographer.attribute.negative.ranged_velocity.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.combat_luck.desc.1": "ランダム効果を発動時、",
+    "lexica.cartographer.attribute.combat_luck.desc.2": "有益結果に偏る。",
+    "lexica.cartographer.attribute.combat_luck.desc.3": "",
+
+    "lexica.cartographer.attribute.negative.combat_luck.desc.1": "ランダム効果を発動時、",
+    "lexica.cartographer.attribute.negative.combat_luck.desc.2": "有害結果に偏る。",
+    "lexica.cartographer.attribute.negative.combat_luck.desc.3": "",
+
+
+    "lexica.cartographer.attribute.potion_size.desc.1": "スプラッシュポーションの",
+    "lexica.cartographer.attribute.potion_size.desc.2": "カスタム効果の範囲内",
+    "lexica.cartographer.attribute.potion_size.desc.3": "を拡大する。",
+
+    "lexica.cartographer.attribute.negative.potion_size.desc.1": "スプラッシュポーションの",
+    "lexica.cartographer.attribute.negative.potion_size.desc.2": "カスタム効果の範囲内",
+    "lexica.cartographer.attribute.negative.potion_size.desc.3": "を縮小する。",
+
+
+    "lexica.cartographer.attribute.aoe_size.desc.1": "範囲効果の影響範囲を拡大する。",
+
+    "lexica.cartographer.attribute.negative.aoe_size.desc.1": "範囲効果の影響範囲を縮小する。",
+
+
+    "lexica.cartographer.attribute.aoe_damage.desc.1": "範囲効果による与ダメージ",
+    "lexica.cartographer.attribute.aoe_damage.desc.2": "を上昇する。",
+
+    "lexica.cartographer.attribute.negative.aoe_damage.desc.1": "範囲効果による与ダメージ",
+    "lexica.cartographer.attribute.negative.aoe_damage.desc.2": "を減少する。",
+
+
+    "lexica.cartographer.attribute.status_inflict_damage.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.status_inflict_damage.desc.2": "による与ダメージを上昇する。",
+
+    "lexica.cartographer.attribute.negative.status_inflict_damage.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.negative.status_inflict_damage.desc.2": "による与ダメージを減少する。",
+
+
+    "lexica.cartographer.attribute.status_inflict_duration.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.status_inflict_duration.desc.2": "の継続時間を延長する。",
+
+    "lexica.cartographer.attribute.negative.status_inflict_duration.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.negative.status_inflict_duration.desc.2": "の継続時間を短縮する。",
+
+
+    "lexica.cartographer.attribute.status_inflict_potency.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.status_inflict_potency.desc.2": "の効力を上昇する。",
+
+    "lexica.cartographer.attribute.negative.status_inflict_potency.desc.1": "与えたカスタムステータス効果",
+    "lexica.cartographer.attribute.negative.status_inflict_potency.desc.2": "の効力を減少する。",
+
+
+    "lexica.cartographer.attribute.status_apply_duration.desc.1": "受けたカスタムステータス効果",
+    "lexica.cartographer.attribute.status_apply_duration.desc.2": "の継続時間を延長する。",
+
+    "lexica.cartographer.attribute.negative.status_apply_duration.desc.1": "受けたカスタムステータス効果",
+    "lexica.cartographer.attribute.negative.status_apply_duration.desc.2": "の継続時間を短縮する。",
+
+
+    "lexica.cartographer.attribute.status_apply_potency.desc.1": "受けたカスタムステータス効果",
+    "lexica.cartographer.attribute.status_apply_potency.desc.2": "の効力を上昇する。",
+
+    "lexica.cartographer.attribute.negative.status_apply_potency.desc.1": "受けたカスタムステータス効果",
+    "lexica.cartographer.attribute.negative.status_apply_potency.desc.2": "の効力を減少する。",
+
+
+    "lexica.cartographer.attribute.healing_power.desc.1": "使用者に与えた回復量",
+    "lexica.cartographer.attribute.healing_power.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.healing_power.desc.1": "使用者に与えた回復量",
+    "lexica.cartographer.attribute.negative.healing_power.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.4": "%4$s：攻撃の基礎ダメージ",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.5": "25%%分を相手に与える。",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.6": "",
+        "lexica.cartographer.attribute.lucky_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.lucky_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.lucky_hit_chance.with.3": "会心攻撃",
+        "lexica.cartographer.attribute.lucky_hit_chance.with.4": "会心攻撃",
+
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.4": "%4$s：攻撃の基礎ダメージ",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.5": "25%%分を相手に与える。",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.6": "",
+        "lexica.cartographer.attribute.negative.lucky_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.negative.lucky_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "会心攻撃",
+        "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "会心攻撃",
+
+
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.1": "「%1$s」の与ダメージを上昇する。",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.3": "%2$s：攻撃の基礎ダメージ",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.4": "25%%分を相手に与える。",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.5": "",
+        "lexica.cartographer.attribute.lucky_hit_damage.with.1": "会心攻撃",
+        "lexica.cartographer.attribute.lucky_hit_damage.with.2": "会心攻撃",
+
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.1": "「%1$s」の与ダメージを減少する。",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.3": "%2$s：攻撃の基礎ダメージ",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.4": "25%%分を相手に与える。",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.5": "",
+        "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "会心攻撃",
+        "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "会心攻撃",
+
+
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.4": "%4$s：近くの敵に",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.5": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.6": "を与える。",
+        "lexica.cartographer.attribute.chaining_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.chaining_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.chaining_hit_chance.with.3": "拡散攻撃",
+        "lexica.cartographer.attribute.chaining_hit_chance.with.4": "拡散攻撃",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.4": "%4$s：近くの敵に",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.5": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.6": "を与える。",
+        "lexica.cartographer.attribute.negative.chaining_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.negative.chaining_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.negative.chaining_hit_chance.with.3": "拡散攻撃",
+        "lexica.cartographer.attribute.negative.chaining_hit_chance.with.4": "拡散攻撃",
+
+
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.1": "「%1$s」の与ダメージを上昇する。",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.3": "%2$s：近くの敵に",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.4": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.5": "を与える。",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.6": "",
+        "lexica.cartographer.attribute.chaining_hit_damage.with.1": "拡散攻撃",
+        "lexica.cartographer.attribute.chaining_hit_damage.with.2": "拡散攻撃",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.1": "「%1$s」の与ダメージを減少する。",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.3": "%2$s：近くの敵に",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.4": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.5": "を与える。",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.6": "",
+        "lexica.cartographer.attribute.negative.chaining_hit_damage.with.1": "拡散攻撃",
+        "lexica.cartographer.attribute.negative.chaining_hit_damage.with.2": "拡散攻撃",
+
+
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.1": "「%1$s」の影響を与える",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.2": "敵の数を上昇する。",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.4": "%2$s：近くの敵に",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.5": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.6": "を与える。",
+        "lexica.cartographer.attribute.chaining_hit_amount.with.1": "拡散攻撃",
+        "lexica.cartographer.attribute.chaining_hit_amount.with.2": "拡散攻撃",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.1": "「%1$s」の影響を与える",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.2": "敵の数を減少する。",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.4": "%2$s：近くの敵に",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.5": "攻撃の総計ダメージ50%%分",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.6": "を与える。",
+        "lexica.cartographer.attribute.negative.chaining_hit_amount.with.1": "拡散攻撃",
+        "lexica.cartographer.attribute.negative.chaining_hit_amount.with.2": "拡散攻撃",
+
+
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.4": "%4$s：攻撃をする後の",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.6": "25%%分を与える。",
+        "lexica.cartographer.attribute.restrike_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.restrike_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.restrike_hit_chance.with.3": "連続攻撃",
+        "lexica.cartographer.attribute.restrike_hit_chance.with.4": "連続攻撃",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.1": "%1$s：%2$sは「%3$s」",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.2": "が発生できる。",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.4": "%4$s：攻撃をする後の",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.6": "25%%分を与える。",
+        "lexica.cartographer.attribute.negative.restrike_hit_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.negative.restrike_hit_chance.with.2": "武器攻撃",
+        "lexica.cartographer.attribute.negative.restrike_hit_chance.with.3": "連続攻撃",
+        "lexica.cartographer.attribute.negative.restrike_hit_chance.with.4": "連続攻撃",
+
+
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.1": "「%1$s」の与ダメージを上昇する。",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.2": "",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.3": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.4": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.5": "25%%分を与える。",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.6": "",
+        "lexica.cartographer.attribute.restrike_hit_damage.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.restrike_hit_damage.with.2": "連続攻撃",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.1": "「%1$s」の与ダメージを減少する。",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.2": "",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.3": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.4": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.5": "25%%分を与える。",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.6": "",
+        "lexica.cartographer.attribute.negative.restrike_hit_damage.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.negative.restrike_hit_damage.with.2": "連続攻撃",
+
+
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.1": "「%1$s」の攻撃回数",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.2": "を上昇する。",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.4": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.6": "25%%分を与える。",
+        "lexica.cartographer.attribute.restrike_hit_amount.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.restrike_hit_amount.with.2": "連続攻撃",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.1": "「%1$s」の攻撃回数",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.2": "を減少する。",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.4": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.6": "25%%分を与える。",
+        "lexica.cartographer.attribute.negative.restrike_hit_amount.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.negative.restrike_hit_amount.with.2": "連続攻撃",
+
+
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.1": "「%1$s」の発生頻度の",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.2": "間隔を短縮する。",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.4": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.6": "25%%分を与える。",  
+        "lexica.cartographer.attribute.restrike_hit_rate.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.restrike_hit_rate.with.2": "連続攻撃",
+    
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.1": "「%1$s」の発生頻度の",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.2": "間隔を延長する。",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.4": "%2$s：攻撃をする後の",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.5": "数秒後、相手に総計ダメージ",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.6": "25%%分を与える。",  
+        "lexica.cartographer.attribute.negative.restrike_hit_rate.with.1": "連続攻撃",
+        "lexica.cartographer.attribute.negative.restrike_hit_rate.with.2": "連続攻撃",
+
+
+    "lexica.cartographer.attribute.life_drain_chance.desc.1": "%1$s：ダメージを与えると",
+    "lexica.cartographer.attribute.life_drain_chance.desc.2": "「%2$s」が発生できる。",
+    "lexica.cartographer.attribute.life_drain_chance.desc.3": " ",
+    "lexica.cartographer.attribute.life_drain_chance.desc.4": "%3$s：発動時、%4$s",
+    "lexica.cartographer.attribute.life_drain_chance.desc.5": "を回復する。",
+        "lexica.cartographer.attribute.life_drain_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.life_drain_chance.with.2": "吸血攻撃",
+        "lexica.cartographer.attribute.life_drain_chance.with.3": "吸血攻撃",
+        "lexica.cartographer.attribute.life_drain_chance.with.4": "(1❤)",
+
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.1": "%1$s：ダメージを与えると",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.2": "「%2$s」が発生できる。",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.4": "%3$s：発動時、%4$s",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.5": "を回復する。",
+        "lexica.cartographer.attribute.negative.life_drain_chance.with.1": "ランダム",
+        "lexica.cartographer.attribute.negative.life_drain_chance.with.2": "吸血攻撃",
+        "lexica.cartographer.attribute.negative.life_drain_chance.with.3": "吸血攻撃",
+        "lexica.cartographer.attribute.negative.life_drain_chance.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.life_drain_amount.desc.1": "「%2$s」による%1$s",
+    "lexica.cartographer.attribute.life_drain_amount.desc.2": "の回復量を上昇する。",
+    "lexica.cartographer.attribute.life_drain_amount.desc.3": " ",
+    "lexica.cartographer.attribute.life_drain_amount.desc.4": "%3$s：発動時、%4$s",
+    "lexica.cartographer.attribute.life_drain_amount.desc.5": "を回復する。",
+        "lexica.cartographer.attribute.life_drain_amount.with.1": "(❤)",
+        "lexica.cartographer.attribute.life_drain_amount.with.2": "吸血攻撃",
+        "lexica.cartographer.attribute.life_drain_amount.with.3": "吸血攻撃",
+        "lexica.cartographer.attribute.life_drain_amount.with.4": "(1❤)",
+
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.1": "「%2$s」による%1$s",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.2": "の回復量を減少する。",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.4": "%3$s：発動時、%4$s",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.5": "を回復する。",
+        "lexica.cartographer.attribute.negative.life_drain_amount.with.1": "(❤)",
+        "lexica.cartographer.attribute.negative.life_drain_amount.with.2": "吸血攻撃",
+        "lexica.cartographer.attribute.negative.life_drain_amount.with.3": "吸血攻撃",
+        "lexica.cartographer.attribute.negative.life_drain_amount.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.extra_jump_count.desc.1": "空中に[%s]を押して",
+    "lexica.cartographer.attribute.extra_jump_count.desc.2": "行った空中ジャンプの使用回数",
+    "lexica.cartographer.attribute.extra_jump_count.desc.3": "を上昇する。",
+
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.1": "空中に[%s]を押して",
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.2": "行った空中ジャンプの使用回数",
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.3": "を減少する。",
+
+
+    "lexica.cartographer.attribute.air_dash_count.desc.1": "空中に[%s]を押して",
+    "lexica.cartographer.attribute.air_dash_count.desc.2": "行った方向ダッシュの使用回数",
+    "lexica.cartographer.attribute.air_dash_count.desc.3": "を上昇する。",
+
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.1": "空中に[%s]を押して",
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.2": "行った方向ダッシュの使用回数",
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.3": "を減少する。",
+
+
+    "lexica.cartographer.attribute.armor.desc.1": "ダメージを軽減する",
+    "lexica.cartographer.attribute.armor.desc.2": "防御値をアップする。",
+
+    "lexica.cartographer.attribute.negative.armor.desc.1": "ダメージを軽減する",
+    "lexica.cartographer.attribute.negative.armor.desc.2": "防御値をダウンする。",
+
+
+    "lexica.cartographer.attribute.armor_toughness.desc.1": "%sの効果を強化する",
+    "lexica.cartographer.attribute.armor_toughness.desc.2": "防御強度をアップする。",
+        "lexica.cartographer.attribute.armor_toughness.with.1": "防御力",
+
+    "lexica.cartographer.attribute.negative.armor_toughness.desc.1": "%sの効果を強化する",
+    "lexica.cartographer.attribute.negative.armor_toughness.desc.2": "防御強度をダウンする。",
+        "lexica.cartographer.attribute.negative.armor_toughness.with.1": "防御力",
+
+
+    "lexica.cartographer.attribute.attack_damage.desc.1": "近接攻撃による与ダメージ",
+    "lexica.cartographer.attribute.attack_damage.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.attack_damage.desc.1": "近接攻撃による与ダメージ",
+    "lexica.cartographer.attribute.negative.attack_damage.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.attack_knockback.desc.1": "近接攻撃によるノックバック力",
+    "lexica.cartographer.attribute.attack_knockback.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.attack_knockback.desc.1": "近接攻撃によるノックバック力",
+    "lexica.cartographer.attribute.negative.attack_knockback.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.attack_speed.desc.1": "攻撃クールダウンを短縮する。",
+    "lexica.cartographer.attribute.attack_speed.desc.2": "",
+
+    "lexica.cartographer.attribute.negative.attack_speed.desc.1": "攻撃クールダウンを延長する。",
+    "lexica.cartographer.attribute.negative.attack_speed.desc.2": "",
+
+
+    "lexica.cartographer.attribute.follow_range.desc.1": "敵に使用者を追跡する",
+    "lexica.cartographer.attribute.follow_range.desc.2": "範囲をアップする。",
+
+    "lexica.cartographer.attribute.negative.follow_range.desc.1": "敵に使用者を追跡する",
+    "lexica.cartographer.attribute.negative.follow_range.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.knockback_resistance.desc.1": "受けたノックバック量",
+    "lexica.cartographer.attribute.knockback_resistance.desc.2": "を減少する。",
+
+    "lexica.cartographer.attribute.negative.knockback_resistance.desc.1": "受けたノックバック量",
+    "lexica.cartographer.attribute.negative.knockback_resistance.desc.2": "を上昇する。",
+
+
+    "lexica.cartographer.attribute.max_health.desc.1": "体力の上限をアップする。",
+
+    "lexica.cartographer.attribute.negative.max_health.desc.1": "体力の上限をダウンする。",
+
+
+    "lexica.cartographer.attribute.speed.desc.1": "歩行速度をアップする。",
+    "lexica.cartographer.attribute.speed.desc.2": "",
+
+    "lexica.cartographer.attribute.negative.speed.desc.1": "歩行速度をダウンする。",
+    "lexica.cartographer.attribute.negative.speed.desc.2": "",
+
+
+    "lexica.cartographer.attribute.scale.desc.1": "大きさとヒットボックス",
+    "lexica.cartographer.attribute.scale.desc.2": "を拡大する。",
+
+    "lexica.cartographer.attribute.negative.scale.desc.1": "大きさとヒットボックス",
+    "lexica.cartographer.attribute.negative.scale.desc.2": "を縮小する。",
+
+
+    "lexica.cartographer.attribute.step_height.desc.1": "ジャンプせずに登れる",
+    "lexica.cartographer.attribute.step_height.desc.2": "段差の高さをアップする。",
+
+    "lexica.cartographer.attribute.negative.step_height.desc.1": "ジャンプせずに登れる",
+    "lexica.cartographer.attribute.negative.step_height.desc.2": "段差の高さをダウンする。",
+
+
+    "lexica.cartographer.attribute.jump_strength.desc.1": "ジャンプの高さ",
+    "lexica.cartographer.attribute.jump_strength.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.jump_strength.desc.1": "ジャンプの高さ",
+    "lexica.cartographer.attribute.negative.jump_strength.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.block_interaction_range.desc.1": "手が届き、破壊や操作を行うこと",
+    "lexica.cartographer.attribute.block_interaction_range.desc.2": "の出来るブロックの範囲を拡大する。",
+
+    "lexica.cartographer.attribute.negative.block_interaction_range.desc.1": "手が届き、破壊や操作を行うこと",
+    "lexica.cartographer.attribute.negative.block_interaction_range.desc.2": "の出来るブロックの範囲を短縮する。",
+
+
+    "lexica.cartographer.attribute.entity_interaction_range.desc.1": "手が届き、攻撃や交流を行うこと",
+    "lexica.cartographer.attribute.entity_interaction_range.desc.2": "の出来る敵の範囲を拡大する。",
+
+    "lexica.cartographer.attribute.negative.entity_interaction_range.desc.1": "手が届き、攻撃や交流を行うこと",
+    "lexica.cartographer.attribute.negative.entity_interaction_range.desc.2": "の出来る敵の範囲を短縮する。",
+
+
+    "lexica.cartographer.attribute.block_break_speed.desc.1": "ブロックの破壊速度に",
+    "lexica.cartographer.attribute.block_break_speed.desc.2": "かかる倍率をアップする。",
+
+    "lexica.cartographer.attribute.negative.block_break_speed.desc.1": "ブロックの破壊速度に",
+    "lexica.cartographer.attribute.negative.block_break_speed.desc.2": "かかる倍率をダウンする。",
+
+
+    "lexica.cartographer.attribute.gravity.desc.1": "重力の影響を",
+    "lexica.cartographer.attribute.gravity.desc.2": "強くなる。",
+
+    "lexica.cartographer.attribute.negative.gravity.desc.1": "重力の影響を",
+    "lexica.cartographer.attribute.negative.gravity.desc.2": "弱くなる。",
+
+
+    "lexica.cartographer.attribute.safe_fall_distance.desc.1": "落下しても落下",
+    "lexica.cartographer.attribute.safe_fall_distance.desc.2": "ダメージを受けない距離",
+    "lexica.cartographer.attribute.safe_fall_distance.desc.3": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.1": "落下しても落下",
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.2": "ダメージを受けない距離",
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.3": "をダウンする。",
+    
+
+    "lexica.cartographer.attribute.fall_damage_multiplier.desc.1": "落下ダメージ量",
+    "lexica.cartographer.attribute.fall_damage_multiplier.desc.2": "をアップする。",
+
+    "lexica.cartographer.attribute.negative.fall_damage_multiplier.desc.1": "落下ダメージ量",
+    "lexica.cartographer.attribute.negative.fall_damage_multiplier.desc.2": "をダウンする。",
+
+
+    "lexica.cartographer.attribute.burning_time.desc.1": "炎上の継続時間",
+    "lexica.cartographer.attribute.burning_time.desc.2": "を短縮する。",
+
+    "lexica.cartographer.attribute.negative.burning_time.desc.1": "炎上の継続時間",
+    "lexica.cartographer.attribute.negative.burning_time.desc.2": "を延長する。",
+
+
+    "lexica.cartographer.attribute.explosion_knockback_resistance.desc.1": "爆発に対する%s",
+    "lexica.cartographer.attribute.explosion_knockback_resistance.desc.2": "をアップする。",
+        "lexica.cartographer.attribute.explosion_knockback_resistance.with.1": "ノックバック耐性",
+
+    "lexica.cartographer.attribute.negative.explosion_knockback_resistance.desc.1": "爆発に対する%s",
+    "lexica.cartographer.attribute.negative.explosion_knockback_resistance.desc.2": "をダウンする。",
+        "lexica.cartographer.attribute.negative.explosion_knockback_resistance.with.1": "ノックバック耐性",
+
+
+    "lexica.cartographer.attribute.mining_efficiency.desc.1": "適用の道具を使用する時の",
+    "lexica.cartographer.attribute.mining_efficiency.desc.2": "採掘速度をアップする。",
+
+    "lexica.cartographer.attribute.negative.mining_efficiency.desc.1": "適用の道具を使用する時の",
+    "lexica.cartographer.attribute.negative.mining_efficiency.desc.2": "採掘速度をダウンする。",
+
+
+    "lexica.cartographer.attribute.movement_efficiency.desc.1": "障害物による%sの",
+    "lexica.cartographer.attribute.movement_efficiency.desc.2": "減速効果を弱くなる。",
+    "lexica.cartographer.attribute.movement_efficiency.desc.3": "",
+        "lexica.cartographer.attribute.movement_efficiency.with.1": "移動速度",
+
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.1": "障害物による%sの",
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.2": "減速効果を強くなる。",
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.3": "",
+        "lexica.cartographer.attribute.negative.movement_efficiency.with.1": "移動速度",
+
+
+    "lexica.cartographer.attribute.oxygen_bonus.desc.1": "水中にいる毎秒で酸素値",
+    "lexica.cartographer.attribute.oxygen_bonus.desc.2": "の減少確率をダウンする。",
+
+    "lexica.cartographer.attribute.negative.oxygen_bonus.desc.1": "水中にいる毎秒で酸素値",
+    "lexica.cartographer.attribute.negative.oxygen_bonus.desc.2": "の減少確率をアップする。",
+
+
+    "lexica.cartographer.attribute.sneaking_speed.desc.1": "スニークによる%sの",
+    "lexica.cartographer.attribute.sneaking_speed.desc.2": "減速効果を弱くなる。",
+        "lexica.cartographer.attribute.sneaking_speed.with.1": "移動速度",
+
+    "lexica.cartographer.attribute.negative.sneaking_speed.desc.1": "スニークによる%sの",
+    "lexica.cartographer.attribute.negative.sneaking_speed.desc.2": "減速効果を強くなる。",
+        "lexica.cartographer.attribute.negative.sneaking_speed.with.1": "移動速度",
+
+
+    "lexica.cartographer.attribute.submerged_mining_speed.desc.1": "水中にいる採掘速度の",
+    "lexica.cartographer.attribute.submerged_mining_speed.desc.2": "減速効果を弱くなる。",
+
+    "lexica.cartographer.attribute.negative.submerged_mining_speed.desc.1": "水中にいる採掘速度の",
+    "lexica.cartographer.attribute.negative.submerged_mining_speed.desc.2": "減速効果を強くなる。",
+
+
+    "lexica.cartographer.attribute.sweeping_damage_ratio.desc.1": "なぎ払い攻撃のダメージ",
+    "lexica.cartographer.attribute.sweeping_damage_ratio.desc.2": "倍率をアップする。",
+
+    "lexica.cartographer.attribute.negative.sweeping_damage_ratio.desc.1": "なぎ払い攻撃のダメージ",
+    "lexica.cartographer.attribute.negative.sweeping_damage_ratio.desc.2": "倍率をダウンする。",
+
+
+    "lexica.cartographer.attribute.water_movement_efficiency.desc.1": "水中にいる%sの",
+    "lexica.cartographer.attribute.water_movement_efficiency.desc.2": "減速効果を弱くなる。",
+        "lexica.cartographer.attribute.water_movement_efficiency.with.1": "移動速度",
+
+    "lexica.cartographer.attribute.negative.water_movement_efficiency.desc.1": "水中にいる%sの",
+    "lexica.cartographer.attribute.negative.water_movement_efficiency.desc.2": "減速効果を強くなる。",
+        "lexica.cartographer.attribute.negative.water_movement_efficiency.with.1": "移動速度",
+
+
+
+    "lexica.cartographer.enchantment.hazard_protection.desc.1": "%1$s：火炎、爆発、魔法から",
+    "lexica.cartographer.enchantment.hazard_protection.desc.2": "の受けた被ダメージ",
+    "lexica.cartographer.enchantment.hazard_protection.desc.3": "%2$s",
+        "lexica.cartographer.enchantment.hazard_protection.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.hazard_protection.with.2": "-[4% * LVL]",
+
+
+    "lexica.cartographer.enchantment.melee_protection.desc.1": "%1$s：近接攻撃からの受けた",
+    "lexica.cartographer.enchantment.melee_protection.desc.2": "被ダメージ%2$s。",
+        "lexica.cartographer.enchantment.melee_protection.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.melee_protection.with.2": "-[4% * LVL]",
+
+
+    "lexica.cartographer.enchantment.ranged_protection.desc.1": "%1$s：遠隔攻撃からの受けた",
+    "lexica.cartographer.enchantment.ranged_protection.desc.2": "被ダメージ%2$s。",
+        "lexica.cartographer.enchantment.ranged_protection.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.ranged_protection.with.2": "-[4% * LVL]",
+
+
+    "lexica.cartographer.enchantment.agility.desc.1": "%1$s：%3$sの高さ%2$sブロック。",
+    "lexica.cartographer.enchantment.agility.desc.2": "",
+        "lexica.cartographer.enchantment.agility.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.agility.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.agility.with.3": "跳躍力",
+
+
+    "lexica.cartographer.enchantment.amplitude.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.amplitude.desc.2": "",
+        "lexica.cartographer.enchantment.amplitude.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.amplitude.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.amplitude.with.3": "効果範囲",
+
+
+    "lexica.cartographer.enchantment.celerity.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.celerity.desc.2": "",
+        "lexica.cartographer.enchantment.celerity.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.celerity.with.2": "+[4% * LVL]",
+        "lexica.cartographer.enchantment.celerity.with.3": "移動速度",
+
+
+    "lexica.cartographer.enchantment.cloudstep.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.cloudstep.desc.2": "",
+        "lexica.cartographer.enchantment.cloudstep.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.cloudstep.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.cloudstep.with.3": "空中ジャンプ回数",
+
+
+    "lexica.cartographer.enchantment.dexterity.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.dexterity.desc.2": "",
+        "lexica.cartographer.enchantment.dexterity.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.dexterity.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.dexterity.with.3": "攻撃速度",
+
+
+    "lexica.cartographer.enchantment.echo.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.echo.desc.2": "%4$s+2.0。",
+    "lexica.cartographer.enchantment.echo.desc.3": "追加されたLVL+2につき、",
+    "lexica.cartographer.enchantment.echo.desc.4": "%5$s-1。",
+    "lexica.cartographer.enchantment.echo.desc.5": "",
+        "lexica.cartographer.enchantment.echo.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.echo.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.echo.with.3": "連続攻撃ダメージ",
+        "lexica.cartographer.enchantment.echo.with.4": "連続攻撃発生率",
+        "lexica.cartographer.enchantment.echo.with.5": "連続攻撃数回",
+
+
+    "lexica.cartographer.enchantment.extended.desc.1": "%1$s：%3$sと",
+    "lexica.cartographer.enchantment.extended.desc.2": "%4$s%2$s。",
+    "lexica.cartographer.enchantment.extended.desc.3": "",
+
+    "lexica.cartographer.enchantment.extended.with.1": "装備したとき",
+    "lexica.cartographer.enchantment.extended.with.2": "+[0.25 * LVL]",
+    "lexica.cartographer.enchantment.extended.with.3": "ブロック操作範囲",
+    "lexica.cartographer.enchantment.extended.with.4": "エンティティ操作範囲",
+
+
+    "lexica.cartographer.enchantment.finesse.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.finesse.desc.2": "",
+        "lexica.cartographer.enchantment.finesse.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.finesse.with.2": "+[5% * LVL]",
+        "lexica.cartographer.enchantment.finesse.with.3": "攻撃力",
+
+
+    "lexica.cartographer.enchantment.handling.desc.1": "%1$s：%3$s",
+    "lexica.cartographer.enchantment.handling.desc.2": "%2$s。",
+        "lexica.cartographer.enchantment.handling.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.handling.with.2": "+[3 * LVL]",
+        "lexica.cartographer.enchantment.handling.with.3": "採掘効率",
+
+
+    "lexica.cartographer.enchantment.immovable.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.immovable.desc.2": "",
+        "lexica.cartographer.enchantment.immovable.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.immovable.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.immovable.with.3": "ノックバック耐性",
+
+
+    "lexica.cartographer.enchantment.invigorated.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.invigorated.desc.2": "",
+        "lexica.cartographer.enchantment.invigorated.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.invigorated.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.invigorated.with.3": "回復効率",
+
+
+    "lexica.cartographer.enchantment.lifesteal.desc.1": "%1$s：%3$s",
+    "lexica.cartographer.enchantment.lifesteal.desc.2": "%2$s。また、",
+    "lexica.cartographer.enchantment.lifesteal.desc.3": "%4$s+1。",
+    "lexica.cartographer.enchantment.lifesteal.desc.4": "",
+        "lexica.cartographer.enchantment.lifesteal.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.lifesteal.with.2": "+[5% * LVL]",
+        "lexica.cartographer.enchantment.lifesteal.with.3": "吸血効果発生率",
+        "lexica.cartographer.enchantment.lifesteal.with.4": "吸血効果回復量",
+
+
+    "lexica.cartographer.enchantment.lucky.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.lucky.desc.2": "",
+        "lexica.cartographer.enchantment.lucky.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.lucky.with.2": "+[0.2 * LVL]]",
+        "lexica.cartographer.enchantment.lucky.with.3": "戦闘運",
+
+
+    "lexica.cartographer.enchantment.precision.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.precision.desc.2": "",
+        "lexica.cartographer.enchantment.precision.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.precision.with.2": "+[5% * LVL]",
+        "lexica.cartographer.enchantment.precision.with.3": "遠隔攻撃力",
+
+
+    "lexica.cartographer.enchantment.resonance.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.resonance.desc.2": "",
+        "lexica.cartographer.enchantment.resonance.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.resonance.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.resonance.with.3": "範囲ダメージ",
+
+
+    "lexica.cartographer.enchantment.reverb.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.reverb.desc.2": "また、 %4$s+2.0。",
+    "lexica.cartographer.enchantment.reverb.desc.3": "",
+        "lexica.cartographer.enchantment.reverb.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.reverb.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.reverb.with.3": "連鎖攻撃回数",
+        "lexica.cartographer.enchantment.reverb.with.4": "連鎖攻撃発生率",
+
+
+    "lexica.cartographer.enchantment.technique.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.technique.desc.2": "",
+        "lexica.cartographer.enchantment.technique.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.technique.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.technique.with.3": "会心率",
+
+
+    "lexica.cartographer.enchantment.traveling.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.traveling.desc.2": "",
+        "lexica.cartographer.enchantment.traveling.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.traveling.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.traveling.with.3": "階差上限",
+
+
+    "lexica.cartographer.enchantment.vitality.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.vitality.desc.2": "",
+        "lexica.cartographer.enchantment.vitality.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.vitality.with.2": "+[5% * LVL]",
+        "lexica.cartographer.enchantment.vitality.with.3": "最大体力",
+
+
+    "lexica.cartographer.enchantment.windborn.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.windborn.desc.2": "",
+        "lexica.cartographer.enchantment.windborn.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.windborn.with.2": "+[LVL]",
+        "lexica.cartographer.enchantment.windborn.with.3": "空中ダッシュ回数",
+
+
+    "lexica.cartographer.enchantment.bracing.desc.1": "%1$s：%2$s Iを獲得する。",
+    "lexica.cartographer.enchantment.bracing.desc.2": " ",
+    "lexica.cartographer.enchantment.bracing.desc.3": "要塞からの%2$s",
+    "lexica.cartographer.enchantment.bracing.desc.4": "チャージは最大で%3$s層獲得できる。",
+        "lexica.cartographer.enchantment.bracing.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.bracing.with.2": "完全防御",
+        "lexica.cartographer.enchantment.bracing.with.3": "[LVL]",
+        "lexica.cartographer.enchantment.bracing.with.4": "完全防御",
+
+
+    "lexica.cartographer.enchantment.decontaminate.desc.1": "%1$s：新しいデバフが受けた時、",
+    "lexica.cartographer.enchantment.decontaminate.desc.2": "%2$sの確率で「%3$s」を獲得し、",
+    "lexica.cartographer.enchantment.decontaminate.desc.3": "継続%4$s。",
+    "lexica.cartographer.enchantment.decontaminate.desc.4": "",
+        "lexica.cartographer.enchantment.decontaminate.with.1": "ランダム",
+        "lexica.cartographer.enchantment.decontaminate.with.2": "[5% * LVL]",
+        "lexica.cartographer.enchantment.decontaminate.with.3": "呪詛浄化",
+        "lexica.cartographer.enchantment.decontaminate.with.4": "(00:02)",
+
+
+    "lexica.cartographer.enchantment.evasion.desc.1": "%1$s：%2$s %3$sを獲得する。",
+        "lexica.cartographer.enchantment.evasion.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.evasion.with.2": "回避能力",
+        "lexica.cartographer.enchantment.evasion.with.3": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.hastiness.desc.1": "%1$s：%3$sと%4$s",
+    "lexica.cartographer.enchantment.hastiness.desc.2": "%2$s。",
+    "lexica.cartographer.enchantment.hastiness.desc.3": "継続%5$s。",
+        "lexica.cartographer.enchantment.hastiness.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.hastiness.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.hastiness.with.3": "攻撃速度",
+        "lexica.cartographer.enchantment.hastiness.with.4": "採掘効率",
+        "lexica.cartographer.enchantment.hastiness.with.5": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.lifeblood.desc.1": "%1$s：%3$sを%2$s獲得し、継続%4$s。",
+    "lexica.cartographer.enchantment.lifeblood.desc.2": " ",
+    "lexica.cartographer.enchantment.lifeblood.desc.3": "最大%5$s %6$sまで重ね掛けできる。",
+        "lexica.cartographer.enchantment.lifeblood.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.lifeblood.with.2": "[LVL]",
+        "lexica.cartographer.enchantment.lifeblood.with.3": "(❤)",
+        "lexica.cartographer.enchantment.lifeblood.with.4": "(00:15)",
+        "lexica.cartographer.enchantment.lifeblood.with.5": "[2 * LVL]",
+        "lexica.cartographer.enchantment.lifeblood.with.6": "(❤)",
+
+
+    "lexica.cartographer.enchantment.mightiness.desc.1": "%1$s：%3$s%2$s。",
+    "lexica.cartographer.enchantment.mightiness.desc.2": "継続%4$s。",
+        "lexica.cartographer.enchantment.mightiness.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.mightiness.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.mightiness.with.3": "攻撃力",
+        "lexica.cartographer.enchantment.mightiness.with.4": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.nullifying.desc.1": "%1$s：%2$s %3$sを獲得する。",
+        "lexica.cartographer.enchantment.nullifying.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.nullifying.with.2": "鎮痛能力",
+        "lexica.cartographer.enchantment.nullifying.with.3": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.regeneration.desc.1": "%1$s：%3$s間ごとに%2$sを回復する。",
+    "lexica.cartographer.enchantment.regeneration.desc.2": "LVLが高いほど高ければ、効果の発動頻度",
+    "lexica.cartographer.enchantment.regeneration.desc.3": "は%4$sで早くなる。",
+    "lexica.cartographer.enchantment.regeneration.desc.4": "",
+        "lexica.cartographer.enchantment.regeneration.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.regeneration.with.2": "(1❤)",
+        "lexica.cartographer.enchantment.regeneration.with.3": "(00:05)",
+        "lexica.cartographer.enchantment.regeneration.with.4": "[50% * LVL (乗算倍率)]",
+
+
+    "lexica.cartographer.enchantment.sapper.desc.1": "%1$s：%3$s %2$s回復する。",
+        "lexica.cartographer.enchantment.sapper.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.sapper.with.2": "(❤)",
+        "lexica.cartographer.enchantment.sapper.with.3": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.shielding.desc.1": "%1$s：%3$s間ごとに%2$sを獲得する。",
+    "lexica.cartographer.enchantment.shielding.desc.2": "LVLが高いほど高ければ、効果の発動頻度",
+    "lexica.cartographer.enchantment.shielding.desc.3": "は%4$sで早くなる。",
+    "lexica.cartographer.enchantment.shielding.desc.4": " ",
+    "lexica.cartographer.enchantment.shielding.desc.5": "%5$s：衝撃盾は%6$s間で停止する。",
+    "lexica.cartographer.enchantment.shielding.desc.6": "%8$sを持っていない場合、%7$s間で停止する。",
+    "lexica.cartographer.enchantment.shielding.desc.7": " ",
+    "lexica.cartographer.enchantment.shielding.desc.8": "%10$s %9$sまで獲得できる、最大12まで重ね掛けできる。",
+        "lexica.cartographer.enchantment.shielding.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.shielding.with.2": "(1❤)",
+        "lexica.cartographer.enchantment.shielding.with.3": "(00:03)",
+        "lexica.cartographer.enchantment.shielding.with.4": "[15% * LVL (乗算倍率)]",
+        "lexica.cartographer.enchantment.shielding.with.5": "ダメージを受けた時",
+        "lexica.cartographer.enchantment.shielding.with.6": "(00:08)",
+        "lexica.cartographer.enchantment.shielding.with.7": "(00:16)",
+        "lexica.cartographer.enchantment.shielding.with.8": "(❤)",
+        "lexica.cartographer.enchantment.shielding.with.9": "(❤)",
+        "lexica.cartographer.enchantment.shielding.with.10": "[4 + (2 * LVL)]",
+
+
+    "lexica.cartographer.enchantment.stealthiness.desc.1": "%1$s：%2$s %3$sを獲得し、",
+    "lexica.cartographer.enchantment.stealthiness.desc.2": "継続%4$s。",
+        "lexica.cartographer.enchantment.stealthiness.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.stealthiness.with.2": "ステルス",
+        "lexica.cartographer.enchantment.stealthiness.with.3": "[LVL]",
+        "lexica.cartographer.enchantment.stealthiness.with.4": "(00:06)",
+
+
+    "lexica.cartographer.enchantment.swiftness.desc.1": "%1$s：%3$s%2$s",
+    "lexica.cartographer.enchantment.swiftness.desc.2": "継続%4$s。",
+        "lexica.cartographer.enchantment.swiftness.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.swiftness.with.2": "+[10% * LVL]",
+        "lexica.cartographer.enchantment.swiftness.with.3": "移動速度",
+        "lexica.cartographer.enchantment.swiftness.with.4": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.adrenaline.desc.1": "%1$s：%3$s%2$s、",
+    "lexica.cartographer.enchantment.adrenaline.desc.2": "継続%4$s。",
+    "lexica.cartographer.enchantment.adrenaline.desc.3": "最大4層まで重ね掛けできる。",
+        "lexica.cartographer.enchantment.adrenaline.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.adrenaline.with.2": "+[2% * LVL]",
+        "lexica.cartographer.enchantment.adrenaline.with.3": "移動速度",
+        "lexica.cartographer.enchantment.adrenaline.with.4": "(00:08)",
+
+
+    "lexica.cartographer.enchantment.bulwark.desc.1": "%1$s：ダメージが%2$s分で軽減し、",
+    "lexica.cartographer.enchantment.bulwark.desc.2": "継続%3$s。",
+        "lexica.cartographer.enchantment.bulwark.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.bulwark.with.2": "[8% * LVL]",
+        "lexica.cartographer.enchantment.bulwark.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.courageous.desc.1": "%1$s：装備者を追跡する",
+    "lexica.cartographer.enchantment.courageous.desc.2": "敵1体につき、被ダメージが",
+    "lexica.cartographer.enchantment.courageous.desc.3": "%2$s分で軽減する。",
+    "lexica.cartographer.enchantment.courageous.desc.4": "最大で敵4体までカウントする。",
+        "lexica.cartographer.enchantment.courageous.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.courageous.with.2": "[2% * LVL]",
+
+
+    "lexica.cartographer.enchantment.diversion.desc.1": "%1$s：一定確率で敵の攻撃を",
+    "lexica.cartographer.enchantment.diversion.desc.2": "引き寄せる錯乱装置を生成し、",
+    "lexica.cartographer.enchantment.diversion.desc.3": "継続%3$s。",
+    "lexica.cartographer.enchantment.diversion.desc.4": " ",
+    "lexica.cartographer.enchantment.diversion.desc.5": "錯乱装置が破壊された時、",
+    "lexica.cartographer.enchantment.diversion.desc.6": "「%2$s」の効果を発動する。",
+    "lexica.cartographer.enchantment.diversion.desc.7": " ",
+    "lexica.cartographer.enchantment.diversion.desc.8": "%4$s：%5$s確率。",
+        "lexica.cartographer.enchantment.diversion.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.diversion.with.2": "致命攻撃",
+        "lexica.cartographer.enchantment.diversion.with.3": "(00:06)",
+        "lexica.cartographer.enchantment.diversion.with.4": "ランダム",
+        "lexica.cartographer.enchantment.diversion.with.5": "[3% * LVL]",
+
+
+    "lexica.cartographer.enchantment.ethereal.desc.1": "%1$s：%2$s%3$s間に",
+    "lexica.cartographer.enchantment.ethereal.desc.2": "無敵状態に入る。",
+        "lexica.cartographer.enchantment.ethereal.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.ethereal.with.2": "[3 * LVL * 0.05]",
+        "lexica.cartographer.enchantment.ethereal.with.3": "秒",
+
+
+    "lexica.cartographer.enchantment.frenzy.desc.1": "%1$s：%3$s%2$s、",
+    "lexica.cartographer.enchantment.frenzy.desc.2": "継続%4$s。",
+    "lexica.cartographer.enchantment.frenzy.desc.3": "最大5層まで重ね掛けできる。",
+        "lexica.cartographer.enchantment.frenzy.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.frenzy.with.2": "+[2% * LVL]",
+        "lexica.cartographer.enchantment.frenzy.with.3": "攻撃力",
+        "lexica.cartographer.enchantment.frenzy.with.4": "(00:08)",
+
+
+    "lexica.cartographer.enchantment.hardened.desc.1": "%1$s：受けたダメージは前回",
+    "lexica.cartographer.enchantment.hardened.desc.2": "受けたダメージと同じ種類の場合、",
+    "lexica.cartographer.enchantment.hardened.desc.3": "その回のダメージが%2$s分で軽減する。",
+    "lexica.cartographer.enchantment.hardened.desc.4": "",
+        "lexica.cartographer.enchantment.hardened.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.hardened.with.2": "[8% * LVL]",
+
+
+    "lexica.cartographer.enchantment.inertia.desc.1": "%1$s：被ダメージが%2$s分で",
+    "lexica.cartographer.enchantment.inertia.desc.2": "軽減する。活性化時、次5回まで",
+    "lexica.cartographer.enchantment.inertia.desc.3": "ダメージを軽減できる。",
+        "lexica.cartographer.enchantment.inertia.with.1": "活性化",
+        "lexica.cartographer.enchantment.inertia.with.2": "[8% * LVL]",
+
+
+    "lexica.cartographer.enchantment.poise.desc.1": "%1$s：残り体力が",
+    "lexica.cartographer.enchantment.poise.desc.2": "%3$s50%%分以上の場合、",
+    "lexica.cartographer.enchantment.poise.desc.3": "被ダメージが%2$s分で軽減する。",
+        "lexica.cartographer.enchantment.poise.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.poise.with.2": "[8% * LVL]",
+        "lexica.cartographer.enchantment.poise.with.3": "最大体力",
+
+
+    "lexica.cartographer.enchantment.sidestep.desc.1": "%1$s：被ダメージが",
+    "lexica.cartographer.enchantment.sidestep.desc.2": "%2$s分で軽減する。",
+    "lexica.cartographer.enchantment.sidestep.desc.3": " ",
+    "lexica.cartographer.enchantment.sidestep.desc.4": "%3$s：%4$s間に看破ができない。",
+    "lexica.cartographer.enchantment.sidestep.desc.5": "%5$s後、看破のダメージ",
+    "lexica.cartographer.enchantment.sidestep.desc.6": "軽減量は半分減少する。",
+        "lexica.cartographer.enchantment.sidestep.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.sidestep.with.2": "[8% * LVL]",
+        "lexica.cartographer.enchantment.sidestep.with.3": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.sidestep.with.4": "(00:03)",
+        "lexica.cartographer.enchantment.sidestep.with.5": "1.5秒",
+
+
+    "lexica.cartographer.enchantment.steadfast.desc.1": "%1$s：残り体力は",
+    "lexica.cartographer.enchantment.steadfast.desc.2": "%3$s50%%分以下の場合、",
+    "lexica.cartographer.enchantment.steadfast.desc.3": "被ダメージが%2$s分で軽減する。",
+        "lexica.cartographer.enchantment.steadfast.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.steadfast.with.2": "[8% * LVL]",
+        "lexica.cartographer.enchantment.steadfast.with.3": "最大体力",
+
+
+    "lexica.cartographer.enchantment.tenacity.desc.1": "%1$s：装備者が%2$s10%%分",
+    "lexica.cartographer.enchantment.tenacity.desc.2": "を回復する度、被ダメージが",
+    "lexica.cartographer.enchantment.tenacity.desc.3": "%3$s分で軽減し、継続%4$s。",
+    "lexica.cartographer.enchantment.tenacity.desc.4": "最大5層まで重ね掛けできる。",
+        "lexica.cartographer.enchantment.tenacity.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.tenacity.with.2": "最大体力",
+        "lexica.cartographer.enchantment.tenacity.with.3": "[2% * LVL]",
+        "lexica.cartographer.enchantment.tenacity.with.4": "(00:05)",
+
+
+    "lexica.cartographer.enchantment.unseen.desc.1": "%1$s：装備者を追跡する敵が1体の",
+    "lexica.cartographer.enchantment.unseen.desc.2": "場合、被ダメージが%2$s分で",
+    "lexica.cartographer.enchantment.unseen.desc.3": "軽減する。2体以上の場合、",
+    "lexica.cartographer.enchantment.unseen.desc.4": "追加された敵+1体につき、ダメージ軽減効果は",
+    "lexica.cartographer.enchantment.unseen.desc.5": "%3$s分で弱める。",
+        "lexica.cartographer.enchantment.unseen.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.unseen.with.2": "[8% * LVL]",
+        "lexica.cartographer.enchantment.unseen.with.3": "[2% * LVL]",
+
+
+    "lexica.cartographer.enchantment.aberration.desc.1": "%1$s：近くの敵を追跡する",
+    "lexica.cartographer.enchantment.aberration.desc.2": "スライム眷属を生成する。",
+    "lexica.cartographer.enchantment.aberration.desc.3": "スライム眷属は%2$s後爆発し、",
+    "lexica.cartographer.enchantment.aberration.desc.4": "範囲内の敵に%3$sを与える。",
+    "lexica.cartographer.enchantment.aberration.desc.5": " ",
+    "lexica.cartographer.enchantment.aberration.desc.6": "%4$s：%5$s",
+    "lexica.cartographer.enchantment.aberration.desc.7": "または%6$s。",
+    "lexica.cartographer.enchantment.aberration.desc.8": " ",
+    "lexica.cartographer.enchantment.aberration.desc.9": "%7$s：爆発時、スライム眷属",
+    "lexica.cartographer.enchantment.aberration.desc.10": "は50%確率で分裂する。",
+    "lexica.cartographer.enchantment.aberration.desc.11": "最大2回まで起こり得る。",
+        "lexica.cartographer.enchantment.aberration.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.aberration.with.2": "(00:06)",
+        "lexica.cartographer.enchantment.aberration.with.3": "均整ダメージ",
+        "lexica.cartographer.enchantment.aberration.with.4": "均整攻撃",
+        "lexica.cartographer.enchantment.aberration.with.5": "[LVL * 20%]",
+        "lexica.cartographer.enchantment.aberration.with.6": "[LVL * 1.5]",
+        "lexica.cartographer.enchantment.aberration.with.7": "ランダム",
+
+
+    "lexica.cartographer.enchantment.deadeye.desc.1": "%1$s：%2$sごとに、最も近く",
+    "lexica.cartographer.enchantment.deadeye.desc.2": "の敵に投射物を発射する。",
+    "lexica.cartographer.enchantment.deadeye.desc.3": "投射物は敵にダメージを%3$s与える。",
+    "lexica.cartographer.enchantment.deadeye.desc.4": "命中した敵は%4$s間は再び",
+    "lexica.cartographer.enchantment.deadeye.desc.5": "標的にならない。",
+        "lexica.cartographer.enchantment.deadeye.with.1": "ダッシュ中",
+        "lexica.cartographer.enchantment.deadeye.with.2": "0.5秒",
+        "lexica.cartographer.enchantment.deadeye.with.3": "[2 * LVL]",
+        "lexica.cartographer.enchantment.deadeye.with.4": "1.5秒",
+
+
+    "lexica.cartographer.enchantment.eruption.desc.1": "%1$s：敵の足元に爆発を起こし、",
+    "lexica.cartographer.enchantment.eruption.desc.2": "%2$sを与える。",
+    "lexica.cartographer.enchantment.eruption.desc.3": " ",
+    "lexica.cartographer.enchantment.eruption.desc.4": "%3$s：%4$s",
+    "lexica.cartographer.enchantment.eruption.desc.5": "または%5$s。",
+        "lexica.cartographer.enchantment.eruption.with.1": "先制攻撃",
+        "lexica.cartographer.enchantment.eruption.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.eruption.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.eruption.with.4": "[LVL * 15%]",
+        "lexica.cartographer.enchantment.eruption.with.5": "[LVL * 1.25]",
+
+
+    "lexica.cartographer.enchantment.gravity.desc.1": "%1$s：落下中に攻撃をする時、",
+    "lexica.cartographer.enchantment.gravity.desc.2": "与ダメージ%2$s、",
+    "lexica.cartographer.enchantment.gravity.desc.3": "周りの敵をノックバックさせる。",
+        "lexica.cartographer.enchantment.gravity.with.1": "自動的",
+        "lexica.cartographer.enchantment.gravity.with.2": "+[LVL * 2]",
+
+
+    "lexica.cartographer.enchantment.induction.desc.1": "%1$s：次の攻撃は放電を放ち、",
+    "lexica.cartographer.enchantment.induction.desc.2": "近く敵4体に%2$s",
+    "lexica.cartographer.enchantment.induction.desc.3": "を与える。",
+    "lexica.cartographer.enchantment.induction.desc.4": " ",
+    "lexica.cartographer.enchantment.induction.desc.5": "%3$s：%4$s",
+    "lexica.cartographer.enchantment.induction.desc.6": "または%5$s。",
+        "lexica.cartographer.enchantment.induction.with.1": "活性化",
+        "lexica.cartographer.enchantment.induction.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.induction.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.induction.with.4": "[LVL * 40%]",
+        "lexica.cartographer.enchantment.induction.with.5": "[LVL * 2]",
+
+
+    "lexica.cartographer.enchantment.momentum.desc.1": "%1$s：次の攻撃の与ダメージ%2$s、",
+    "lexica.cartographer.enchantment.momentum.desc.2": "周りの敵をノックバックさせる。",
+    "lexica.cartographer.enchantment.momentum.desc.3": "",
+        "lexica.cartographer.enchantment.momentum.with.1": "活性化",
+        "lexica.cartographer.enchantment.momentum.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.orbit.desc.1": "%1$s：攻撃は「衛星オーブ」を生成する。",
+    "lexica.cartographer.enchantment.orbit.desc.2": "衛星オーブは使用者の周りに周回し、",
+    "lexica.cartographer.enchantment.orbit.desc.3": "経路上の敵に%2$sを与える。敵4体が",
+    "lexica.cartographer.enchantment.orbit.desc.4": "命中する時、衛星オーブが破壊される。",
+    "lexica.cartographer.enchantment.orbit.desc.5": " ",
+    "lexica.cartographer.enchantment.orbit.desc.6": "%3$s：%4$sまたは%5$s。",
+    "lexica.cartographer.enchantment.orbit.desc.7": "",
+        "lexica.cartographer.enchantment.orbit.with.1": "ランダム",
+        "lexica.cartographer.enchantment.orbit.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.orbit.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.orbit.with.4": "[LVL * 15%]",
+        "lexica.cartographer.enchantment.orbit.with.5": "[LVL * 1.25]",
+
+
+    "lexica.cartographer.enchantment.quake.desc.1": "%1$s：倒した敵の位置から震動",
+    "lexica.cartographer.enchantment.quake.desc.2": "を生成し、経路上の敵に",
+    "lexica.cartographer.enchantment.quake.desc.3": "%2$sを与える。震動はジャンプや",
+    "lexica.cartographer.enchantment.quake.desc.4": "高低差をとることで回避できる。",
+    "lexica.cartographer.enchantment.quake.desc.5": " ",
+    "lexica.cartographer.enchantment.quake.desc.6": "%3$s：%4$sまたは%5$s。",
+        "lexica.cartographer.enchantment.quake.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.quake.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.quake.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.quake.with.4": "[LVL * 15%]",
+        "lexica.cartographer.enchantment.quake.with.5": "[LVL * 1.5]",
+
+
+    "lexica.cartographer.enchantment.soulfire.desc.1": "%1$s：「焔霊」を召喚する。",
+    "lexica.cartographer.enchantment.soulfire.desc.2": "数秒後、焔霊は近くの敵4体に",
+    "lexica.cartographer.enchantment.soulfire.desc.3": "%2$sを与える。",
+    "lexica.cartographer.enchantment.soulfire.desc.4": " ",
+    "lexica.cartographer.enchantment.soulfire.desc.5": "%3$s：%4$sまたは%5$s。",
+        "lexica.cartographer.enchantment.soulfire.with.1": "先制攻撃",
+        "lexica.cartographer.enchantment.soulfire.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.soulfire.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.soulfire.with.4": "[LVL * 20%]",
+        "lexica.cartographer.enchantment.soulfire.with.5": "[LVL * 1.5]",
+
+
+    "lexica.cartographer.enchantment.starfall.desc.1": "%1$s：攻撃が「隕星」を呼び寄せる。",
+    "lexica.cartographer.enchantment.starfall.desc.2": "隕星は攻撃された敵の位置の近くに",
+    "lexica.cartographer.enchantment.starfall.desc.3": "着地し、範囲内の敵に%2$sを与える。",
+    "lexica.cartographer.enchantment.starfall.desc.4": " ",
+    "lexica.cartographer.enchantment.starfall.desc.5": "%3$s：%4$sまたは%5$s。",
+    "lexica.cartographer.enchantment.starfall.desc.6": "",
+        "lexica.cartographer.enchantment.starfall.with.1": "ランダム",
+        "lexica.cartographer.enchantment.starfall.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.starfall.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.starfall.with.4": "[LVL * 15%]",
+        "lexica.cartographer.enchantment.starfall.with.5": "[LVL * 1.25]",
+
+
+    "lexica.cartographer.enchantment.storm.desc.1": "%1$s：次の攻撃は「暴風」を生成する。",
+    "lexica.cartographer.enchantment.storm.desc.2": "暴風は敵を追跡する。%3$sごとに",
+    "lexica.cartographer.enchantment.storm.desc.3": "%2$sを与え、",
+    "lexica.cartographer.enchantment.storm.desc.4": "継続%4$s。",
+    "lexica.cartographer.enchantment.storm.desc.5": " ",
+    "lexica.cartographer.enchantment.storm.desc.6": "%5$s：15%%または1。",
+    "lexica.cartographer.enchantment.storm.desc.7": "",
+        "lexica.cartographer.enchantment.storm.with.1": "活性化",
+        "lexica.cartographer.enchantment.storm.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.storm.with.3": "1.5秒",
+        "lexica.cartographer.enchantment.storm.with.4": "[4.5 + (LVL * 1.5)]秒",
+        "lexica.cartographer.enchantment.storm.with.5": "均整攻撃",
+
+
+    "lexica.cartographer.enchantment.surge.desc.1": "%1$s：ダッシュ終了後、",
+    "lexica.cartographer.enchantment.surge.desc.2": "前方に衝撃波を放つ。",
+    "lexica.cartographer.enchantment.surge.desc.3": "経路上の敵にダメージを",
+    "lexica.cartographer.enchantment.surge.desc.4": "%2$s与え、上方へノックバックさせる。",
+    "lexica.cartographer.enchantment.surge.desc.5": "",
+        "lexica.cartographer.enchantment.surge.with.1": "ダッシュ中",
+        "lexica.cartographer.enchantment.surge.with.2": "[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.trailblazer.desc.1": "%1$s：装備者の後ろに「炎の域」",
+    "lexica.cartographer.enchantment.trailblazer.desc.2": "を残す。%3$s間ごとに範囲内",
+    "lexica.cartographer.enchantment.trailblazer.desc.3": "の敵にダメージを%2$s与える。",
+    "lexica.cartographer.enchantment.trailblazer.desc.4": "",
+        "lexica.cartographer.enchantment.trailblazer.with.1": "ダッシュ中",
+        "lexica.cartographer.enchantment.trailblazer.with.2": "[LVL]",
+        "lexica.cartographer.enchantment.trailblazer.with.3": "(00:01)",
+
+
+    "lexica.cartographer.enchantment.vengeance.desc.1": "%1$s：%2$s間内に",
+    "lexica.cartographer.enchantment.vengeance.desc.2": "次の攻撃の与ダメージ",
+    "lexica.cartographer.enchantment.vengeance.desc.3": "%3$s。",
+        "lexica.cartographer.enchantment.vengeance.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment.vengeance.with.2": "(00:08)",
+        "lexica.cartographer.enchantment.vengeance.with.3": "+[3 * LVL]",
+
+
+    "lexica.cartographer.enchantment.reconstruction.desc.1": "%1$s：%2$s間ごとに、",
+    "lexica.cartographer.enchantment.reconstruction.desc.2": "一定確率で耐久値を1回復する。",
+    "lexica.cartographer.enchantment.reconstruction.desc.3": " ",
+    "lexica.cartographer.enchantment.reconstruction.desc.4": "ホットバーまたは装備スロット",
+    "lexica.cartographer.enchantment.reconstruction.desc.5": "にいる限り、耐久値再生は",
+    "lexica.cartographer.enchantment.reconstruction.desc.6": "発動できる。",
+    "lexica.cartographer.enchantment.reconstruction.desc.7": " ",
+    "lexica.cartographer.enchantment.reconstruction.desc.8": "%3$s：%4$s確率。",
+        "lexica.cartographer.enchantment.reconstruction.with.1": "自動的",
+        "lexica.cartographer.enchantment.reconstruction.with.2": "(00:05)",
+        "lexica.cartographer.enchantment.reconstruction.with.3": "ランダム",
+        "lexica.cartographer.enchantment.reconstruction.with.4": "([5% * LVL])",
+
+
+    "lexica.cartographer.enchantment.soulbound.desc.1": "%s：死亡時、このアイテムは",
+    "lexica.cartographer.enchantment.soulbound.desc.2": "インベントリに保存される。",
+        "lexica.cartographer.enchantment.soulbound.with.1": "自動的",
+
+
+    "lexica.cartographer.enchantment.spurs.desc.1": "%s：周りのクモの巣や",
+    "lexica.cartographer.enchantment.spurs.desc.2": "植物を破壊する。",
+        "lexica.cartographer.enchantment.spurs.with.1": "装備したとき",
+
+
+    "lexica.cartographer.enchantment.drilling.desc.1": "%1$s：ブロックを破壊とする時、",
+    "lexica.cartographer.enchantment.drilling.desc.2": "一定確率で即時に破壊する。",
+    "lexica.cartographer.enchantment.drilling.desc.3": "発動後、装備者が再び",
+    "lexica.cartographer.enchantment.drilling.desc.4": "ブロックを破壊する時まで",
+    "lexica.cartographer.enchantment.drilling.desc.5": "「即時破壊」を使用できない。",
+    "lexica.cartographer.enchantment.drilling.desc.6": " ",
+    "lexica.cartographer.enchantment.drilling.desc.7": "%2$s：%3$s確率。",
+        "lexica.cartographer.enchantment.drilling.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.drilling.with.2": "ランダム",
+        "lexica.cartographer.enchantment.drilling.with.3": "([5% * LVL])",
+
+
+    "lexica.cartographer.enchantment.excavator.desc.1": "%s：鉱石、スポナー、",
+    "lexica.cartographer.enchantment.excavator.desc.2": "あういはクモの巣を破壊すると",
+    "lexica.cartographer.enchantment.excavator.desc.3": "隣接されているの同じのブロックも",
+    "lexica.cartographer.enchantment.excavator.desc.4": "破壊する。",
+        "lexica.cartographer.enchantment.excavator.with.1": "装備したとき",
+
+
+    "lexica.cartographer.enchantment.lightborn.desc.1": "%1$s：スニーク中でブロックを",
+    "lexica.cartographer.enchantment.lightborn.desc.2": "殴ると装備者のインベントリから",
+    "lexica.cartographer.enchantment.lightborn.desc.3": "松明を設置する。",
+    "lexica.cartographer.enchantment.lightborn.desc.4": "「%2$s」で操作機能を",
+    "lexica.cartographer.enchantment.lightborn.desc.5": "変換できる。",
+        "lexica.cartographer.enchantment.lightborn.with.1": "装備したとき",
+        "lexica.cartographer.enchantment.lightborn.with.2": "/trigger lightborn",
+
+
+    "lexica.cartographer.enchantment.multitool.desc.1": "%s：75%%効率で普通に",
+    "lexica.cartographer.enchantment.multitool.desc.2": "採掘非適用のブロックを",
+    "lexica.cartographer.enchantment.multitool.desc.3": "採掘できる。",
+        "lexica.cartographer.enchantment.multitool.with.1": "装備したとき",
+
+
+    "lexica.cartographer.enchantment.chaotic.desc.1": "%1$s：LVL Iで",
+    "lexica.cartographer.enchantment.chaotic.desc.2": "与ダメージ%2$s。装備されたLVL",
+    "lexica.cartographer.enchantment.chaotic.desc.3": "+1につき、さらに与ダメージ%3$s",
+    "lexica.cartographer.enchantment.chaotic.desc.4": " ",
+    "lexica.cartographer.enchantment.chaotic.desc.5": "%4$sが高いほど高ければ、",
+    "lexica.cartographer.enchantment.chaotic.desc.6": "高い与ダメージ値の方に偏る。",
+    "lexica.cartographer.enchantment.chaotic.desc.7": "",
+        "lexica.cartographer.enchantment.chaotic.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.chaotic.with.2": "+[0.5～2.0]",
+        "lexica.cartographer.enchantment.chaotic.with.3": "+[0.25～1]",
+        "lexica.cartographer.enchantment.chaotic.with.4": "戦闘運",
+
+
+    "lexica.cartographer.enchantment.concentration.desc.1": "%1$s：完璧に攻撃を行った時、",
+    "lexica.cartographer.enchantment.concentration.desc.2": "与ダメージ%2$s。",
+    "lexica.cartographer.enchantment.concentration.desc.3": " ",
+    "lexica.cartographer.enchantment.concentration.desc.4": "近接の場合、攻撃クールダウンが",
+    "lexica.cartographer.enchantment.concentration.desc.5": "終わる瞬間に戦えると発動する。",
+    "lexica.cartographer.enchantment.concentration.desc.6": "遠隔の場合、最大に引き絞った瞬間",
+    "lexica.cartographer.enchantment.concentration.desc.7": "に発射すると発動する。",
+        "lexica.cartographer.enchantment.concentration.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.concentration.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.duelist.desc.1": "%1$s：%3$sに対して",
+    "lexica.cartographer.enchantment.duelist.desc.2": "与ダメージ%2$s。",
+        "lexica.cartographer.enchantment.duelist.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.duelist.with.2": "+[2 * LVL]",
+        "lexica.cartographer.enchantment.duelist.with.3": "人型の敵",
+
+
+    "lexica.cartographer.enchantment.first_strike.desc.1": "%1$s：%3$s間に「不意打ち」の",
+    "lexica.cartographer.enchantment.first_strike.desc.2": "影響からを受けなかった敵に対して、",
+    "lexica.cartographer.enchantment.first_strike.desc.3": "与ダメージ%2$s。",
+        "lexica.cartographer.enchantment.first_strike.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.first_strike.with.2": "+[2 * LVL]",
+        "lexica.cartographer.enchantment.first_strike.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.focus.desc.1": "%1$s：「集中」を1層獲得し、",
+    "lexica.cartographer.enchantment.focus.desc.2": "継続%2$s、無限に重ね掛けできる。",
+    "lexica.cartographer.enchantment.focus.desc.3": "「集中」1層につき、与ダメージ%3$s。",
+    "lexica.cartographer.enchantment.focus.desc.4": "",
+        "lexica.cartographer.enchantment.focus.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.focus.with.2": "(00:05)",
+        "lexica.cartographer.enchantment.focus.with.3": "+[0.5 * LVL]",
+
+
+    "lexica.cartographer.enchantment.follow_up.desc.1": "%1$s：%3$s間に「連続技」の",
+    "lexica.cartographer.enchantment.follow_up.desc.2": "影響からを受けた敵に対して、",
+    "lexica.cartographer.enchantment.follow_up.desc.3": "与ダメージ%2$s。",
+    "lexica.cartographer.enchantment.follow_up.desc.4": "",
+        "lexica.cartographer.enchantment.follow_up.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.follow_up.with.2": "+[2 * LVL]",
+        "lexica.cartographer.enchantment.follow_up.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.hex_eater.desc.1": "%1$s：相手が%3$s",
+    "lexica.cartographer.enchantment.hex_eater.desc.2": "2以上持つの場合、",
+    "lexica.cartographer.enchantment.hex_eater.desc.3": "与ダメージ%2$s",
+        "lexica.cartographer.enchantment.hex_eater.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.hex_eater.with.2": "+[2 * LVL]",
+        "lexica.cartographer.enchantment.hex_eater.with.3": "負のステータス",
+
+
+    "lexica.cartographer.enchantment.hunter.desc.1": "%1$s：%3$sに対して",
+    "lexica.cartographer.enchantment.hunter.desc.2": "与ダメージ%2$s。",
+        "lexica.cartographer.enchantment.hunter.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.hunter.with.2": "+[2 * LVL]",
+        "lexica.cartographer.enchantment.hunter.with.3": "怪物の敵",
+
+
+    "lexica.cartographer.enchantment.leverage.desc.1": "%1$s：ジャンプ攻撃の",
+    "lexica.cartographer.enchantment.leverage.desc.2": "与ダメージ%2$s。",
+        "lexica.cartographer.enchantment.leverage.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.leverage.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.rushdown.desc.1": "%1$s：ダッシュ攻撃の",
+    "lexica.cartographer.enchantment.rushdown.desc.2": "与ダメージ%2$s。",
+        "lexica.cartographer.enchantment.rushdown.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.rushdown.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.overcharge.desc.1": "%1$s：さらに1秒を",
+    "lexica.cartographer.enchantment.overcharge.desc.2": "引き絞ると、与ダメージ",
+    "lexica.cartographer.enchantment.overcharge.desc.3": "%2$s。",
+        "lexica.cartographer.enchantment.overcharge.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.overcharge.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.point_blank.desc.1": "%1$s：相手が8ブロック",
+    "lexica.cartographer.enchantment.point_blank.desc.2": "範囲内の場合、与ダメージ",
+    "lexica.cartographer.enchantment.point_blank.desc.3": "%2$s。",
+        "lexica.cartographer.enchantment.point_blank.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.point_blank.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.sharpshot.desc.1": "%1$s：相手が12ブロック以上",
+    "lexica.cartographer.enchantment.sharpshot.desc.2": "離れたの場合、与ダメージ",
+    "lexica.cartographer.enchantment.sharpshot.desc.3": "%2$s。",
+        "lexica.cartographer.enchantment.sharpshot.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.sharpshot.with.2": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.explosive.desc.1": "%1$s：爆発を生成する。",
+    "lexica.cartographer.enchantment.explosive.desc.2": "範囲内の敵に%2$sを与える。",
+    "lexica.cartographer.enchantment.explosive.desc.3": "爆発範囲はLVLに応じて",
+    "lexica.cartographer.enchantment.explosive.desc.4": "拡大する。",
+    "lexica.cartographer.enchantment.explosive.desc.5": " ",
+    "lexica.cartographer.enchantment.explosive.desc.6": "%3$s：%4$sまたは2。",
+    "lexica.cartographer.enchantment.explosive.desc.7": "",
+        "lexica.cartographer.enchantment.explosive.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.explosive.with.2": "均整ダメージ",
+        "lexica.cartographer.enchantment.explosive.with.3": "均整攻撃",
+        "lexica.cartographer.enchantment.explosive.with.4": "[LVL * 10%]",
+
+
+    "lexica.cartographer.enchantment.pulling.desc.1": "%1$s：使用者の位置に",
+    "lexica.cartographer.enchantment.pulling.desc.2": "敵を引き寄せる。引力",
+    "lexica.cartographer.enchantment.pulling.desc.3": "の距離は%2$sブロック。",
+        "lexica.cartographer.enchantment.pulling.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.pulling.with.2": "[3 * LVL]",
+
+
+    "lexica.cartographer.enchantment.recoil.desc.1": "%1$s：使用者を逆方向に",
+    "lexica.cartographer.enchantment.recoil.desc.2": "ノックバックさせる。",
+    "lexica.cartographer.enchantment.recoil.desc.3": "ノックバック距離はLVLに",
+    "lexica.cartographer.enchantment.recoil.desc.4": "応じて上昇する。",
+    "lexica.cartographer.enchantment.recoil.desc.5": " ",
+    "lexica.cartographer.enchantment.recoil.desc.6": "リコイルは「%2$s」効果",
+    "lexica.cartographer.enchantment.recoil.desc.7": "と見なされている。",
+        "lexica.cartographer.enchantment.recoil.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.recoil.with.2": "自己移動",
+
+
+    "lexica.cartographer.enchantment.repulsion.desc.1": "%1$s：使用としたとき、",
+    "lexica.cartographer.enchantment.repulsion.desc.2": "爆風を生成して範囲内の敵に",
+    "lexica.cartographer.enchantment.repulsion.desc.3": "ダメージを%2$s与える。",
+    "lexica.cartographer.enchantment.repulsion.desc.4": " ",
+    "lexica.cartographer.enchantment.repulsion.desc.5": "近接武器の場合、クールダウンが",
+    "lexica.cartographer.enchantment.repulsion.desc.6": "ない状態で攻撃すると爆風を生成する。",
+    "lexica.cartographer.enchantment.repulsion.desc.7": "遠隔武器の場合、照準、引き絞る、",
+    "lexica.cartographer.enchantment.repulsion.desc.8": "あるいは装填すると爆風を生成する。",
+        "lexica.cartographer.enchantment.repulsion.with.1": "持続使用",
+        "lexica.cartographer.enchantment.repulsion.with.2": "[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.ambushing.desc.1": "%1$s：照準モードに入る。",
+    "lexica.cartographer.enchantment.ambushing.desc.2": "非透明化と24ブロック範囲内の",
+    "lexica.cartographer.enchantment.ambushing.desc.3": "敵を狙い、放つと狙われた敵",
+    "lexica.cartographer.enchantment.ambushing.desc.4": "の位置にテレポートする。",
+    "lexica.cartographer.enchantment.ambushing.desc.5": " ",
+    "lexica.cartographer.enchantment.ambushing.desc.6": "奇襲は「%2$s」効果",
+    "lexica.cartographer.enchantment.ambushing.desc.7": "と見なされている。",
+    "lexica.cartographer.enchantment.ambushing.desc.8": " ",
+    "lexica.cartographer.enchantment.ambushing.desc.9": "%3$s：%4$s%5$s。",
+        "lexica.cartographer.enchantment.ambushing.with.1": "持続使用",
+        "lexica.cartographer.enchantment.ambushing.with.2": "自己移動",
+        "lexica.cartographer.enchantment.ambushing.with.3": "クールダウン",
+        "lexica.cartographer.enchantment.ambushing.with.4": "[24 - (2 * LVL)]",
+        "lexica.cartographer.enchantment.ambushing.with.5": "秒",
+
+
+    "lexica.cartographer.enchantment.cleaving.desc.1": "%1$s：前方に%2$s80%%分の",
+    "lexica.cartographer.enchantment.cleaving.desc.2": "ダメージを範囲内の敵に与える。",
+        "lexica.cartographer.enchantment.cleaving.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.cleaving.with.2": "攻撃力",
+
+
+    "lexica.cartographer.enchantment.lunging.desc.1": "%1$s：照準モードに入る。",
+    "lexica.cartographer.enchantment.lunging.desc.2": "放つと前方へダッシュする。",
+    "lexica.cartographer.enchantment.lunging.desc.3": "ダッシュ中に経路上の敵に",
+    "lexica.cartographer.enchantment.lunging.desc.4": "%2$s50%%分のダメージを与える。",
+    "lexica.cartographer.enchantment.lunging.desc.5": "ダッシュ中、無敵状態に入る。",
+    "lexica.cartographer.enchantment.lunging.desc.6": "ダッシュ距離はLVLに応じて",
+    "lexica.cartographer.enchantment.lunging.desc.7": "上昇する。垂直方向では",
+    "lexica.cartographer.enchantment.lunging.desc.8": "ダッシュ力が弱くなる。",
+    "lexica.cartographer.enchantment.lunging.desc.9": " ",
+    "lexica.cartographer.enchantment.lunging.desc.10": "突進は「%3$s」効果",
+    "lexica.cartographer.enchantment.lunging.desc.11": "と見なされている。",
+    "lexica.cartographer.enchantment.lunging.desc.12": " ",
+    "lexica.cartographer.enchantment.lunging.desc.13": "%4$s：%5$s。",
+        "lexica.cartographer.enchantment.lunging.with.1": "持続使用",
+        "lexica.cartographer.enchantment.lunging.with.2": "攻撃力",
+        "lexica.cartographer.enchantment.lunging.with.3": "自己移動",
+        "lexica.cartographer.enchantment.lunging.with.4": "クールダウン",
+        "lexica.cartographer.enchantment.lunging.with.5": "(00:04)",
+
+
+    "lexica.cartographer.enchantment.quick_strike.desc.1": "%1$s：攻撃をした後、",
+    "lexica.cartographer.enchantment.quick_strike.desc.2": "%2$s回で即座に攻撃ができ、",
+    "lexica.cartographer.enchantment.quick_strike.desc.3": "継続%3$s%4$s。",
+    "lexica.cartographer.enchantment.quick_strike.desc.4": " ",
+    "lexica.cartographer.enchantment.quick_strike.desc.5": "%5$s：%6$s%7$s。",
+    "lexica.cartographer.enchantment.quick_strike.desc.6": "",
+        "lexica.cartographer.enchantment.quick_strike.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.quick_strike.with.2": "[LVL]",
+        "lexica.cartographer.enchantment.quick_strike.with.3": "[1 + LVL]",
+        "lexica.cartographer.enchantment.quick_strike.with.4": "秒",
+        "lexica.cartographer.enchantment.quick_strike.with.5": "クールダウン",
+        "lexica.cartographer.enchantment.quick_strike.with.6": "[11 + LVL)]",
+        "lexica.cartographer.enchantment.quick_strike.with.7": "秒",
+
+
+    "lexica.cartographer.enchantment.riposte.desc.1": "%1$s：%2$s間内に被ダメージ",
+    "lexica.cartographer.enchantment.riposte.desc.2": "40%分を防ぐ。ダメージを防ぐ時、",
+    "lexica.cartographer.enchantment.riposte.desc.3": "攻撃された敵に反撃し、",
+    "lexica.cartographer.enchantment.riposte.desc.4": "%3$sを与える。",
+    "lexica.cartographer.enchantment.riposte.desc.5": " ",
+    "lexica.cartographer.enchantment.riposte.desc.6": "%4$s：%5$s",
+    "lexica.cartographer.enchantment.riposte.desc.7": "または%6$s。",
+    "lexica.cartographer.enchantment.riposte.desc.8": " ",
+    "lexica.cartographer.enchantment.riposte.desc.9": "%7$s：%8$s。",
+    "lexica.cartographer.enchantment.riposte.desc.10": "(構えた時間に応じて)",
+        "lexica.cartographer.enchantment.riposte.with.1": "持続使用",
+        "lexica.cartographer.enchantment.riposte.with.2": "(00:03)",
+        "lexica.cartographer.enchantment.riposte.with.3": "均整ダメージ",
+        "lexica.cartographer.enchantment.riposte.with.4": "均整攻撃",
+        "lexica.cartographer.enchantment.riposte.with.5": "[LVL * 25%]",
+        "lexica.cartographer.enchantment.riposte.with.6": "[LVL * 2]",
+        "lexica.cartographer.enchantment.riposte.with.7": "クールダウン",
+        "lexica.cartographer.enchantment.riposte.with.8": "(00:02)～(00:08)",
+
+
+    "lexica.cartographer.enchantment.slamming.desc.1": "%1$s：クリティカル攻撃は",
+    "lexica.cartographer.enchantment.slamming.desc.2": "相手の位置に%2$s60%%分の",
+    "lexica.cartographer.enchantment.slamming.desc.3": "範囲ダメージを与える。",
+        "lexica.cartographer.enchantment.slamming.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.slamming.with.2": "攻撃力",
+
+
+    "lexica.cartographer.enchantment.throwable.desc.1": "%1$s：照準モードに入る。",
+    "lexica.cartographer.enchantment.throwable.desc.2": "放つとこの武器を複製して前方に投げる。",
+    "lexica.cartographer.enchantment.throwable.desc.3": "経路上の敵に%2$s%3$sを与える。",
+    "lexica.cartographer.enchantment.throwable.desc.4": " ",
+    "lexica.cartographer.enchantment.throwable.desc.5": "%4$s：使用者の%5$s",
+    "lexica.cartographer.enchantment.throwable.desc.6": "または%6$s。",
+    "lexica.cartographer.enchantment.throwable.desc.7": " ",
+    "lexica.cartographer.enchantment.throwable.desc.8": "%7$s: %8$s%9$s.",
+        "lexica.cartographer.enchantment.throwable.with.1": "持続使用",
+        "lexica.cartographer.enchantment.throwable.with.2": "均整",
+        "lexica.cartographer.enchantment.throwable.with.3": "遠隔ダメージ",
+        "lexica.cartographer.enchantment.throwable.with.4": "均整攻撃",
+        "lexica.cartographer.enchantment.throwable.with.5": "攻撃力",
+        "lexica.cartographer.enchantment.throwable.with.6": "遠隔攻撃力",
+        "lexica.cartographer.enchantment.throwable.with.7": "クールダウン",
+        "lexica.cartographer.enchantment.throwable.with.8": "[11 - LVL]",
+        "lexica.cartographer.enchantment.throwable.with.9": "秒",
+
+
+    "lexica.cartographer.enchantment.thrusting.desc.1": "%1$s：ダッシュ攻撃は",
+    "lexica.cartographer.enchantment.thrusting.desc.2": "直線に%2$s80%%分の",
+    "lexica.cartographer.enchantment.thrusting.desc.3": "ダメージを与える。",
+        "lexica.cartographer.enchantment.thrusting.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.thrusting.with.2": "攻撃力",
+
+
+    "lexica.cartographer.enchantment.barbed.desc.1": "%1$s：相手に",
+    "lexica.cartographer.enchantment.barbed.desc.2": "%2$sを1個付与する。",
+    "lexica.cartographer.enchantment.barbed.desc.3": " ",
+    "lexica.cartographer.enchantment.barbed.desc.4": "%3$s：2ブロック歩く",
+    "lexica.cartographer.enchantment.barbed.desc.5": "たびに、%2$s1個につき",
+    "lexica.cartographer.enchantment.barbed.desc.6": "ダメージを%4$s受ける。",
+        "lexica.cartographer.enchantment.barbed.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.barbed.with.2": "荊棘",
+        "lexica.cartographer.enchantment.barbed.with.3": "荊棘",
+        "lexica.cartographer.enchantment.barbed.with.4": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.barrage.desc.1": "%1$s：発射後、少しの間後",
+    "lexica.cartographer.enchantment.barrage.desc.2": "さらに投射物を%2$s回放つ。",
+    "lexica.cartographer.enchantment.barrage.desc.3": "「連射」からの投射物は本来の",
+    "lexica.cartographer.enchantment.barrage.desc.4": "投射物の同じ複製だ。",
+        "lexica.cartographer.enchantment.barrage.with.1": "自動的",
+        "lexica.cartographer.enchantment.barrage.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.collapse.desc.1": "%1$s：着地された投射物は",
+    "lexica.cartographer.enchantment.collapse.desc.2": "命中されたブロックを破壊する。",
+    "lexica.cartographer.enchantment.collapse.desc.3": "破壊速度は%2$s、破壊時には",
+    "lexica.cartographer.enchantment.collapse.desc.4": "鉄のツルハシと見なされている。",
+    "lexica.cartographer.enchantment.collapse.desc.5": " ",
+    "lexica.cartographer.enchantment.collapse.desc.6": "道具系のエンチャントも",
+    "lexica.cartographer.enchantment.collapse.desc.7": "発揮する。スポナーの破壊速度は",
+    "lexica.cartographer.enchantment.collapse.desc.8": "2倍減速し、破壊後にスポナーの",
+    "lexica.cartographer.enchantment.collapse.desc.9": "敵を召喚する。",
+        "lexica.cartographer.enchantment.collapse.with.1": "自動的",
+        "lexica.cartographer.enchantment.collapse.with.2": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.correction.desc.1": "%s：投射物は1回のみ",
+    "lexica.cartographer.enchantment.correction.desc.2": "7ブロック範囲内の敵に",
+    "lexica.cartographer.enchantment.correction.desc.3": "索敵し、その敵の方向に",
+    "lexica.cartographer.enchantment.correction.desc.4": "向ける。",
+        "lexica.cartographer.enchantment.correction.with.1": "自動的",
+
+
+    "lexica.cartographer.enchantment.fleetfoot.desc.1": "%1$s：移動する方向へ",
+    "lexica.cartographer.enchantment.fleetfoot.desc.2": "ダッシュする。",
+    "lexica.cartographer.enchantment.fleetfoot.desc.3": " ",
+    "lexica.cartographer.enchantment.fleetfoot.desc.4": "遠隔武器が引き絞り、照準し、",
+    "lexica.cartographer.enchantment.fleetfoot.desc.5": "もしくは装填する時、「俊足」",
+    "lexica.cartographer.enchantment.fleetfoot.desc.6": "が発動する。",
+    "lexica.cartographer.enchantment.fleetfoot.desc.7": " ",
+    "lexica.cartographer.enchantment.fleetfoot.desc.8": "俊足は「%2$s」効果",
+    "lexica.cartographer.enchantment.fleetfoot.desc.9": "と見なされている。",
+        "lexica.cartographer.enchantment.fleetfoot.with.1": "持続使用",
+        "lexica.cartographer.enchantment.fleetfoot.with.2": "自己移動",
+
+
+    "lexica.cartographer.enchantment.grappling.desc.1": "%1$s：着地時に使用者は",
+    "lexica.cartographer.enchantment.grappling.desc.2": "着地した位置に引き寄せる。",
+    "lexica.cartographer.enchantment.grappling.desc.3": "引力はLVLに応じて上昇する。",
+    "lexica.cartographer.enchantment.grappling.desc.4": " ",
+    "lexica.cartographer.enchantment.grappling.desc.5": "かぎ縄は「%2$s」効果",
+    "lexica.cartographer.enchantment.grappling.desc.6": "と見なされている。",
+        "lexica.cartographer.enchantment.grappling.with.1": "自動的",
+        "lexica.cartographer.enchantment.grappling.with.2": "自己移動",
+
+
+    "lexica.cartographer.enchantment.ricochet.desc.1": "%1$s：投射物は壁や床から",
+    "lexica.cartographer.enchantment.ricochet.desc.2": "%2$s回バウンドする。",
+    "lexica.cartographer.enchantment.ricochet.desc.3": " ",
+    "lexica.cartographer.enchantment.ricochet.desc.4": "ポーションはバウンド時に",
+    "lexica.cartographer.enchantment.ricochet.desc.5": "スプラッシュする。",
+        "lexica.cartographer.enchantment.ricochet.with.1": "自動的",
+        "lexica.cartographer.enchantment.ricochet.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.ripper.desc.1": "%1$s：相手に",
+    "lexica.cartographer.enchantment.ripper.desc.2": "%2$s1個を付与する。",
+    "lexica.cartographer.enchantment.ripper.desc.3": " ",
+    "lexica.cartographer.enchantment.ripper.desc.4": "%3$s：近接攻撃を",
+    "lexica.cartographer.enchantment.ripper.desc.5": "受けた時、%2$s1個につき",
+    "lexica.cartographer.enchantment.ripper.desc.6": "被ダメージ%4$s。",
+        "lexica.cartographer.enchantment.ripper.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.ripper.with.2": "荊棘",
+        "lexica.cartographer.enchantment.ripper.with.3": "荊棘",
+        "lexica.cartographer.enchantment.ripper.with.4": "+[2 * LVL]",
+
+
+    "lexica.cartographer.enchantment.shrapnel.desc.1": "%1$s：相手の後ろに扇状",
+    "lexica.cartographer.enchantment.shrapnel.desc.2": "の範囲に榴散弾を放つ。",
+    "lexica.cartographer.enchantment.shrapnel.desc.3": "榴散弾は本来の投射物の",
+    "lexica.cartographer.enchantment.shrapnel.desc.4": "ダメージ50%分を与える。",
+    "lexica.cartographer.enchantment.shrapnel.desc.5": "榴散弾を%2$s本発射できる。",
+        "lexica.cartographer.enchantment.shrapnel.with.1": "武器攻撃",
+        "lexica.cartographer.enchantment.shrapnel.with.2": "[1 + (2 * LVL)]",
+
+
+    "lexica.cartographer.enchantment.auto_charge.desc.1": "%1$s：数秒後、このアイテム",
+    "lexica.cartographer.enchantment.auto_charge.desc.2": "をリチャージする。通常の",
+    "lexica.cartographer.enchantment.auto_charge.desc.3": "クールダウンは%2$s。",
+    "lexica.cartographer.enchantment.auto_charge.desc.4": " ",
+    "lexica.cartographer.enchantment.auto_charge.desc.5": "この効果はホットバーに",
+    "lexica.cartographer.enchantment.auto_charge.desc.6": "いる限りで発動できる。",
+        "lexica.cartographer.enchantment.auto_charge.with.1": "自動的",
+        "lexica.cartographer.enchantment.auto_charge.with.2": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.1": "%1$s：複数の矢が",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.2": "装填でき、最大%2$s本",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.3": "まで。装填した矢1本",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.4": "につき、装填時間+0.25秒。",
+        "lexica.cartographer.enchantment.repeating_crossbow.with.1": "自動的",
+        "lexica.cartographer.enchantment.repeating_crossbow.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment.repeating_consumable.desc.1": "%s：このアイテムは使用回数",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.2": "を持つ。使用回数が尽きると",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.3": "破壊する。（特殊なエンチャントと",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.4": "組み合わせると破壊せずに無効化にする）",
+        "lexica.cartographer.enchantment.repeating_consumable.with.1": "自動的",
+
+
+    "lexica.cartographer.enchantment.scavenger.desc.1": "%s：このアイテムを",
+    "lexica.cartographer.enchantment.scavenger.desc.2": "リチャージする。通常、%s",
+    "lexica.cartographer.enchantment.scavenger.desc.3": "を1回するとリチャージできる。",
+    "lexica.cartographer.enchantment.scavenger.desc.4": " ",
+    "lexica.cartographer.enchantment.scavenger.desc.5": "この効果はホットバーに",
+    "lexica.cartographer.enchantment.scavenger.desc.6": "いる限り発動できる。",
+        "lexica.cartographer.enchantment.scavenger.with.1": "致命攻撃",
+        "lexica.cartographer.enchantment.scavenger.with.2": "致命攻撃",
+
+
+    "lexica.minecraft.enchantment.aqua_affinity.desc.1": "Removes the underwater",
+    "lexica.minecraft.enchantment.aqua_affinity.desc.2": "mining speed penalty.",
+
+
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.1": "Attacks made against arthropods",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.2": "deal %1$s additional",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.3": "damage. Additionally, arthropods",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.4": "are inflicted with %2$s",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.5": "for %3$s %4$s.",
+        "lexica.minecraft.enchantment.bane_of_arthropods.with.1": "[2.5 * LVL]",
+        "lexica.minecraft.enchantment.bane_of_arthropods.with.2": "移動速度低下 IV",
+        "lexica.minecraft.enchantment.bane_of_arthropods.with.3": "[1 + (0.5 * LVL)]",
+        "lexica.minecraft.enchantment.bane_of_arthropods.with.4": "秒",
+
+
+    "lexica.minecraft.enchantment.blast_protection.desc.1": "Reduces damage from",
+    "lexica.minecraft.enchantment.blast_protection.desc.2": "explosions by %s.",
+        "lexica.minecraft.enchantment.blast_protection.with.1": "[8% * LVL]",
+
+
+    "lexica.minecraft.enchantment.breach.desc.1": "Reduces the effectiveness of armor",
+    "lexica.minecraft.enchantment.breach.desc.2": "of a hit target by %s.",
+        "lexica.minecraft.enchantment.breach.with.1": "[15% * LVL]",
+
+
+    "lexica.minecraft.enchantment.channeling.desc.1": "While thundering, this Trident summons",
+    "lexica.minecraft.enchantment.channeling.desc.2": "a lightning bolt at the target.",
+
+
+    "lexica.minecraft.enchantment.density.desc.1": "Increases the damage of smash attacks",
+    "lexica.minecraft.enchantment.density.desc.2": "by %s per block fallen.",
+        "lexica.minecraft.enchantment.density.with.1": "[0.5 * LVL]",
+
+
+    "lexica.minecraft.enchantment.depth_strider.desc.1": "Increases underwater movement",
+    "lexica.minecraft.enchantment.depth_strider.desc.2": "speed by %s.",
+        "lexica.minecraft.enchantment.depth_strider.with.1": "[33% * LVL]",
+
+
+    "lexica.minecraft.enchantment.efficiency.desc.1": "Increases mining speed",
+    "lexica.minecraft.enchantment.efficiency.desc.2": "by %s.",
+        "lexica.minecraft.enchantment.efficiency.with.1": "[(LVL * LVL) + 1]",
+
+
+    "lexica.minecraft.enchantment.feather_falling.desc.1": "Reduces fall damage",
+    "lexica.minecraft.enchantment.feather_falling.desc.2": "by %s.",
+        "lexica.minecraft.enchantment.feather_falling.with.1": "[12% * LVL]",
+
+
+    "lexica.minecraft.enchantment.fire_aspect.desc.1": "Lights the target on fire",
+    "lexica.minecraft.enchantment.fire_aspect.desc.2": "for %1$s%2$s.",
+        "lexica.minecraft.enchantment.fire_aspect.with.1": "[4 * LVL]",
+        "lexica.minecraft.enchantment.fire_aspect.with.2": "秒",
+
+
+    "lexica.minecraft.enchantment.fire_protection.desc.1": "Reduces damage from",
+    "lexica.minecraft.enchantment.fire_protection.desc.2": "fire by %s.",
+        "lexica.minecraft.enchantment.fire_protection.with.1": "[8% * LVL]",
+
+
+    "lexica.minecraft.enchantment.flame.desc.1": "Arrows from this weapon ignite",
+    "lexica.minecraft.enchantment.flame.desc.2": "the target for %s.",
+        "lexica.minecraft.enchantment.flame.with.1": "(00:04)",
+
+
+    "lexica.minecraft.enchantment.fortune.desc.1": "Increases the amount",
+    "lexica.minecraft.enchantment.fortune.desc.2": "of block drops.",
+
+
+    "lexica.minecraft.enchantment.frost_walker.desc.1": "The wearer can walk on water,",
+    "lexica.minecraft.enchantment.frost_walker.desc.2": "turning it into frosted ice. Water",
+    "lexica.minecraft.enchantment.frost_walker.desc.3": "within %s blocks is iced.",
+        "lexica.minecraft.enchantment.frost_walker.with.1": "[2 + LVL]",
+
+
+    "lexica.minecraft.enchantment.impaling.desc.1": "Attacks made against aquatic mobs",
+    "lexica.minecraft.enchantment.impaling.desc.2": "deal %s additional damage.",
+        "lexica.minecraft.enchantment.impaling.with.1": "[2.5 * LVL]",
+
+
+    "lexica.minecraft.enchantment.infinity.desc.1": "この武器は矢を",
+    "lexica.minecraft.enchantment.infinity.desc.2": "消費しない。消費物に付けた",
+    "lexica.minecraft.enchantment.infinity.desc.3": "場合、無限に使用できる。",
+
+
+    "lexica.minecraft.enchantment.knockback.desc.1": "Increases melee knockback",
+    "lexica.minecraft.enchantment.knockback.desc.2": "by %s blocks.",
+        "lexica.minecraft.enchantment.knockback.with.1": "+[3 * LVL]",
+
+
+    "lexica.minecraft.enchantment.looting.desc.1": "Increases the amount of mob drops.",
+
+
+    "lexica.minecraft.enchantment.loyalty.desc.1": "This weapon returns after",
+    "lexica.minecraft.enchantment.loyalty.desc.2": "being thrown. Higher levels",
+    "lexica.minecraft.enchantment.loyalty.desc.3": "increase the return speed.",
+
+
+    "lexica.minecraft.enchantment.luck_of_the_sea.desc.1": "Increases the rate of",
+    "lexica.minecraft.enchantment.luck_of_the_sea.desc.2": "treasure from fishing.",
+
+
+    "lexica.minecraft.enchantment.lure.desc.1": "Decreases the time for",
+    "lexica.minecraft.enchantment.lure.desc.2": "bites while fishing.",
+
+
+    "lexica.minecraft.enchantment.mending.desc.1": "Repairs the item while",
+    "lexica.minecraft.enchantment.mending.desc.2": "worn with collected XP.",
+
+
+    "lexica.minecraft.enchantment.multishot.desc.1": "発射時、扇状の範囲で",
+    "lexica.minecraft.enchantment.multishot.desc.2": "+%s本の矢を放つ。",
+        "lexica.minecraft.enchantment.multishot.with.1": "[2 * LVL]",
+
+
+    "lexica.minecraft.enchantment.piercing.desc.1": "Arrows from this weapon pierce",
+    "lexica.minecraft.enchantment.piercing.desc.2": "through mobs %s times.",
+        "lexica.minecraft.enchantment.piercing.with.1": "[LVL]",
+
+
+    "lexica.minecraft.enchantment.power.desc.1": "Increases the damage of arrows",
+    "lexica.minecraft.enchantment.power.desc.2": "by %s.",
+        "lexica.minecraft.enchantment.power.with.1": "+[25% + (25% * LVL)]",
+
+
+    "lexica.minecraft.enchantment.projectile_protection.desc.1": "Reduces damage from",
+    "lexica.minecraft.enchantment.projectile_protection.desc.2": "projectiles by %s",
+        "lexica.minecraft.enchantment.projectile_protection.with.1": "[8% * LVL]",
+
+
+    "lexica.minecraft.enchantment.protection.desc.1": "Reduces all damage by %s.",
+        "lexica.minecraft.enchantment.protection.with.1": "[4% * LVL]",
+
+
+    "lexica.minecraft.enchantment.punch.desc.1": "Increases arrow knockback",
+    "lexica.minecraft.enchantment.punch.desc.2": "by %s blocks.",
+        "lexica.minecraft.enchantment.punch.with.1": "+[3 * LVL]",
+
+
+    "lexica.minecraft.enchantment.quick_charge.desc.1": "Decreases charge time by",
+    "lexica.minecraft.enchantment.quick_charge.desc.2": "%1$s %2$s.",
+        "lexica.minecraft.enchantment.quick_charge.with.1": "[0.5 * lvl]",
+        "lexica.minecraft.enchantment.quick_charge.with.2": "秒",
+
+
+    "lexica.minecraft.enchantment.respiration.desc.1": "Increases underwater breathing",
+    "lexica.minecraft.enchantment.respiration.desc.2": "time by %1$s %2$s.",
+        "lexica.minecraft.enchantment.respiration.with.1": "+[15 * lvl]",
+        "lexica.minecraft.enchantment.respiration.with.2": "秒",
+
+
+    "lexica.minecraft.enchantment.riptide.desc.1": "Instead of throwing, this trident",
+    "lexica.minecraft.enchantment.riptide.desc.2": "launches the user if they are",
+    "lexica.minecraft.enchantment.riptide.desc.3": "in water. Higher levels increase",
+    "lexica.minecraft.enchantment.riptide.desc.4": "the distance traveled.",
+
+
+    "lexica.minecraft.enchantment.sharpness.desc.1": "Increases the damage of this",
+    "lexica.minecraft.enchantment.sharpness.desc.2": "weapon by %s.",
+        "lexica.minecraft.enchantment.sharpness.with.1": "[0.5 + (0.5 * LVL)]",
+
+
+    "lexica.minecraft.enchantment.silk_touch.desc.1": "Mined blocks drop themselves",
+    "lexica.minecraft.enchantment.silk_touch.desc.2": "instead of their normal drops.",
+
+
+    "lexica.minecraft.enchantment.smite.desc.1": "Attacks made against undead mobs",
+    "lexica.minecraft.enchantment.smite.desc.2": "deal %s additional damage.",
+        "lexica.minecraft.enchantment.smite.with.1": "[2.5 * LVL]",
+
+
+    "lexica.minecraft.enchantment.soul_speed.desc.1": "Increases the speed the user moves",
+    "lexica.minecraft.enchantment.soul_speed.desc.2": "on Soul Sand and Soul Soil. Higher",
+    "lexica.minecraft.enchantment.soul_speed.desc.3": "levels increase the speed.",
+
+
+    "lexica.minecraft.enchantment.sweeping_edge.desc.1": "Increases the damage dealt by",
+    "lexica.minecraft.enchantment.sweeping_edge.desc.2": "sweeping attacks to be %s",
+    "lexica.minecraft.enchantment.sweeping_edge.desc.3": "of the total attack damage.",
+        "lexica.minecraft.enchantment.sweeping_edge.with.1": "[LVL ÷ (LVL + 1)]",
+
+
+    "lexica.minecraft.enchantment.swift_sneak.desc.1": "Increases the speed of the",
+    "lexica.minecraft.enchantment.swift_sneak.desc.2": "user while sneaking. Higher",
+    "lexica.minecraft.enchantment.swift_sneak.desc.3": "levels increase the speed.",
+
+
+    "lexica.minecraft.enchantment.thorns.desc.1": "攻撃を受けた時、攻撃された",
+    "lexica.minecraft.enchantment.thorns.desc.2": "相手にダメージを%s与える。",
+        "lexica.minecraft.enchantment.thorns.with.1": "[LVL]",
+
+
+    "lexica.minecraft.enchantment.unbreaking.desc.1": "使用時、%sの",
+    "lexica.minecraft.enchantment.unbreaking.desc.2": "確率で耐久値を減少しない。",
+    "lexica.minecraft.enchantment.unbreaking.desc.3": "",
+        "lexica.minecraft.enchantment.unbreaking.with.1": "[LVL ÷ (LVL + 1)]",
+
+
+    "lexica.minecraft.enchantment.wind_burst.desc.1": "Creates a burst of wind when",
+    "lexica.minecraft.enchantment.wind_burst.desc.2": "landing a smash attack or",
+    "lexica.minecraft.enchantment.wind_burst.desc.3": "critical hit. The burst of",
+    "lexica.minecraft.enchantment.wind_burst.desc.4": "wind launches the user upwards",
+    "lexica.minecraft.enchantment.wind_burst.desc.5": "and levels increase its power.",
+
+
+    "lexica.cartographer.enchantment_curse.annulling.desc.1": "%1$s：新しいバフが受けた時、",
+    "lexica.cartographer.enchantment_curse.annulling.desc.2": "%2$sの確率で「%3$s」を獲得し、",
+    "lexica.cartographer.enchantment_curse.annulling.desc.3": "継続%4$s。",
+    "lexica.cartographer.enchantment_curse.annulling.desc.4": "",
+        "lexica.cartographer.enchantment_curse.annulling.with.1": "ランダム",
+        "lexica.cartographer.enchantment_curse.annulling.with.2": "[5% * LVL]",
+        "lexica.cartographer.enchantment_curse.annulling.with.3": "祝福浄化",
+        "lexica.cartographer.enchantment_curse.annulling.with.4": "(00:02)",
+
+
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.1": "%1$s：受けた落下ダメージ",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.2": "%2$s。",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.3": "さらに、ブロックの端っこに",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.4": "スニークするとすべり落ちる",
+        "lexica.cartographer.enchantment_curse.clumsiness.with.1": "装備したとき",
+        "lexica.cartographer.enchantment_curse.clumsiness.with.2": "+[LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.corruption.desc.1": "%1$s：有害なステータス効果",
+    "lexica.cartographer.enchantment_curse.corruption.desc.2": "の影響を受ける場合。",
+        "lexica.cartographer.enchantment_curse.corruption.with.1": "封印",
+
+
+    "lexica.cartographer.enchantment_curse.crippling.desc.1": "%1$s：直接攻撃を受けた時、",
+    "lexica.cartographer.enchantment_curse.crippling.desc.2": "継続%2$s。",
+        "lexica.cartographer.enchantment_curse.crippling.with.1": "封印",
+        "lexica.cartographer.enchantment_curse.crippling.with.2": "(00:04)",
+
+
+    "lexica.cartographer.enchantment_curse.crumbling.desc.1": "%1$s：%3$s間ごとに",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.2": "%2$sの確率で耐久値",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.3": "を1減らす。",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.4": "最低に最大耐久値10%%分",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.5": "まで減少できる。",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.6": " ",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.7": "ホットバーあるいは装備スロット",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.8": "にいる限り脆弱の呪いが発動できる。",
+        "lexica.cartographer.enchantment_curse.crumbling.with.1": "装備したとき",
+        "lexica.cartographer.enchantment_curse.crumbling.with.2": "[5% * LVL]",
+        "lexica.cartographer.enchantment_curse.crumbling.with.3": "(00:05)",
+
+
+    "lexica.cartographer.enchantment_curse.encumbering.desc.1": "%s：クリティカル攻撃の",
+    "lexica.cartographer.enchantment_curse.encumbering.desc.2": "ダメージボーナスを無効化する。",
+        "lexica.cartographer.enchantment_curse.encumbering.with.1": "武器攻撃",
+
+
+    "lexica.cartographer.enchantment_curse.gluttony.desc.1": "%1$s：使用時に",
+    "lexica.cartographer.enchantment_curse.gluttony.desc.2": "満腹度を%2$s減らす。",
+    "lexica.cartographer.enchantment_curse.gluttony.desc.3": "",
+        "lexica.cartographer.enchantment_curse.gluttony.with.1": "装備したとき",
+        "lexica.cartographer.enchantment_curse.gluttony.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.haunting.desc.1": "%1$s：死亡時、このアイテムを",
+    "lexica.cartographer.enchantment_curse.haunting.desc.2": "持つ怨霊を召喚する。",
+        "lexica.cartographer.enchantment_curse.haunting.with.1": "自動的",
+
+
+    "lexica.cartographer.enchantment_curse.heaviness.desc.1": "%1$s：このクロスボウの",
+    "lexica.cartographer.enchantment_curse.heaviness.desc.2": "装填時間%2$s秒。",
+        "lexica.cartographer.enchantment_curse.heaviness.with.1": "装備したとき",
+        "lexica.cartographer.enchantment_curse.heaviness.with.2": "+[0.5 * LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.instability.desc.1": "%s：受けたダメージ種類は",
+    "lexica.cartographer.enchantment_curse.instability.desc.2": "近接、投射物、爆発、または落下",
+    "lexica.cartographer.enchantment_curse.instability.desc.3": "ダメージの順番に書き換える。",
+    "lexica.cartographer.enchantment_curse.instability.desc.4": "ダメージを受けた時に次の",
+    "lexica.cartographer.enchantment_curse.instability.desc.5": "種類に書き換える。",
+    "lexica.cartographer.enchantment_curse.instability.desc.6": "",
+    "lexica.cartographer.enchantment_curse.instability.desc.7": "",
+        "lexica.cartographer.enchantment_curse.instability.with.1": "装備したとき",
+
+
+    "lexica.cartographer.enchantment_curse.jamming.desc.1": "%s：このクロスボウは",
+    "lexica.cartographer.enchantment_curse.jamming.desc.2": "手動で装填できない。",
+        "lexica.cartographer.enchantment_curse.jamming.with.1": "装備したとき",
+
+
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.1": "%1$s：近接攻撃を受けた時、",
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.2": "さらに近接ダメージを%2$s受ける。",
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.3": "",
+        "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment_curse.melee_fragility.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.pride.desc.1": "%1$s：傲慢の呪いを持つアイテム",
+    "lexica.cartographer.enchantment_curse.pride.desc.2": "2個以上が装備した時。",
+        "lexica.cartographer.enchantment_curse.pride.with.1": "封印",
+
+
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.1": "%1$s: 投射物攻撃を受けた時、",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.2": "さらに投射物ダメージを%2$s受ける。",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.3": "",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.4": "",
+        "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "攻撃を受けた時",
+        "lexica.cartographer.enchantment_curse.projectile_fragility.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.regret.desc.1": "%1$s：使用によって耐久値を減ると",
+    "lexica.cartographer.enchantment_curse.regret.desc.2": "確定ダメージを%2$s受ける。",
+        "lexica.cartographer.enchantment_curse.regret.with.1": "装備したとき",
+        "lexica.cartographer.enchantment_curse.regret.with.2": "[LVL]",
+
+
+    "lexica.cartographer.enchantment_curse.shattering.desc.1": "%s：死亡時、このアイテムの",
+    "lexica.cartographer.enchantment_curse.shattering.desc.2": "耐久値は残り耐久値33%%分減る。",
+        "lexica.cartographer.enchantment_curse.shattering.with.1": "自動的",
+
+
+    "lexica.cartographer.enchantment_curse.two_handed.desc.1": "%s：二つの手にアイテムを",
+    "lexica.cartographer.enchantment_curse.two_handed.desc.2": "持った時。",
+    "lexica.cartographer.enchantment_curse.two_handed.desc.3": "",
+        "lexica.cartographer.enchantment_curse.two_handed.with.1": "封印",
+
+
+    "lexica.cartographer.enchantment.binding.desc.1": "この装備は死での場合以外",
+    "lexica.cartographer.enchantment.binding.desc.2": "脱ぐことはできない。",
+
+
+    "lexica.cartographer.enchantment.vanishing.desc.1": "死亡時、このアイテムは",
+    "lexica.cartographer.enchantment.vanishing.desc.2": "落ちずに損失する。",
+
+
+    "lexica.cartographer.keyword.passive.name": "自動的",
+        "lexica.cartographer.keyword.passive.desc.1": "特殊な条件以外、この効果は",
+        "lexica.cartographer.keyword.passive.desc.2": "いつもアクティブになる。",
+    
+    
+    "lexica.cartographer.keyword.equipped.name": "装備時",
+        "lexica.cartographer.keyword.equipped.desc.1": "特殊な条件以外、このアイテム",
+        "lexica.cartographer.keyword.equipped.desc.2": "は装備スロットにある限り、この",
+        "lexica.cartographer.keyword.equipped.desc.3": "効果はいつもアクティブになる。",
+    
+    
+    "lexica.cartographer.keyword.weapon_attack.name": "武器攻撃",
+        "lexica.cartographer.keyword.weapon_attack.desc.1": "この武器を使用すると",
+        "lexica.cartographer.keyword.weapon_attack.desc.2": "攻撃を行うとこの効果が",
+        "lexica.cartographer.keyword.weapon_attack.desc.3": "発動する。効果の影響は",
+        "lexica.cartographer.keyword.weapon_attack.desc.4": "使用者あるいは相手に与える。",
+
+
+    "lexica.cartographer.keyword.tool.name": "道具使用",
+        "lexica.cartographer.keyword.tool.desc.1": "道具に付けた場合、エンチャント倍率",
+        "lexica.cartographer.keyword.tool.desc.2": "は他の装備を無視し、この道具だけ",
+        "lexica.cartographer.keyword.tool.desc.3": "LVLを読める。",
+        "lexica.cartographer.keyword.tool.desc.4": "",
+    
+    
+    "lexica.cartographer.keyword.attacked.name": "攻撃を受けた時",
+        "lexica.cartographer.keyword.attacked.desc.1": "敵の攻撃を受けた時に",
+        "lexica.cartographer.keyword.attacked.desc.2": "この効果は使用者に付着する。",
+    
+    
+    "lexica.cartographer.keyword.damaged.name": "ダメージを受けた時",
+        "lexica.cartographer.keyword.damaged.desc.1": "ダメージを受けた時に",
+        "lexica.cartographer.keyword.damaged.desc.2": "この効果は使用者に付着する。",
+    
+    
+    "lexica.cartographer.keyword.random.name": "ランダム",
+        "lexica.cartographer.keyword.random.desc.1": "特定条件でランダム確率で",
+        "lexica.cartographer.keyword.random.desc.2": "発動する効果。ランダム効果が",
+        "lexica.cartographer.keyword.random.desc.3": "「%s」の影響を与える。",
+        "lexica.cartographer.keyword.random.desc.4": "",
+            "lexica.cartographer.keyword.random.with.1": "戦闘運",
+    
+    
+    "lexica.cartographer.keyword.energized.name": "活性化",
+        "lexica.cartographer.keyword.energized.desc.1": "移動や攻撃を行うとこの効果を",
+        "lexica.cartographer.keyword.energized.desc.2": "チャージする。条件が満たせれば、",
+        "lexica.cartographer.keyword.energized.desc.3": "この効果を発動する。活性化中、",
+        "lexica.cartographer.keyword.energized.desc.4": "静電気を放つ。道具の場合、スポナー",
+        "lexica.cartographer.keyword.energized.desc.5": "を破壊する時も、この効果を発動する。",
+        "lexica.cartographer.keyword.energized.desc.6": "",
+    
+    
+    "lexica.cartographer.keyword.lethal.name": "致命攻撃",
+        "lexica.cartographer.keyword.lethal.desc.1": "敵が倒した時、この効果を",
+        "lexica.cartographer.keyword.lethal.desc.2": "発動する。道具の場合、スポナーを",
+        "lexica.cartographer.keyword.lethal.desc.3": "破壊する時も、この効果を発動する。",
+    
+    
+    "lexica.cartographer.keyword.opportunist.name": "先制攻撃",
+        "lexica.cartographer.keyword.opportunist.desc.1": "この効果は敵を初めて攻撃する時",
+        "lexica.cartographer.keyword.opportunist.desc.2": "に発動する。同じ敵に15秒間内に",
+        "lexica.cartographer.keyword.opportunist.desc.3": "再び発動できない。",
+        "lexica.cartographer.keyword.opportunist.desc.4": "道具の場合、スポナーを破壊",
+        "lexica.cartographer.keyword.opportunist.desc.5": "する時も、この効果を発動する。",
+        "lexica.cartographer.keyword.opportunist.desc.6": "",
+    
+    
+    "lexica.cartographer.keyword.splintering.name": "荊棘",
+        "lexica.cartographer.keyword.splintering.desc.1": "この効果は命中された敵に",
+        "lexica.cartographer.keyword.splintering.desc.2": "「荊棘」を付く。ダメージは",
+        "lexica.cartographer.keyword.splintering.desc.3": "荊棘の数に基づいてる。",
+        "lexica.cartographer.keyword.splintering.desc.4": "荊棘を1つ増えるごとに",
+        "lexica.cartographer.keyword.splintering.desc.5": "ダメージを半減する。",
+        "lexica.cartographer.keyword.splintering.desc.6": " ",
+        "lexica.cartographer.keyword.splintering.desc.7": "%sごとに1「荊棘」を1つ",
+        "lexica.cartographer.keyword.splintering.desc.8": "取り除く。荊棘を持つ敵が近接攻撃",
+        "lexica.cartographer.keyword.splintering.desc.9": "が受けた時、荊棘を全て解除する。",
+            "lexica.cartographer.keyword.splintering.with.1": "(00:04)",
+    
+    
+    "lexica.cartographer.keyword.channeled.name": "持続使用",
+        "lexica.cartographer.keyword.channeled.desc.1": "[%1$s]を長押しするとこの",
+        "lexica.cartographer.keyword.channeled.desc.2": "効果を発動する。「%2$s」の",
+        "lexica.cartographer.keyword.channeled.desc.3": "状態中、無効化にする。",
+            "lexica.cartographer.keyword.channeled.with.1": "key.use",
+            "lexica.cartographer.keyword.channeled.with.2": "沈黙",
+    
+    
+    "lexica.cartographer.keyword.self_movement.name": "自己移動",
+        "lexica.cartographer.keyword.self_movement.desc.1": "ダッシュや引き寄せるなど",
+        "lexica.cartographer.keyword.self_movement.desc.2": "を発揮する移動効果。",
+        "lexica.cartographer.keyword.self_movement.desc.3": "「%s」の状態中に",
+        "lexica.cartographer.keyword.self_movement.desc.4": "無効化にする。",
+            "lexica.cartographer.keyword.self_movement.with.1": "釘付け",
+    
+    
+    "lexica.cartographer.keyword.locked.name": "封印",
+        "lexica.cartographer.keyword.locked.desc.1": "このアイテムは特殊な条件で",
+        "lexica.cartographer.keyword.locked.desc.2": "無効化にする。LVL2の呪いで",
+        "lexica.cartographer.keyword.locked.desc.3": "封印された場合、このアイテムの",
+        "lexica.cartographer.keyword.locked.desc.4": "属性も無効化にする。l",
+        "lexica.cartographer.keyword.locked.desc.5": "",
+    
+    
+    "lexica.cartographer.keyword.dynamic.name": "均整攻撃",
+        "lexica.cartographer.keyword.dynamic.desc.1": "ダメージ量は確定値または",
+        "lexica.cartographer.keyword.dynamic.desc.2": "パーセンテージ値で決まる。",
+        "lexica.cartographer.keyword.dynamic.desc.3": "二つの値が計算した後、",
+        "lexica.cartographer.keyword.dynamic.desc.4": "最大の値はいったんに",
+        "lexica.cartographer.keyword.dynamic.desc.5": "選べる。",
+    
+    
+    "lexica.cartographer.keyword.cooldown.name": "クールダウン",
+        "lexica.cartographer.keyword.cooldown.desc.1": "この効果が発動後、少し",
+        "lexica.cartographer.keyword.cooldown.desc.2": "の間で再び使用できない。",
+        "lexica.cartographer.keyword.cooldown.desc.3": "",
+
+
+    "lexica.cartographer.keyword.humanoid.name": "人型系の敵",
+        "lexica.cartographer.keyword.humanoid.desc.1": "以下のモブは「人型」",
+        "lexica.cartographer.keyword.humanoid.desc.2": "と見なされている。",
+        "lexica.cartographer.keyword.humanoid.desc.3": " ",
+        "lexica.cartographer.keyword.humanoid.desc.4": "ゾンビ、ハスク、ドラウンド、ゾンビピグリン、",
+        "lexica.cartographer.keyword.humanoid.desc.5": "スケルトン、ストレイ、ウィザースケルトン、",
+        "lexica.cartographer.keyword.humanoid.desc.6": "ボグド、ヴィンディケータ、エヴォーカー、",
+        "lexica.cartographer.keyword.humanoid.desc.7": "ヴェックス、ピリジャー、ウィッチ、アイアンゴーレム、",
+        "lexica.cartographer.keyword.humanoid.desc.8": "村人ゾンビ、ピグリン、ピグリンブルート、",
+        "lexica.cartographer.keyword.humanoid.desc.9": "イリュージョナー、ジャイアント、村人、行商人",
+
+
+    "lexica.cartographer.keyword.monstrous.name": "怪物系の敵",
+        "lexica.cartographer.keyword.monstrous.desc.1": "以下のモブは「怪物」",
+        "lexica.cartographer.keyword.monstrous.desc.2": "と見なされている。",
+        "lexica.cartographer.keyword.monstrous.desc.3": " ",
+        "lexica.cartographer.keyword.monstrous.desc.4": "ファントム、ウィザー、クモ、洞窟グモ、",
+        "lexica.cartographer.keyword.monstrous.desc.5": "シルバーフィッシュ、エンダーマイト、エンダーマン、",
+        "lexica.cartographer.keyword.monstrous.desc.6": "クリーパー、ブレイズ、ブリーズ、スライム、",
+        "lexica.cartographer.keyword.monstrous.desc.7": "マグマキューブ、ガスト、ラヴェジャー、ガーディアン、",
+        "lexica.cartographer.keyword.monstrous.desc.8": "エルダーガーディアン、シュルカー、ミツバチ、ホグリン、",
+        "lexica.cartographer.keyword.monstrous.desc.9": "ゾグリン、オオカミ、エンダードラゴン、ウサギ、",
+        "lexica.cartographer.keyword.monstrous.desc.10": "フグ、ウォーデン、クリーキング、イルカ、シロクマ",
+
+
+    "lexica.cartographer.keyword.positive_status.name": "正のステータス",
+        "lexica.cartographer.keyword.positive_status.desc.1": "以下のカスタムステータス",
+        "lexica.cartographer.keyword.positive_status.desc.2": "は有益効果が持ちている。",
+        "lexica.cartographer.keyword.positive_status.desc.3": " ",
+        "lexica.cartographer.keyword.positive_status.desc.4": "移動速度上昇、攻撃力上昇、防御力上昇、",
+        "lexica.cartographer.keyword.positive_status.desc.5": "ステルス、完全防御、攻撃無効化、回避能力、",
+        "lexica.cartographer.keyword.positive_status.desc.6": "衝撃吸収、再生能力、九死一生、衝撃拡散",
+        "lexica.cartographer.keyword.positive_status.desc.7": " ",
+        "lexica.cartographer.keyword.positive_status.desc.8": "以下のバニラステータス",
+        "lexica.cartographer.keyword.positive_status.desc.9": "は有益効果が持ちている。",
+        "lexica.cartographer.keyword.positive_status.desc.10": " ",
+        "lexica.cartographer.keyword.positive_status.desc.11": "移動速度上昇、採掘速度上昇、攻撃力上昇、",
+        "lexica.cartographer.keyword.positive_status.desc.12": "跳躍力上昇、再生能力、耐性、火炎耐性、",
+        "lexica.cartographer.keyword.positive_status.desc.13": "水中呼吸、透明化、暗視、体力増強、幸運、",
+        "lexica.cartographer.keyword.positive_status.desc.14": "衝撃吸収、落下速度低下、イルカの好意、",
+        "lexica.cartographer.keyword.positive_status.desc.15": "コンジットパワー、村の英雄",
+        "lexica.cartographer.keyword.positive_status.desc.16": "",
+
+
+    "lexica.cartographer.keyword.negative_status.name": "負のステータス",
+        "lexica.cartographer.keyword.negative_status.desc.1": "以下のカスタムステータス",
+        "lexica.cartographer.keyword.negative_status.desc.2": "は有害効果が持ちている。",
+        "lexica.cartographer.keyword.negative_status.desc.3": " ",
+        "lexica.cartographer.keyword.negative_status.desc.4": "移動速度低下、弱体化、防御低下、",
+        "lexica.cartographer.keyword.negative_status.desc.5": "盲目、衰弱、出血、感電、感染、",
+        "lexica.cartographer.keyword.negative_status.desc.6": "召魔、脆弱、無防備、連鎖、",
+        "lexica.cartographer.keyword.negative_status.desc.7": "釘付け、沈黙、混乱、氷結、",
+        "lexica.cartographer.keyword.negative_status.desc.8": "睡眠、スタン、眩暈、打止め、",
+        "lexica.cartographer.keyword.negative_status.desc.9": "爆風、潤滑、油濡れ、吸収、収穫",
+        "lexica.cartographer.keyword.negative_status.desc.10": " ",
+        "lexica.cartographer.keyword.negative_status.desc.11": "以下のバニラステータス",
+        "lexica.cartographer.keyword.negative_status.desc.12": "は有害効果が持ちている。",
+        "lexica.cartographer.keyword.negative_status.desc.13": " ",
+        "lexica.cartographer.keyword.negative_status.desc.14": "移動速度低下、採掘速度低下、",
+        "lexica.cartographer.keyword.negative_status.desc.15": "弱体化、吐き気、盲目、空腹、",
+        "lexica.cartographer.keyword.negative_status.desc.16": "毒、衰弱、浮遊、不運、暗闇",
+        "lexica.cartographer.keyword.negative_status.desc.17": "",
+
+
+    "lexica.cartographer.keyword.crowd_control.name": "行動制限ステータス",
+        "lexica.cartographer.keyword.crowd_control.desc.1": "以下のカスタムステータス",
+        "lexica.cartographer.keyword.crowd_control.desc.2": "は拘束効果が持ちている。",
+        "lexica.cartographer.keyword.crowd_control.desc.3": " ",
+        "lexica.cartographer.keyword.crowd_control.desc.4": "移動速度低下、弱体化、吸収、",
+        "lexica.cartographer.keyword.crowd_control.desc.5": "盲目、混乱、釘付け、氷結、",
+        "lexica.cartographer.keyword.crowd_control.desc.6": "沈黙、睡眠、スタン、眩暈",
+        "lexica.cartographer.keyword.crowd_control.desc.7": " ",
+        "lexica.cartographer.keyword.crowd_control.desc.8": "以下のバニラステータス",
+        "lexica.cartographer.keyword.crowd_control.desc.9": "は拘束効果が持ちている。",
+        "lexica.cartographer.keyword.crowd_control.desc.10": " ",
+        "lexica.cartographer.keyword.crowd_control.desc.11": "移動速度低下、採掘速度低下、",
+        "lexica.cartographer.keyword.crowd_control.desc.12": "弱体化、盲目、浮遊、暗闇",
+
+
+    
+    "## 翻訳メモ.死1": "--- カーロン ---",
+    "format.grammar.possessive": "%s",
+        "## 翻訳メモ.charon.1.1": "↑ 英語の所有格です。気にしなくてもいい。",
+
+    "cartographer.charon.ambrosia.name": "仙薬",
+        "cartographer.charon.ambrosia.desc.1": "使用時、「神の祝福」を",
+        "cartographer.charon.ambrosia.desc.2": "1つ獲得する。死亡時、",
+        "cartographer.charon.ambrosia.desc.3": "神の祝福を1つ消費して",
+        "cartographer.charon.ambrosia.desc.4": "アイテムは死から守る。",
+
+    "cartographer.charon.boons.add": "「神の祝福」は授けました！",
+    "cartographer.charon.boons.take": "「神の祝福」が1つ消費し、アイテムを守りました！",
+    "cartographer.charon.boons.remaining": "残りの神の祝福：%s",
+    "cartographer.charon.boons.no_remaining": "神の祝福は尽きました！",
+    "cartographer.charon.boons.score": "§l神の祝福",
+    
+    "cartographer.charon.collector.name": "§l死神",
+
+    "cartographer.charon.death_drop.bundle": "%1$sの貴重品 (第%3$s代)",
+
+    "cartographer.charon.death_timepiece.name": "死の時計",
+        "cartographer.charon.death_timepiece.desc.1": "普通の時計と違って、最後の",
+        "cartographer.charon.death_timepiece.desc.2": "死んだ場所を覚えて針はそこに",
+        "cartographer.charon.death_timepiece.desc.3": "指している。死亡時、またはアイテム",
+        "cartographer.charon.death_timepiece.desc.4": "を回収するとこのアイテムを失う。",
+
+    "cartographer.charon.respawnable.set_spawn": "リスポーン地点は移動しました！",
+    
+    "cartographer.charon.trader.name": "§lカローン",
+    "cartographer.charon.trader.trade.name": "死んだ英雄の貴重品 (第1代)",
+        "cartographer.charon.trader.trade.desc.1": "この墓は発売中では",
+        "cartographer.charon.trader.trade.desc.2": "なさそう…",
+    "cartographer.charon.trader.first_dialog.1": "その不可解な者はあなたの存在は気づいたが、彼の帳簿を見続ける。",
+    "cartographer.charon.trader.first_dialog.2": "カローンは村人のように%sを使って取引する。",
+    "cartographer.charon.trader.first_dialog.3": "死から奪ったアイテムはカローンに取引できる。",
+    
+    "cartographer.charon.shade.display.name": "%1$sの「残影」 (第%3$s代)",
+        "cartographer.charon.shade.display.tutorial": "[%s]を長押しして\n%sを蘇らせる。",
+    "cartographer.charon.shade.interaction.name": "死んだプレイヤー",
+        "cartographer.charon.shade.interaction.tutorial": "[%s]を長押しして\nこのプレイヤーを蘇らせる。",
+    "cartographer.charon.shade.tutorial": "「残影」の近くでスニークして直視するとプレイヤーを蘇せよう！",
+    "cartographer.charon.shade.despawn.notify.chat": "あなたの残影はデスポーンし、持っていたアイテムはその場所に落ちました。",
+    "cartographer.charon.shade.despawn.notify.actionbar": "あなたの残影がデスポーンしました。",
+    "cartographer.charon.shade.despawn.announce": "%sの残影はデスポーンしました！",
+    "cartographer.charon.shade.notify.collection": "他のプレイヤーがあなたの残影にあるアイテムを回収しました。",
+    "cartographer.charon.shade.revive.auto_off": "あなたの残影は%sが蘇りました！",
+    "cartographer.charon.shade.revive.auto_on": "あなたは蘇りました！",
+    "cartographer.charon.shade.revive.1": "死んだ所に戻りました。",
+    "cartographer.charon.shade.revive.2": "落ちていたアイテムが戻った。",
+    "cartographer.charon.shade.lifetime.auto_off": "残影は%s秒後にデスポーンする。",
+    "cartographer.charon.shade.lifetime.auto_on": "あなたは%s秒後に蘇生する。",
+
+    "cartographer.charon.shade.revive_progress.display.format": "[%s%s]",
+        "cartographer.charon.shade.revive_progress.display.0.1": "",
+        "cartographer.charon.shade.revive_progress.display.0.2": "-=≡蘇生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.1.1": "-",
+        "cartographer.charon.shade.revive_progress.display.1.2": "=≡蘇生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.2.1": "-=",
+        "cartographer.charon.shade.revive_progress.display.2.2": "≡蘇生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.3.1": "-=≡",
+        "cartographer.charon.shade.revive_progress.display.3.2": "蘇生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.4.1": "-=≡蘇",
+        "cartographer.charon.shade.revive_progress.display.4.2": "生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.5.1": "-=≡蘇生",
+        "cartographer.charon.shade.revive_progress.display.5.2": "中≡=-",
+        "cartographer.charon.shade.revive_progress.display.6.1": "-=≡蘇生中",
+        "cartographer.charon.shade.revive_progress.display.6.2": "≡=-",
+        "cartographer.charon.shade.revive_progress.display.7.1": "-=≡蘇生中≡",
+        "cartographer.charon.shade.revive_progress.display.7.2": "=-",
+        "cartographer.charon.shade.revive_progress.display.8.1": "-=≡蘇生中≡=",
+        "cartographer.charon.shade.revive_progress.display.8.2": "-",
+        "cartographer.charon.shade.revive_progress.display.9.1": "-=≡蘇生中≡=-",
+        "cartographer.charon.shade.revive_progress.display.9.2": "",
+
+    "cartographer.charon.shade.revive_progress.notify.msg_format": "報告：%sはあなたを%s。",
+    "cartographer.charon.shade.revive_progress.notify.format": "[%s%s]",
+        "cartographer.charon.shade.revive_progress.actionbar.0.1": "",
+        "cartographer.charon.shade.revive_progress.actionbar.0.2": "蘇生中…",
+        "cartographer.charon.shade.revive_progress.actionbar.1.1": "蘇",
+        "cartographer.charon.shade.revive_progress.actionbar.1.2": "生中…",
+        "cartographer.charon.shade.revive_progress.actionbar.2.1": "蘇生",
+        "cartographer.charon.shade.revive_progress.actionbar.2.2": "中…",
+        "cartographer.charon.shade.revive_progress.actionbar.3.1": "蘇生中",
+        "cartographer.charon.shade.revive_progress.actionbar.3.2": "…",
+        "cartographer.charon.shade.revive_progress.actionbar.4.1": "蘇生中…",
+        "cartographer.charon.shade.revive_progress.actionbar.4.2": "",
+
+    
+    "## 翻訳メモ.他1": "--- 小規模のシステム ---",
+    "cartographer.popup.enchant_effect": "エンチャント効果",
+    "cartographer.popup.enchant_resist": "エンチャント耐性",
+
+    "cartographer.curse.locked.item_name": "封印されたアイテム",
+        "cartographer.curse.locked.desc.1": "このアイテムは呪い",
+        "cartographer.curse.locked.desc.2": "によって無効化された。",
+    "cartographer.inert.name": "無効化されたアイテム",
+        "cartographer.inert.desc.auto_charge.1": "「自動リチャージ」によって",
+        "cartographer.inert.desc.auto_charge.2": "一時的に無効化されたアイテム。",
+        "cartographer.inert.desc.scavenger.1": "「スカベンジャー」によって",
+        "cartographer.inert.desc.scavenger.2": "一時的に無効化されたアイテム。",
+
+    "cartographer.popup.status_asleep": "すやぁ～",
+    "cartographer.popup.status_cleansed": "正浄化",
+    "cartographer.popup.status_purged": "負浄化",
+    "cartographer.popup.status_unstoppable": "拘束解除",
+    "cartographer.popup.status_resist": "ステータス耐性",
+
+    "cartographer.disables.anvil": "金床の機能は無効化にしました！",
+    "cartographer.disables.grindstone": "砥石の機能は無効化にしました！",
+
+    "cartographer.item_cooldown.seconds": "%s秒",
+
+    "cartographer.ender_pouch.name": "エンダーポーチ",
+        "cartographer.ender_pouch.desc.1": "このバンドルに収納されたアイテムは",
+        "cartographer.ender_pouch.desc.2": "エンダー貯蔵次元に保存する。",
+        "cartographer.ender_pouch.desc.3": "エンダーチェストを[%s]すると",
+        "cartographer.ender_pouch.desc.4": "収納されたアイテムは回収できる。",
+    "cartographer.ender_pouch.reject": "このアイテムはエンダー貯蔵次元に収納できません！",
+    "cartographer.ender_pouch.release": "エンダー貯蔵次元に収納されたアイテムは解放しました！",
+
+    
+    "## 翻訳メモ.金床1": "--- リペアステーション ---",
+    "cartographer.repair_anvil.expensive_lapis": "このアイテムは修復できない！（ラピスラズリのコストは高すぎる！）",
+    "cartographer.repair_anvil.expensive_xp": "このアイテムは修復できない！（経験値コストは高すぎる！）",
+
+    "cartographer.repair_station.display": "アイテムを持つと\n[%s]で修復する。",
+    "cartographer.repair_station.display.use": "[%s]でアイテムを修復する。\n[%s]でアイテムを回収する。",
+    "cartographer.repair_station.repair.insufficient": "修復材料は足りない！",
+    "cartographer.repair_station.repair.expensive": "このアイテムの修復コストは高すぎる！",
+    "cartographer.repair_station.repair.reject": "このアイテムは修復できない！",
+        "cartographer.repair_station.cost.format": "%s | %s | %s",
+
+        "cartographer.repair_station.cost.xp": "経験値%sレベル",
+        "cartographer.repair_station.cost.lapis": "ラピスラズリ%s個",
+        "cartographer.repair_station.cost.material": "%2$s %1$s個",
+
+    "cartographer.repair_stations.repair_anvil.name": "修復金床",
+        "cartographer.repair_stations.repair_anvil.desc.1": "インベントリ内のアイテムに",
+        "cartographer.repair_stations.repair_anvil.desc.2": "このアイテムをクリックすると",
+        "cartographer.repair_stations.repair_anvil.desc.3": "消費してて完全に修復する。",
+
+    "cartographer.repair_stations.repair_polish.name": "研磨石",
+        "cartographer.repair_stations.repair_polish.desc.1": "インベントリ内のアイテムに",
+        "cartographer.repair_stations.repair_polish.desc.2": "このアイテムをクリックすると",
+        "cartographer.repair_stations.repair_polish.desc.3": "消費してて修復コストを半減する。",
+
+    "cartographer.repair_station.upgrade.add": "%s +1",
+    "cartographer.repair_station.upgrade.shard.name": "吸収のアメジスト",
+        "cartographer.repair_station.upgrade.shard.desc": "ボーナス耐久値+5",
+            "cartographer.repair_station.upgrade.bonus_durability.desc.1": "（ボーナス耐久値を永久に与える。",
+            "cartographer.repair_station.upgrade.bonus_durability.desc.2": "1回だけ付与できる。）",
+    "cartographer.repair_station.upgrade.moss.name": "修繕の苔",
+        "cartographer.repair_station.upgrade.moss.desc": "経験値コスト-10%",
+    "cartographer.repair_station.upgrade.rune.name": "修理のルーン",
+        "cartographer.repair_station.upgrade.rune.desc": "ボーナス修復効率+10%",
+            "cartographer.repair_station.upgrade.bonus_repair.desc.1": "（「ボーナス修復」発動時、",
+            "cartographer.repair_station.upgrade.bonus_repair.desc.2": "修復コストを1回だけ上昇できない。）",
+            "cartographer.repair_station.upgrade.bonus_repair.proc": "! -= ボーナス修復・発動 =- !",
+    "cartographer.repair_station.upgrade.simulacrum.name": "硫黄の模造",
+        "cartographer.repair_station.upgrade.simulacrum.desc": "無料修復効率+10%",
+            "cartographer.repair_station.upgrade.free_repair.desc.1": "（「無料修復」は材料なしで修復できる。",
+            "cartographer.repair_station.upgrade.free_repair.desc.2": "経験値コストは影響をしない。）",
+            "cartographer.repair_station.upgrade.free_repair.proc": "! -= 無料修復・発動 =- !",
+    "cartographer.repair_station.upgrade.generic.desc.1": "リペアステーションに[%s]",
+    "cartographer.repair_station.upgrade.generic.desc.2": "するとアップグレードする。",
+    "cartographer.repair_station.upgrade.generic.desc.use": "使用時：",
+
+    "cartographer.repair_tesseract.villager": "リペア・テッセラクト",
+    "cartographer.repair_tesseract.item.name": "リペア・テッセラクト",
+        "cartographer.repair_tesseract.item.desc.1": "壊されたアイテムはここに",
+        "cartographer.repair_tesseract.item.desc.2": "転移します。そのアイテム",
+        "cartographer.repair_tesseract.item.desc.3": "は確定された材料で",
+        "cartographer.repair_tesseract.item.desc.4": "買うことができます。",
+    "cartographer.repair_tesseract.break_item": "使用していたアイテムが壊れて「リペア・テッセラクト」に運ばれました！",
+    "cartographer.repair_tesseract.activate.1": "祭壇に近づくと、上の匣がエネルギーで光っている。",
+    "cartographer.repair_tesseract.activate.2": "壊されたアイテムは「リペア・テッセラクト」の中に保存されます！",
+
+    
+    "## 翻訳メモ.メニュー1": "「Cartographer」の設定、クレジットなど",
+    "cartographer.credits_block_instructions": "%sで「Cartographer」のクレジットを表示する",
+    "cartographer.credits.hover.reload_panel": "起動メニューに戻る。",
+    "cartographer.credits.hover.dev": "制作者のクレジットを表示する",
+    "cartographer.credits.hover.tester": "テスターのクレジットを表示する",
+    "cartographer.credits.hover.patron": "パトロンのクレジットを表示する",
+    "cartographer.credits.hover.curr.dev": "制作者のクレジットが表示中",
+    "cartographer.credits.hover.curr.tester": "テスターのクレジットが表示中",
+    "cartographer.credits.hover.curr.patron": "パトロンのクレジットが表示中",
+
+    "cartographer.credits.dev": "⊰ 制作者のクレジット ⊱",
+        "cartographer.credits.dev.pear": "制作者・監督",
+        "cartographer.credits.dev.gibbs": "イベントハンドラ設計、EHIDライブラリパック",
+        "cartographer.credits.dev.bbl": "ブラックボックスライブラリパック",
+        "cartographer.credits.dev.player_mot": "プレイヤーモーションライブラリパック",
+        "cartographer.credits.dev.mob_mot": "MOBモーションライブラリパック",
+        "cartographer.credits.dev.sequex": "翻訳サポート・日本語版担当",
+    "cartographer.credits.tester": "⊰ テスターのクレジット ⊱",
+        "cartographer.credits.tester.msg": "こちらのβテストを参加するの方々へ感謝いたします！",
+    "cartographer.credits.patron": "⊰ パトロンのクレジット ⊱",
+        "cartographer.credits.patron.msg": "こちらのPatreonでサポートしてくれる方々へ感謝いたします！"
+}
