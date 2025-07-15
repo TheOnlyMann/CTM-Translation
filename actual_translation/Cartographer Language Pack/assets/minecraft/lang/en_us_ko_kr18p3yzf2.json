@@ -62,8 +62,8 @@
     "enchantment.cartographer.finesse": "재주",
     "enchantment.cartographer.handling": "조작",
     "enchantment.cartographer.immovable": "움직일 수 없음",
-    "enchantment.cartographer.invigorated": "활력 증진",
-    "enchantment.cartographer.lifesteal": "생명력 흡수",
+    "enchantment.cartographer.invigorated": "생기",
+    "enchantment.cartographer.lifesteal": "흡혈",
     "enchantment.cartographer.lucky": "행운",
     "enchantment.cartographer.precision": "정밀",
     "enchantment.cartographer.resonance": "공명",
@@ -196,7 +196,7 @@
     "enchantment.cartographer.shattering_curse": "산산이 부서지는 저주",
     "enchantment.cartographer.two_handed_curse": "양손",
     "enchantment.cartographer.heaviness_curse": "무거움의 저주",
-    "enchantment.cartographer.jamming_curse": "전파 방해 저주",
+    "enchantment.cartographer.jamming_curse": "탄걸림의 저주",
 
 
     "enchantment.cartographer.": "",
