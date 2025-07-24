@@ -297,9 +297,9 @@
     "lexica.cartographer.keyword.passive.desc.2": "상시 활성화됩니다.",
 
 
-    "lexica.cartographer.keyword.equipped.name": "장비했을 때",
+    "lexica.cartographer.keyword.equipped.name": "장비 시",
 
-    "lexica.cartographer.keyword.equipped.desc.1": "이 효과는 아이템을 장비했을 때",
+    "lexica.cartographer.keyword.equipped.desc.1": "이 효과는 아이템을 장비 시",
     "lexica.cartographer.keyword.equipped.desc.2": "상시 활성화됩니다.",
     "lexica.cartographer.keyword.equipped.desc.3": "(명시되지 않는 한).",
 
@@ -619,19 +619,19 @@
     "lexica.cartographer.effect.cleansed.desc.1": "Removes all %s",
     "lexica.cartographer.effect.cleansed.desc.2": "from the afflicted.",
 
-    "lexica.cartographer.effect.cleansed.with.1": "Negative Statuses",
+    "lexica.cartographer.effect.cleansed.with.1": "디버프",
 
 
     "lexica.cartographer.effect.purged.desc.1": "Removes all %s",
     "lexica.cartographer.effect.purged.desc.2": "from the afflicted.",
 
-    "lexica.cartographer.effect.purged.with.1": "Positive Statuses",
+    "lexica.cartographer.effect.purged.with.1": "버프",
 
 
     "lexica.cartographer.effect.unstoppable.desc.1": "Removes all %s",
     "lexica.cartographer.effect.unstoppable.desc.2": "from the afflicted.",
 
-    "lexica.cartographer.effect.unstoppable.with.1": "Crowd Control",
+    "lexica.cartographer.effect.unstoppable.with.1": "군중제어",
 
 
     "lexica.cartographer.effect.siphon_speed.desc.1": "The user steals %s",
@@ -752,7 +752,7 @@
     "lexica.cartographer.effect.wither.desc.3": "%2$s each level.",
 
     "lexica.cartographer.effect.wither.with.1": "(00:02)",
-    "lexica.cartographer.effect.wither.with.2": "[50% of remaining duration]",
+    "lexica.cartographer.effect.wither.with.2": "[남은 지속시간의 절반]",
 
 
     "lexica.cartographer.effect.absorption.desc.1": "Gives %1$s every %2$s. Higher",
@@ -932,8 +932,8 @@
 
     "lexica.cartographer.attribute.lucky_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.lucky_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.lucky_hit_chance.with.3": "Lucky Hit",
-    "lexica.cartographer.attribute.lucky_hit_chance.with.4": "Lucky Hit",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.3": "치명타",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.4": "치명타",
 
     "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.1": "%1$s: A %2$s",
     "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.2": "can perform a %3$s.",
@@ -944,8 +944,8 @@
 
     "lexica.cartographer.attribute.negative.lucky_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.negative.lucky_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "Lucky Hit",
-    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "Lucky Hit",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "치명타",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "치명타",
 
 
     "lexica.cartographer.attribute.lucky_hit_damage.desc.1": "Increases the damage of %1$s.",
@@ -954,8 +954,8 @@
     "lexica.cartographer.attribute.lucky_hit_damage.desc.4": "25%% of the attack's",
     "lexica.cartographer.attribute.lucky_hit_damage.desc.5": "base damage to the target.",
 
-    "lexica.cartographer.attribute.lucky_hit_damage.with.1": "Lucky Hits",
-    "lexica.cartographer.attribute.lucky_hit_damage.with.2": "Lucky Hit",
+    "lexica.cartographer.attribute.lucky_hit_damage.with.1": "치명타",
+    "lexica.cartographer.attribute.lucky_hit_damage.with.2": "치명타",
 
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.1": "Decreases the damage of %1$s.",
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.2": " ",
@@ -963,8 +963,8 @@
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.4": "25%% of the attack's",
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.5": "base damage to the target.",
 
-    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "Lucky Hits",
-    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "Lucky Hit",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "치명타",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "치명타",
 
 
     "lexica.cartographer.attribute.chaining_hit_chance.desc.1": "%1$s: A %2$s can",
@@ -976,8 +976,8 @@
 
     "lexica.cartographer.attribute.chaining_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.chaining_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.chaining_hit_chance.with.3": "Chaining Hit",
-    "lexica.cartographer.attribute.chaining_hit_chance.with.4": "Chaining Hit",
+    "lexica.cartographer.attribute.chaining_hit_chance.with.3": "연쇄 공격",
+    "lexica.cartographer.attribute.chaining_hit_chance.with.4": "연쇄 공격",
 
     "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.1": "%1$s: A %2$s can",
     "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.2": "perform a %3$s.",
@@ -988,8 +988,8 @@
 
     "lexica.cartographer.attribute.negative.chaining_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.negative.chaining_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.3": "Chaining Hit",
-    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.4": "Chaining Hit",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.3": "연쇄 공격",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.4": "연쇄 공격",
 
 
     "lexica.cartographer.attribute.chaining_hit_damage.desc.1": "Increases the damage",
@@ -999,8 +999,8 @@
     "lexica.cartographer.attribute.chaining_hit_damage.desc.5": "the attack's total damage",
     "lexica.cartographer.attribute.chaining_hit_damage.desc.6": "to another nearby mob.",
 
-    "lexica.cartographer.attribute.chaining_hit_damage.with.1": "Chaining Hits",
-    "lexica.cartographer.attribute.chaining_hit_damage.with.2": "Chaining Hit",
+    "lexica.cartographer.attribute.chaining_hit_damage.with.1": "연쇄 공격",
+    "lexica.cartographer.attribute.chaining_hit_damage.with.2": "연쇄 공격",
 
     "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.1": "Decreases the damage",
     "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.2": "of %1$s.",
@@ -1009,8 +1009,8 @@
     "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.5": "the attack's total damage",
     "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.6": "to another nearby mob.",
 
-    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.1": "Chaining Hits",
-    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.2": "Chaining Hit",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.1": "연쇄 공격",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.2": "연쇄 공격",
 
 
     "lexica.cartographer.attribute.chaining_hit_amount.desc.1": "Increases the number of mobs",
@@ -1020,8 +1020,8 @@
     "lexica.cartographer.attribute.chaining_hit_amount.desc.5": "the attack's total damage",
     "lexica.cartographer.attribute.chaining_hit_amount.desc.6": "to another nearby mob.",
 
-    "lexica.cartographer.attribute.chaining_hit_amount.with.1": "Chaining Hits",
-    "lexica.cartographer.attribute.chaining_hit_amount.with.2": "Chaining Hit",
+    "lexica.cartographer.attribute.chaining_hit_amount.with.1": "연쇄 공격",
+    "lexica.cartographer.attribute.chaining_hit_amount.with.2": "연쇄 공격",
 
     "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.1": "Decreases the number of mobs",
     "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.2": "affected by %1$s.",
@@ -1030,8 +1030,8 @@
     "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.5": "the attack's total damage",
     "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.6": "to another nearby mob.",
 
-    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.1": "Chaining Hits",
-    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.2": "Chaining Hit",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.1": "연쇄 공격",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.2": "연쇄 공격",
 
 
     "lexica.cartographer.attribute.restrike_hit_chance.desc.1": "%1$s: A %2$s can",
@@ -1410,28 +1410,28 @@
     "lexica.cartographer.enchantment.hazard_protection.desc.2": "from fire, explosion, and",
     "lexica.cartographer.enchantment.hazard_protection.desc.3": "magic damage by %2$s.",
 
-    "lexica.cartographer.enchantment.hazard_protection.with.1": "장비했을 때",
-    "lexica.cartographer.enchantment.hazard_protection.with.2": "[4% × level]",
+    "lexica.cartographer.enchantment.hazard_protection.with.1": "장비 시",
+    "lexica.cartographer.enchantment.hazard_protection.with.2": "[4% × 레벨]",
 
 
     "lexica.cartographer.enchantment.melee_protection.desc.1": "%1$s: Reduce damage from",
     "lexica.cartographer.enchantment.melee_protection.desc.2": "melee damage by %2$s.",
 
-    "lexica.cartographer.enchantment.melee_protection.with.1": "장비했을 때",
-    "lexica.cartographer.enchantment.melee_protection.with.2": "[4% × level]",
+    "lexica.cartographer.enchantment.melee_protection.with.1": "장비 시",
+    "lexica.cartographer.enchantment.melee_protection.with.2": "[4% × 레벨]",
 
 
     "lexica.cartographer.enchantment.ranged_protection.desc.1": "%1$s: Reduce damage from",
     "lexica.cartographer.enchantment.ranged_protection.desc.2": "ranged damage by %2$s.",
 
-    "lexica.cartographer.enchantment.ranged_protection.with.1": "장비했을 때",
-    "lexica.cartographer.enchantment.ranged_protection.with.2": "[4% × level]",
+    "lexica.cartographer.enchantment.ranged_protection.with.1": "장비 시",
+    "lexica.cartographer.enchantment.ranged_protection.with.2": "[4% × 레벨]",
 
 
     "lexica.cartographer.enchantment.agility.desc.1": "%1$s: Gain %2$s Blocks",
     "lexica.cartographer.enchantment.agility.desc.2": "of %3$s Attribute.",
 
-    "lexica.cartographer.enchantment.agility.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.agility.with.1": "장비 시",
     "lexica.cartographer.enchantment.agility.with.2": "+[레벨]",
     "lexica.cartographer.enchantment.agility.with.3": "점프 세기",
 
@@ -1439,15 +1439,15 @@
     "lexica.cartographer.enchantment.amplitude.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.amplitude.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.amplitude.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.amplitude.with.1": "장비 시",
     "lexica.cartographer.enchantment.amplitude.with.2": "+[10% × 레벨]",
-    "lexica.cartographer.enchantment.amplitude.with.3": "AoE Size",
+    "lexica.cartographer.enchantment.amplitude.with.3": "범위 크기",
 
 
     "lexica.cartographer.enchantment.celerity.desc.1": "%1$s: Gain",
     "lexica.cartographer.enchantment.celerity.desc.2": "%2$s %3$s Attribute.",
 
-    "lexica.cartographer.enchantment.celerity.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.celerity.with.1": "장비 시",
     "lexica.cartographer.enchantment.celerity.with.2": "+[4% × 레벨]",
     "lexica.cartographer.enchantment.celerity.with.3": "속도",
 
@@ -1455,15 +1455,15 @@
     "lexica.cartographer.enchantment.cloudstep.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.cloudstep.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.cloudstep.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.cloudstep.with.1": "장비 시",
     "lexica.cartographer.enchantment.cloudstep.with.2": "+[레벨]",
-    "lexica.cartographer.enchantment.cloudstep.with.3": "Extra Jump Count",
+    "lexica.cartographer.enchantment.cloudstep.with.3": "공중 점프 횟수",
 
 
     "lexica.cartographer.enchantment.dexterity.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.dexterity.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.dexterity.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.dexterity.with.1": "장비 시",
     "lexica.cartographer.enchantment.dexterity.with.2": "+[10% × 레벨]",
     "lexica.cartographer.enchantment.dexterity.with.3": "공격 속도",
 
@@ -1474,18 +1474,18 @@
     "lexica.cartographer.enchantment.echo.desc.4": "Attribute. Gives −1 %5$s",
     "lexica.cartographer.enchantment.echo.desc.5": "Attribute every 2 additional 레벨s.",
 
-    "lexica.cartographer.enchantment.echo.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.echo.with.1": "장비 시",
     "lexica.cartographer.enchantment.echo.with.2": "+[레벨]",
-    "lexica.cartographer.enchantment.echo.with.3": "Restrike Hit Amount",
-    "lexica.cartographer.enchantment.echo.with.4": "Restrike Hit Chance",
-    "lexica.cartographer.enchantment.echo.with.5": "Restrike Hit Rate",
+    "lexica.cartographer.enchantment.echo.with.3": "연속 공격 횟수",
+    "lexica.cartographer.enchantment.echo.with.4": "연속 공격 확률",
+    "lexica.cartographer.enchantment.echo.with.5": "연속 공격 적중률",
 
 
     "lexica.cartographer.enchantment.extended.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.extended.desc.2": "%3$s and",
     "lexica.cartographer.enchantment.extended.desc.3": "%4$s Attributes.",
 
-    "lexica.cartographer.enchantment.extended.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.extended.with.1": "장비 시",
     "lexica.cartographer.enchantment.extended.with.2": "+[0.25 × 레벨]",
     "lexica.cartographer.enchantment.extended.with.3": "블록 조작 범위",
     "lexica.cartographer.enchantment.extended.with.4": "근접 공격 범위",
@@ -1494,7 +1494,7 @@
     "lexica.cartographer.enchantment.finesse.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.finesse.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.finesse.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.finesse.with.1": "장비 시",
     "lexica.cartographer.enchantment.finesse.with.2": "+[5% × 레벨]",
     "lexica.cartographer.enchantment.finesse.with.3": "공격 피해",
 
@@ -1502,7 +1502,7 @@
     "lexica.cartographer.enchantment.handling.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.handling.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.handling.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.handling.with.1": "장비 시",
     "lexica.cartographer.enchantment.handling.with.2": "+[3 × 레벨]",
     "lexica.cartographer.enchantment.handling.with.3": "채굴 효율",
 
@@ -1510,7 +1510,7 @@
     "lexica.cartographer.enchantment.immovable.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.immovable.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.immovable.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.immovable.with.1": "장비 시",
     "lexica.cartographer.enchantment.immovable.with.2": "+[레벨]]",
     "lexica.cartographer.enchantment.immovable.with.3": "밀치기 저항",
 
@@ -1518,9 +1518,9 @@
     "lexica.cartographer.enchantment.invigorated.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.invigorated.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.invigorated.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.invigorated.with.1": "장비 시",
     "lexica.cartographer.enchantment.invigorated.with.2": "+[10% × 레벨]]",
-    "lexica.cartographer.enchantment.invigorated.with.3": "Healing Power",
+    "lexica.cartographer.enchantment.invigorated.with.3": "치유력",
 
 
     "lexica.cartographer.enchantment.lifesteal.desc.1": "%1$s: Gain %2$s",
@@ -1528,16 +1528,16 @@
     "lexica.cartographer.enchantment.lifesteal.desc.3": "Additionally gives +1",
     "lexica.cartographer.enchantment.lifesteal.desc.4": "%4$s Attribute.",
 
-    "lexica.cartographer.enchantment.lifesteal.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.lifesteal.with.1": "장비 시",
     "lexica.cartographer.enchantment.lifesteal.with.2": "+[5% × 레벨]]",
-    "lexica.cartographer.enchantment.lifesteal.with.3": "Life Drain Chance",
-    "lexica.cartographer.enchantment.lifesteal.with.4": "Life Drain Amount",
+    "lexica.cartographer.enchantment.lifesteal.with.3": "흡혈 효과 발생 확률",
+    "lexica.cartographer.enchantment.lifesteal.with.4": "흡혈 효과 회복량",
 
 
     "lexica.cartographer.enchantment.lucky.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.lucky.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.lucky.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.lucky.with.1": "장비 시",
     "lexica.cartographer.enchantment.lucky.with.2": "+[0.2 × 레벨]]",
     "lexica.cartographer.enchantment.lucky.with.3": "전투 행운",
 
@@ -1545,41 +1545,41 @@
     "lexica.cartographer.enchantment.precision.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.precision.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.precision.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.precision.with.1": "장비 시",
     "lexica.cartographer.enchantment.precision.with.2": "+[5% × 레벨]]",
-    "lexica.cartographer.enchantment.precision.with.3": "Ranged Damage",
+    "lexica.cartographer.enchantment.precision.with.3": "원거리 피해",
 
 
     "lexica.cartographer.enchantment.resonance.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.resonance.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.resonance.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.resonance.with.1": "장비 시",
     "lexica.cartographer.enchantment.resonance.with.2": "+[10% × 레벨]]",
-    "lexica.cartographer.enchantment.resonance.with.3": "AoE Damage",
+    "lexica.cartographer.enchantment.resonance.with.3": "범위 피해",
 
 
     "lexica.cartographer.enchantment.reverb.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.reverb.desc.2": "%3$s. Additionally,",
     "lexica.cartographer.enchantment.reverb.desc.3": "gives +2.0 %4$s.",
 
-    "lexica.cartographer.enchantment.reverb.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.reverb.with.1": "장비 시",
     "lexica.cartographer.enchantment.reverb.with.2": "+[레벨]",
-    "lexica.cartographer.enchantment.reverb.with.3": "Chaining Hit Amount",
-    "lexica.cartographer.enchantment.reverb.with.4": "Chaining Hit Chance",
+    "lexica.cartographer.enchantment.reverb.with.3": "연쇄 공격 횟수",
+    "lexica.cartographer.enchantment.reverb.with.4": "연쇄 공격 확률",
 
 
     "lexica.cartographer.enchantment.technique.desc.1": "%1$s: Gain",
     "lexica.cartographer.enchantment.technique.desc.2": "%2$s %3$s.",
 
-    "lexica.cartographer.enchantment.technique.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.technique.with.1": "장비 시",
     "lexica.cartographer.enchantment.technique.with.2": "+[10% × 레벨]]",
-    "lexica.cartographer.enchantment.technique.with.3": "Lucky Hit Chance",
+    "lexica.cartographer.enchantment.technique.with.3": "치명타 확률",
 
 
     "lexica.cartographer.enchantment.traveling.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.traveling.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.traveling.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.traveling.with.1": "장비 시",
     "lexica.cartographer.enchantment.traveling.with.2": "+[레벨]",
     "lexica.cartographer.enchantment.traveling.with.3": "걸음 높이",
 
@@ -1587,7 +1587,7 @@
     "lexica.cartographer.enchantment.vitality.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.vitality.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.vitality.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.vitality.with.1": "장비 시",
     "lexica.cartographer.enchantment.vitality.with.2": "+[5% × 레벨]",
     "lexica.cartographer.enchantment.vitality.with.3": "최대 생명력",
 
@@ -1595,9 +1595,9 @@
     "lexica.cartographer.enchantment.windborn.desc.1": "%1$s: Gain %2$s",
     "lexica.cartographer.enchantment.windborn.desc.2": "%3$s Attribute.",
 
-    "lexica.cartographer.enchantment.windborn.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.windborn.with.1": "장비 시",
     "lexica.cartographer.enchantment.windborn.with.2": "+[레벨]",
-    "lexica.cartographer.enchantment.windborn.with.3": "Air Dash Count",
+    "lexica.cartographer.enchantment.windborn.with.3": "공중 대시 횟수",
 
 
     "lexica.cartographer.enchantment.bracing.desc.1": "%1$s: Gain %2$s I.",
@@ -1624,7 +1624,7 @@
 
     "lexica.cartographer.enchantment.evasion.desc.1": "%1$s: Gain %2$s %3$s.",
 
-    "lexica.cartographer.enchantment.evasion.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.evasion.with.1": "장비 시",
     "lexica.cartographer.enchantment.evasion.with.2": "회피",
     "lexica.cartographer.enchantment.evasion.with.3": "[레벨]",
 
@@ -1663,7 +1663,7 @@
 
     "lexica.cartographer.enchantment.nullifying.desc.1": "%1$s: Gain %2$s %3$s.",
 
-    "lexica.cartographer.enchantment.nullifying.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.nullifying.with.1": "장비 시",
     "lexica.cartographer.enchantment.nullifying.with.2": "무효화",
     "lexica.cartographer.enchantment.nullifying.with.3": "[레벨]",
 
@@ -1673,7 +1673,7 @@
     "lexica.cartographer.enchantment.regeneration.desc.3": "the time between procs by",
     "lexica.cartographer.enchantment.regeneration.desc.4": "%4$s.",
 
-    "lexica.cartographer.enchantment.regeneration.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.regeneration.with.1": "장비 시",
     "lexica.cartographer.enchantment.regeneration.with.2": "(1❤)",
     "lexica.cartographer.enchantment.regeneration.with.3": "(00:05)",
     "lexica.cartographer.enchantment.regeneration.with.4": "[레벨당 15%(곱연산)]",
@@ -1695,11 +1695,11 @@
     "lexica.cartographer.enchantment.shielding.desc.7": " ",
     "lexica.cartographer.enchantment.shielding.desc.8": "The max %9$s is %10$s capping at 12.",
 
-    "lexica.cartographer.enchantment.shielding.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.shielding.with.1": "장비 시",
     "lexica.cartographer.enchantment.shielding.with.2": "(1❤)",
     "lexica.cartographer.enchantment.shielding.with.3": "(00:03)",
     "lexica.cartographer.enchantment.shielding.with.4": "[레벨당 15%(곱연산)]",
-    "lexica.cartographer.enchantment.shielding.with.5": "When Damaged",
+    "lexica.cartographer.enchantment.shielding.with.5": "피해를 입을 시",
     "lexica.cartographer.enchantment.shielding.with.6": "(00:08)",
     "lexica.cartographer.enchantment.shielding.with.7": "(00:16)",
     "lexica.cartographer.enchantment.shielding.with.8": "(❤)",
@@ -1729,7 +1729,7 @@
     "lexica.cartographer.enchantment.adrenaline.desc.2": "%3$s %4$s. This effect",
     "lexica.cartographer.enchantment.adrenaline.desc.3": "can stack up to 5 times.",
 
-    "lexica.cartographer.enchantment.adrenaline.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.adrenaline.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.adrenaline.with.2": "+[2% × 레벨]",
     "lexica.cartographer.enchantment.adrenaline.with.3": "속도",
     "lexica.cartographer.enchantment.adrenaline.with.4": "(00:08)",
@@ -1738,7 +1738,7 @@
     "lexica.cartographer.enchantment.bulwark.desc.1": "%1$s: Reduce all damage by",
     "lexica.cartographer.enchantment.bulwark.desc.2": "%2$s for the next %3$s.",
 
-    "lexica.cartographer.enchantment.bulwark.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.bulwark.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.bulwark.with.2": "[8% × 레벨]",
     "lexica.cartographer.enchantment.bulwark.with.3": "(00:03)",
 
@@ -1748,7 +1748,7 @@
     "lexica.cartographer.enchantment.courageous.desc.3": "every hostile mob targeting",
     "lexica.cartographer.enchantment.courageous.desc.4": "the user, up to 4 hostile mobs.",
 
-    "lexica.cartographer.enchantment.courageous.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.courageous.with.1": "장비 시",
     "lexica.cartographer.enchantment.courageous.with.2": "[2% × 레벨]",
 
 
@@ -1761,7 +1761,7 @@
     "lexica.cartographer.enchantment.diversion.desc.7": " ",
     "lexica.cartographer.enchantment.diversion.desc.8": "%4$s: %5$s chance.",
 
-    "lexica.cartographer.enchantment.diversion.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.diversion.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.diversion.with.2": "사살",
     "lexica.cartographer.enchantment.diversion.with.3": "(00:06)",
     "lexica.cartographer.enchantment.diversion.with.4": "랜덤",
@@ -1771,7 +1771,7 @@
     "lexica.cartographer.enchantment.ethereal.desc.1": "%1$s: Gain %2$s %3$s",
     "lexica.cartographer.enchantment.ethereal.desc.2": "of extra invulnerability frames.",
 
-    "lexica.cartographer.enchantment.ethereal.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.ethereal.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.ethereal.with.2": "[3 × 레벨 × 0.05]",
     "lexica.cartographer.enchantment.ethereal.with.3": "초",
 
@@ -1780,7 +1780,7 @@
     "lexica.cartographer.enchantment.frenzy.desc.2": "%3$s %4$s. This",
     "lexica.cartographer.enchantment.frenzy.desc.3": "effect can stack up to 5 times.",
 
-    "lexica.cartographer.enchantment.frenzy.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.frenzy.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.frenzy.with.2": "+[2% × 레벨]",
     "lexica.cartographer.enchantment.frenzy.with.3": "공격 피해",
     "lexica.cartographer.enchantment.frenzy.with.4": "(00:08)",
@@ -1791,7 +1791,7 @@
     "lexica.cartographer.enchantment.hardened.desc.3": "received is the same type as",
     "lexica.cartographer.enchantment.hardened.desc.4": "the last damage received.",
 
-    "lexica.cartographer.enchantment.hardened.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.hardened.with.1": "장비 시",
     "lexica.cartographer.enchantment.hardened.with.2": "[8% × 레벨]",
 
 
@@ -1807,7 +1807,7 @@
     "lexica.cartographer.enchantment.poise.desc.2": "damage by %2$s when",
     "lexica.cartographer.enchantment.poise.desc.3": "above 50%% %3$s.",
 
-    "lexica.cartographer.enchantment.poise.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.poise.with.1": "장비 시",
     "lexica.cartographer.enchantment.poise.with.2": "[8% × 레벨]",
     "lexica.cartographer.enchantment.poise.with.3": "최대 생명력",
 
@@ -1819,9 +1819,9 @@
     "lexica.cartographer.enchantment.sidestep.desc.5": "%4$s. After %5$s, Sidestep",
     "lexica.cartographer.enchantment.sidestep.desc.6": "will activate at half efficiency.",
 
-    "lexica.cartographer.enchantment.sidestep.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.sidestep.with.1": "장비 시",
     "lexica.cartographer.enchantment.sidestep.with.2": "[8% × 레벨]",
-    "lexica.cartographer.enchantment.sidestep.with.3": "When Attacked",
+    "lexica.cartographer.enchantment.sidestep.with.3": "공격받을 시",
     "lexica.cartographer.enchantment.sidestep.with.4": "(00:03)",
     "lexica.cartographer.enchantment.sidestep.with.5": "1.5초",
 
@@ -1830,7 +1830,7 @@
     "lexica.cartographer.enchantment.steadfast.desc.2": "damage by %2$s when",
     "lexica.cartographer.enchantment.steadfast.desc.3": "below 50%% %3$s.",
 
-    "lexica.cartographer.enchantment.steadfast.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.steadfast.with.1": "장비 시",
     "lexica.cartographer.enchantment.steadfast.with.2": "[8% × 레벨]",
     "lexica.cartographer.enchantment.steadfast.with.3": "최대 생명력",
 
@@ -1840,7 +1840,7 @@
     "lexica.cartographer.enchantment.tenacity.desc.3": "all damage by %3$s for %4$s.",
     "lexica.cartographer.enchantment.tenacity.desc.4": "This can stack up to 5 times.",
 
-    "lexica.cartographer.enchantment.tenacity.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.tenacity.with.1": "장비 시",
     "lexica.cartographer.enchantment.tenacity.with.2": "최대 생명력",
     "lexica.cartographer.enchantment.tenacity.with.3": "[2% × 레벨]",
     "lexica.cartographer.enchantment.tenacity.with.4": "(00:05)",
@@ -1852,7 +1852,7 @@
     "lexica.cartographer.enchantment.unseen.desc.4": "the effect by %3$s per",
     "lexica.cartographer.enchantment.unseen.desc.5": "each extra hostile mob.",
 
-    "lexica.cartographer.enchantment.unseen.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.unseen.with.1": "장비 시",
     "lexica.cartographer.enchantment.unseen.with.2": "[8% × 레벨]",
     "lexica.cartographer.enchantment.unseen.with.3": "[2% × 레벨]",
 
@@ -1884,7 +1884,7 @@
     "lexica.cartographer.enchantment.deadeye.desc.4": "Entities cannot be retargeted by",
     "lexica.cartographer.enchantment.deadeye.desc.5": "Deadeye for %4$s.",
 
-    "lexica.cartographer.enchantment.deadeye.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.deadeye.with.1": "달릴 시",
     "lexica.cartographer.enchantment.deadeye.with.2": "0.5초",
     "lexica.cartographer.enchantment.deadeye.with.3": "[2 × 레벨]",
     "lexica.cartographer.enchantment.deadeye.with.4": "1.5초",
@@ -2011,7 +2011,7 @@
     "lexica.cartographer.enchantment.surge.desc.4": "%2$s damage and knocks",
     "lexica.cartographer.enchantment.surge.desc.5": "hit entities straight upwards.",
 
-    "lexica.cartographer.enchantment.surge.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.surge.with.1": "달릴 시",
     "lexica.cartographer.enchantment.surge.with.2": "[2 × 레벨]",
 
 
@@ -2020,7 +2020,7 @@
     "lexica.cartographer.enchantment.trailblazer.desc.3": "%2$s damage every %3$s",
     "lexica.cartographer.enchantment.trailblazer.desc.4": "to mobs that stand within it.",
 
-    "lexica.cartographer.enchantment.trailblazer.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.trailblazer.with.1": "달릴 시",
     "lexica.cartographer.enchantment.trailblazer.with.2": "[레벨]",
     "lexica.cartographer.enchantment.trailblazer.with.3": "(00:01)",
 
@@ -2029,7 +2029,7 @@
     "lexica.cartographer.enchantment.vengeance.desc.2": "next weapon attack within",
     "lexica.cartographer.enchantment.vengeance.desc.3": "%2$s deals %3$s damage.",
 
-    "lexica.cartographer.enchantment.vengeance.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.vengeance.with.1": "공격받을 시",
     "lexica.cartographer.enchantment.vengeance.with.2": "(00:08)",
     "lexica.cartographer.enchantment.vengeance.with.3": "+[3 × 레벨]",
 
@@ -2058,7 +2058,7 @@
     "lexica.cartographer.enchantment.spurs.desc.1": "%s: Break nearby cobwebs",
     "lexica.cartographer.enchantment.spurs.desc.2": "and other hazardous plants.",
 
-    "lexica.cartographer.enchantment.spurs.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.spurs.with.1": "장비 시",
 
 
     "lexica.cartographer.enchantment.drilling.desc.1": "%1$s: Chance of instantly",
@@ -2069,7 +2069,7 @@
     "lexica.cartographer.enchantment.drilling.desc.6": " ",
     "lexica.cartographer.enchantment.drilling.desc.7": "%2$s: %3$s.",
 
-    "lexica.cartographer.enchantment.drilling.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.drilling.with.1": "장비 시",
     "lexica.cartographer.enchantment.drilling.with.2": "랜덤",
     "lexica.cartographer.enchantment.drilling.with.3": "([5% × 레벨])",
 
@@ -2079,7 +2079,7 @@
     "lexica.cartographer.enchantment.excavator.desc.3": "cobweb, all neighboring",
     "lexica.cartographer.enchantment.excavator.desc.4": "identical blocks are broken.",
 
-    "lexica.cartographer.enchantment.excavator.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.excavator.with.1": "장비 시",
 
 
     "lexica.cartographer.enchantment.lightborn.desc.1": "%1$s: Punching a block",
@@ -2088,7 +2088,7 @@
     "lexica.cartographer.enchantment.lightborn.desc.4": "clicked. This behavior can be",
     "lexica.cartographer.enchantment.lightborn.desc.5": "modified with %2$s.",
 
-    "lexica.cartographer.enchantment.lightborn.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.lightborn.with.1": "장비 시",
     "lexica.cartographer.enchantment.lightborn.with.2": "/trigger lightborn",
 
 
@@ -2096,7 +2096,7 @@
     "lexica.cartographer.enchantment.multitool.desc.2": "in other tool categories",
     "lexica.cartographer.enchantment.multitool.desc.3": "at 75%% effectiveness.",
 
-    "lexica.cartographer.enchantment.multitool.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment.multitool.with.1": "장비 시",
 
 
     "lexica.cartographer.enchantment.chaotic.desc.1": "%1$s: Deal %2$s",
@@ -2130,7 +2130,7 @@
 
     "lexica.cartographer.enchantment.duelist.with.1": "공격 시",
     "lexica.cartographer.enchantment.duelist.with.2": "+[2 × 레벨]",
-    "lexica.cartographer.enchantment.duelist.with.3": "Humanoid",
+    "lexica.cartographer.enchantment.duelist.with.3": "인간형",
 
 
     "lexica.cartographer.enchantment.hunter.desc.1": "%1$s: Deal %2$s damage",
@@ -2138,7 +2138,7 @@
 
     "lexica.cartographer.enchantment.hunter.with.1": "공격 시",
     "lexica.cartographer.enchantment.hunter.with.2": "+[2 × 레벨]",
-    "lexica.cartographer.enchantment.hunter.with.3": "Monstrous",
+    "lexica.cartographer.enchantment.hunter.with.3": "괴물형",
 
 
     "lexica.cartographer.enchantment.first_strike.desc.1": "%1$s: Deal %2$s damage",
@@ -2176,7 +2176,7 @@
 
     "lexica.cartographer.enchantment.hex_eater.with.1": "공격 시",
     "lexica.cartographer.enchantment.hex_eater.with.2": "+[2 × 레벨]",
-    "lexica.cartographer.enchantment.hex_eater.with.3": "Negative Statuses",
+    "lexica.cartographer.enchantment.hex_eater.with.3": "디버프",
 
 
     "lexica.cartographer.enchantment.leverage.desc.1": "%1$s: Critical hits",
@@ -2260,7 +2260,7 @@
     "lexica.cartographer.enchantment.repulsion.desc.7": "or if a ranged weapon with Repulsion",
     "lexica.cartographer.enchantment.repulsion.desc.8": "is aimed, drawn, or reloading.",
 
-    "lexica.cartographer.enchantment.repulsion.with.1": "Channeling",
+    "lexica.cartographer.enchantment.repulsion.with.1": "집중 시",
     "lexica.cartographer.enchantment.repulsion.with.2": "[2 × 레벨]",
 
 
@@ -2274,7 +2274,7 @@
     "lexica.cartographer.enchantment.ambushing.desc.8": " ",
     "lexica.cartographer.enchantment.ambushing.desc.9": "%3$s: %4$s %5$s.",
 
-    "lexica.cartographer.enchantment.ambushing.with.1": "Channeling",
+    "lexica.cartographer.enchantment.ambushing.with.1": "집중 시",
     "lexica.cartographer.enchantment.ambushing.with.2": "자율이동",
     "lexica.cartographer.enchantment.ambushing.with.3": "재사용 대기시간",
     "lexica.cartographer.enchantment.ambushing.with.4": "[24 − (2 × 레벨)]",
@@ -2303,7 +2303,7 @@
     "lexica.cartographer.enchantment.lunging.desc.12": " ",
     "lexica.cartographer.enchantment.lunging.desc.13": "%4$s: %5$s.",
 
-    "lexica.cartographer.enchantment.lunging.with.1": "Channeling",
+    "lexica.cartographer.enchantment.lunging.with.1": "집중 시",
     "lexica.cartographer.enchantment.lunging.with.2": "공격 피해",
     "lexica.cartographer.enchantment.lunging.with.3": "자율이동",
     "lexica.cartographer.enchantment.lunging.with.4": "재사용 대기시간",
@@ -2337,7 +2337,7 @@
     "lexica.cartographer.enchantment.riposte.desc.9": "%7$s: %8$s",
     "lexica.cartographer.enchantment.riposte.desc.10": "(based on block time).",
 
-    "lexica.cartographer.enchantment.riposte.with.1": "Channeling",
+    "lexica.cartographer.enchantment.riposte.with.1": "집중 시",
     "lexica.cartographer.enchantment.riposte.with.2": "(00:03)",
     "lexica.cartographer.enchantment.riposte.with.3": "역동성",
     "lexica.cartographer.enchantment.riposte.with.4": "역동성",
@@ -2364,12 +2364,12 @@
     "lexica.cartographer.enchantment.throwable.desc.7": " ",
     "lexica.cartographer.enchantment.throwable.desc.8": "%7$s: %8$s %9$s.",
 
-    "lexica.cartographer.enchantment.throwable.with.1": "Channeling",
+    "lexica.cartographer.enchantment.throwable.with.1": "집중 시",
     "lexica.cartographer.enchantment.throwable.with.2": "역동성",
-    "lexica.cartographer.enchantment.throwable.with.3": "Ranged Damage",
+    "lexica.cartographer.enchantment.throwable.with.3": "원거리 피해",
     "lexica.cartographer.enchantment.throwable.with.4": "역동성",
     "lexica.cartographer.enchantment.throwable.with.5": "공격 피해",
-    "lexica.cartographer.enchantment.throwable.with.6": "Ranged Damage",
+    "lexica.cartographer.enchantment.throwable.with.6": "원거리 피해",
     "lexica.cartographer.enchantment.throwable.with.7": "재사용 대기시간",
     "lexica.cartographer.enchantment.throwable.with.8": "[11 − 레벨]",
     "lexica.cartographer.enchantment.throwable.with.9": "초",
@@ -2437,7 +2437,7 @@
     "lexica.cartographer.enchantment.fleetfoot.desc.8": "Fleetfoot is considered",
     "lexica.cartographer.enchantment.fleetfoot.desc.9": "a %2$s effect.",
 
-    "lexica.cartographer.enchantment.fleetfoot.with.1": "Channeling",
+    "lexica.cartographer.enchantment.fleetfoot.with.1": "집중 시",
     "lexica.cartographer.enchantment.fleetfoot.with.2": "자율이동",
 
 
@@ -2540,7 +2540,7 @@
     "lexica.cartographer.enchantment_curse.clumsiness.desc.3": "The user cannot sneak off the edge",
     "lexica.cartographer.enchantment_curse.clumsiness.desc.4": "of blocks without falling off.",
 
-    "lexica.cartographer.enchantment_curse.clumsiness.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.clumsiness.with.1": "장비 시",
     "lexica.cartographer.enchantment_curse.clumsiness.with.2": "[레벨]",
 
 
@@ -2566,7 +2566,7 @@
     "lexica.cartographer.enchantment_curse.crumbling.desc.7": "Crumbling is only activated when on",
     "lexica.cartographer.enchantment_curse.crumbling.desc.8": "the user's hotbar or while worn.",
 
-    "lexica.cartographer.enchantment_curse.crumbling.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.crumbling.with.1": "장비 시",
     "lexica.cartographer.enchantment_curse.crumbling.with.2": "[5% × 레벨]",
     "lexica.cartographer.enchantment_curse.crumbling.with.3": "(00:05)",
 
@@ -2581,7 +2581,7 @@
     "lexica.cartographer.enchantment_curse.gluttony.desc.2": "hunger and saturation from",
     "lexica.cartographer.enchantment_curse.gluttony.desc.3": "the user each time it is used.",
 
-    "lexica.cartographer.enchantment_curse.gluttony.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.gluttony.with.1": "장비 시",
     "lexica.cartographer.enchantment_curse.gluttony.with.2": "[레벨]",
 
 
@@ -2594,7 +2594,7 @@
     "lexica.cartographer.enchantment_curse.heaviness.desc.1": "%1$s: This 쇠뇌 takes",
     "lexica.cartographer.enchantment_curse.heaviness.desc.2": "%2$s seconds to load.",
 
-    "lexica.cartographer.enchantment_curse.heaviness.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.heaviness.with.1": "장비 시",
     "lexica.cartographer.enchantment_curse.heaviness.with.2": "+[0.5 × 레벨]",
 
 
@@ -2606,20 +2606,20 @@
     "lexica.cartographer.enchantment_curse.instability.desc.6": "is worn, the damage type rotates",
     "lexica.cartographer.enchantment_curse.instability.desc.7": "to the next one in the list.",
 
-    "lexica.cartographer.enchantment_curse.instability.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.instability.with.1": "장비 시",
 
 
     "lexica.cartographer.enchantment_curse.jamming.desc.1": "%s: This 쇠뇌",
     "lexica.cartographer.enchantment_curse.jamming.desc.2": "cannot be loaded manually.",
 
-    "lexica.cartographer.enchantment_curse.jamming.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.jamming.with.1": "장비 시",
 
 
     "lexica.cartographer.enchantment_curse.melee_fragility.desc.1": "%1$s: When attacked via",
     "lexica.cartographer.enchantment_curse.melee_fragility.desc.2": "melee, the user takes a separate",
     "lexica.cartographer.enchantment_curse.melee_fragility.desc.3": "instance of %2$s melee damage.",
 
-    "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "When Attacked",
+    "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "공격받을 시",
     "lexica.cartographer.enchantment_curse.melee_fragility.with.2": "[레벨]",
 
 
@@ -2634,14 +2634,14 @@
     "lexica.cartographer.enchantment_curse.projectile_fragility.desc.3": "takes a separate instance",
     "lexica.cartographer.enchantment_curse.projectile_fragility.desc.4": "of %2$s projectile damage.",
 
-    "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "When Attacked",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "공격받을 시",
     "lexica.cartographer.enchantment_curse.projectile_fragility.with.2": "[레벨]",
 
 
     "lexica.cartographer.enchantment_curse.regret.desc.1": "%1$s: Deals %2$s true",
     "lexica.cartographer.enchantment_curse.regret.desc.2": "damage to the user when used.",
 
-    "lexica.cartographer.enchantment_curse.regret.with.1": "장비했을 때",
+    "lexica.cartographer.enchantment_curse.regret.with.1": "장비 시",
     "lexica.cartographer.enchantment_curse.regret.with.2": "[레벨]",
 
 
