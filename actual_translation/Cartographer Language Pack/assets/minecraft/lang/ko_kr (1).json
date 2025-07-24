@@ -262,7 +262,7 @@
     "item.modifiers.jump": "점프 시:",
     "item.modifiers.break": "스포너 파괴 시:",
     "item.modifiers.consume": "사용 시:",
-    "item.modifiers.attacked": "공격받을 시:",
+    "item.modifiers.attacked": "피격 시:",
     "item.modifiers.potion": "물약 투척 시:",
     "item.modifiers.enchant_proc": "[%s] 발동 시:",
     "item.modifiers.self": "(자신)",
@@ -320,13 +320,13 @@
     "lexica.cartographer.keyword.tool.desc.4": "마법부여의 레벨만을 고려해 적용됩니다.",
 
 
-    "lexica.cartographer.keyword.attacked.name": "공격받을 시",
+    "lexica.cartographer.keyword.attacked.name": "피격 시",
 
     "lexica.cartographer.keyword.attacked.desc.1": "이 효과는 사용자가",
     "lexica.cartographer.keyword.attacked.desc.2": "몹에게 공격받을 때 적용됩니다.",
 
 
-    "lexica.cartographer.keyword.damaged.name": "피해를 입을 시",
+    "lexica.cartographer.keyword.damaged.name": "피해 입을 시",
 
     "lexica.cartographer.keyword.damaged.desc.1": "이 효과는 사용자가",
     "lexica.cartographer.keyword.damaged.desc.2": "피해를 입을 때 적용됩니다.",
@@ -1699,7 +1699,7 @@
     "lexica.cartographer.enchantment.shielding.with.2": "(1❤)",
     "lexica.cartographer.enchantment.shielding.with.3": "(00:03)",
     "lexica.cartographer.enchantment.shielding.with.4": "[레벨당 15%(곱연산)]",
-    "lexica.cartographer.enchantment.shielding.with.5": "피해를 입을 시",
+    "lexica.cartographer.enchantment.shielding.with.5": "피해 입을 시",
     "lexica.cartographer.enchantment.shielding.with.6": "(00:08)",
     "lexica.cartographer.enchantment.shielding.with.7": "(00:16)",
     "lexica.cartographer.enchantment.shielding.with.8": "(❤)",
@@ -1729,7 +1729,7 @@
     "lexica.cartographer.enchantment.adrenaline.desc.2": "%3$s %4$s. This effect",
     "lexica.cartographer.enchantment.adrenaline.desc.3": "can stack up to 5 times.",
 
-    "lexica.cartographer.enchantment.adrenaline.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.adrenaline.with.1": "피격 시",
     "lexica.cartographer.enchantment.adrenaline.with.2": "+[2% × 레벨]",
     "lexica.cartographer.enchantment.adrenaline.with.3": "속도",
     "lexica.cartographer.enchantment.adrenaline.with.4": "(00:08)",
@@ -1738,7 +1738,7 @@
     "lexica.cartographer.enchantment.bulwark.desc.1": "%1$s: Reduce all damage by",
     "lexica.cartographer.enchantment.bulwark.desc.2": "%2$s for the next %3$s.",
 
-    "lexica.cartographer.enchantment.bulwark.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.bulwark.with.1": "피격 시",
     "lexica.cartographer.enchantment.bulwark.with.2": "[8% × 레벨]",
     "lexica.cartographer.enchantment.bulwark.with.3": "(00:03)",
 
@@ -1761,7 +1761,7 @@
     "lexica.cartographer.enchantment.diversion.desc.7": " ",
     "lexica.cartographer.enchantment.diversion.desc.8": "%4$s: %5$s chance.",
 
-    "lexica.cartographer.enchantment.diversion.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.diversion.with.1": "피격 시",
     "lexica.cartographer.enchantment.diversion.with.2": "사살",
     "lexica.cartographer.enchantment.diversion.with.3": "(00:06)",
     "lexica.cartographer.enchantment.diversion.with.4": "랜덤",
@@ -1771,7 +1771,7 @@
     "lexica.cartographer.enchantment.ethereal.desc.1": "%1$s: Gain %2$s %3$s",
     "lexica.cartographer.enchantment.ethereal.desc.2": "of extra invulnerability frames.",
 
-    "lexica.cartographer.enchantment.ethereal.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.ethereal.with.1": "피격 시",
     "lexica.cartographer.enchantment.ethereal.with.2": "[3 × 레벨 × 0.05]",
     "lexica.cartographer.enchantment.ethereal.with.3": "초",
 
@@ -1780,7 +1780,7 @@
     "lexica.cartographer.enchantment.frenzy.desc.2": "%3$s %4$s. This",
     "lexica.cartographer.enchantment.frenzy.desc.3": "effect can stack up to 5 times.",
 
-    "lexica.cartographer.enchantment.frenzy.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.frenzy.with.1": "피격 시",
     "lexica.cartographer.enchantment.frenzy.with.2": "+[2% × 레벨]",
     "lexica.cartographer.enchantment.frenzy.with.3": "공격 피해",
     "lexica.cartographer.enchantment.frenzy.with.4": "(00:08)",
@@ -1821,7 +1821,7 @@
 
     "lexica.cartographer.enchantment.sidestep.with.1": "장비 시",
     "lexica.cartographer.enchantment.sidestep.with.2": "[8% × 레벨]",
-    "lexica.cartographer.enchantment.sidestep.with.3": "공격받을 시",
+    "lexica.cartographer.enchantment.sidestep.with.3": "피격 시",
     "lexica.cartographer.enchantment.sidestep.with.4": "(00:03)",
     "lexica.cartographer.enchantment.sidestep.with.5": "1.5초",
 
@@ -2029,7 +2029,7 @@
     "lexica.cartographer.enchantment.vengeance.desc.2": "next weapon attack within",
     "lexica.cartographer.enchantment.vengeance.desc.3": "%2$s deals %3$s damage.",
 
-    "lexica.cartographer.enchantment.vengeance.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment.vengeance.with.1": "피격 시",
     "lexica.cartographer.enchantment.vengeance.with.2": "(00:08)",
     "lexica.cartographer.enchantment.vengeance.with.3": "+[3 × 레벨]",
 
@@ -2619,7 +2619,7 @@
     "lexica.cartographer.enchantment_curse.melee_fragility.desc.2": "melee, the user takes a separate",
     "lexica.cartographer.enchantment_curse.melee_fragility.desc.3": "instance of %2$s melee damage.",
 
-    "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "피격 시",
     "lexica.cartographer.enchantment_curse.melee_fragility.with.2": "[레벨]",
 
 
@@ -2634,7 +2634,7 @@
     "lexica.cartographer.enchantment_curse.projectile_fragility.desc.3": "takes a separate instance",
     "lexica.cartographer.enchantment_curse.projectile_fragility.desc.4": "of %2$s projectile damage.",
 
-    "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "공격받을 시",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "피격 시",
     "lexica.cartographer.enchantment_curse.projectile_fragility.with.2": "[레벨]",
 
 
