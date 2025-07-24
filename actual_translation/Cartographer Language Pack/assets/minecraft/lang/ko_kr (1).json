@@ -167,7 +167,7 @@
     
     "## TL_NOTE.attributes": "--- 속성 ---",
     "attribute.name.melee_damage": "근접 피해",
-        "NOTE16.1": "근접 데미지는 Carto께 아니지만 맵제작자용으로 넣어뒀어요",
+        "NOTE16.1": "근접 피해는 Carto께 아니지만 맵제작자용으로 넣어뒀어요",
     "attribute.name.ranged_damage": "원거리 피해",
     "attribute.name.ranged_velocity": "투사체 속도",
     "attribute.name.combat_luck": "전투 행운",
@@ -2658,243 +2658,244 @@
     "lexica.cartographer.enchantment_curse.two_handed.with.1": "잠금",
 
 
-    "lexica.minecraft.enchantment.aqua_affinity.desc.1": "Removes the underwater",
-    "lexica.minecraft.enchantment.aqua_affinity.desc.2": "mining speed penalty.",
+    "lexica.minecraft.enchantment.aqua_affinity.desc.1": "수중 채굴 페널티를 ",
+    "lexica.minecraft.enchantment.aqua_affinity.desc.2": "제거합니다.",
 
 
-    "lexica.minecraft.enchantment.bane_of_arthropods.desc.1": "Attacks made against arthropods",
-    "lexica.minecraft.enchantment.bane_of_arthropods.desc.2": "deal %1$s additional",
-    "lexica.minecraft.enchantment.bane_of_arthropods.desc.3": "damage. Additionally, arthropods",
-    "lexica.minecraft.enchantment.bane_of_arthropods.desc.4": "are inflicted with %2$s",
-    "lexica.minecraft.enchantment.bane_of_arthropods.desc.5": "for %3$s %4$s.",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.1": "벌레 유형의 몹에게 ",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.2": "%1$s 추가 피해를",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.3": "입힙니다. 또한, 벌레 유형의 몹은",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.4": "%2$s 효과를",
+    "lexica.minecraft.enchantment.bane_of_arthropods.desc.5": "%3$s%4$s 간 받습니다.",
 
-    "lexica.minecraft.enchantment.bane_of_arthropods.with.1": "[2.5 × lvl]",
+    "lexica.minecraft.enchantment.bane_of_arthropods.with.1": "[2.5 × 레벨]",
     "lexica.minecraft.enchantment.bane_of_arthropods.with.2": "속도 감소 IV",
-    "lexica.minecraft.enchantment.bane_of_arthropods.with.3": "[1 + (0.5 × lvl)]",
+    "lexica.minecraft.enchantment.bane_of_arthropods.with.3": "[1 + (0.5 × 레벨)]",
     "lexica.minecraft.enchantment.bane_of_arthropods.with.4": "초",
 
 
-    "lexica.minecraft.enchantment.blast_protection.desc.1": "Reduces damage from",
-    "lexica.minecraft.enchantment.blast_protection.desc.2": "explosions by %s.",
+    "lexica.minecraft.enchantment.blast_protection.desc.1": "받는 폭발의 피해가",
+    "lexica.minecraft.enchantment.blast_protection.desc.2": "%s만큼 감소합니다.",
 
-    "lexica.minecraft.enchantment.blast_protection.with.1": "[8% per lvl]",
-
-
-    "lexica.minecraft.enchantment.breach.desc.1": "Reduces the effectiveness of armor",
-    "lexica.minecraft.enchantment.breach.desc.2": "of a hit target by %s.",
-
-    "lexica.minecraft.enchantment.breach.with.1": "[15% per lvl]",
+    "lexica.minecraft.enchantment.blast_protection.with.1": "[레벨당 8%]",
 
 
-    "lexica.minecraft.enchantment.channeling.desc.1": "While thundering, this 삼지창 summons",
-    "lexica.minecraft.enchantment.channeling.desc.2": "a 벼락 at the target.",
+    "lexica.minecraft.enchantment.breach.desc.1": "피격 대상의 방어를",
+    "lexica.minecraft.enchantment.breach.desc.2": "%s만큼 무시합니다.",
+
+    "lexica.minecraft.enchantment.breach.with.1": "[레벨당 15%]",
 
 
-    "lexica.minecraft.enchantment.density.desc.1": "Increases the damage of smash attacks",
-    "lexica.minecraft.enchantment.density.desc.2": "by %s per block fallen.",
-
-    "lexica.minecraft.enchantment.density.with.1": "[0.5 × lvl]",
+    "lexica.minecraft.enchantment.channeling.desc.1": "뇌우가 치는 날씨일 경우,",
+    "lexica.minecraft.enchantment.channeling.desc.2": "던진 삼지창은 벼락을 소환합니다.",
 
 
-    "lexica.minecraft.enchantment.depth_strider.desc.1": "Increases underwater movement",
-    "lexica.minecraft.enchantment.depth_strider.desc.2": "speed by %s.",
+    "lexica.minecraft.enchantment.density.desc.1": "블록 낙하 거리에 따라",
+    "lexica.minecraft.enchantment.density.desc.2": "%s 추가 피해를 입힙니다.",
 
-    "lexica.minecraft.enchantment.depth_strider.with.1": "[33% per lvl]",
-
-
-    "lexica.minecraft.enchantment.efficiency.desc.1": "Increases mining speed",
-    "lexica.minecraft.enchantment.efficiency.desc.2": "by %s.",
-
-    "lexica.minecraft.enchantment.efficiency.with.1": "[(lvl × lvl) + 1]",
+    "lexica.minecraft.enchantment.density.with.1": "[0.5 × 레벨]",
 
 
-    "lexica.minecraft.enchantment.feather_falling.desc.1": "Reduces fall damage",
-    "lexica.minecraft.enchantment.feather_falling.desc.2": "by %s.",
+    "lexica.minecraft.enchantment.depth_strider.desc.1": "수중 이동 속도가",
+    "lexica.minecraft.enchantment.depth_strider.desc.2": "%s만큼 증가합니다.",
 
-    "lexica.minecraft.enchantment.feather_falling.with.1": "[12% per lvl]",
+    "lexica.minecraft.enchantment.depth_strider.with.1": "[레벨당 33%]",
 
 
-    "lexica.minecraft.enchantment.fire_aspect.desc.1": "Lights the target on fire",
-    "lexica.minecraft.enchantment.fire_aspect.desc.2": "for %1$s %2$s.",
+    "lexica.minecraft.enchantment.efficiency.desc.1": "채굴 속도가",
+    "lexica.minecraft.enchantment.efficiency.desc.2": "%s만큼 증가합니다.",
 
-    "lexica.minecraft.enchantment.fire_aspect.with.1": "[4 × lvl]",
+    "lexica.minecraft.enchantment.efficiency.with.1": "[(레벨 × 레벨) + 1]",
+
+
+    "lexica.minecraft.enchantment.feather_falling.desc.1": "낙하 피해가",
+    "lexica.minecraft.enchantment.feather_falling.desc.2": "%s만큼 감소합니다.",
+
+    "lexica.minecraft.enchantment.feather_falling.with.1": "[레벨당 12%]",
+
+
+    "lexica.minecraft.enchantment.fire_aspect.desc.1": "피격 대상을",
+    "lexica.minecraft.enchantment.fire_aspect.desc.2": "%1$s%2$s간 불태웁니다.",
+
+    "lexica.minecraft.enchantment.fire_aspect.with.1": "[4 × 레벨]",
     "lexica.minecraft.enchantment.fire_aspect.with.2": "초",
 
 
-    "lexica.minecraft.enchantment.fire_protection.desc.1": "Reduces damage from",
-    "lexica.minecraft.enchantment.fire_protection.desc.2": "fire by %s.",
+    "lexica.minecraft.enchantment.fire_protection.desc.1": "화염으로 인한 피해가",
+    "lexica.minecraft.enchantment.fire_protection.desc.2": "%s만큼 감소합니다.",
 
-    "lexica.minecraft.enchantment.fire_protection.with.1": "[8% per lvl]",
+    "lexica.minecraft.enchantment.fire_protection.with.1": "[레벨당 8%]",
 
 
-    "lexica.minecraft.enchantment.flame.desc.1": "Arrows from this weapon ignite",
-    "lexica.minecraft.enchantment.flame.desc.2": "the target for %s.",
+    "lexica.minecraft.enchantment.flame.desc.1": "이 무기에서 발사된 화살은",
+    "lexica.minecraft.enchantment.flame.desc.2": "%s 동안 대상을 불태웁니다.",
 
     "lexica.minecraft.enchantment.flame.with.1": "(00:04)",
 
 
-    "lexica.minecraft.enchantment.fortune.desc.1": "Increases the amount",
-    "lexica.minecraft.enchantment.fortune.desc.2": "of block drops.",
+    "lexica.minecraft.enchantment.fortune.desc.1": "블록 파괴 시 아이템 ",
+    "lexica.minecraft.enchantment.fortune.desc.2": "드롭량이 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.frost_walker.desc.1": "The wearer can walk on water,",
-    "lexica.minecraft.enchantment.frost_walker.desc.2": "turning it into 살얼음. Water",
-    "lexica.minecraft.enchantment.frost_walker.desc.3": "within %s blocks is iced.",
+    "lexica.minecraft.enchantment.frost_walker.desc.1": "착용 시 발밑의 물을 살얼음으로 ",
+    "lexica.minecraft.enchantment.frost_walker.desc.2": "변하게 해 물 위를 걷게 합니다.",
+    "lexica.minecraft.enchantment.frost_walker.desc.3": "살얼음의 범위는 %s 블록입니다.",
 
-    "lexica.minecraft.enchantment.frost_walker.with.1": "[2 + lvl]",
-
-
-    "lexica.minecraft.enchantment.impaling.desc.1": "Attacks made against aquatic mobs",
-    "lexica.minecraft.enchantment.impaling.desc.2": "deal %s additional damage.",
-
-    "lexica.minecraft.enchantment.impaling.with.1": "[2.5 × lvl]",
+    "lexica.minecraft.enchantment.frost_walker.with.1": "[2 + 레벨]",
 
 
-    "lexica.minecraft.enchantment.infinity.desc.1": "This weapon does not consume",
-    "lexica.minecraft.enchantment.infinity.desc.2": "ammo. On a consumable, it can",
-    "lexica.minecraft.enchantment.infinity.desc.3": "be used infinitely instead.",
+    "lexica.minecraft.enchantment.impaling.desc.1": "수중 유형의 몹에게",
+    "lexica.minecraft.enchantment.impaling.desc.2": "%s 추가 피해를 입힙니다.",
+
+    "lexica.minecraft.enchantment.impaling.with.1": "[2.5 × 레벨]",
 
 
-    "lexica.minecraft.enchantment.knockback.desc.1": "Increases melee knockback",
-    "lexica.minecraft.enchantment.knockback.desc.2": "by %s blocks.",
-
-    "lexica.minecraft.enchantment.knockback.with.1": "+[3 per lvl]",
-
-
-    "lexica.minecraft.enchantment.looting.desc.1": "Increases the amount of mob drops.",
+    "lexica.minecraft.enchantment.infinity.desc.1": "이 무기는 탄약을 소모하지 ",
+    "lexica.minecraft.enchantment.infinity.desc.2": "않습니다. 소모품에 적용된 경우,",
+    "lexica.minecraft.enchantment.infinity.desc.3": "무한히 사용될 수 있습니다.",
 
 
-    "lexica.minecraft.enchantment.loyalty.desc.1": "This weapon returns after",
-    "lexica.minecraft.enchantment.loyalty.desc.2": "being thrown. Higher levels",
-    "lexica.minecraft.enchantment.loyalty.desc.3": "increase the return speed.",
+    "lexica.minecraft.enchantment.knockback.desc.1": "근접 공격의 넉백을",
+    "lexica.minecraft.enchantment.knockback.desc.2": "%s 블록만큼 증가시킵니다.",
+
+    "lexica.minecraft.enchantment.knockback.with.1": "+[레벨당 3]",
 
 
-    "lexica.minecraft.enchantment.luck_of_the_sea.desc.1": "Increases the rate of",
-    "lexica.minecraft.enchantment.luck_of_the_sea.desc.2": "treasure from fishing.",
+    "lexica.minecraft.enchantment.looting.desc.1": "몹 처치 시 아이템 드롭이 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.lure.desc.1": "Decreases the time for",
-    "lexica.minecraft.enchantment.lure.desc.2": "bites while fishing.",
+    "lexica.minecraft.enchantment.loyalty.desc.1": "이 무기는 던진 후",
+    "lexica.minecraft.enchantment.loyalty.desc.2": "되돌아옵니다. 레벨이 높을수록",
+    "lexica.minecraft.enchantment.loyalty.desc.3": "되돌아오는 속도가 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.mending.desc.1": "Repairs the item while",
-    "lexica.minecraft.enchantment.mending.desc.2": "worn with collected XP.",
+    "lexica.minecraft.enchantment.luck_of_the_sea.desc.1": "낚시로 얻는 보물의",
+    "lexica.minecraft.enchantment.luck_of_the_sea.desc.2": "획득 확률이 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.multishot.desc.1": "Adds %s arrows in a",
-    "lexica.minecraft.enchantment.multishot.desc.2": "cone when this weapon is fired.",
-
-    "lexica.minecraft.enchantment.multishot.with.1": "[2 per lvl]",
+    "lexica.minecraft.enchantment.lure.desc.1": "낚시 중 대기 시간을",
+    "lexica.minecraft.enchantment.lure.desc.2": "줄입니다.",
 
 
-    "lexica.minecraft.enchantment.piercing.desc.1": "Arrows from this weapon pierce",
-    "lexica.minecraft.enchantment.piercing.desc.2": "through mobs %s times.",
-
-    "lexica.minecraft.enchantment.piercing.with.1": "[lvl]",
+    "lexica.minecraft.enchantment.mending.desc.1": "장비했을 경우, 해당 아이템은",
+    "lexica.minecraft.enchantment.mending.desc.2": "획득한 XP로 수리됩니다.",
 
 
-    "lexica.minecraft.enchantment.power.desc.1": "Increases the damage of arrows",
-    "lexica.minecraft.enchantment.power.desc.2": "by %s.",
+    "lexica.minecraft.enchantment.multishot.desc.1": "발사 시 %s개의 화살이",
+    "lexica.minecraft.enchantment.multishot.desc.2": "원뿔 모양으로 추가됩니다.",
 
-    "lexica.minecraft.enchantment.power.with.1": "+[25% + (25% per lvl)]",
-
-
-    "lexica.minecraft.enchantment.projectile_protection.desc.1": "Reduces damage from",
-    "lexica.minecraft.enchantment.projectile_protection.desc.2": "projectiles by %s",
-
-    "lexica.minecraft.enchantment.projectile_protection.with.1": "[8% per lvl]",
+    "lexica.minecraft.enchantment.multishot.with.1": "[레벨당 2]",
 
 
-    "lexica.minecraft.enchantment.protection.desc.1": "Reduces all damage by %s.",
+    "lexica.minecraft.enchantment.piercing.desc.1": "이 무기에서 발사된 화살은",
+    "lexica.minecraft.enchantment.piercing.desc.2": "대상을 %s회 관통합니다.",
 
-    "lexica.minecraft.enchantment.protection.with.1": "[4% per lvl]",
-
-
-    "lexica.minecraft.enchantment.punch.desc.1": "Increases arrow knockback",
-    "lexica.minecraft.enchantment.punch.desc.2": "by %s blocks.",
-
-    "lexica.minecraft.enchantment.punch.with.1": "+[3 per lvl]",
+    "lexica.minecraft.enchantment.piercing.with.1": "[레벨당 1]",
 
 
-    "lexica.minecraft.enchantment.quick_charge.desc.1": "Decreases charge time by",
-    "lexica.minecraft.enchantment.quick_charge.desc.2": "%1$s %2$s.",
+    "lexica.minecraft.enchantment.power.desc.1": "화살의 피해가",
+    "lexica.minecraft.enchantment.power.desc.2": " %s만큼 증가합니다.",
 
-    "lexica.minecraft.enchantment.quick_charge.with.1": "[0.5 per lvl]",
+    "lexica.minecraft.enchantment.power.with.1": "+[25% + (레벨당 25%)]",
+
+
+    "lexica.minecraft.enchantment.projectile_protection.desc.1": "받는 투사체 피해가",
+    "lexica.minecraft.enchantment.projectile_protection.desc.2": " %s만큼 감소합니다.",
+
+    "lexica.minecraft.enchantment.projectile_protection.with.1": "[레벨당 8%]",
+
+
+    "lexica.minecraft.enchantment.protection.desc.1": "모든 피해를 %s만큼 감소시킵니다.",
+
+    "lexica.minecraft.enchantment.protection.with.1": "[레벨당 4%]",
+
+
+    "lexica.minecraft.enchantment.punch.desc.1": "화살의 넉백이",
+    "lexica.minecraft.enchantment.punch.desc.2": "%s 블록만큼 증가합니다.",
+
+    "lexica.minecraft.enchantment.punch.with.1": "+[레벨당 3]",
+
+
+    "lexica.minecraft.enchantment.quick_charge.desc.1": "재장전 시간이 ",
+    "lexica.minecraft.enchantment.quick_charge.desc.2": "%1$s%2$s만큼 감소합니다.",
+
+    "lexica.minecraft.enchantment.quick_charge.with.1": "[레벨당 0.5]",
     "lexica.minecraft.enchantment.quick_charge.with.2": "초",
 
 
-    "lexica.minecraft.enchantment.respiration.desc.1": "Increases underwater breathing",
-    "lexica.minecraft.enchantment.respiration.desc.2": "time by %1$s %2$s.",
+    "lexica.minecraft.enchantment.respiration.desc.1": "수중 호흡 시간이",
+    "lexica.minecraft.enchantment.respiration.desc.2": "%1$s%2$s만큼 증가합니다.",
 
     "lexica.minecraft.enchantment.respiration.with.1": "+[15 × lvl]",
     "lexica.minecraft.enchantment.respiration.with.2": "초",
 
 
-    "lexica.minecraft.enchantment.riptide.desc.1": "Instead of throwing, this 삼지창",
-    "lexica.minecraft.enchantment.riptide.desc.2": "launches the user if they are",
-    "lexica.minecraft.enchantment.riptide.desc.3": "in water. Higher levels increase",
-    "lexica.minecraft.enchantment.riptide.desc.4": "the distance traveled.",
+    "lexica.minecraft.enchantment.riptide.desc.1": "삼지창을 던지는 대신,",
+    "lexica.minecraft.enchantment.riptide.desc.2": "물 속에 있을 경우 사용자를 날립니다.",
+    "lexica.minecraft.enchantment.riptide.desc.3": "레벨이 높을수록 이동 거리가 증가합니다.",
+    "lexica.minecraft.enchantment.riptide.desc.4": "",
 
 
-    "lexica.minecraft.enchantment.sharpness.desc.1": "Increases the damage of this",
-    "lexica.minecraft.enchantment.sharpness.desc.2": "weapon by %s.",
 
-    "lexica.minecraft.enchantment.sharpness.with.1": "[0.5 + (0.5 × lvl)]",
+    "lexica.minecraft.enchantment.sharpness.desc.1": "이 무기의 피해가",
+    "lexica.minecraft.enchantment.sharpness.desc.2": "%s만큼 증가합니다.",
 
-
-    "lexica.minecraft.enchantment.silk_touch.desc.1": "Mined blocks drop themselves",
-    "lexica.minecraft.enchantment.silk_touch.desc.2": "instead of their normal drops.",
+    "lexica.minecraft.enchantment.sharpness.with.1": "[0.5 + (0.5 × 레벨)]",
 
 
-    "lexica.minecraft.enchantment.smite.desc.1": "Attacks made against undead mobs",
-    "lexica.minecraft.enchantment.smite.desc.2": "deal %s additional damage.",
-
-    "lexica.minecraft.enchantment.smite.with.1": "[2.5 × lvl]",
+    "lexica.minecraft.enchantment.silk_touch.desc.1": "블록 파괴시 일반 드롭 대신",
+    "lexica.minecraft.enchantment.silk_touch.desc.2": "원형을 채집할 수 있습니다.",
 
 
-    "lexica.minecraft.enchantment.soul_speed.desc.1": "Increases the speed the user moves",
-    "lexica.minecraft.enchantment.soul_speed.desc.2": "on 영혼 모래 and 영혼 흙. Higher",
-    "lexica.minecraft.enchantment.soul_speed.desc.3": "levels increase the speed.",
+    "lexica.minecraft.enchantment.smite.desc.1": "언데드 유형의 몹에게",
+    "lexica.minecraft.enchantment.smite.desc.2": "%s 추가 피해를 줍니다.",
+
+    "lexica.minecraft.enchantment.smite.with.1": "[2.5 × 레벨]",
 
 
-    "lexica.minecraft.enchantment.sweeping_edge.desc.1": "Increases the damage dealt by",
-    "lexica.minecraft.enchantment.sweeping_edge.desc.2": "sweeping attacks to be %s",
-    "lexica.minecraft.enchantment.sweeping_edge.desc.3": "of the total attack damage.",
-
-    "lexica.minecraft.enchantment.sweeping_edge.with.1": "[lvl ÷ (lvl + 1)]",
+    "lexica.minecraft.enchantment.soul_speed.desc.1": "영혼 모래 및 영혼 흙 위에서",
+    "lexica.minecraft.enchantment.soul_speed.desc.2": "이동 속도가 증가합니다.",
+    "lexica.minecraft.enchantment.soul_speed.desc.3": "레벨이 높을수록 속도가 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.swift_sneak.desc.1": "Increases the speed of the",
-    "lexica.minecraft.enchantment.swift_sneak.desc.2": "user while sneaking. Higher",
-    "lexica.minecraft.enchantment.swift_sneak.desc.3": "levels increase the speed.",
+    "lexica.minecraft.enchantment.sweeping_edge.desc.1": "휩쓸기 공격의 피해가",
+    "lexica.minecraft.enchantment.sweeping_edge.desc.2": "총 공격력의 %s",
+    "lexica.minecraft.enchantment.sweeping_edge.desc.3": "만큼 증가합니다.",
+
+    "lexica.minecraft.enchantment.sweeping_edge.with.1": "[레벨 ÷ (레벨 + 1)]",
 
 
-    "lexica.minecraft.enchantment.thorns.desc.1": "Taking damage from a mob deals",
-    "lexica.minecraft.enchantment.thorns.desc.2": "%s damage back to the attacker.",
-
-    "lexica.minecraft.enchantment.thorns.with.1": "[lvl]",
-
-
-    "lexica.minecraft.enchantment.unbreaking.desc.1": "When used, the item has a",
-    "lexica.minecraft.enchantment.unbreaking.desc.2": "%s chance",
-    "lexica.minecraft.enchantment.unbreaking.desc.3": "to not lose durability.",
-
-    "lexica.minecraft.enchantment.unbreaking.with.1": "[lvl ÷ (lvl + 1)]",
+    "lexica.minecraft.enchantment.swift_sneak.desc.1": "웅크리고 있을 동안",
+    "lexica.minecraft.enchantment.swift_sneak.desc.2": "이동 속도가 증가합니다.",
+    "lexica.minecraft.enchantment.swift_sneak.desc.3": "레벨이 높을수록 속도가 증가합니다.",
 
 
-    "lexica.minecraft.enchantment.wind_burst.desc.1": "Creates a burst of wind when",
-    "lexica.minecraft.enchantment.wind_burst.desc.2": "landing a smash attack or",
-    "lexica.minecraft.enchantment.wind_burst.desc.3": "critical hit. The burst of",
-    "lexica.minecraft.enchantment.wind_burst.desc.4": "wind launches the user upwards",
-    "lexica.minecraft.enchantment.wind_burst.desc.5": "and levels increase its power.",
+    "lexica.minecraft.enchantment.thorns.desc.1": "몹에게 피해를 입으면",
+    "lexica.minecraft.enchantment.thorns.desc.2": "%s의 피해를 되돌려줍니다.",
+
+    "lexica.minecraft.enchantment.thorns.with.1": "[레벨당 1]",
 
 
-    "lexica.minecraft.enchantment.binding_curse.desc.1": "This item cannot be unequipped",
-    "lexica.minecraft.enchantment.binding_curse.desc.2": "except through death.",
+    "lexica.minecraft.enchantment.unbreaking.desc.1": "내구도 감소 확률이",
+    "lexica.minecraft.enchantment.unbreaking.desc.2": "%s만큼 감소합니다.",
+    "lexica.minecraft.enchantment.unbreaking.desc.3": "방어구의 경우, 40% 확률로 발동합니다.",
+
+    "lexica.minecraft.enchantment.unbreaking.with.1": "[레벨 ÷ (레벨 + 1)]",
 
 
-    "lexica.minecraft.enchantment.vanishing_curse.desc.1": "This item disappears",
-    "lexica.minecraft.enchantment.vanishing_curse.desc.2": "when dropped on death.",
+    "lexica.minecraft.enchantment.wind_burst.desc.1": "철퇴 능력 발동 시,",
+    "lexica.minecraft.enchantment.wind_burst.desc.2": "시전자를 위로 날려보냅니다.",
+    "lexica.minecraft.enchantment.wind_burst.desc.3": "레벨이 높을수록 돌풍이",
+    "lexica.minecraft.enchantment.wind_burst.desc.4": "날려보내는 힘이 증가합니다.",
+    "lexica.minecraft.enchantment.wind_burst.desc.5": "",
+
+
+    "lexica.minecraft.enchantment.binding_curse.desc.1": "이 아이템은 파손 혹은 죽음에",
+    "lexica.minecraft.enchantment.binding_curse.desc.2": "이르지 않는 한 해제가 불가능합니다.",
+
+
+    "lexica.minecraft.enchantment.vanishing_curse.desc.1": "이 아이템은 사망 시 소멸합니다.",
+    "lexica.minecraft.enchantment.vanishing_curse.desc.2": "",
 
 
 
