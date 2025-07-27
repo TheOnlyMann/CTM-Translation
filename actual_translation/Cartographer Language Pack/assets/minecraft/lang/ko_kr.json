@@ -12,6 +12,11 @@
     "enchantment.cartographer.melee_protection": "근접 보호",
     "enchantment.cartographer.ranged_protection": "원거리 보호",
 
+    "## TL_NOTE.enchants1.5": "바닐라 보호 마법 번역 통일",
+    "enchantment.minecraft.blast_protection": "폭발 보호",
+    "enchantment.minecraft.fire_protection": "화염 보호",
+    "enchantment.minecraft.projectile_protection": "발사체 보호",
+
     "## TL_NOTE.enchants2": "속성 마법 부여",
     "enchantment.cartographer.agility": "민첩",
     "enchantment.cartographer.amplitude": "진폭",
@@ -44,7 +49,7 @@
     "enchantment.cartographer.nullifying": "무효화",
     "enchantment.cartographer.regeneration": "재생력",
     "enchantment.cartographer.sapper": "흡혼",
-    "enchantment.cartographer.shielding": "방어",
+    "enchantment.cartographer.shielding": "방호",
     "enchantment.cartographer.stealthiness": "은신",
     "enchantment.cartographer.swiftness": "신속함",
 
@@ -75,7 +80,7 @@
     "enchantment.cartographer.soulfire": "영혼불",
     "enchantment.cartographer.starfall": "별똥별",
     "enchantment.cartographer.storm": "폭풍",
-    "enchantment.cartographer.surge": "급증",
+    "enchantment.cartographer.surge": "정전기",
     "enchantment.cartographer.trailblazer": "개척자",
     "enchantment.cartographer.vengeance": "복수",
 
@@ -85,7 +90,7 @@
     "enchantment.cartographer.spurs": "풀베기",
 
     "## TL_NOTE.enchants7": "도구 마법 부여",
-    "enchantment.cartographer.drilling": "드릴링",
+    "enchantment.cartographer.drilling": "드릴",
     "enchantment.cartographer.excavator": "굴착기",
     "enchantment.cartographer.lightborn": "빛의 아이",
     "enchantment.cartographer.multitool": "범용성",
@@ -95,14 +100,14 @@
     "enchantment.cartographer.concentration": "몰입",
     "enchantment.cartographer.duelist": "결투가",
     "enchantment.cartographer.first_strike": "선제공격",
-    "enchantment.cartographer.focus": "집중",
+    "enchantment.cartographer.focus": "전념",
     "enchantment.cartographer.follow_up": "연속공격",
-    "enchantment.cartographer.hex_eater": "헥스 포식자",
+    "enchantment.cartographer.hex_eater": "저주살이",
     "enchantment.cartographer.hunter": "사냥꾼",
 
     "## TL_NOTE.enchants9": "근접 무기 피해 마법 부여",
-    "enchantment.cartographer.leverage": "고지전",
-    "enchantment.cartographer.rushdown": "돌격전",
+    "enchantment.cartographer.leverage": "내려찍기",
+    "enchantment.cartographer.rushdown": "돌격",
 
     "## TL_NOTE.enchants10": "원거리 무기 피해 마법 부여",
     "enchantment.cartographer.overcharge": "과충전",
@@ -123,7 +128,7 @@
     "enchantment.cartographer.riposte": "반격",
     "enchantment.cartographer.slamming": "지면 강타",
     "enchantment.cartographer.throwable": "투척물",
-    "enchantment.cartographer.thrusting": "찌르기",
+    "enchantment.cartographer.thrusting": "꿰뚫기",
 
     "## TL_NOTE.enchants13": "고유 원거리 무기 마법 부여",
     "enchantment.cartographer.barbed": "철조망",
@@ -143,23 +148,23 @@
     "enchantment.cartographer.scavenger": "청소부",
     
     "## TL_NOTE.enchants15": "저주",
-    "enchantment.cartographer.annulling_curse": "무효화의 저주",
-    "enchantment.cartographer.clumsiness_curse": "서투름의 저주",
-    "enchantment.cartographer.corruption_curse": "오염의 저주",
-    "enchantment.cartographer.crippling_curse": "불구의 저주",
-    "enchantment.cartographer.encumbering_curse": "부담의 저주",
-    "enchantment.cartographer.gluttony_curse": "탐식의 저주",
-    "enchantment.cartographer.haunting_curse": "망령의 저주",
-    "enchantment.cartographer.heaviness_curse": "무거움의 저주",
-    "enchantment.cartographer.instability_curse": "불안정의 저주",
-    "enchantment.cartographer.irreparability_curse": "수리 불가능의 저주",
-    "enchantment.cartographer.jamming_curse": "탄걸림의 저주",
+    "enchantment.cartographer.annulling_curse": "무효화 저주",
+    "enchantment.cartographer.clumsiness_curse": "서투름 저주",
+    "enchantment.cartographer.corruption_curse": "오염 저주",
+    "enchantment.cartographer.crippling_curse": "불구 저주",
+    "enchantment.cartographer.encumbering_curse": "부담 저주",
+    "enchantment.cartographer.gluttony_curse": "탐식 저주",
+    "enchantment.cartographer.haunting_curse": "망령 저주",
+    "enchantment.cartographer.heaviness_curse": "무거움 저주",
+    "enchantment.cartographer.instability_curse": "불안정 저주",
+    "enchantment.cartographer.irreparability_curse": "수리 불가능 저주",
+    "enchantment.cartographer.jamming_curse": "탄걸림 저주",
     "enchantment.cartographer.locked_curse": "🔒 잠금 🔒",
-    "enchantment.cartographer.melee_fragility_curse": "근접 취약성의 저주",
-    "enchantment.cartographer.pride_curse": "오만의 저주",
-    "enchantment.cartographer.projectile_fragility_curse": "투사체 취약성의 저주",
-    "enchantment.cartographer.regret_curse": "후회의 저주",
-    "enchantment.cartographer.shattering_curse": "부셔짐의 저주",
+    "enchantment.cartographer.melee_fragility_curse": "근접 취약성 저주",
+    "enchantment.cartographer.pride_curse": "오만 저주",
+    "enchantment.cartographer.projectile_fragility_curse": "투사체 취약성 저주",
+    "enchantment.cartographer.regret_curse": "후회 저주",
+    "enchantment.cartographer.shattering_curse": "부셔짐 저주",
     "enchantment.cartographer.two_handed_curse": "양손 사용",
 
     "enchantment.cartographer.": "",
@@ -218,11 +223,11 @@
 
     "effect.cartographer.stealth": "은신",
     "effect.cartographer.cleansed": "정화",
-    "effect.cartographer.purged": "숙청",
+    "effect.cartographer.purged": "저해",
     "effect.cartographer.unstoppable": "저지 불가",
-    "effect.cartographer.siphon_health": "체력 흡입",
-    "effect.cartographer.siphon_speed": "속도 흡입",
-    "effect.cartographer.siphon_strength": "힘 흡입",
+    "effect.cartographer.siphon_health": "생명력 강탈",
+    "effect.cartographer.siphon_speed": "속도 강탈",
+    "effect.cartographer.siphon_strength": "힘 강탈",
     "effect.cartographer.harvest": "수확",
     "effect.cartographer.bleeding": "출혈",
     "effect.cartographer.shocked": "감전",
@@ -440,10 +445,10 @@
     "lexica.cartographer.keyword.humanoid.desc.9": "",
 
 
-    "lexica.cartographer.keyword.monstrous.name": "괴물형",
+    "lexica.cartographer.keyword.monstrous.name": "괴수",
 
     "lexica.cartographer.keyword.monstrous.desc.1": "다음 몹들이",
-    "lexica.cartographer.keyword.monstrous.desc.2": "괴물형으로 간주됩니다:",
+    "lexica.cartographer.keyword.monstrous.desc.2": "괴수로 간주됩니다:",
     "lexica.cartographer.keyword.monstrous.desc.3": " ",
     "lexica.cartographer.keyword.monstrous.desc.4": "팬텀, 위더, 거미, 동굴 거미, 좀벌레,",
     "lexica.cartographer.keyword.monstrous.desc.5": "엔더마이트, 엔더맨, 크리퍼, 블레이즈, 브리즈,",
@@ -484,7 +489,7 @@
     "lexica.cartographer.keyword.negative_status.desc.6": "소환, 취성, 노출, 족쇄,",
     "lexica.cartographer.keyword.negative_status.desc.7": "접지, 침묵, 혼란, 동결,",
     "lexica.cartographer.keyword.negative_status.desc.8": "수면, 기절, 혼미, 처형, 돌풍,",
-    "lexica.cartographer.keyword.negative_status.desc.9": "미끌거림, 기름, 흡입, 수확",
+    "lexica.cartographer.keyword.negative_status.desc.9": "미끌거림, 기름, 강탈, 수확",
     "lexica.cartographer.keyword.negative_status.desc.10": " ",
     "lexica.cartographer.keyword.negative_status.desc.11": "다음 바닐라 상태 효과는",
     "lexica.cartographer.keyword.negative_status.desc.12": "디버프로 간주됩니다:",
@@ -499,7 +504,7 @@
     "lexica.cartographer.keyword.crowd_control.desc.1": "다음 커스텀 상태 효과는",
     "lexica.cartographer.keyword.crowd_control.desc.2": "군중제어로 간주됩니다:",
     "lexica.cartographer.keyword.crowd_control.desc.3": " ",
-    "lexica.cartographer.keyword.crowd_control.desc.4": "속도 감소, 나약함, 흡입, 실명,",
+    "lexica.cartographer.keyword.crowd_control.desc.4": "속도 감소, 나약함, 강탈, 실명,",
     "lexica.cartographer.keyword.crowd_control.desc.5": "혼란, 접지, 동결, 침묵,",
     "lexica.cartographer.keyword.crowd_control.desc.6": "수면, 기절, 혼미",
     "lexica.cartographer.keyword.crowd_control.desc.7": " ",
@@ -2138,7 +2143,7 @@
 
     "lexica.cartographer.enchantment.hunter.with.1": "공격 시",
     "lexica.cartographer.enchantment.hunter.with.2": "+[2 × 레벨]",
-    "lexica.cartographer.enchantment.hunter.with.3": "괴물형",
+    "lexica.cartographer.enchantment.hunter.with.3": "괴수",
 
 
     "lexica.cartographer.enchantment.first_strike.desc.1": "%1$s: Deal %2$s damage",
@@ -2151,9 +2156,9 @@
 
 
     "lexica.cartographer.enchantment.focus.desc.1": "%1$s: Attacks give a",
-    "lexica.cartographer.enchantment.focus.desc.2": "Focus Stack for %2$s, stacking",
+    "lexica.cartographer.enchantment.focus.desc.2": "전념 Stack for %2$s, stacking",
     "lexica.cartographer.enchantment.focus.desc.3": "infinitely. Deal %3$s",
-    "lexica.cartographer.enchantment.focus.desc.4": "damage per stack of Focus.",
+    "lexica.cartographer.enchantment.focus.desc.4": "damage per stack of 전념.",
 
     "lexica.cartographer.enchantment.focus.with.1": "공격 시",
     "lexica.cartographer.enchantment.focus.with.2": "(00:05)",
@@ -2531,7 +2536,7 @@
 
     "lexica.cartographer.enchantment_curse.annulling.with.1": "랜덤",
     "lexica.cartographer.enchantment_curse.annulling.with.2": "[레벨당 5%]",
-    "lexica.cartographer.enchantment_curse.annulling.with.3": "숙청",
+    "lexica.cartographer.enchantment_curse.annulling.with.3": "저해",
     "lexica.cartographer.enchantment_curse.annulling.with.4": "(00:02)",
 
     
@@ -2728,7 +2733,7 @@
 
 
     "lexica.minecraft.enchantment.flame.desc.1": "이 무기에서 발사된 화살은",
-    "lexica.minecraft.enchantment.flame.desc.2": "%s 동안 대상을 불태웁니다.",
+    "lexica.minecraft.enchantment.flame.desc.2": "%s초 동안 대상을 불태웁니다.",
 
     "lexica.minecraft.enchantment.flame.with.1": "(00:04)",
 
@@ -2794,13 +2799,13 @@
 
 
     "lexica.minecraft.enchantment.power.desc.1": "화살의 피해가",
-    "lexica.minecraft.enchantment.power.desc.2": " %s만큼 증가합니다.",
+    "lexica.minecraft.enchantment.power.desc.2": "%s만큼 증가합니다.",
 
     "lexica.minecraft.enchantment.power.with.1": "+[25% + (레벨당 25%)]",
 
 
     "lexica.minecraft.enchantment.projectile_protection.desc.1": "받는 투사체 피해가",
-    "lexica.minecraft.enchantment.projectile_protection.desc.2": " %s만큼 감소합니다.",
+    "lexica.minecraft.enchantment.projectile_protection.desc.2": "%s만큼 감소합니다.",
 
     "lexica.minecraft.enchantment.projectile_protection.with.1": "[레벨당 8%]",
 
@@ -2878,7 +2883,7 @@
 
     "lexica.minecraft.enchantment.unbreaking.desc.1": "내구도 감소 확률이",
     "lexica.minecraft.enchantment.unbreaking.desc.2": "%s만큼 감소합니다.",
-    "lexica.minecraft.enchantment.unbreaking.desc.3": "방어구의 경우, 40% 확률로 발동합니다.",
+    "lexica.minecraft.enchantment.unbreaking.desc.3": "방어구의 경우, 40%% 확률로 발동합니다.",
 
     "lexica.minecraft.enchantment.unbreaking.with.1": "[레벨 ÷ (레벨 + 1)]",
 
@@ -3003,7 +3008,7 @@
 
     "cartographer.popup.status_asleep": "Zzz...",
     "cartographer.popup.status_cleansed": "정화",
-    "cartographer.popup.status_purged": "숙청",
+    "cartographer.popup.status_purged": "저해",
     "cartographer.popup.status_unstoppable": "저지 불가",
     "cartographer.popup.status_resist": "상태 저항",
 
