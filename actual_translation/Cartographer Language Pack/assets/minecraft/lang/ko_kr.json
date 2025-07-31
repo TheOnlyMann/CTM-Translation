@@ -18,29 +18,29 @@
     "enchantment.minecraft.projectile_protection": "발사체 보호",
 
     "## TL_NOTE.enchants2": "속성 마법 부여",
-    "enchantment.cartographer.agility": "민첩",
+    "enchantment.cartographer.agility": "날렵함",
     "enchantment.cartographer.amplitude": "진폭",
     "enchantment.cartographer.celerity": "쾌속",
     "enchantment.cartographer.cloudstep": "구름밟기",
-    "enchantment.cartographer.dexterity": "손재주",
+    "enchantment.cartographer.dexterity": "민첩",
     "enchantment.cartographer.echo": "메아리",
-    "enchantment.cartographer.extended": "확장",
-    "enchantment.cartographer.finesse": "교모함",
+    "enchantment.cartographer.extended": "연장",
+    "enchantment.cartographer.finesse": "기량",
     "enchantment.cartographer.handling": "조작성",
     "enchantment.cartographer.immovable": "부동",
     "enchantment.cartographer.invigorated": "생기",
     "enchantment.cartographer.lifesteal": "흡혈",
-    "enchantment.cartographer.lucky": "운",
-    "enchantment.cartographer.precision": "정밀성",
+    "enchantment.cartographer.lucky": "강운",
+    "enchantment.cartographer.precision": "정밀",
     "enchantment.cartographer.resonance": "공명",
     "enchantment.cartographer.reverb": "잔향",
-    "enchantment.cartographer.technique": "기술",
-    "enchantment.cartographer.traveling": "여행",
+    "enchantment.cartographer.technique": "기교",
+    "enchantment.cartographer.traveling": "등산",
     "enchantment.cartographer.vitality": "활력",
     "enchantment.cartographer.windborn": "질풍",
 
     "## TL_NOTE.enchants3": "상태 마법 부여",
-    "enchantment.cartographer.bracing": "버팀대",
+    "enchantment.cartographer.bracing": "대비",
     "enchantment.cartographer.decontaminate": "정화",
     "enchantment.cartographer.evasion": "회피",
     "enchantment.cartographer.hastiness": "성급함",
@@ -57,36 +57,36 @@
     "enchantment.cartographer.adrenaline": "아드레날린",
     "enchantment.cartographer.bulwark": "보루",
     "enchantment.cartographer.courageous": "용기",
-    "enchantment.cartographer.diversion": "견제",
-    "enchantment.cartographer.ethereal": "천상",
+    "enchantment.cartographer.diversion": "양동",
+    "enchantment.cartographer.ethereal": "무통",
     "enchantment.cartographer.frenzy": "격분",
     "enchantment.cartographer.hardened": "경화",
-    "enchantment.cartographer.intertia": "관성",
-    "enchantment.cartographer.poise": "자세",
-    "enchantment.cartographer.sidestep": "좌우 회피",
+    "enchantment.cartographer.inertia": "관성",
+    "enchantment.cartographer.poise": "태세",
+    "enchantment.cartographer.sidestep": "비껴내기",
     "enchantment.cartographer.steadfast": "불굴",
     "enchantment.cartographer.tenacity": "끈기",
-    "enchantment.cartographer.unseen": "위장력",
+    "enchantment.cartographer.unseen": "위장",
 
     "## TL_NOTE.enchants5": "패시브 공격 마법 부여",
-    "enchantment.cartographer.aberration": "일탈",
+    "enchantment.cartographer.aberration": "변이",
     "enchantment.cartographer.deadeye": "명사수",
     "enchantment.cartographer.eruption": "분출",
     "enchantment.cartographer.gravity": "중력",
-    "enchantment.cartographer.induction": "유도",
+    "enchantment.cartographer.induction": "전격",
     "enchantment.cartographer.momentum": "기세",
     "enchantment.cartographer.orbit": "궤도",
     "enchantment.cartographer.quake": "지진",
     "enchantment.cartographer.soulfire": "영혼불",
     "enchantment.cartographer.starfall": "별똥별",
     "enchantment.cartographer.storm": "폭풍",
-    "enchantment.cartographer.surge": "정전기",
+    "enchantment.cartographer.surge": "충격파",
     "enchantment.cartographer.trailblazer": "개척자",
     "enchantment.cartographer.vengeance": "복수",
 
     "## TL_NOTE.enchants6": "패시브 기타 마법 부여",
     "enchantment.cartographer.reconstruction": "재건",
-    "enchantment.cartographer.soulbound": "영혼 귀속",
+    "enchantment.cartographer.soulbound": "영혼 결속",
     "enchantment.cartographer.spurs": "풀베기",
 
     "## TL_NOTE.enchants7": "도구 마법 부여",
@@ -97,7 +97,7 @@
 
     "## TL_NOTE.enchants8": "일반 무기 피해 마법 부여",
     "enchantment.cartographer.chaotic": "혼돈",
-    "enchantment.cartographer.concentration": "몰입",
+    "enchantment.cartographer.concentration": "만충",
     "enchantment.cartographer.duelist": "결투가",
     "enchantment.cartographer.first_strike": "선제공격",
     "enchantment.cartographer.focus": "전념",
@@ -116,7 +116,7 @@
 
     "## TL_NOTE.enchants11": "고유 일반 무기 마법 부여",
     "enchantment.cartographer.explosive": "폭발성",
-    "enchantment.cartographer.pulling": "당겨내기",
+    "enchantment.cartographer.pulling": "당기기",
     "enchantment.cartographer.recoil": "반동",
     "enchantment.cartographer.repulsion": "반발",
 
@@ -124,17 +124,17 @@
     "enchantment.cartographer.ambushing": "매복",
     "enchantment.cartographer.cleaving": "쪼개기",
     "enchantment.cartographer.lunging": "돌진",
-    "enchantment.cartographer.quick_strike": "빠른 공격",
+    "enchantment.cartographer.quick_strike": "속공",
     "enchantment.cartographer.riposte": "반격",
     "enchantment.cartographer.slamming": "지면 강타",
     "enchantment.cartographer.throwable": "투척물",
     "enchantment.cartographer.thrusting": "꿰뚫기",
 
     "## TL_NOTE.enchants13": "고유 원거리 무기 마법 부여",
-    "enchantment.cartographer.barbed": "철조망",
+    "enchantment.cartographer.barbed": "열상",
     "enchantment.cartographer.barrage": "연발",
     "enchantment.cartographer.collapse": "붕괴",
-    "enchantment.cartographer.correction": "색적",
+    "enchantment.cartographer.correction": "유도",
     "enchantment.cartographer.fleetfoot": "날쎈 발",
     "enchantment.cartographer.grappling": "갈고리",
     "enchantment.cartographer.ricochet": "도탄",
@@ -144,27 +144,28 @@
     "## TL_NOTE.enchants14": "기타 마법 부여",
     "enchantment.cartographer.auto_charge": "자동장전",
     "enchantment.cartographer.infinity": "무한",
-    "enchantment.cartographer.repeating": "반복성",
-    "enchantment.cartographer.scavenger": "청소부",
+    "enchantment.cartographer.repeating": "중첩",
+    "enchantment.cartographer.scavenger": "보충",
     
     "## TL_NOTE.enchants15": "저주",
     "enchantment.cartographer.annulling_curse": "무력화 저주",
     "enchantment.cartographer.clumsiness_curse": "서투름 저주",
     "enchantment.cartographer.corruption_curse": "오염 저주",
     "enchantment.cartographer.crippling_curse": "불구 저주",
-    "enchantment.cartographer.encumbering_curse": "부담 저주",
+    "enchantment.cartographer.crumbling_curse": "산화 저주",
+    "enchantment.cartographer.encumbering_curse": "억제 저주",
     "enchantment.cartographer.gluttony_curse": "탐식 저주",
     "enchantment.cartographer.haunting_curse": "망령 저주",
-    "enchantment.cartographer.heaviness_curse": "무거움 저주",
+    "enchantment.cartographer.heaviness_curse": "중량 저주",
     "enchantment.cartographer.instability_curse": "불안정 저주",
-    "enchantment.cartographer.irreparability_curse": "수리 불가능 저주",
+    "enchantment.cartographer.irreparability_curse": "수리 불가 저주",
     "enchantment.cartographer.jamming_curse": "탄걸림 저주",
     "enchantment.cartographer.locked_curse": "🔒 잠금 🔒",
-    "enchantment.cartographer.melee_fragility_curse": "근접 취약성 저주",
+    "enchantment.cartographer.melee_fragility_curse": "근접 취약 저주",
     "enchantment.cartographer.pride_curse": "오만 저주",
-    "enchantment.cartographer.projectile_fragility_curse": "투사체 취약성 저주",
+    "enchantment.cartographer.projectile_fragility_curse": "투사체 취약 저주",
     "enchantment.cartographer.regret_curse": "후회 저주",
-    "enchantment.cartographer.shattering_curse": "부셔짐 저주",
+    "enchantment.cartographer.shattering_curse": "파손 저주",
     "enchantment.cartographer.two_handed_curse": "양손 사용",
 
     "enchantment.cartographer.": "",
@@ -176,26 +177,26 @@
     "attribute.name.ranged_damage": "원거리 피해",
     "attribute.name.ranged_velocity": "투사체 속도",
     "attribute.name.combat_luck": "전투 행운",
-    "attribute.name.potion_size": "물약 크기",
+    "attribute.name.potion_size": "물약 범위",
     "attribute.name.aoe_size": "범위 크기",
     "attribute.name.aoe_damage": "범위 피해",
-    "attribute.name.status_inflict_damage": "상태 부여 피해",
-    "attribute.name.status_inflict_duration": "상태 부여 지속 시간",
-    "attribute.name.status_inflict_potency": "상태 부여 효능",
-    "attribute.name.status_apply_duration": "상태 적용 지속 시간",
-    "attribute.name.status_apply_potency": "상태 적용 효능",
+    "attribute.name.status_inflict_damage": "상태 효과 피해",
+    "attribute.name.status_inflict_duration": "상태 효과 지속 시간",
+    "attribute.name.status_inflict_potency": "상태 효과 효능",
+    "attribute.name.status_apply_duration": "자가 효과 지속 시간",
+    "attribute.name.status_apply_potency": "자가 효과 효능",
     "attribute.name.healing_power": "치유력",
-    "attribute.name.lucky_hit_chance": "치명타 확률",
-    "attribute.name.lucky_hit_damage": "치명타 피해",
-    "attribute.name.chaining_hit_chance": "연쇄 공격 발생 확률",
+    "attribute.name.lucky_hit_chance": "회심률",
+    "attribute.name.lucky_hit_damage": "회심 피해",
+    "attribute.name.chaining_hit_chance": "연쇄 공격 확률",
     "attribute.name.chaining_hit_damage": "연쇄 공격 피해",
     "attribute.name.chaining_hit_amount": "연쇄 공격 횟수",
-    "attribute.name.restrike_hit_chance": "연속 공격 발생 확률",
-    "attribute.name.restrike_hit_damage": "연속 공격 피해",
-    "attribute.name.restrike_hit_amount": "연속 공격 횟수",
-    "attribute.name.restrike_hit_rate": "연속 공격 적중률",
-    "attribute.name.life_drain_chance": "흡혈 효과 발생 확률",
-    "attribute.name.life_drain_amount": "흡혈 효과 회복량",
+    "attribute.name.restrike_hit_chance": "추가타 확률",
+    "attribute.name.restrike_hit_damage": "추가타 피해",
+    "attribute.name.restrike_hit_amount": "추가타 횟수",
+    "attribute.name.restrike_hit_rate": "추가타 적중률",
+    "attribute.name.life_drain_chance": "흡혈 확률",
+    "attribute.name.life_drain_amount": "흡혈 회복량",
     "attribute.name.extra_jump_count": "공중 점프 횟수",
     "attribute.name.airdash_count": "공중 대시 횟수",
 
@@ -208,7 +209,7 @@
     "effect.cartographer.barricade": "방책",
     "effect.cartographer.nullify": "무효화",
     "effect.cartographer.evasion": "회피",
-    "effect.cartographer.defiance": "반항",
+    "effect.cartographer.defiance": "최후의 저항",
     "effect.cartographer.warding": "방호",
 
     "effect.cartographer.deafened": "귀머거리",
@@ -234,11 +235,11 @@
     "effect.cartographer.infected": "감염",
     "effect.cartographer.exposed": "노출",
     "effect.cartographer.shackled": "족쇄",
-    "effect.cartographer.evocation": "소환",
+    "effect.cartographer.evocation": "역류",
     "effect.cartographer.brittle": "취성",
     "effect.cartographer.execute": "처형",
     "effect.cartographer.windblast": "격풍",
-    "effect.cartographer.slippery": "미끌거림",
+    "effect.cartographer.slippery": "휘청임",
     "effect.cartographer.oiled": "기름",
 
     "effect.cartographer.fire_aspect": "발화",
@@ -400,7 +401,7 @@
     "lexica.cartographer.keyword.self_movement.name": "자율이동",
 
     "lexica.cartographer.keyword.self_movement.desc.1": "이 효과는 사용자를 강제로",
-    "lexica.cartographer.keyword.self_movement.desc.2": "이동시키며, 대시 혹은 당겨내기",
+    "lexica.cartographer.keyword.self_movement.desc.2": "이동시키며, 대시 혹은 당기기",
     "lexica.cartographer.keyword.self_movement.desc.3": "와 같은 효과 등을 포함합니다",
     "lexica.cartographer.keyword.self_movement.desc.4": "이 효과는 %s 상태일 때 비활성화됩니다.",
 
@@ -465,7 +466,7 @@
     "lexica.cartographer.keyword.positive_status.desc.2": "버프로 간주됩니다:",
     "lexica.cartographer.keyword.positive_status.desc.3": " ",
     "lexica.cartographer.keyword.positive_status.desc.4": "속도 증가, 힘, 방어 증대, 은신,",
-    "lexica.cartographer.keyword.positive_status.desc.5": "방책, 무효화, 회피, 반항,",
+    "lexica.cartographer.keyword.positive_status.desc.5": "방책, 무효화, 회피, 최후의 저항,",
     "lexica.cartographer.keyword.positive_status.desc.6": "방호, 흡수, 재생",
     "lexica.cartographer.keyword.positive_status.desc.7": " ",
     "lexica.cartographer.keyword.positive_status.desc.8": "다음 바닐라 상태 효과는",
@@ -486,10 +487,10 @@
     "lexica.cartographer.keyword.negative_status.desc.3": " ",
     "lexica.cartographer.keyword.negative_status.desc.4": "속도 감소, 나약함, 방어 저하, 실명,",
     "lexica.cartographer.keyword.negative_status.desc.5": "시듦, 출혈, 감전, 감염,",
-    "lexica.cartographer.keyword.negative_status.desc.6": "소환, 취성, 노출, 족쇄,",
+    "lexica.cartographer.keyword.negative_status.desc.6": "역류, 취성, 노출, 족쇄,",
     "lexica.cartographer.keyword.negative_status.desc.7": "접지, 침묵, 혼란, 동결,",
     "lexica.cartographer.keyword.negative_status.desc.8": "수면, 기절, 혼미, 처형, 격풍,",
-    "lexica.cartographer.keyword.negative_status.desc.9": "미끌거림, 기름, 강탈, 수확",
+    "lexica.cartographer.keyword.negative_status.desc.9": "휘청임, 기름, 강탈, 수확",
     "lexica.cartographer.keyword.negative_status.desc.10": " ",
     "lexica.cartographer.keyword.negative_status.desc.11": "다음 바닐라 상태 효과는",
     "lexica.cartographer.keyword.negative_status.desc.12": "디버프로 간주됩니다:",
@@ -875,16 +876,16 @@
     "lexica.cartographer.attribute.negative.potion_size.desc.3": "custom effects and damage.",
 
 
-    "lexica.cartographer.attribute.aoe_size.desc.1": "Increases the size of AoE effects.",
+    "lexica.cartographer.attribute.aoe_size.desc.1": "Increases the size of 범위 효과.",
 
-    "lexica.cartographer.attribute.negative.aoe_size.desc.1": "Reduces the size of AoE effects.",
+    "lexica.cartographer.attribute.negative.aoe_size.desc.1": "Reduces the size of 범위 효과.",
 
 
     "lexica.cartographer.attribute.aoe_damage.desc.1": "Increases damage dealt",
-    "lexica.cartographer.attribute.aoe_damage.desc.2": "by AoE effects.",
+    "lexica.cartographer.attribute.aoe_damage.desc.2": "by 범위 효과.",
 
     "lexica.cartographer.attribute.negative.aoe_damage.desc.1": "Reduces damage dealt",
-    "lexica.cartographer.attribute.negative.aoe_damage.desc.2": "by AoE effects.",
+    "lexica.cartographer.attribute.negative.aoe_damage.desc.2": "by 범위 효과.",
 
 
     "lexica.cartographer.attribute.status_inflict_damage.desc.1": "Increases damage dealt by",
@@ -937,8 +938,8 @@
 
     "lexica.cartographer.attribute.lucky_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.lucky_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.lucky_hit_chance.with.3": "치명타",
-    "lexica.cartographer.attribute.lucky_hit_chance.with.4": "치명타",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.3": "회심 공격",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.4": "회심 공격",
 
     "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.1": "%1$s: A %2$s",
     "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.2": "can perform a %3$s.",
@@ -949,8 +950,8 @@
 
     "lexica.cartographer.attribute.negative.lucky_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.negative.lucky_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "치명타",
-    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "치명타",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "회심 공격",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "회심 공격",
 
 
     "lexica.cartographer.attribute.lucky_hit_damage.desc.1": "Increases the damage of %1$s.",
@@ -959,8 +960,8 @@
     "lexica.cartographer.attribute.lucky_hit_damage.desc.4": "25%% of the attack's",
     "lexica.cartographer.attribute.lucky_hit_damage.desc.5": "base damage to the target.",
 
-    "lexica.cartographer.attribute.lucky_hit_damage.with.1": "치명타",
-    "lexica.cartographer.attribute.lucky_hit_damage.with.2": "치명타",
+    "lexica.cartographer.attribute.lucky_hit_damage.with.1": "회심 공격",
+    "lexica.cartographer.attribute.lucky_hit_damage.with.2": "회심 공격",
 
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.1": "Decreases the damage of %1$s.",
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.2": " ",
@@ -968,8 +969,8 @@
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.4": "25%% of the attack's",
     "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.5": "base damage to the target.",
 
-    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "치명타",
-    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "치명타",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "회심 공격",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "회심 공격",
 
 
     "lexica.cartographer.attribute.chaining_hit_chance.desc.1": "%1$s: A %2$s can",
@@ -1048,8 +1049,8 @@
 
     "lexica.cartographer.attribute.restrike_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.restrike_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.restrike_hit_chance.with.3": "Restrike Hit",
-    "lexica.cartographer.attribute.restrike_hit_chance.with.4": "Restrike Hit",
+    "lexica.cartographer.attribute.restrike_hit_chance.with.3": "추가타",
+    "lexica.cartographer.attribute.restrike_hit_chance.with.4": "추가타",
 
     "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.1": "%1$s: A %2$s can",
     "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.2": "perform a %3$s.",
@@ -1060,8 +1061,8 @@
 
     "lexica.cartographer.attribute.negative.restrike_hit_chance.with.1": "랜덤",
     "lexica.cartographer.attribute.negative.restrike_hit_chance.with.2": "공격 시",
-    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.3": "Restrike Hit",
-    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.4": "Restrike Hit",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.3": "추가타",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.4": "추가타",
 
 
     "lexica.cartographer.attribute.restrike_hit_damage.desc.1": "Increases the damage",
@@ -1071,8 +1072,8 @@
     "lexica.cartographer.attribute.restrike_hit_damage.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.restrike_hit_damage.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.restrike_hit_damage.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.restrike_hit_damage.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.restrike_hit_damage.with.1": "추가타",
+    "lexica.cartographer.attribute.restrike_hit_damage.with.2": "추가타",
 
     "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.1": "Decreases the damage",
     "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.2": "of %1$s.",
@@ -1081,8 +1082,8 @@
     "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.1": "추가타",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.2": "추가타",
 
 
     "lexica.cartographer.attribute.restrike_hit_amount.desc.1": "Increases the number of repeated",
@@ -1092,8 +1093,8 @@
     "lexica.cartographer.attribute.restrike_hit_amount.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.restrike_hit_amount.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.restrike_hit_amount.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.restrike_hit_amount.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.restrike_hit_amount.with.1": "추가타",
+    "lexica.cartographer.attribute.restrike_hit_amount.with.2": "추가타",
 
     "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.1": "Decreases the number of repeated",
     "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.2": "hits from %1$s.",
@@ -1102,8 +1103,8 @@
     "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.1": "추가타",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.2": "추가타",
 
 
     "lexica.cartographer.attribute.restrike_hit_rate.desc.1": "Reduces the number of ticks",
@@ -1113,8 +1114,8 @@
     "lexica.cartographer.attribute.restrike_hit_rate.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.restrike_hit_rate.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.restrike_hit_rate.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.restrike_hit_rate.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.restrike_hit_rate.with.1": "추가타",
+    "lexica.cartographer.attribute.restrike_hit_rate.with.2": "추가타",
 
     "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.1": "Increases the number of ticks",
     "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.2": "between hits in a %1$s.",
@@ -1123,8 +1124,8 @@
     "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.5": "attack's total damage to the",
     "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.6": "target shortly after the attack.",
 
-    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.1": "Restrike Hits",
-    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.2": "Restrike Hit",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.1": "추가타",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.2": "추가타",
 
 
     "lexica.cartographer.attribute.life_drain_chance.desc.1": "%1$s: Dealing any damage",
@@ -1134,8 +1135,8 @@
     "lexica.cartographer.attribute.life_drain_chance.desc.5": "%4$s when activated.",
 
     "lexica.cartographer.attribute.life_drain_chance.with.1": "랜덤",
-    "lexica.cartographer.attribute.life_drain_chance.with.2": "Life Drain",
-    "lexica.cartographer.attribute.life_drain_chance.with.3": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_chance.with.2": "흡혈",
+    "lexica.cartographer.attribute.life_drain_chance.with.3": "흡혈",
     "lexica.cartographer.attribute.life_drain_chance.with.4": "(1❤)",
 
     "lexica.cartographer.attribute.negative.life_drain_chance.desc.1": "%1$s: Dealing any damage",
@@ -1145,8 +1146,8 @@
     "lexica.cartographer.attribute.negative.life_drain_chance.desc.5": "%4$s when activated.",
 
     "lexica.cartographer.attribute.negative.life_drain_chance.with.1": "랜덤",
-    "lexica.cartographer.attribute.negative.life_drain_chance.with.2": "Life Drain",
-    "lexica.cartographer.attribute.negative.life_drain_chance.with.3": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.2": "흡혈",
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.3": "흡혈",
     "lexica.cartographer.attribute.negative.life_drain_chance.with.4": "(1❤)",
 
 
@@ -1157,8 +1158,8 @@
     "lexica.cartographer.attribute.life_drain_amount.desc.5": "%4$s when activated.",
 
     "lexica.cartographer.attribute.life_drain_amount.with.1": "(❤)",
-    "lexica.cartographer.attribute.life_drain_amount.with.2": "Life Drain",
-    "lexica.cartographer.attribute.life_drain_amount.with.3": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_amount.with.2": "흡혈",
+    "lexica.cartographer.attribute.life_drain_amount.with.3": "흡혈",
     "lexica.cartographer.attribute.life_drain_amount.with.4": "(1❤)",
 
     "lexica.cartographer.attribute.negative.life_drain_amount.desc.1": "Decreases the restoration",
@@ -1168,8 +1169,8 @@
     "lexica.cartographer.attribute.negative.life_drain_amount.desc.5": "%4$s when activated.",
 
     "lexica.cartographer.attribute.negative.life_drain_amount.with.1": "(❤)",
-    "lexica.cartographer.attribute.negative.life_drain_amount.with.2": "Life Drain",
-    "lexica.cartographer.attribute.negative.life_drain_amount.with.3": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.2": "흡혈",
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.3": "흡혈",
     "lexica.cartographer.attribute.negative.life_drain_amount.with.4": "(1❤)",
 
 
@@ -1481,9 +1482,9 @@
 
     "lexica.cartographer.enchantment.echo.with.1": "장비 시",
     "lexica.cartographer.enchantment.echo.with.2": "+[레벨]",
-    "lexica.cartographer.enchantment.echo.with.3": "연속 공격 횟수",
-    "lexica.cartographer.enchantment.echo.with.4": "연속 공격 확률",
-    "lexica.cartographer.enchantment.echo.with.5": "연속 공격 적중률",
+    "lexica.cartographer.enchantment.echo.with.3": "추가타 횟수",
+    "lexica.cartographer.enchantment.echo.with.4": "추가타 확률",
+    "lexica.cartographer.enchantment.echo.with.5": "추가타 적중률",
 
 
     "lexica.cartographer.enchantment.extended.desc.1": "%1$s: Gain %2$s",
@@ -1535,8 +1536,8 @@
 
     "lexica.cartographer.enchantment.lifesteal.with.1": "장비 시",
     "lexica.cartographer.enchantment.lifesteal.with.2": "+[5% × 레벨]]",
-    "lexica.cartographer.enchantment.lifesteal.with.3": "흡혈 효과 발생 확률",
-    "lexica.cartographer.enchantment.lifesteal.with.4": "흡혈 효과 회복량",
+    "lexica.cartographer.enchantment.lifesteal.with.3": "흡혈 확률",
+    "lexica.cartographer.enchantment.lifesteal.with.4": "흡혈 회복량",
 
 
     "lexica.cartographer.enchantment.lucky.desc.1": "%1$s: Gain %2$s",
@@ -1578,7 +1579,7 @@
 
     "lexica.cartographer.enchantment.technique.with.1": "장비 시",
     "lexica.cartographer.enchantment.technique.with.2": "+[10% × 레벨]]",
-    "lexica.cartographer.enchantment.technique.with.3": "치명타 확률",
+    "lexica.cartographer.enchantment.technique.with.3": "회심률",
 
 
     "lexica.cartographer.enchantment.traveling.desc.1": "%1$s: Gain %2$s",
@@ -2733,7 +2734,7 @@
 
 
     "lexica.minecraft.enchantment.flame.desc.1": "이 무기에서 발사된 화살은",
-    "lexica.minecraft.enchantment.flame.desc.2": "%s초 동안 대상을 불태웁니다.",
+    "lexica.minecraft.enchantment.flame.desc.2": "%s 동안 대상을 불태웁니다.",
 
     "lexica.minecraft.enchantment.flame.with.1": "(00:04)",
 
@@ -3003,7 +3004,7 @@
     "cartographer.inert.name": "불활성 아이템",
         "cartographer.inert.desc.auto_charge.1": "자동장전 인챈트로 인해 현재",
         "cartographer.inert.desc.auto_charge.2": "일시적으로 불활성화되었습니다.",
-        "cartographer.inert.desc.scavenger.1": "청소부 인챈트로 인해 현재",
+        "cartographer.inert.desc.scavenger.1": "보충 인챈트로 인해 현재",
         "cartographer.inert.desc.scavenger.2": "일시적으로 불활성화되었습니다.",
 
     "cartographer.popup.status_asleep": "Zzz...",
