@@ -1,0 +1,45 @@
+{
+  
+
+  "enchantment.level.1": "I",
+  "enchantment.level.2": "II",
+  "enchantment.level.3": "III",
+  "enchantment.level.4": "IV",
+  "enchantment.level.5": "V",
+  "enchantment.level.6": "VI",
+  "enchantment.level.7": "VII",
+  "enchantment.level.8": "VIII",
+  "enchantment.level.9": "IX",
+  "enchantment.level.10": "X",
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.16": "XVI",
+  "enchantment.level.17": "XVII",
+  "enchantment.level.18": "XVIII",
+  "enchantment.level.19": "XIX",
+  "enchantment.level.20": "XX",
+  "enchantment.level.22": "XXII",
+  "enchantment.level.30": "XXX",
+
+  "item.minecraft.nether_star": "Aperture of Apotheosis",
+
+  "block.minecraft.mud": "Muck",
+  "block.minecraft.red_sand": "Crumbling Corrupted Chunk",
+  "block.minecraft.gray_terracotta": "Cracked Quartz Bricks",
+  
+  "death.attack.moo": "%1$s got hacked on",
+  "death.attack.worm": "%1$s got wormed",
+  "death.attack.worm.player": "%1$s got wormed",
+  "death.attack.parrot_suck": "%1$s sacraficed themselves to the divebomb parrot in the sky",
+  "death.attack.pufferfish_blow": "%1$s got afflicted with too many diseases",
+  "death.attack.wither_water": "%1$s became one with the mind",
+  
+  "block.minecraft.spawn.not_valid": "You have no bed, or it or a charon statue was obstructed",
+
+  "soundCategory.ambient": "Custom Music",
+  "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
+
+}

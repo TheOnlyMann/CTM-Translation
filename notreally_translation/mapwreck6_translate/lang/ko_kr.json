@@ -1,0 +1,45 @@
+{
+  
+
+  "enchantment.level.1": "I",
+  "enchantment.level.2": "II",
+  "enchantment.level.3": "III",
+  "enchantment.level.4": "IV",
+  "enchantment.level.5": "V",
+  "enchantment.level.6": "VI",
+  "enchantment.level.7": "VII",
+  "enchantment.level.8": "VIII",
+  "enchantment.level.9": "IX",
+  "enchantment.level.10": "X",
+  "enchantment.level.11": "XI",
+  "enchantment.level.12": "XII",
+  "enchantment.level.13": "XIII",
+  "enchantment.level.14": "XIV",
+  "enchantment.level.15": "XV",
+  "enchantment.level.16": "XVI",
+  "enchantment.level.17": "XVII",
+  "enchantment.level.18": "XVIII",
+  "enchantment.level.19": "XIX",
+  "enchantment.level.20": "XX",
+  "enchantment.level.22": "XXII",
+  "enchantment.level.30": "XXX",
+
+  "item.minecraft.nether_star": "신격화의 조리개",
+
+  "block.minecraft.mud": "진흙탕",
+  "block.minecraft.red_sand": "부서진 부패 덩어리",
+  "block.minecraft.gray_terracotta": "균열이 간 석영 벽돌",
+
+  "death.attack.moo": "%1$s은(는) 해킹당했습니다",
+  "death.attack.worm": "%1$s은(는) 벌레에 잠식되었습니다",
+  "death.attack.worm.player": "%1$s은(는) 벌레에 잠식되었습니다",
+  "death.attack.parrot_suck": "%1$s은(는) 하늘의 돌진앵무새에게 제물로 바쳐졌습니다",
+  "death.attack.pufferfish_blow": "%1$s은(는) 너무 많은 질병에 감염되었습니다",
+  "death.attack.wither_water": "%1$s은(는) 정신과 하나가 되었습니다",
+
+  "block.minecraft.spawn.not_valid": "침대 또는 카론 석상이 없거나 막혔습니다",
+
+  "soundCategory.ambient": "커스텀 음악",
+  "block.minecraft.mangrove_propagule": "맹그로브 주아 - 나이에 따라 작물 생성"
+
+}
