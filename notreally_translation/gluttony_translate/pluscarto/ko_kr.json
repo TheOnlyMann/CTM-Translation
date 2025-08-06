@@ -3108,6 +3108,6 @@
 
     
     "item.minecraft.cookie": "닭고기 너겟",
-    "death.attack.null_frames": "%1$s은(는) 파멸수에 의해 순살당했습니다.",
-    "death.attack.null_frames.player": "%1$s은(는) 파멸수에 의해 순살당했습니다."
+    "death.attack.null_frames": "%1$s은(는) 파멸수에 의해 순살당했습니다",
+    "death.attack.null_frames.player": "%1$s은(는) 파멸수에 의해 순살당했습니다"
 }
