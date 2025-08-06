@@ -27,7 +27,7 @@ def encode_real_pua_in_json_text(data):
 
     return fixed_text
 # Merge two JSON dicts with optional override control
-def merge_json(a, b, override=True, sort_new_keys=False):
+def merge_json(a, b, override=True, sort_new_keys=False, discard_b_keys=False):
     merged = OrderedDict()
     # Merge keys from A, overriding with B if specified
     for key in a:
@@ -36,12 +36,13 @@ def merge_json(a, b, override=True, sort_new_keys=False):
         else:
             merged[key] = a[key]  # Keep A’s value
 
-    # Add new keys from B not in A
-    b_only_keys = [k for k in b if k not in a]
-    if sort_new_keys:
-        b_only_keys.sort(key=lambda k: parse_key(k))
-    for key in b_only_keys:
-        merged[key] = b[key]
+    if not discard_b_keys:
+        # Add new keys from B not in A
+        b_only_keys = [k for k in b if k not in a]
+        if sort_new_keys:
+            b_only_keys.sort(key=lambda k: parse_key(k))
+        for key in b_only_keys:
+            merged[key] = b[key]
 
     return merged
 
@@ -53,10 +54,11 @@ def save_json(data, output_file):
 # CLI usage
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python mergejson.py A.json B.json [output.json] [-o] [-s] [-p]")
+        print("Usage: python mergejson.py A.json B.json [output.json] [-o] [-s] [-p] [-d]")
         print("  -o : Override A's keys with B's keys (default: off)")
         print("  -s : Sort merged JSON keys (default: off)")
         print("  -p : Do NOT preserve PUA characters (default: preserve ON)")
+        print("  -d : Discard B.json keys not in A.json (default: off)")
         sys.exit(1)
 
     # Parse arguments
@@ -64,6 +66,7 @@ if __name__ == "__main__":
     override = False
     sort_output = False
     preserve_pua = True
+    discard_b_keys = False
 
     for arg in sys.argv[1:]:
         if arg.endswith(".json"):
@@ -74,6 +77,8 @@ if __name__ == "__main__":
             sort_output = True
         elif arg == "-p":
             preserve_pua = False
+        elif arg == "-d":
+            discard_b_keys = True
         else:
             print(f"Unknown argument: {arg}")
             sys.exit(1)
@@ -91,12 +96,12 @@ if __name__ == "__main__":
     with open(b_file, "r", encoding="utf-8") as f:
         data_b = json.load(f)
 
-    merged = merge_json(data_a, data_b, override=override)
+    merged = merge_json(data_a, data_b, override=override, discard_b_keys=discard_b_keys)
     if sort_output:
         merged = natural_sort_dict(merged)
     if preserve_pua:
         merged = encode_real_pua_in_json_text(merged)
     save_json(merged, output_file)
 
-    print(f"✅ Merged JSON saved as '{output_file}' (override={'ON' if override else 'OFF'}, sorted={'ON' if sort_output else 'OFF'}, PUA preserved={'ON' if preserve_pua else 'OFF'})")
+    print(f"✅ Merged JSON saved as '{output_file}' (override={'ON' if override else 'OFF'}, sorted={'ON' if sort_output else 'OFF'}, PUA preserved={'ON' if preserve_pua else 'OFF'}, discard B keys={'ON' if discard_b_keys else 'OFF'})")
 
