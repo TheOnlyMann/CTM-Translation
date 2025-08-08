@@ -1083,7 +1083,7 @@
     "chests.functions.explain_refill.4": "이 상자는 마법의 힘을 가진 것 같습니다. 이 아이템들을 꺼내면 어떻게 될까요?",
     "command_storage.page_14_name.page_14_name[0].1": "미지의 영역",
     "command_storage.page_14_name.page_14_name[1].1": "----------------\n",
-    "command_storage.page_1_name.page_1_name[0].1": "효과/마법 부여",
+    "command_storage.page_1_name.page_1_name[0].1": "효과/마법 부여\n",
     "entity.armor_stand.1.name.1": "셰이드",
     "entity.armor_stand.2.name.1": "공포불 요새",
     "entity.armor_stand.3.name.1": "잿불성채 (마을)",
