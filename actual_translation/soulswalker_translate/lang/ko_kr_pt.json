@@ -5,10 +5,10 @@
     "tuto.start.init": "[초기화]",
     "tuto.start.init_text": "버튼을 다시 누르세요",
 
-    "shop.text.soul.okay.normal": "§b영혼의 돌§r을 추출했습니다",
-    "shop.text.soul.okay.special": "§6페피토§r를 추출했습니다",
+    "shop.text.soul.okay.normal": "§b영혼석§r을 추출했습니다 :",
+    "shop.text.soul.okay.special": "§6페피토§r를 추출했습니다 :",
 
-    "shop.text.soul.fail": "§4§l!§r §l치명적 실패§r §4§l!§r \n§c무기가 부서져 영혼의 돌을 추출하지 못했습니다!!§r",
+    "shop.text.soul.fail": "§4§l!§r §l치명적 실패§r §4§l!§r \n§c무기가 부서져 영혼석을 추출하지 못했습니다!!§r",
 
     "shop.text.money.get_1": "다음 아이템을 받았습니다: ",
     "shop.text.money.get_2": "에테르!",
@@ -21,8 +21,8 @@
     "text.lobby.sign.swap_difficulty": "게임 난이도가 변경되었습니다: ",
     
     "lobby.click_on_chat": "대화 열기: ",
-    "lobby.shop.info": "\n§a상점과 상호작용하려면§r",
-    "lobby.souls.info": "\n§a영혼의 돌을 수집하려면§r",
+    "lobby.shop.info": "\n§a상점과 상호작용§r",
+    "lobby.souls.info": "\n§a영혼석 보관/수령§r",
 
     "text.lobby.room.forge": "대장간",
     "text.lobby.room.shop": "상점",
@@ -62,8 +62,8 @@
     "shop.quality.5": "전설",
     "shop.quality.6": "신화",
 
-    "shop.store_soulstone.menu": "§6보관§r할 §b영혼의 돌§r",
-    "shop.store_soulstone.empty": "돌 없음 ",
+    "shop.store_soulstone.menu": "§6보관§r할 §b영혼석§r",
+    "shop.store_soulstone.empty": "돌 없음: ",
 
     "text.money.ether": "에테르",
     "text.money.ether.first": "- 보유 중: ",
@@ -87,7 +87,7 @@
     "text.lobby.speedrun.enable": "표시됨",
     "text.lobby.speedrun.disable": "숨김",
     "text.lobby.speedrun_by_chaos": "스피드런 ",
-    "sign.lobby.speedrun.disable_by_chaos": "비활성화 (혼란)",
+    "sign.lobby.speedrun.disable_by_chaos": "비활성화 (혼돈)",
     "sign.lobby.speedrun.enable": "활성화",
     "sign.lobby.speedrun.disable": "비활성화",
 
@@ -110,7 +110,7 @@
     "sign.healthshop.type.4": "비어 있음",
 
     "musee.transmutation.main1": "§6§l§n변환§r \n> §6무기§r를 변환하면 §its 품질§r을 증가시키면서 §a주문을 유지§r하여 피해를 증가시킵니다. \n품질 진행:\n§7일반§r> §a비표준§r> §9희귀§r> §5서사§r> §6전설§r> §3신화⚠§r",
-    "musee.transmutation.main2": "> §6무기§r §7(또는 다른 영혼의 돌)§r를 구조물 중앙에 놓고 §b영혼의 돌§r을 §e같은 품질§f로 네 개 놓아야 합니다.",
+    "musee.transmutation.main2": "> §6무기§r §7(또는 다른 영혼석)§r를 구조물 중앙에 놓고 §b영혼석§r을 §e같은 품질§f로 네 개 놓아야 합니다.",
     "musee.transmutation.myth": "§3§l§n신화 무기§r \n§3신화 무기§r는 무기의 최종 단계입니다.\n§3신화 무기§r는 §e재련§r, §e변환§r, 또는 §e재활용할 수 없습니다. \n§4⚠§r §c원하는 능력치§c를 확보했는지 확인하세요.§r",
     "musee.reforge.main1": "§6§l§n무기 재련§r \n> §9에테르§r 를 소모하여 §e주문 재설정§r하면서 §a품질은 유지§r합니다.",
     "musee.reforge.main2": "§a재련§f 비용은 점점 더 많은 §9에테르§r 가 들지만 §b변환§r하면 재련 비용이 §a초기화됩니다§r.",
@@ -120,7 +120,7 @@
     "musee.sell.main1": "> §e판매§f하면 무기를 §4파괴§f하고 에테르 를 얻습니다.",
 
     "sign.musee.destroy": "재활용",
-    "musee.destroy.main1": "> §b재활용§f하면 무기를 §4파괴§f하여 영혼의 돌을 추출합니다 §c(추출 과정이 실패할 수도 있습니다).",
+    "musee.destroy.main1": "> §b재활용§f하면 무기를 §4파괴§f하여 영혼석을 추출합니다 §c(추출 과정이 실패할 수도 있습니다).",
 
     "sign.altar": "제단",
     "sign.altar.type.nothing": "비활성화",
@@ -370,7 +370,7 @@
     "lobby.prelaunch.to_much_weapons.without_soul": "-- 무기 3개 이상으로 게임을 시작할 수 없습니다",
     "lobby.prelaunch.to_much_weapons.with_soul": "-- 무기 4개 이상으로 게임을 시작할 수 없습니다 §4§o(파티 수정자 보너스)§r",
     "lobby.prelaunch.chest.stocked": "> 무기 상자가 채워졌습니다",
-    "lobby.prelaunch.souls.stocked": "> 영혼의 돌이 채워졌습니다",
+    "lobby.prelaunch.souls.stocked": "> 영혼석이 채워졌습니다",
     
     "failed.launch_game.render.sub": "렌더 거리를 10 청크 이상으로 설정하세요",
     "failed.launch_game.render.title": "생성 오류",
@@ -393,7 +393,7 @@
     "sign.tp.start": "로비",
 
     "text.lobby.sign.record_title": "🔶 🔷 리더보드 🔷 🔶",
-    "sign.lobby.record.warning": "리더보드는 §4§o각 모드에서 §r독립적으로 계산됩니다",
+    "sign.lobby.record.warning": "리더보드는 §4§o각 모드에서 §r독립적으로 계산됩니다: ",
     "text.lobby.sign.no_record": "아직 기록이 없습니다",
 
     "text.lobby.sign.record_min": "분,",
@@ -438,9 +438,9 @@
     "lobby.inventory.full.title": "보관함 가득 참!!!",
 
     "tuto.text.story.part1": "§f안녕하세요, §bSoulsWalker에 오신 것을 환영합니다§r!",
-    "tuto.text.story.part2": "§f§a당근을 §r주워서 §bRuru§r에게 §b먹이를 주세요.",
+    "tuto.text.story.part2": "§f§a당근을 §r주워서 §b루루§r에게 §b먹이를 주세요.",
     "tuto.text.story.part3": "§f문을 열어 드리겠습니다, 행운을 빕니다.",
-    "tuto.text.story.part4": "§f잘했어요! §a당근을 §r가지고 있습니다, §eRuru§r에게 우클릭으로 주세요.",
+    "tuto.text.story.part4": "§f잘했어요! §a당근을 §r가지고 있습니다, §e루루§r에게 우클릭으로 주세요.",
     "tuto.text.story.part5": "§f그가 당신을 좋아합니다!! 이제 묘지에서 §a열매를 §r가져와야 합니다. 조심하세요, 가시에 쉽게 찔릴 수 있어요...",
     "tuto.text.story.part6": "§f오 안돼!! 스켈레톤이에요! 공격하세요.",
     "tuto.text.story.part7": "§f잘했어요, 하지만 §d차원문이 §r활성화되었어요. 서둘러 §a집§r에서 장비를 가져오세요.",
@@ -620,8 +620,8 @@
     
     "avarice.money": "추가 금화를 획득했습니다",
     
-    "sign.magical_shop.gold1": "당신의 행운",
-    "sign.magical_shop.gold2": "공유됨",
+    "sign.magical_shop.gold1": "당신의 재화",
+    "sign.magical_shop.gold2": "[공유됨]",
     "sign.magical_shop.reset": "상점 가격",
     "sign.magical_shop.price": "초기화: ",
     "sign.magical_shop.true": "상점이 초기화되었습니다",
@@ -690,7 +690,7 @@
     "adv.text.weapon.soul_weapon5.title": "재탄생",
     "adv.text.weapon.soul_weapon5.lore": "무기 500개 재활용",
     "adv.text.weapon.sell_pepito.title": "페피투",
-    "adv.text.weapon.sell_pepito.lore": "특정 영혼의 돌을 찾으세요",
+    "adv.text.weapon.sell_pepito.lore": "특정 영혼석을 찾으세요",
     "adv.text.weapon.reforge1.title": "대장장이",
     "adv.text.weapon.reforge1.lore": "무기 10개 재련",
     "adv.text.weapon.reforge2.title": "숙련된 대장장이",
@@ -701,7 +701,7 @@
     "adv.text.weapon.reforge4.lore": "무기 250개 재련",
     "adv.text.weapon.reforge5.title": "제롱 르포르",
     "adv.text.weapon.reforge5.lore": "500개의 무기 재련",
-    "adv.text.weapon.reset_me.title": "/trigger 리셋",
+    "adv.text.weapon.reset_me.title": "/trigger reset",
     "adv.text.weapon.reset_me.lore": "진행 중인 게임에서 나왔습니다",
     "adv.text.weapon.get_all_weapons.title": "무기 풍성",
     "adv.text.weapon.get_all_weapons.lore": "게임 내 모든 무기를 찾으세요",
@@ -720,7 +720,7 @@
     "adv.text.weapon.transmutation_first.title": "진화",
     "adv.text.weapon.transmutation_first.lore": "변환 작업대를 사용하세요",
     "adv.text.weapon.transmutation_soulstone.title": "영혼의 화학자",
-    "adv.text.weapon.transmutation_soulstone.lore": "영혼의 돌을 진화시키세요",
+    "adv.text.weapon.transmutation_soulstone.lore": "영혼석을 진화시키세요",
     "adv.text.weapon.transmutation_legendary.title": "힘",
     "adv.text.weapon.transmutation_legendary.lore": "무기를 전설 단계로 진화시키세요",
     "adv.text.weapon.transmutation_myth.title": "보스 강화",
@@ -759,15 +759,15 @@
     "adv.text.map.mysique2.title": "강박적인 구매자",
     "adv.text.map.mysique2.lore": "신비 상점에서 5000 금화를 소비하세요",
     "adv.text.map.mysique_soul1.title": "하나 더!",
-    "adv.text.map.mysique_soul1.lore": "신비 상점에서 일반 영혼의 돌을 구매하세요",
+    "adv.text.map.mysique_soul1.lore": "신비 상점에서 일반 영혼석을 구매하세요",
     "adv.text.map.mysique_soul2.title": "나를 위한 것",
-    "adv.text.map.mysique_soul2.lore": "신비 상점에서 비표준 영혼의 돌을 구매하세요",
+    "adv.text.map.mysique_soul2.lore": "신비 상점에서 비표준 영혼석을 구매하세요",
     "adv.text.map.mysique_soul3.title": "영혼의 거래자",
-    "adv.text.map.mysique_soul3.lore": "신비 상점에서 희귀 영혼의 돌을 구매하세요",
+    "adv.text.map.mysique_soul3.lore": "신비 상점에서 희귀 영혼석을 구매하세요",
     "adv.text.map.mysique_soul4.title": "더 높게 더 높게",
-    "adv.text.map.mysique_soul4.lore": "신비 상점에서 서사 영혼의 돌을 구매하세요",
+    "adv.text.map.mysique_soul4.lore": "신비 상점에서 서사 영혼석을 구매하세요",
     "adv.text.map.mysique_soul5.title": "더 많이 더 많이",
-    "adv.text.map.mysique_soul5.lore": "신비 상점에서 전설 영혼의 돌을 구매하세요",
+    "adv.text.map.mysique_soul5.lore": "신비 상점에서 전설 영혼석을 구매하세요",
 
     "adv.text.map.bauble_parcho1.title": "기록 보관자",
     "adv.text.map.bauble_parcho1.lore": "300개의 두루마리를 소비하세요",
@@ -986,11 +986,11 @@
     "sign.plot667.tp_top": "올라가기",
 
     "------- SOULSTONE -------":"------- SOULSTONE -------",
-    "item.soul_stone.commun": "소울스톤 I",
-    "item.soul_stone.uncommun": "소울스톤 II",
-    "item.soul_stone.rare": "소울스톤 III",
-    "item.soul_stone.epic": "소울스톤 IV",
-    "item.soul_stone.legend": "소울스톤 V",
+    "item.soul_stone.commun": "영혼석 I",
+    "item.soul_stone.uncommun": "영혼석 II",
+    "item.soul_stone.rare": "영혼석 III",
+    "item.soul_stone.epic": "영혼석 IV",
+    "item.soul_stone.legend": "영혼석 V",
 
     "------- WEAPON -------": "------- 무기 -------",
     "training.sword": "훈련용 검",
@@ -1404,6 +1404,8 @@
     "lore.conso.bonus.crit": "치명타 확률을 증가시킵니다",
     "name.conso.bonus.bonus": "지식의 서",
     "lore.conso.bonus.bonus": "증가시킬 스탯을 선택할 수 있습니다",
+    "name.conso.bonus.choice": "지식의 서",
+    "lore.conso.bonus.choice": "증가시킬 스탯을 선택할 수 있습니다",
 
     "----NAME 1----": "----NAME 1----",
     "name.bauble.text1.1": "빛나는 ",
