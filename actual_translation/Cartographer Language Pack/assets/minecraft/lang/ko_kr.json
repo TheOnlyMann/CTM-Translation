@@ -2604,13 +2604,13 @@
     "lexica.cartographer.enchantment_curse.heaviness.with.2": "+[0.5 × 레벨]",
 
 
-    "lexica.cartographer.enchantment_curse.instability.desc.1": "%s: 사용자가 받는 피해 유형이",
-    "lexica.cartographer.enchantment_curse.instability.desc.2": "원래 유형에서 변경되어",
-    "lexica.cartographer.enchantment_curse.instability.desc.3": "근접, 투사체, 폭발, 낙하 피해 중 하나가 됩니다.",
-    "lexica.cartographer.enchantment_curse.instability.desc.4": "불안정 저주를 착용하고 있는 동안",
-    "lexica.cartographer.enchantment_curse.instability.desc.5": "피해 유형이 목록의 순서대로 순차적으로",
-    "lexica.cartographer.enchantment_curse.instability.desc.6": "순환하여 변경됩니다.",
-    "lexica.cartographer.enchantment_curse.instability.desc.7": "",
+    "lexica.cartographer.enchantment_curse.instability.desc.1": "%s: 사용자가 개체에게서 받는",
+    "lexica.cartographer.enchantment_curse.instability.desc.2": "피해 유형이 원래 유형에서 변경되어",
+    "lexica.cartographer.enchantment_curse.instability.desc.3": "근접, 투사체, 폭발, 낙하 피해 중",
+    "lexica.cartographer.enchantment_curse.instability.desc.4": "하나로 바뀝니다.불안정 저주를",
+    "lexica.cartographer.enchantment_curse.instability.desc.5": "착용하고 있는 동안 피해 유형이",
+    "lexica.cartographer.enchantment_curse.instability.desc.6": "목록의 순서대로 순차적으로",
+    "lexica.cartographer.enchantment_curse.instability.desc.7": "순환하여 변경됩니다.",
 
     "lexica.cartographer.enchantment_curse.instability.with.1": "장비 시",
 
