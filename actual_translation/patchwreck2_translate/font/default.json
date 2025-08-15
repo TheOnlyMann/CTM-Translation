@@ -1,0 +1,22 @@
+
+{
+	"providers":[
+		{
+			"type":"bitmap",
+			"file":"minecraft:font/icon1.png",
+			"ascent":64,
+			"height":64,
+			"chars":[
+				""
+			]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:font/icon2.png",
+			"ascent":64,
+			"height":64,
+			"chars":[
+				""
+			]
+		}]
+}
