@@ -2257,7 +2257,7 @@
     "general.functions.player_dead_explain.3": " 자신의 '무덤'을 찾아 주먹으로 쳐서 장비를 회수하세요!",
     "general.functions.player_survival.3": "생존",
     "general.functions.smithing_explain.2": "[ 대장장이 형판 ] ",
-    "general.functions.smithing_explain.3": "대장간은 기본적인 다이아몬드 아이템을 네더라이트 아이템으로 업그레이드하는 데 사용할 수 있지만, 비표준 아이템(커스텀 텍스처나 커스텀 어픽스가 적용된 아이템)을 업그레이드하는 데는 사용이",
+    "general.functions.smithing_explain.3": "대장간은 기본적인 다이아몬드 아이템을 네더라이트 아이템으로 업그레이드하는 데 사용할 수 있지만, 비표준 아이템(커스텀 텍스처나 커스텀 어픽스가 적용된 아이템)을 업그레이드하는 데는 사용이 ",
     "general.functions.smithing_explain.4": "불가능하며",
     "general.functions.smithing_explain.5": ", 그러한 아이템을 업그레이드하려고 하면 망가질 수 있습니다.",
     "general.functions.squealy.damage_100.1": "100+",
