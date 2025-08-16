@@ -11,12 +11,11 @@ def parse_key(k: str):
 def natural_sort_dict(d: dict):
     return OrderedDict(sorted(d.items(), key=lambda kv: parse_key(kv[0])))
 
-# ---------- Value slicing that respects \\uXXXX "literals" ----------
-# Treat each of these as ONE token:
-#  - literal backslash-u hex:   \uFFFF
-#  - any backslash escape:      \X   (quotes, n, r, t, backslash itself, etc.)
-#  - Minecraft color code:      §X
-#  - otherwise:                 any single character
+# ---------- Tokenizer ----------
+#  - \uFFFF         : 하나의 토큰
+#  - \. (백슬래시)  : \" \n \\ \t ... 하나의 토큰
+#  - §.             : §x 하나의 토큰
+#  - 그 외          : 1 문자
 TOKEN_RE = re.compile(r'(?:\\u[0-9A-Fa-f]{4}|\\.|§.|.)', re.DOTALL)
 
 def tokenize_value(s: str):
@@ -24,6 +23,33 @@ def tokenize_value(s: str):
 
 def detokenize_value(tokens):
     return "".join(tokens)
+
+def glue_section_codes(tokens):
+    """
+    연속된 §x 들을 모두 모아 바로 뒤 '단일 토큰' 1개까지 붙여서
+    하나의 토큰으로 합칩니다.
+    예) ['§s','§0','A','B'] -> ['§s§0A','B']
+        ['§a','§b','§c','글'] -> ['§a§b§c글']
+        ['§f'] -> ['§f'] (뒤에 붙일 문자가 없으면 그대로)
+    """
+    out = []
+    i = 0
+    while i < len(tokens):
+        if tokens[i].startswith("§") and len(tokens[i]) == 2:
+            run = []
+            # §x 연속 수집
+            while i < len(tokens) and tokens[i].startswith("§") and len(tokens[i]) == 2:
+                run.append(tokens[i])
+                i += 1
+            # 바로 뒤 토큰 하나를 붙일 수 있으면 붙인다
+            if i < len(tokens):
+                run.append(tokens[i])
+                i += 1
+            out.append("".join(run))
+        else:
+            out.append(tokens[i])
+            i += 1
+    return out
 
 def proportional_prefix(tokens, i, n):
     """
@@ -41,37 +67,34 @@ def expand_keys(data: dict, sort_output: bool = False) -> dict:
     """
     For any key ending with .N (N >= 1), generate keys base.1 ... base.N.
     Each value is a proportional prefix of the original key's value.
-    Existing keys are left as-is (we only fill missing ones).
     """
-    # Work on a copy we can update as we go
     out = dict()
 
-    # Group candidates by base, keeping the max N & the original value for that N
-    bases = {}  # base -> (N, value)
+    # base -> (N, value)  (가장 큰 N을 기준으로 확장)
+    bases = {}
     for key, val in data.items():
         m = KEY_RE.match(key)
         if not m:
             continue
         base, num_str = m.groups()
         N = int(num_str)
-        # Only consider the exact ".N" as the source; keep the largest N's value if multiple exist
         prev = bases.get(base)
         if prev is None or N > prev[0]:
             bases[base] = (N, val)
 
-    # For each base, generate 1..N if missing
+    # 각 base에 대해 1..N 생성
     for base, (N, full_val) in bases.items():
         if N <= 0:
             continue
         tokens = tokenize_value(full_val)
+        tokens = glue_section_codes(tokens)   # ★ §x 연속 + 뒤 1토큰까지 하나로 묶기
         for i in range(1, N + 1):
             gen_key = f"{base}.{i}"
             if gen_key in out:
-                continue  # don't overwrite existing keys
+                continue
             new_tokens = proportional_prefix(tokens, i, N)
             out[gen_key] = detokenize_value(new_tokens)
 
-    # Optionally natural-sort
     if sort_output:
         return natural_sort_dict(out)
     return out
