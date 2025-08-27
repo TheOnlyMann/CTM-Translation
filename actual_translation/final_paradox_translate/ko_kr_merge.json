@@ -456,13 +456,13 @@
     "block.sign.27.text2.1": "코즈믹",
     "block.sign.27.text3.1": "타운",
     "block.sign.28.text2.1": "탐험의",
-    "block.sign.28.text3.1": "명령",
+    "block.sign.28.text3.1": "순서",
     "item.written_book.1.page.0.1": "  교차로 IV",
     "item.written_book.1.page.0.2": "\n\n",
     "item.written_book.1.page.0.3": "1.",
     "item.written_book.1.page.0.4": " 큰 뱀의 유해\n\n",
     "item.written_book.1.page.0.5": "2.",
-    "item.written_book.1.page.0.6": " 우주 마을",
+    "item.written_book.1.page.0.6": " 코스믹 타운",
     "item.written_book.1.page.0.7": "3. ",
     "item.written_book.1.page.0.8": "천국 아닌 하늘\n\n ",
     "item.written_book.1.title.1": "정보",
@@ -1114,8 +1114,8 @@
     "item.written_book.10.page.1.6": "반복",
     "item.written_book.10.page.1.7": " 하여 아래의 ",
     "item.written_book.10.page.1.8": "압력판",
-    "item.written_book.10.page.1.9": "에 입력하세요. 정확히 입력하면 당신의 ",
-    "item.written_book.10.page.1.10": "를 얻을 수 있습니다!",
+    "item.written_book.10.page.1.9": "에 입력하세요. 정확히 입력하면 얻을 수 있습니다: ",
+    "item.written_book.10.page.1.10": "!",
     "item.written_book.10.title.1": "핵 기계",
     "entity.armor_stand.35.name.1": "§e§l석탄 여기로",
     "item.book.10.name.1": "§b§o§l서리 노바의 서 (레벨 I)",
@@ -1297,7 +1297,7 @@
     "item.ghast_tear.3.lore.4.1": "§c보스 전투 중에는 비활성화됩니다.",
     "item.bow.4.name.1": "패스봇 무기",
     "item.paper.4.name.1": "§7§l격납고 기록",
-    "item.paper.4.lore.1.1": "§9§e빌크터 소령§9의 배가 얼마 전 출발했습니다.",
+    "item.paper.4.lore.1.1": "§9§e빌크토르 소령§9의 배가 얼마 전 출발했습니다.",
     "item.bow.5.name.1": "§4§l§o불안정한 화학활",
     "item.bow.5.lore.1.1": "§9당신의 다음 화살은 대상에게 폭발을 일으키며",
     "item.bow.5.lore.2.1": "§9물약 효과를 주어 그들에게",
@@ -1325,7 +1325,7 @@
     "item.splash_potion.12.lore.13.1": "§7",
     "item.splash_potion.12.lore.14.1": "§7",
     "item.splash_potion.12.lore.15.1": "§7§o정복자§7도 같은 의문을 품었습니다...",
-    "item.paper.5.name.1": "§7§l빌크터 소령의 쪽지",
+    "item.paper.5.name.1": "§7§l빌크토르 소령의 쪽지",
     "item.paper.5.lore.1.1": "§9경고: 최근 §e소문§9에 따르면 §e도둑§9들이",
     "item.paper.5.lore.2.1": "§9§e코어§9를 훔치고 있습니다. 그러기에 저는 §e보관§9된",
     "item.paper.5.lore.3.1": "§9§a코즈믹 코어§9를 위버 RPSP §9§e에서 제 §9",
@@ -1502,7 +1502,7 @@
     "item.book.14.name.1": "§b§o§l번역의 서",
     "item.book.14.lore.1.1": "§9서를 떨어뜨려 §b8초 동안 주문을 전달하세요§9,",
     "item.book.14.lore.2.1": "§9그러면 §b성역§9으로 §b순간이동§9됩니다.",
-    "item.book.14.lore.3.1": "§9성역에서 §b토템을 다시 사용하면",
+    "item.book.14.lore.3.1": "§9성역에서 §b서를 다시 사용하면",
     "item.book.14.lore.4.1": "§9마지막으로 사용한 곳으로 §b 이동시켜줍니다§9.",
     "item.book.14.lore.6.1": "§915 블록 반경 내에 §c 적§9이 있거나",
     "item.book.14.lore.7.1": "§c이동 §9 중에 채널링하면 주문이 §c방해됨§9.",
@@ -7872,7 +7872,7 @@
     "luisb1202.functions.carga_lanas.3_magenta.paladin.msg_pala_mayal.1": "§e철퇴§f는 §e블록을 통과§f할 수 있습니다. 조심하세요!",
     "luisb1202.functions.carga_lanas.3_magenta.paladin.msg_pala_primera.1": "조심하세요! §e당신이 깨운§f 어둠의 힘이 보입니다.",
     "luisb1202.functions.carga_lanas.3_magenta.paladin.msg_proyectil.1": "투사체는 §e해를 입힐 수 없§f습니다.",
-    "luisb1202.functions.carga_lanas.3_magenta.paladin.pose_girar_mayal.select_target.1": "철퇴가 추적합니다",
+    "luisb1202.functions.carga_lanas.3_magenta.paladin.pose_girar_mayal.select_target.1": "철퇴가 추적합니다: ",
     "luisb1202.functions.carga_lanas.3_magenta.paladin.pose_girar_mayal.select_target.2": "피하세요!",
     "luisb1202.functions.carga_lanas.3_magenta.paladin.pose_preparar_melee.ini.1": "물러서세요!",
     "luisb1202.functions.carga_lanas.3_magenta.pasado.msg.1": "§c정복자§f가 이 땅에 온 이후로, 그의 행동의 무게로 인해 시간적으로 불안정한 상태가 되었습니다. §e엔드 스톤§f을 밟으면 §d과거로 몇 초 전으로 돌아갑니다§f.",
@@ -7976,7 +7976,7 @@
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.chat.dialogos.textos.errores.5_duplicados.1": "§c같은 단어를 두 번§f 쓸 수 없습니다.",
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.chat.dialogos.textos.errores.6_no_escrito_nada.1": "당신은 §c아무것도§f 쓰지 않았습니다. 답을 얻으려면 §e드라코닉§f으로 질문하세요.",
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.chat.dialogos.textos.errores.7_sin_pregunta.1": "당신은 §c아무것도§f 묻지 않았습니다.",
-    "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.chat.dialogos.textos.errores.8_no_aphofis.1": "나는 교단의 가장 위대한 구성원들에게만 지식을 줍니다. 당신은 §eBani의 §3only child§f의 이름조차 모르는 듯합니다.",
+    "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.chat.dialogos.textos.errores.8_no_aphofis.1": "나는 교단의 가장 위대한 구성원들에게만 지식을 줍니다. 당신은 §e바니의 §3유일한 혈육§f의 이름조차 모르는 듯합니다.",
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.pergaminos.textos.0.1": "<컬트 스크롤> ",
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.pergaminos.textos.0.2": "§7§o드라코닉 제1과; 모든 질문은 §3두 단어가 조합된§7§o 형태로 이루어져야 합니다 (고유명사도 포함될 수 있음). 그러나 적어도 하나는 §3의문사§7§o 의미를 가진 단어여야 하며, 그렇지 않으면 질문으로 간주되지 않습니다.",
     "luisb1202.functions.carga_lanas.4_morado.totem_de_lore.pergaminos.textos.1.1": "§7§o돌 드라코닉 우상이 나타나면, 존경을 표하기 위해 §3절§7§o을 해야 합니다. 절은 웅크린 상태에서 아래를 바라보며 최소 1초간 유지한 후, 우상을 바라보며 웅크린 상태를 또 1초간 유지하는 것입니다.",
@@ -9124,7 +9124,7 @@
     "luisb1202.functions.forja.atacrom.items.match_receta.53": "§9장착 시, 다음 받는 공격에 대해 §b면역§9을 얻습니다.",
     "luisb1202.functions.forja.atacrom.items.match_receta.54": "§9적용된 후, 이 효과는",
     "luisb1202.functions.forja.atacrom.items.match_receta.55": "§932초 후에 다시 사용할 수 있습니다.",
-    "luisb1202.functions.forja.atacrom.items.match_receta.56": "§5- • §5§l§o날렵한 피의 추적자 단검§5 • - §7(주 손)",
+    "luisb1202.functions.forja.atacrom.items.match_receta.56": "§5- • §5§l§o날렵한 블러드시커 단검§5 • - §7(주 손)",
     "luisb1202.functions.forja.atacrom.items.match_receta.57": "§5- • §5§l§o변형 주사기§5 • -",
     "luisb1202.functions.forja.atacrom.items.match_receta.58": "§9숨어서 §e발사§9하면,",
     "luisb1202.functions.forja.atacrom.items.match_receta.59": "§9변형 화살을 발사해 맞은 적을",
@@ -9968,7 +9968,7 @@
     "luisb1202.functions.misterio.dialogo.consejo.1": "만약 네 친구가 §c전투 중 사망§7§o하면, 그의 아이템에 §a밀반입 서§7§o를 사용해 §e성소로 빠르게 보낼§7§o 수 있어.",
     "luisb1202.functions.misterio.dialogo.consejo.2": "§c힘§7§o은 철퇴의 피해도 증가시키지만, 일반 효과의 66%만 적용돼.",
     "luisb1202.functions.misterio.dialogo.consejo.3": "§e정복자의 서§7§o는 §e갈고리§7§o의 쿨타임을 없애줘.",
-    "luisb1202.functions.misterio.dialogo.consejo.4": "드롭 버튼(Q)을 눌러 §e토템§7을 §e보관함§7에서 직접 사용할 수 있어, §o단축 바§7의 슬롯을 절약할 수 있지.",
+    "luisb1202.functions.misterio.dialogo.consejo.4": "드롭 버튼(Q)을 눌러 §e서§7를 §e보관함§7에서 직접 사용할 수 있어, §o단축 바§7의 슬롯을 절약할 수 있지.",
     "luisb1202.functions.misterio.dialogo.consejo.5": "§c사망§7§o하면 §e보스 전투§7§o가 §e재시작§7§o되지만, §e아이템§7§o을 잃지 않고 입구에서 다시 나타나.",
     "luisb1202.functions.misterio.dialogo.consejo.6": "§e떨어진 벌통§7§o과 §e벌§7§o은 보스에게 효과가 없어.",
     "luisb1202.functions.misterio.dialogo.consejo.7": "   §e▶ §7다른 팁을 주세요!",
@@ -11332,7 +11332,7 @@
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.encadenante.2": "§7[🎣] 연계",
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.encadenante.3": "§7[🎣] §6§l연계\n\n§7짧은 채널링 후, 적들은 가장 가까운 플레이어에게 §3갈고리§7를 던져 §c플레이어를 끌어당기고§7, §3느리게 만들며§7 §c피해를 줍니다§7.",
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.furibundo.1": "[🗡] ???",
-    "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.furibundo.2": "§4[🗡] 광분",
+    "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.furibundo.2": "§4[🗡] 격노",
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.furibundo.3": "§4[🗡] §6§l격노\n\n§7적의 체력이 §340%§7 미만이면, 10초 동안 §4격노 상태가 되어§7 §c힘§7과 §b속도§7이 증가하고 §3둔화§7에 §f면역§7이 됩니다.",
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.huesudo.1": "§f[☠] 뼈다귀 같은",
     "luisb1202.functions.talentos.altar.dialogo.lore.afijos_lore.huesudo.2": "§f[☠] §6§l뼈다귀 같은\n\n§7적들은 가끔 플레이어에게 §f뼈§7를 던집니다. §c이것은§7 방패로 §c막을§7 수 없습니다.",
