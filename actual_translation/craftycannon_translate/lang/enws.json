@@ -1,0 +1,23 @@
+{
+  "death.attack.magic": "%1$s was devoured by a Shark",
+  "death.attack.magic.player": "%1$s was devoured by a Shark whilst trying to escape %2$s",
+  "death.attack.lightningBolt.player": "%1$s was struck by lightning whilst trying to escape %2$s",
+  "death.attack.indirectMagic": "%1$s was blown up by %2$s",
+  "death.attack.indirectMagic.item": "%1$s was blown up by %2$s",
+  "death.attack.mob": "%1$s was blasted by %2$s",
+  "death.attack.witherSkull": "%1$s was pinched to death by %2$s",
+  "item.minecraft.trident": "Harpoon",
+  "advancements.toast.task": "Objective Complete!",
+  "advancements.toast.challenge": "Easter Egg Discovered!",
+  "advancements.toast.goal": "Bonus Goal Reached!",
+  "subtitles.item.trident.hit": "Harpoon stabs",
+  "subtitles.item.trident.hit_ground": "Harpoon vibrates",
+  "subtitles.item.trident.return": "Harpoon returns",
+  "subtitles.item.trident.riptide": "Harpoon zooms",
+  "subtitles.item.trident.throw": "Harpoon clangs",
+  "subtitles.item.trident.thunder": "Harpoon thunder cracks",
+  "container.isLocked": "",
+  "block.minecraft.bed.occupied": "",
+  "container.spectatorCantOpen": "",
+  "container.inventory": ""
+}
