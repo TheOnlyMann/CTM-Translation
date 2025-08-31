@@ -465,7 +465,7 @@
     "game.countdown.beginning": "카운트다운을 시작합니다.",
     "game.leave_sign.1": "",
     "game.leave_sign.2": "여기를 눌러",
-    "game.leave_sign.3": "%s 팀을 떠나세요!",
+    "game.leave_sign.3": "당신의 팀을 %s!",
     "game.leave_sign.4": "",
     "game.leave_sign.leave": "떠나기",
     "game.left_team": "%s님이 자신의 팀을 떠났습니다!",
