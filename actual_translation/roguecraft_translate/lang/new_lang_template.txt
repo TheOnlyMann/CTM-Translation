@@ -1,0 +1,12 @@
+{
+  "death.attack.generic.item": "%1$s discovered that their actions have consequences",
+  "block.minecraft.structure_void": "Skillpoint",
+  "block.minecraft.structure_block": "Skill Gem",
+  "block.minecraft.command_block": "Lower Mob Essence",
+  "block.minecraft.chain_command_block": "Common Mob Essence",
+  "block.minecraft.repeating_command_block": "Higher Mob Essence",
+  "block.minecraft.jigsaw": "Ascended Mob Essence",
+  "item.minecraft.debug_stick": "Burple Mob Essence",
+  "container.enderchest": "\uEff2\uF80A    Loadout",
+  "advancements.story.enchant_item.description": "Enchant an item"
+}
