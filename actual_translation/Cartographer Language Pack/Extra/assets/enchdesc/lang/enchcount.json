@@ -5,8 +5,6 @@
     "enchantment.cartographer.hazard_protection.desc": "Hazard Protection",
     "enchantment.cartographer.melee_protection.desc": "Melee Protection",
     "enchantment.cartographer.ranged_protection.desc": "Ranged Protection",
-
-    "## TL_NOTE.enchants2.desc": "ATTRIBUTE ENCHANTS",
     "enchantment.cartographer.agility.desc": "Agility",
     "enchantment.cartographer.amplitude.desc": "Amplitude",
     "enchantment.cartographer.celerity.desc": "Celerity",
@@ -27,8 +25,6 @@
     "enchantment.cartographer.traveling.desc": "Traveling",
     "enchantment.cartographer.vitality.desc": "Vitality",
     "enchantment.cartographer.windborn.desc": "Windborn",
-
-    "## TL_NOTE.enchants3.desc": "STATUS ENCHANTS",
     "enchantment.cartographer.bracing.desc": "Bracing",
     "enchantment.cartographer.decontaminate.desc": "Decontaminate",
     "enchantment.cartographer.evasion.desc": "Evasion",
@@ -41,8 +37,6 @@
     "enchantment.cartographer.shielding.desc": "Shielding",
     "enchantment.cartographer.stealthiness.desc": "Stealthiness",
     "enchantment.cartographer.swiftness.desc": "Swiftness",
-
-    "## TL_NOTE.enchants4.desc": "PASSIVE DEFENSE ENCHANTS",
     "enchantment.cartographer.adrenaline.desc": "Adrenaline",
     "enchantment.cartographer.bulwark.desc": "Bulwark",
     "enchantment.cartographer.courageous.desc": "Courageous",
@@ -56,8 +50,6 @@
     "enchantment.cartographer.steadfast.desc": "Steadfast",
     "enchantment.cartographer.tenacity.desc": "Tenacity",
     "enchantment.cartographer.unseen.desc": "Unseen",
-
-    "## TL_NOTE.enchants5.desc": "PASSIVE OFFENSE ENCHANTS",
     "enchantment.cartographer.aberration.desc": "Aberration",
     "enchantment.cartographer.deadeye.desc": "Deadeye",
     "enchantment.cartographer.eruption.desc": "Eruption",
@@ -72,19 +64,13 @@
     "enchantment.cartographer.surge.desc": "Surge",
     "enchantment.cartographer.trailblazer.desc": "Trailblazer",
     "enchantment.cartographer.vengeance.desc": "Vengeance",
-
-    "## TL_NOTE.enchants6.desc": "PASSIVE OTHER ENCHANTS",
     "enchantment.cartographer.reconstruction.desc": "Reconstruction",
     "enchantment.cartographer.soulbound.desc": "Soulbound",
     "enchantment.cartographer.spurs.desc": "Spurs",
-
-    "## TL_NOTE.enchants7.desc": "TOOL ENCHANTS",
     "enchantment.cartographer.drilling.desc": "Drilling",
     "enchantment.cartographer.excavator.desc": "Excavator",
     "enchantment.cartographer.lightborn.desc": "Lightborn",
     "enchantment.cartographer.multitool.desc": "Multitool",
-
-    "## TL_NOTE.enchants8.desc": "GENERAL WEAPON DAMAGE ENCHANTS",
     "enchantment.cartographer.chaotic.desc": "Chaotic",
     "enchantment.cartographer.concentration.desc": "Concentration",
     "enchantment.cartographer.duelist.desc": "Duelist",
@@ -93,23 +79,15 @@
     "enchantment.cartographer.follow_up.desc": "Follow Up",
     "enchantment.cartographer.hex_eater.desc": "Hex Eater",
     "enchantment.cartographer.hunter.desc": "Hunter",
-
-    "## TL_NOTE.enchants9.desc": "MELEE WEAPON DAMAGE ENCHANTS",
     "enchantment.cartographer.leverage.desc": "Leverage",
     "enchantment.cartographer.rushdown.desc": "Rushdown",
-
-    "## TL_NOTE.enchants10.desc": "RANGED WEAPON DAMAGE ENCHANTS",
     "enchantment.cartographer.overcharge.desc": "Overcharge",
     "enchantment.cartographer.point_blank.desc": "Point Blank",
     "enchantment.cartographer.sharpshot.desc": "Sharpshot",
-
-    "## TL_NOTE.enchants11.desc": "UNIQUE WEAPON GENERAL ENCHANTS",
     "enchantment.cartographer.explosive.desc": "Explosive",
     "enchantment.cartographer.pulling.desc": "Pulling",
     "enchantment.cartographer.recoil.desc": "Recoil",
     "enchantment.cartographer.repulsion.desc": "Repulsion",
-
-    "## TL_NOTE.enchants12.desc": "UNIQUE WEAPON MELEE ENCHANTS",
     "enchantment.cartographer.ambushing.desc": "Ambushing",
     "enchantment.cartographer.cleaving.desc": "Cleaving",
     "enchantment.cartographer.lunging.desc": "Lunging",
@@ -118,8 +96,6 @@
     "enchantment.cartographer.slamming.desc": "Slamming",
     "enchantment.cartographer.throwable.desc": "Throwable",
     "enchantment.cartographer.thrusting.desc": "Thrusting",
-
-    "## TL_NOTE.enchants13.desc": "UNIQUE WEAPON RANGED ENCHANTS",
     "enchantment.cartographer.barbed.desc": "Barbed",
     "enchantment.cartographer.barrage.desc": "Barrage",
     "enchantment.cartographer.collapse.desc": "Collapse",
@@ -129,14 +105,10 @@
     "enchantment.cartographer.ricochet.desc": "Ricochet",
     "enchantment.cartographer.ripper.desc": "Ripper",
     "enchantment.cartographer.shrapnel.desc": "Shrapnel",
-
-    "## TL_NOTE.enchants14.desc": "OTHER ENCHANTS",
     "enchantment.cartographer.auto_charge.desc": "Auto Charge",
     "enchantment.cartographer.infinity.desc": "Infinity",
     "enchantment.cartographer.repeating.desc": "Repeating",
     "enchantment.cartographer.scavenger.desc": "Scavenger",
-    
-    "## TL_NOTE.enchants15.desc": "CURSES",
     "enchantment.cartographer.annulling_curse.desc": "Curse of Annulling",
     "enchantment.cartographer.clumsiness_curse.desc": "Curse of Clumsiness",
     "enchantment.cartographer.corruption_curse.desc": "Curse of Corruption",
