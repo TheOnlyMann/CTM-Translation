@@ -1,16 +1,28 @@
 {
+    "_comment": "기본 마법 부여 설명",
+    
+    
+    "enchdesc.activate.message": "Shift 키를 길게 눌러 마법 부여 설명을 볼 수 있습니다.",
+    
     "## TL_NOTE.enchants1.desc": "--- 마법 부여 ---",
-    "enchantment.minecraft.thorns.desc": "가시",
-    "enchantment.minecraft.unbreaking.desc": "내구성",
-    "enchantment.minecraft.infinity.desc": "무한",
+
+    "enchantment.minecraft.protection.desc": "대부분의 피해를 줄입니다.",
+    "enchantment.minecraft.blast_protection.desc": "폭발에 의한 피해와 밀려나는 힘을 줄입니다.",
+    "enchantment.minecraft.fire_protection.desc": "화염에 의한 피해를 줄입니다. 또한 몸에 붙은 불이 타는 시간도 줄입니다.",
+    "enchantment.minecraft.projectile_protection.desc": "화살이나 화염구 같은 투사체에 의한 피해를 줄입니다.",
+    "enchantment.minecraft.feather_falling.desc": "낙하에 의한 피해와 엔더 진주 순간이동 피해를 줄입니다.",
+
     "enchantment.cartographer.hazard_protection.desc": "위험 보호",
     "enchantment.cartographer.melee_protection.desc": "근접 보호",
     "enchantment.cartographer.ranged_protection.desc": "원거리 보호",
 
-    "## TL_NOTE.enchants1.5.desc": "바닐라 보호 마법 번역 통일",
-    "enchantment.minecraft.blast_protection.desc": "폭발 보호",
-    "enchantment.minecraft.fire_protection.desc": "화염 보호",
-    "enchantment.minecraft.projectile_protection.desc": "발사체 보호",
+    "enchantment.minecraft.respiration.desc": "플레이어가 물속에서 버틸 수 있는 시간을 늘립니다. 또한 물속에서의 시야도 향상시킵니다.",
+    "enchantment.minecraft.aqua_affinity.desc": "물속에서의 채굴 속도를 육지와 같은 수준으로 향상시킵니다.",
+    "enchantment.minecraft.thorns.desc": "당신을 공격한 적들이 피해를 입게 만듭니다.",
+    "enchantment.minecraft.depth_strider.desc": "물 속에서의 이동속도를 높힙니다.",
+    "enchantment.minecraft.frost_walker.desc": "플레이어 발 밑의 물을 얼려 살얼음으로 바꿉니다.",
+    "enchantment.minecraft.soul_speed.desc": "영혼 블록 위에서 이동속도가 증가합니다.",
+    "enchantment.minecraft.swift_sneak.desc": "웅크릴 때 이동 속도가 증가합니다.",
 
     "## TL_NOTE.enchants2.desc": "속성 마법 부여",
     "enchantment.cartographer.agility.desc": "날렵함",
@@ -80,17 +92,31 @@
     "enchantment.cartographer.vengeance.desc": "복수",
 
     "## TL_NOTE.enchants6.desc": "패시브 기타 마법 부여",
+    "enchantment.minecraft.mending.desc": "갑옷과 도구의 내구도가 경험치로 수리됩니다.",
+
     "enchantment.cartographer.reconstruction.desc": "재건",
     "enchantment.cartographer.soulbound.desc": "영혼 결속",
     "enchantment.cartographer.spurs.desc": "풀베기",
 
     "## TL_NOTE.enchants7.desc": "도구 마법 부여",
+    "enchantment.minecraft.efficiency.desc": "채굴 속도를 향상시킵니다.",
+    "enchantment.minecraft.silk_touch.desc": "채굴 시 아이템을 원형 그대로 획득합니다.",
+    "enchantment.minecraft.unbreaking.desc": "내구도가 소모될 확률을 줄입니다.",
+    "enchantment.minecraft.fortune.desc": "특정 블록 채굴 시 더 많은 아이템을 얻을 수 있습니다.",
+    "enchantment.minecraft.luck_of_the_sea.desc": "낚시로 좋은 물건을 얻을 확률을 높입니다.",
+    "enchantment.minecraft.lure.desc": "낚시에서 찌를 물기까지 걸리는 시간을 줄입니다.",
+
     "enchantment.cartographer.drilling.desc": "드릴",
     "enchantment.cartographer.excavator.desc": "굴착기",
     "enchantment.cartographer.lightborn.desc": "주광성",
     "enchantment.cartographer.multitool.desc": "범용성",
 
     "## TL_NOTE.enchants8.desc": "일반 무기 피해 마법 부여",
+    "enchantment.minecraft.sharpness.desc": "무기의 공격 피해를 높입니다.",
+    "enchantment.minecraft.smite.desc": "좀비나 스켈레톤 같은 언데드 몹들에게 더 큰 피해를 줍니다.",
+    "enchantment.minecraft.bane_of_arthropods.desc": "거미나 좀벌레 같은 벌레 몹들에게 더 큰 피해를 줍니다.",
+    "enchantment.minecraft.impaling.desc": "수중 몹들에게 더 큰 피해를 줍니다.",
+
     "enchantment.cartographer.chaotic.desc": "혼돈",
     "enchantment.cartographer.concentration.desc": "만충",
     "enchantment.cartographer.duelist.desc": "결투가",
@@ -101,21 +127,34 @@
     "enchantment.cartographer.hunter.desc": "사냥꾼",
 
     "## TL_NOTE.enchants9.desc": "근접 무기 피해 마법 부여",
+    "enchantment.minecraft.density.desc":"이 철퇴가 가하는 피해는 떨어진 거리에 비례하여 추가로 증가합니다.",
+
     "enchantment.cartographer.leverage.desc": "내려찍기",
     "enchantment.cartographer.rushdown.desc": "돌격",
 
     "## TL_NOTE.enchants10.desc": "원거리 무기 피해 마법 부여",
+    "enchantment.minecraft.power.desc": "이 활로 쏜 화살이 더 큰 피해를 줍니다.",
+
     "enchantment.cartographer.overcharge.desc": "과충전",
     "enchantment.cartographer.point_blank.desc": "정면돌파",
     "enchantment.cartographer.sharpshot.desc": "저격수",
 
     "## TL_NOTE.enchants11.desc": "고유 일반 무기 마법 부여",
+    "enchantment.minecraft.looting.desc": "몹을 죽일때 더 많은 전리품을 떨어트립니다.",
+    "enchantment.minecraft.riptide.desc": "비가 오거나 물속에 있을때 삼지창을 던지면 플레이어가 전방으로 쏘아집니다.",
+    "enchantment.minecraft.breach.desc":"공격이 갑옷을 입은 몹의 방어력을 일부 무시합니다.",
+    "enchantment.minecraft.wind_burst.desc":"이 철퇴로 피해를 가하면 플레이어가 공중으로 밀쳐집니다.",
+
     "enchantment.cartographer.explosive.desc": "폭발",
     "enchantment.cartographer.pulling.desc": "당기기",
     "enchantment.cartographer.recoil.desc": "반동",
     "enchantment.cartographer.repulsion.desc": "반발",
 
     "## TL_NOTE.enchants12.desc": "고유 근접 무기 마법 부여",
+    "enchantment.minecraft.knockback.desc": "무기가 적을 밀어내는 힘을 늘립니다.",
+    "enchantment.minecraft.fire_aspect.desc": "몹을 공격하면 추가적인 불 피해를 유발시킵니다.",
+    "enchantment.minecraft.sweeping_edge.desc": "휩쓸기 공격이 더 큰 피해를 줍니다.",
+
     "enchantment.cartographer.ambushing.desc": "매복",
     "enchantment.cartographer.cleaving.desc": "쪼개기",
     "enchantment.cartographer.lunging.desc": "돌진",
@@ -126,6 +165,14 @@
     "enchantment.cartographer.thrusting.desc": "꿰뚫기",
 
     "## TL_NOTE.enchants13.desc": "고유 원거리 무기 마법 부여",
+    "enchantment.minecraft.multishot.desc": "양 옆 일정한 방향으로 추가 화살을 쏩니다. 내구도가 3배 소모됩니다.",
+    "enchantment.minecraft.quick_charge.desc": "쇠뇌의 재장전 속도를 향상시킵니다.",
+    "enchantment.minecraft.piercing.desc": "화살이 몹과 방패를 뚫고 지나가게 만듭니다.",
+    "enchantment.minecraft.punch.desc": "이 활로 쏜 화살이 적을 밀어내는 힘을 늘립니다.",
+    "enchantment.minecraft.flame.desc": "이 활로 쏜 화살이 추가적인 불 피해를 유발시킵니다.",
+    "enchantment.minecraft.loyalty.desc": "던진 삼지창이 자동으로 되돌아옵니다.",
+    "enchantment.minecraft.channeling.desc": "천둥 번개가 치는 날씨에 삼지창이 벼락을 불러일으킬 수 있게 만듭니다.",
+
     "enchantment.cartographer.barbed.desc": "열상",
     "enchantment.cartographer.barrage.desc": "연발",
     "enchantment.cartographer.collapse.desc": "붕괴",
@@ -137,12 +184,17 @@
     "enchantment.cartographer.shrapnel.desc": "파편",
 
     "## TL_NOTE.enchants14.desc": "기타 마법 부여",
+    "enchantment.minecraft.infinity.desc": "일반 화살은 발사해도 소모되지 않습니다. 최소 한 발은 지니고 있어야 작동합니다.",
+
     "enchantment.cartographer.auto_charge.desc": "자동장전",
     "enchantment.cartographer.infinity.desc": "무한",
     "enchantment.cartographer.repeating.desc": "중첩",
     "enchantment.cartographer.scavenger.desc": "보충",
     
     "## TL_NOTE.enchants15.desc": "저주",
+    "enchantment.minecraft.binding_curse.desc": "이 아이템은 갑옷 슬롯에서 해제 할 수 없습니다.",
+    "enchantment.minecraft.vanishing_curse.desc": "당신이 죽었을때 보관함에 있는 이 아이템은 파괴됩니다.",
+    
     "enchantment.cartographer.annulling_curse.desc": "무력화 저주",
     "enchantment.cartographer.clumsiness_curse.desc": "서투름 저주",
     "enchantment.cartographer.corruption_curse.desc": "오염 저주",
