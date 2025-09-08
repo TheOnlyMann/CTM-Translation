@@ -2884,7 +2884,7 @@
 
     "lexica.minecraft.enchantment.unbreaking.desc.1": "내구도 감소 확률이",
     "lexica.minecraft.enchantment.unbreaking.desc.2": "%s만큼 감소합니다.",
-    "lexica.minecraft.enchantment.unbreaking.desc.3": "방어구의 경우, 40%% 확률로 발동합니다.",
+    "lexica.minecraft.enchantment.unbreaking.desc.3": "",
 
     "lexica.minecraft.enchantment.unbreaking.with.1": "[레벨 ÷ (레벨 + 1)]",
 
