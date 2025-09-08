@@ -74,7 +74,7 @@
     "enchantment.cartographer.quake.desc": "On kill, create an earthquake that damages nearby enemies.",
     "enchantment.cartographer.soulfire.desc": "On first hit, spawns a wisp that damages nearby enemies after a short delay.",
     "enchantment.cartographer.starfall.desc": "Randomly create meteors that land on enemies and deal damage when dealing damage.",
-    "enchantment.cartographer.storm.desc": "Move and attack to gain charge. Attack to create a storm that changes the enemies hit.",
+    "enchantment.cartographer.storm.desc": "Move and attack to gain charge. Attack to create a storm that chases the enemies hit.",
     "enchantment.cartographer.surge.desc": "When sprinting and coming to a halt, create a shockwave that damages nearby enemies.",
     "enchantment.cartographer.trailblazer.desc": "Sprinting creates a fire trail that damage enemies within.",
     "enchantment.cartographer.vengeance.desc": "When attacked, your next attack within a short duration deals extra damage.",
@@ -98,7 +98,7 @@
     "enchantment.cartographer.focus.desc": "Attacks gain Focus Stack. Increases damage based on Focus Stacks.",
     "enchantment.cartographer.follow_up.desc": "Increases damage on follow-up attacks.",
     "enchantment.cartographer.hex_eater.desc": "Increases damage against targets that have 2+ negative status effects.",
-    "enchantment.cartographer.hunter.desc": "Increases damage against Monstrous mobs, such as Spiders, Phantoms, and Endermen.",
+    "enchantment.cartographer.hunter.desc": "Increases damage against Monstrous mobs, such as Ghasts, Phantoms, and Endermen.",
 
     "## TL_NOTE.enchants9.desc": "MELEE WEAPON DAMAGE ENCHANTS",
     "enchantment.cartographer.leverage.desc": "Increases critical hit damage.",
@@ -110,7 +110,7 @@
     "enchantment.cartographer.sharpshot.desc": "Increases damage if the target is beyond 12 blocks.",
 
     "## TL_NOTE.enchants11.desc": "UNIQUE WEAPON GENERAL ENCHANTS",
-    "enchantment.cartographer.explosive.desc": "Create a small explosion that damages enemies.",
+    "enchantment.cartographer.explosive.desc": "On hit, create a small explosion that damages enemies.",
     "enchantment.cartographer.pulling.desc": "On hit, pull the target towards you.",
     "enchantment.cartographer.recoil.desc": "Your attacks knock you back.",
     "enchantment.cartographer.repulsion.desc": "Right clicking creates a blast that deals damage.",
@@ -139,9 +139,9 @@
     "## TL_NOTE.enchants14.desc": "OTHER ENCHANTS",
     "enchantment.cartographer.auto_charge.desc": "Recharges item automatically over time.",
     "enchantment.cartographer.infinity.desc": "Has infinite uses, or infinite ammo.",
-    "enchantment.cartographer.repeating.desc": "Has multiple charges before needing to be recharged.",
+    "enchantment.cartographer.repeating.desc": "Has multiple charges before destroyed/needing to be recharged.",
     "enchantment.cartographer.repeating_crossbow.desc": "Has multiple arrows before needing to be reloaded.",
-    "enchantment.cartographer.repeating_consumable.desc": "Has multiple charges before needing to be recharged.",
+    "enchantment.cartographer.repeating_consumable.desc": "Has multiple charges before destroyed/needing to be recharged.",
     "enchantment.cartographer.scavenger.desc": "On kill, recharges the item.",
     
     "## TL_NOTE.enchants15.desc": "CURSES",
