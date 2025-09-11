@@ -661,8 +661,8 @@
 
 
     "lexica.cartographer.effect.harvest.desc.1": "효과 대상이 다음 번에 피해를",
-    "lexica.cartographer.effect.harvest.desc.2": "입으면 체력 픽업을 떨어뜨립니다.",
-    "lexica.cartographer.effect.harvest.desc.3": "픽업은 %1$s %2$s를 제공합니다.",
+    "lexica.cartographer.effect.harvest.desc.2": "입으면 치료제를 떨어뜨립니다.",
+    "lexica.cartographer.effect.harvest.desc.3": "치료제는 %1$s %2$s를 제공합니다.",
 
     "lexica.cartographer.effect.harvest.with.1": "[1 + 레벨]",
     "lexica.cartographer.effect.harvest.with.2": "(❤)",
