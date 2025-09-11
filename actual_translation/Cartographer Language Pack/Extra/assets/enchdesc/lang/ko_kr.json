@@ -19,9 +19,9 @@
     "enchantment.minecraft.respiration.desc": "플레이어가 물속에서 버틸 수 있는 시간을 늘립니다. 또한 물속에서의 시야도 향상시킵니다.",
     "enchantment.minecraft.aqua_affinity.desc": "물속에서의 채굴 속도를 육지와 같은 수준으로 향상시킵니다.",
     "enchantment.minecraft.thorns.desc": "당신을 공격한 적들이 피해를 입게 만듭니다.",
-    "enchantment.minecraft.depth_strider.desc": "물 속에서의 이동속도를 높힙니다.",
+    "enchantment.minecraft.depth_strider.desc": "물 속에서의 이동 속도를 높힙니다.",
     "enchantment.minecraft.frost_walker.desc": "플레이어 발 밑의 물을 얼려 살얼음으로 바꿉니다.",
-    "enchantment.minecraft.soul_speed.desc": "영혼 블록 위에서 이동속도가 증가합니다.",
+    "enchantment.minecraft.soul_speed.desc": "영혼 블록 위에서 이동 속도가 증가합니다.",
     "enchantment.minecraft.swift_sneak.desc": "웅크릴 때 이동 속도가 증가합니다.",
 
     "## TL_NOTE.enchants2.desc": "속성 마법 부여",

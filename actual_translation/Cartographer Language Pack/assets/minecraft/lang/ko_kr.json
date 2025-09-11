@@ -1253,9 +1253,9 @@
     "lexica.cartographer.attribute.negative.knockback_resistance.desc.2": "증가시킵니다.",
 
 
-    "lexica.cartographer.attribute.max_health.desc.1": "사용자의 최대 체력을 증가시킵니다.",
+    "lexica.cartographer.attribute.max_health.desc.1": "사용자의 최대 생명력을 증가시킵니다.",
 
-    "lexica.cartographer.attribute.negative.max_health.desc.1": "사용자의 최대 체력을 감소시킵니다.",
+    "lexica.cartographer.attribute.negative.max_health.desc.1": "사용자의 최대 생명력을 감소시킵니다.",
 
 
     "lexica.cartographer.attribute.speed.desc.1": "사용자의 이동 속도를 증가시킵니다.",
