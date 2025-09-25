@@ -3021,10 +3021,12 @@
     "cartographer.ender_pouch.name": "엔더 꾸러미",
         "cartographer.ender_pouch.desc.1": "이 꾸러미에 아이템을 넣으면",
         "cartographer.ender_pouch.desc.2": "주머니 차원에 저장됩니다.",
-        "cartographer.ender_pouch.desc.3": "당신이 엔더 상자를 %s 하면,",
-        "cartographer.ender_pouch.desc.4": "저장되어 있던 아이템이 방출됩니다.",
+        "cartographer.ender_pouch.desc.3": "당신이 이 아이템을 들고 있는 채로",
+        "cartographer.ender_pouch.desc.4": "엔더 상자를 %s 하면,",
+        "cartographer.ender_pouch.desc.5": "저장되어 있던 아이템 1슬롯을 방출합니다.",
+        "cartographer.ender_pouch.desc.6": "(웅크렸을 경우, 모든 아이템을 방출합니다.)",
     "cartographer.ender_pouch.reject": "이 아이템은 엔더 꾸러미의 주머니 차원에 넣을 수 없습니다!",
-    "cartographer.ender_pouch.release": "엔더 꾸러미 저장소가 방출되었습니다!",
+    "cartographer.ender_pouch.release": "엔더 꾸러미 저장소가 모두 방출되었습니다!",
 
     
     "## TL_NOTE.station1": "수리 스테이션",

@@ -3081,10 +3081,12 @@
     "cartographer.ender_pouch.name": "Ender Pouch",
         "cartographer.ender_pouch.desc.1": "Items placed in this bundle are",
         "cartographer.ender_pouch.desc.2": "saved in a pocket dimension.",
-        "cartographer.ender_pouch.desc.3": "When you %s an Ender Chest,",
-        "cartographer.ender_pouch.desc.4": "all items stored away are retrieved.",
+        "cartographer.ender_pouch.desc.3": "When you %s an Ender Chest",
+        "cartographer.ender_pouch.desc.4": "while holding this item, release an",
+        "cartographer.ender_pouch.desc.5": "item stack from the pocket dimension.",
+        "cartographer.ender_pouch.desc.6": "(If sneaking, release all items instead.)",
     "cartographer.ender_pouch.reject": "This item cannot be sent to the Ender Pouch pocket dimension!",
-    "cartographer.ender_pouch.release": "Ender Pouch storage has been released!",
+    "cartographer.ender_pouch.release": "All Ender Pouch storage has been released!",
 
     
     "## TL_NOTE.station1": "Repair Stations",
