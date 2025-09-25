@@ -1,0 +1,7 @@
+*
+!.gitignore
+!create_filestruct.py
+!gen_ench_book_json.py
+!enchanted_book.json
+!enchants.json
+!sort.json
