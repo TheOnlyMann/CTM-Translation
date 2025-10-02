@@ -1,0 +1,210 @@
+[
+  {
+    "section": "制作团队",
+    "disciplines": [
+      {
+        "discipline": "作者",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "策划",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "程序",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "任务书、图鉴、引导 制作",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "对话设计",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "剧情设计",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "美术总监",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "背景设定",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "外援",
+        "titles": [
+          {
+            "title": "主城",
+            "names": [
+              "El_mal（玩建筑的牢E）"
+            ]
+          },
+          {
+            "title": "部分动画",
+            "names": [
+              "merlin204"
+            ]
+          },
+          {
+            "title": "部分贴图",
+            "names": [
+              "一只路过的小吴 部分物品",
+              "XVIII-凌 部分刀光",
+              "Ao 部分技能，npc",
+              "脚踏梯子hill 刀光"
+            ]
+          },
+          {
+            "title": "地形",
+            "names": [
+              "wonderful艾晨"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "设备支持",
+        "titles": [
+          {
+            "title": "测试服务器赞助",
+            "names": [
+              "白露（NHBlock）"
+            ]
+          },
+          {
+            "title": "协助拍摄",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "内测贡献",
+    "disciplines": [
+      {
+        "discipline": "排名不分先后",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "T_muse_Y",
+              "HuaSheng_peanuts",
+              "merlin204",
+              "ShelMarow",
+              "Arcadia",
+              "霖",
+              "32spark",
+              "脚踏梯子hill"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "广告招租",
+    "disciplines": [
+      {
+        "discipline": "广告招租",
+        "titles": [
+          {
+            "title": "广告招租",
+            "names": [
+              "广告招租",
+              "有意者联系 P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "特别鸣谢",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "I18n（其他语言的译者可以在此处加上你的名字）",
+            "names": [
+              "zh_cn, en_us - P1nero"
+            ]
+          },
+          {
+            "title": "致敬",
+            "names": [
+              "Yesman",
+              "超级厉害宝宝(Super Awesome Baby) 大队",
+              "Minecraft",
+              "Minecraft Forge",
+              "以及本整合包中所有用到的模组、资源包、光影包及其作者们！"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
