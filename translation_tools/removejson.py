@@ -79,5 +79,7 @@ if __name__ == "__main__":
         merged = natural_sort_dict(merged)
     if preserve_pua:
         merged = encode_real_pua_in_json_text(merged)
+    else:
+        merged = json.dumps(merged, indent=4, ensure_ascii=False)
     save_json(merged, output_file)
     print(f"✅ Merged JSON saved as '{output_file}' (sorted={'ON' if sort_output else 'OFF'}, PUA preserved={'ON' if preserve_pua else 'OFF'})")

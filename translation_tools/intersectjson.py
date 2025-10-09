@@ -84,6 +84,8 @@ if __name__ == "__main__":
         intersected = natural_sort_dict(intersected)
     if preserve_pua:
         intersected = encode_real_pua_in_json_text(intersected)
+    else:
+        intersected = json.dumps(intersected, indent=4, ensure_ascii=False)
     save_json(intersected, output_file)
 
     print(f"✅ Merged JSON saved as '{output_file}' (sorted={'ON' if sort_output else 'OFF'}, PUA preserved={'ON' if preserve_pua else 'OFF'})")
