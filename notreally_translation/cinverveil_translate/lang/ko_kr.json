@@ -1,0 +1,20 @@
+{
+  "attribute.name.block_interaction_range": "블록 사거리",
+  "attribute.name.entity_interaction_range": "타격 사거리",
+  "enchantment.minecraft.melee_protection": "근접 보호",
+
+
+  "item.minecraft.cookie": "치킨 너겟",
+  "item.minecraft.rabbit_hide": "다이아몬드 조각",
+
+
+  "item.adrift.makeshift_stone_sword": "임시변통 돌 검",
+  "item.adrift.makeshift_stone_axe": "임시변통 돌 도끼",
+  "item.adrift.makeshift_stone_shovel": "임시변통 돌 삽",
+  "item.adrift.makeshift_stone_pickaxe": "임시변통 돌 곡괭이",
+  "item.adrift.makeshift_stone_hoe": "임시변통 돌 괭이",
+  "item.adrift.recall_potion": "귀환 물약",
+  "item.adrift.recall_potion_lore1": "마셔서 스폰 지점으로 돌아갑니다.",
+  "item.adrift.recall_potion_lore2": "웅크린 채로 마실 경우 기념비로 돌아갑니다(발견했을 경우)."
+
+}

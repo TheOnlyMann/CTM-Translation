@@ -1,0 +1,20 @@
+{
+  "attribute.name.block_interaction_range": "Block Reach",
+  "attribute.name.entity_interaction_range": "Hit Reach",
+  "enchantment.minecraft.melee_protection": "Melee Protection",
+
+
+  "item.minecraft.cookie": "Chicken Nugget",
+  "item.minecraft.rabbit_hide": "Diamond Nugget",
+
+
+  "item.adrift.makeshift_stone_sword": "Makeshift Stone Sword",
+  "item.adrift.makeshift_stone_axe": "Makeshift Stone Axe",
+  "item.adrift.makeshift_stone_shovel": "Makeshift Stone Shovel",
+  "item.adrift.makeshift_stone_pickaxe": "Makeshift Stone Pickaxe",
+  "item.adrift.makeshift_stone_hoe": "Makeshift Stone Hoe",
+  "item.adrift.recall_potion": "Recall Potion",
+  "item.adrift.recall_potion_lore1": "Consume to return to your spawn point.",
+  "item.adrift.recall_potion_lore2": "Sneak to return to the monument if discovered."
+
+}
