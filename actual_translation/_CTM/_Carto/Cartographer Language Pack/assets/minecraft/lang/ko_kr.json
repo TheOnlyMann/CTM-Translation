@@ -70,7 +70,7 @@
 
     "## TL_NOTE.enchants5": "패시브 공격 마법 부여",
     "enchantment.cartographer.aberration": "변이",
-    "enchantment.cartographer.deadeye": "명사수",
+    "enchantment.cartographer.deadeye": "자동사출",
     "enchantment.cartographer.eruption": "분출",
     "enchantment.cartographer.gravity": "중력",
     "enchantment.cartographer.induction": "전격",
@@ -107,11 +107,11 @@
 
     "## TL_NOTE.enchants9": "근접 무기 피해 마법 부여",
     "enchantment.cartographer.leverage": "내려찍기",
-    "enchantment.cartographer.rushdown": "돌격",
+    "enchantment.cartographer.rushdown": "강습",
 
     "## TL_NOTE.enchants10": "원거리 무기 피해 마법 부여",
     "enchantment.cartographer.overcharge": "과충전",
-    "enchantment.cartographer.point_blank": "정면돌파",
+    "enchantment.cartographer.point_blank": "영거리 사격",
     "enchantment.cartographer.sharpshot": "저격수",
 
     "## TL_NOTE.enchants11": "고유 일반 무기 마법 부여",
@@ -123,7 +123,7 @@
     "## TL_NOTE.enchants12": "고유 근접 무기 마법 부여",
     "enchantment.cartographer.ambushing": "매복",
     "enchantment.cartographer.cleaving": "쪼개기",
-    "enchantment.cartographer.lunging": "돌진",
+    "enchantment.cartographer.lunging": "돌파",
     "enchantment.cartographer.quick_strike": "속공",
     "enchantment.cartographer.riposte": "반격",
     "enchantment.cartographer.slamming": "지면 강타",
@@ -2296,15 +2296,15 @@
 
 
     "lexica.cartographer.enchantment.lunging.desc.1": "%1$s: 바라보고 있는 방향으로",
-    "lexica.cartographer.enchantment.lunging.desc.2": "돌진을 충전합니다. 이는 집중 해제 시",
-    "lexica.cartographer.enchantment.lunging.desc.3": "발동합니다. 돌진은 몹을 관통하며",
+    "lexica.cartographer.enchantment.lunging.desc.2": "돌파를 충전합니다. 이는 집중 해제 시",
+    "lexica.cartographer.enchantment.lunging.desc.3": "발동합니다. 돌파는 몹을 관통하며",
     "lexica.cartographer.enchantment.lunging.desc.4": "50%% %2$s를 입힙니다.",
     "lexica.cartographer.enchantment.lunging.desc.5": "이때, 사용자가 공중에 있는 동안 무적입니다.",
     "lexica.cartographer.enchantment.lunging.desc.6": "레벨이 높을수록 이동 거리가 증가합니다.",
     "lexica.cartographer.enchantment.lunging.desc.7": "수직 방향 이동 거리는",
     "lexica.cartographer.enchantment.lunging.desc.8": "수평 방향 이동 거리보다 짧습니다.",
     "lexica.cartographer.enchantment.lunging.desc.9": " ",
-    "lexica.cartographer.enchantment.lunging.desc.10": "돌진은 %2$s로",
+    "lexica.cartographer.enchantment.lunging.desc.10": "돌파는 %2$s로",
     "lexica.cartographer.enchantment.lunging.desc.11": "간주됩니다.",
     "lexica.cartographer.enchantment.lunging.desc.12": " ",
     "lexica.cartographer.enchantment.lunging.desc.13": "%4$s: %5$s.",
