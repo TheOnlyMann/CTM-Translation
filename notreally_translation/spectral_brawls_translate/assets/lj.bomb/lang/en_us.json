@@ -1,0 +1,12 @@
+{
+	"lj.bomb.item_ice":"Ice Bomb",
+	"lj.bomb.item_toxic":"Toxic Bomb",
+	"lj.bomb.item_fire":"Fire Bomb",
+	"lj.bomb.lore_ice":"On impact, explode and leave a",
+	"lj.bomb.lore_ice_1":"Slowness III cloud",
+	"lj.bomb.lore_toxic":"On impact, explode and leave a",
+	"lj.bomb.lore_toxic_1":"Poison II Wither II cloud",
+	"lj.bomb.lore_fire":"On impact, explode and break",
+	"lj.bomb.lore_fire_1":"blocks and leaves fire behind",
+	"lj.bomb.lore_power":"\u00b7 Explosion Power: 2"
+}

@@ -1,0 +1,13 @@
+{
+	"lj.magic_bundle.item_name":"마법 꾸러미",
+	"lj.magic_bundle.lore.more":"그리고 %1$s 더 ...",
+	"lj.magic_bundle.lore.1":"\u00b7 이 꾸러미는 무한한 용량을 가집니다;",
+	"lj.magic_bundle.lore.2":"",
+	"lj.magic_bundle.lore.3":"\u00b7 마우스 커서로 들고 있을 시,",
+	"lj.magic_bundle.lore.4":" 내용물이 숨겨져 더 많은",
+	"lj.magic_bundle.lore.5":" 아이템을 추가할 수 있습니다;",
+	"lj.magic_bundle.lore.6":"",
+	"lj.magic_bundle.lore.7":"\u00b7 인벤토리에 놓여 있을 시,",
+	"lj.magic_bundle.lore.8":" 내용물이 원래대로 돌아오며,",
+	"lj.magic_bundle.lore.9":" 마음대로 꺼낼 수 있습니다."
+}

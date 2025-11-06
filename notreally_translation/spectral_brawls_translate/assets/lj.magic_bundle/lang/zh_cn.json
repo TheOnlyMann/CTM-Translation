@@ -1,0 +1,13 @@
+{
+	"lj.magic_bundle.item_name":"魔法收纳袋",
+	"lj.magic_bundle.lore.more":"还有%1$s项未显示...",
+	"lj.magic_bundle.lore.1":"\u00b7 这个收纳袋有无限容量；",
+	"lj.magic_bundle.lore.2":"",
+	"lj.magic_bundle.lore.3":"\u00b7 拿在鼠标上时，其所含物",
+	"lj.magic_bundle.lore.4":" 被移到了另一个地方，从",
+	"lj.magic_bundle.lore.5":" 而你可以加入更多东西；",
+	"lj.magic_bundle.lore.6":"",
+	"lj.magic_bundle.lore.7":"\u00b7 置于背包中时，其所含物",
+	"lj.magic_bundle.lore.8":" 会回到袋中，从而可以被",
+	"lj.magic_bundle.lore.9":" 取出。"
+}

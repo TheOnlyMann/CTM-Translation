@@ -1,0 +1,8 @@
+{
+	"lj.death.corpse":"%1$s的尸体",
+	"lj.death.find":"你找到了%1$s的尸体",
+	"lj.death.link_sent":"一个传送链接已被发送给%1$s",
+	"lj.death.find_by":"%1$s找到了你的尸体。%2$s",
+	"lj.death.tp":"[点击传送]",
+	"lj.death.tp_expire":"链接已失效 :("
+}

@@ -1,0 +1,8 @@
+{
+	"lj.death.corpse":"%1$s의 시체",
+	"lj.death.find":"%1$s의 시체를 찾았습니다",
+	"lj.death.link_sent":"%1$s에게 텔레포트 링크가 전송되었습니다",
+	"lj.death.find_by":"%1$s가 당신의 시체를 찾았습니다. %2$s",
+	"lj.death.tp":"[텔레포트 하려면 클릭]",
+	"lj.death.tp_expire":"링크가 만료되었습니다 :("
+}

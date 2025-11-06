@@ -1,0 +1,8 @@
+{
+	"lj.death.corpse":"%1$s's Corpse",
+	"lj.death.find":"You found %1$s's corpse",
+	"lj.death.link_sent":"A teleport link has been sent to %1$s",
+	"lj.death.find_by":"%1$s found your corpse. %2$s",
+	"lj.death.tp":"[Click to Teleport]",
+	"lj.death.tp_expire":"Link expired :("
+}

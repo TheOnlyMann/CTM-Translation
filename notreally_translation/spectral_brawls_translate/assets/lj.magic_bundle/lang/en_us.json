@@ -1,0 +1,13 @@
+{
+	"lj.magic_bundle.item_name":"Magic Bundle",
+	"lj.magic_bundle.lore.more":"and %1$s more ...",
+	"lj.magic_bundle.lore.1":"\u00b7 This bundle has infinite capacity;",
+	"lj.magic_bundle.lore.2":"",
+	"lj.magic_bundle.lore.3":"\u00b7 When held on your cursor, its",
+	"lj.magic_bundle.lore.4":" contents are hidden away so you",
+	"lj.magic_bundle.lore.5":" can add more;",
+	"lj.magic_bundle.lore.6":"",
+	"lj.magic_bundle.lore.7":"\u00b7 When placed in your inventory,",
+	"lj.magic_bundle.lore.8":" the contents return, ready to be",
+	"lj.magic_bundle.lore.9":" taken out."
+}
