@@ -5,8 +5,6 @@
             "min_inclusive": 1,
             "max_inclusive": 9999
         },
-		"min_format": 1,
-		"max_format": 9999,
         "description": "English Language File for Cartographer"
     }
 }
