@@ -127,6 +127,24 @@
 			"advances": {
 				" ": 12
 			}
+		},
+		{
+			"type":"ttf",
+			"file":"minecraft:MapoHongdaeFreedom.ttf",
+            "size": 27.5,
+            "shift": [0.0, 13],
+            "oversample": 16.0,
+			"skip": [
+				"ABCDEF",
+				"GHIJKL",
+				"MNOPQR",
+				"STUVWX",
+				"YZ/bcd",
+				"efghij",
+				"0123456789%",
+				" "
+			]
+
 		}
 	]
 }

@@ -24,6 +24,27 @@
 			"advances": {
 				" ": 8
 			}
+		},
+		{
+			"type":"ttf",
+			"file":"minecraft:MapoMaponaru.ttf",
+            "size": 14.0,
+            "shift": [0.0, 6],
+            "oversample": 16.0,
+			"skip": [
+				"abcdefghij",
+				"klmnopqrst",
+				"uvwxyzABCD",
+				"EFGHIJKLMN",
+				"OPQRSTUVWX",
+				"YZ01234567",
+				"89.:!¡¢£¤¥",
+				"¦§¨©ª«¬®¯°",
+				"±²³´µ¶·¸¹º",
+				"»¼½¾¿ÀÁÂ'{",
+				" "
+			]
+
 		}
 	]
 }
