@@ -130,7 +130,7 @@
 		},
 		{
 			"type":"ttf",
-			"file":"minecraft:MapoHongdaeFreedom.ttf",
+			"file":"minecraft:mapohongfree.ttf",
             "size": 27.5,
             "shift": [0.0, 13],
             "oversample": 16.0,

@@ -27,7 +27,7 @@
 		},
 		{
 			"type":"ttf",
-			"file":"minecraft:MapoMaponaru.ttf",
+			"file":"minecraft:maponaru.ttf",
             "size": 14.0,
             "shift": [0.0, 6],
             "oversample": 16.0,
