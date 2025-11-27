@@ -51,13 +51,26 @@ def glue_section_codes(tokens):
 
 # ---------- Hangul progressive stages (-k) ----------
 L_COMP = ['ㄱ','ㄲ','ㄴ','ㄷ','ㄸ','ㄹ','ㅁ','ㅂ','ㅃ','ㅅ','ㅆ','ㅇ','ㅈ','ㅉ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ']
+L_BASE = {
+    'ㄲ':'ㄱ', 'ㄸ':'ㄷ', 'ㅃ':'ㅂ', 'ㅆ':'ㅅ', 'ㅉ':'ㅈ'
+}
 V_COMP = ['ㅏ','ㅐ','ㅑ','ㅒ','ㅓ','ㅔ','ㅕ','ㅖ','ㅗ','ㅘ','ㅙ','ㅚ','ㅛ','ㅜ','ㅝ','ㅞ','ㅟ','ㅠ','ㅡ','ㅢ','ㅣ']
+V_BASE = {
+    'ㅘ':'ㅗ', 'ㅙ':'ㅗ', 'ㅚ':'ㅗ',
+    'ㅝ':'ㅜ', 'ㅞ':'ㅜ', 'ㅟ':'ㅜ',
+    'ㅢ':'ㅡ'
+}
+V_BASE_2 = {
+    'ㅐ':'ㅏ', 'ㅒ':'ㅑ',
+    'ㅔ':'ㅓ', 'ㅖ':'ㅕ'
+}
 T_COMP = ['', 'ㄱ','ㄲ','ㄳ','ㄴ','ㄵ','ㄶ','ㄷ','ㄹ','ㄺ','ㄻ','ㄼ','ㄽ','ㄾ','ㄿ','ㅀ','ㅁ','ㅂ','ㅄ','ㅅ','ㅆ','ㅇ','ㅈ','ㅊ','ㅋ','ㅌ','ㅍ','ㅎ']
 T_BASE = {
     'ㄳ':'ㄱ', 'ㄵ':'ㄴ', 'ㄶ':'ㄴ',
     'ㄺ':'ㄹ', 'ㄻ':'ㄹ', 'ㄼ':'ㄹ', 'ㄽ':'ㄹ', 'ㄾ':'ㄹ', 'ㄿ':'ㄹ', 'ㅀ':'ㄹ',
     'ㅄ':'ㅂ'
 }
+T_BASE_2 = L_BASE
 S_BASE = 0xAC00
 L_COUNT, V_COUNT, T_COUNT = 19, 21, 28
 
@@ -81,11 +94,18 @@ def t_index_from_char(t_char: str) -> int:
     except ValueError:
         return 0
 
-def korean_progressive_stages(ch: str):
+def korean_progressive_stages(ch: str, kstage_param: int):
     """
     한글 음절을 단계적으로: [초성], [초+중], [초+중+기본종성], [완성]
     종성이 없으면 [초성, (초+중)] 만 반환.
     합성 종성(예: ㄼ)은 중간 단계로 'ㄹ'을 사용.
+    kstage_param의 값에 따라 반환 단계를 제한할 수 있습니다. 이는 6 bit 플래그로 동작합니다:
+    1) 중첩 작업 진행 여부(V_BASE, V_BASE_2 중첩 적용만 해당)
+    2) 중성 분리 여부(V_BASE 사용)
+    4) 합성 중성 분리 여부(V_BASE_2 사용)
+    8) 종성 분리 여부(T_BASE 사용)
+    16) 합성 종성 분리 여부(T_BASE_2 사용)
+    32) 초성 분리 여부(L_BASE 사용)
     """
     if not is_hangul_syllable(ch):
         return [ch]
@@ -93,27 +113,65 @@ def korean_progressive_stages(ch: str):
     L_idx, V_idx, T_idx = decompose_hangul(ch)
     stages = []
     # 1) 초성(호환자모)
-    stages.append(L_COMP[L_idx])
+    if kstage_param & 32:
+        l_char = L_COMP[L_idx]
+        base = L_BASE.get(l_char, None)
+        if base:
+            base_idx = L_COMP.index(base)
+            stages.append(base)
+        else:
+            stages.append(l_char)
+    else:
+        stages.append(L_COMP[L_idx])
     # 2) 초+중
+    if kstage_param & 2:
+        v_char = V_COMP[V_idx]
+        base = V_BASE.get(v_char, None)
+        if base:
+            base_idx = V_COMP.index(base)
+            if kstage_param & 1 and kstage_param & 4: #중첩중성 분리 가능 및 합성중성 분리 가능 동시에 적용되는지 확인
+                # base_idx가 또 분리 가능한지 검사
+                base_2 = V_BASE_2.get(base, None)
+                if base_2:
+                    base_idx_2 = V_COMP.index(base_2)
+                    stages.append(compose_hangul(L_idx, base_idx_2, 0))
+            stages.append(compose_hangul(L_idx, base_idx, 0))
+        elif (kstage_param & 4):
+            base_2 = V_BASE_2.get(v_char, None)
+            if base_2:
+                base_idx = V_COMP.index(base_2)
+                stages.append(compose_hangul(L_idx, base_idx, 0))
+    elif kstage_param & 4:
+        v_char = V_COMP[V_idx]
+        base_2 = V_BASE_2.get(v_char, None)
+        if base_2:
+            base_idx = V_COMP.index(base_2)
+            stages.append(compose_hangul(L_idx, base_idx, 0))
     stages.append(compose_hangul(L_idx, V_idx, 0))
     # 3) (있다면) 초+중+기본종성
     if T_idx != 0:
         t_char = T_COMP[T_idx]
-        base = T_BASE.get(t_char, None)
-        if base:
-            base_idx = t_index_from_char(base)
-            stages.append(compose_hangul(L_idx, V_idx, base_idx))
+        if kstage_param & 8:
+            base = T_BASE.get(t_char, None)
+            if base:
+                base_idx = t_index_from_char(base)
+                stages.append(compose_hangul(L_idx, V_idx, base_idx))
+        if kstage_param & 16:
+            base_2 = T_BASE_2.get(t_char, None)
+            if base_2:
+                base_idx = t_index_from_char(base_2)
+                stages.append(compose_hangul(L_idx, V_idx, base_idx))
         # 4) 완성
         stages.append(compose_hangul(L_idx, V_idx, T_idx))
     return stages
 
-def expand_korean_stages_in_tokens(tokens, enable_kstage: bool):
+def expand_korean_stages_in_tokens(tokens, kstage_param: int):
     """
-    enable_kstage=True 인 경우, 각 한글 음절(또는 '§... + 한글')을
+    kstage_param!=0 인 경우, 각 한글 음절(또는 '§... + 한글')을
     여러 단계 토큰으로 확장하고, 같은 음절 묶음에는 동일한 group id를 부여한다.
     반환: (tokens, groups)  (groups[i]는 tokens[i]의 그룹 id, 없으면 None)
     """
-    if not enable_kstage:
+    if not kstage_param:
         return tokens, [None] * len(tokens)
 
     out_tokens = []
@@ -126,7 +184,7 @@ def expand_korean_stages_in_tokens(tokens, enable_kstage: bool):
         if m:
             prefix, payload = m.group(1), m.group(2)
             if len(payload) == 1 and is_hangul_syllable(payload):
-                stages = korean_progressive_stages(payload)
+                stages = korean_progressive_stages(payload, kstage_param)
                 gid = next_group_id; next_group_id += 1
                 for s in stages:
                     out_tokens.append(prefix + s)
@@ -138,7 +196,7 @@ def expand_korean_stages_in_tokens(tokens, enable_kstage: bool):
 
         # 단일 한글 음절이면 단계 확장
         if len(tok) == 1 and is_hangul_syllable(tok):
-            stages = korean_progressive_stages(tok)
+            stages = korean_progressive_stages(tok, kstage_param)
             gid = next_group_id; next_group_id += 1
             for s in stages:
                 out_tokens.append(s)
@@ -182,7 +240,7 @@ def proportional_prefix_with_groups(tokens, groups, i, n):
 # ---------- Expansion logic ----------
 KEY_RE = re.compile(r'^(.*)\.(\d+)$')
 
-def expand_keys(data: dict, sort_output: bool = False, kstage: bool = False) -> dict:
+def expand_keys(data: dict, sort_output: bool = False, kstage: int = 0, startvar: int = 1) -> dict:
     """
     For any key ending with .N (N >= 1), generate keys base.1 ... base.N.
     Each value is a proportional prefix of the original key's value.
@@ -202,16 +260,16 @@ def expand_keys(data: dict, sort_output: bool = False, kstage: bool = False) -> 
         if prev is None or N > prev[0]:
             bases[base] = (N, val)
 
-    # 각 base에 대해 1..N 생성
+    # 각 base에 대해 startvar..N 생성
     for base, (N, full_val) in bases.items():
-        if N <= 0:
+        if N < 1:
             continue
         tokens = tokenize_value(full_val)
         tokens = glue_section_codes(tokens)                 # §x-run + 뒤 1토큰 묶기
         tokens, groups = expand_korean_stages_in_tokens(tokens, kstage)  # (-k) 확장(+그룹)
 
-        for i in range(1, N + 1):
-            gen_key = f"{base}.{i}"
+        for i in range(1, N + 2 - startvar):
+            gen_key = f"{base}.{startvar + i - 1}"
             if gen_key in out:
                 continue
             if kstage:
@@ -228,14 +286,51 @@ def expand_keys(data: dict, sort_output: bool = False, kstage: bool = False) -> 
 # ---------- CLI ----------
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python expand_trailing_number_keys.py <input.json> [output.json] [-s] [-k]")
+        print("Usage: python expand_trailing_number_keys.py <input.json> [output.json] [-s] [-n N] [-k N]")
         print("  -s : natural-sort keys on save (optional)")
-        print("  -k : 한글 조합 단계(초성→초+중→초+중+기본종성→완성) 확장 + 이전 단계 자동 제거")
+        print("  -n : start variable index (default: 1)")
+        print("  -k : 한글 조합 단계(초성→초+중→초+중+기본종성→완성) 지정")
+        print("       bit 플래그로 동작:")
+        print("         1 -> 중첩 작업 진행 여부(V_BASE, V_BASE_2 중첩 적용만 해당): ㅙ → ㅗ, ㅘ, ㅙ 등")
+        print("         2 -> 중성 분리 여부(V_BASE 사용): ㅙ → ㅗ, ㅙ 등")
+        print("         4 -> 합성 중성 분리 여부(V_BASE_2 사용): ㅐ → ㅏ, ㅐ 등")
+        print("         8 -> 종성 분리 여부(T_BASE 사용): ㄼ → ㄹ, ㄼ 등")
+        print("        16 -> 합성 종성 분리 여부(T_BASE_2 사용): ㄲ → ㄱ, ㄲ 등")
+        print("        32 -> 초성 분리 여부(L_BASE 사용): ㄲ → ㄱ, ㄲ 등")
+        print("       예) -k 0  (조합 단계 확장 OFF, 기본값)")
+        print("           -k 8 (종성 분리 ON(8)): 기존 -k와 동일")
+        print("           -k 10 (중성 분리(2) + 종성 분리(8) ON)")
         sys.exit(1)
 
     json_files = [a for a in sys.argv[1:] if a.endswith(".json")]
     sort_flag = "-s" in sys.argv
-    kstage_flag = "-k" in sys.argv
+    kstage_flag = 0
+    startvar_flag = 1
+    if "-k" in sys.argv:
+        k_index = sys.argv.index("-k")
+        if k_index + 1 < len(sys.argv):
+            try:
+                kstage_flag = int(sys.argv[k_index + 1])
+            except ValueError:
+                print("❗ -k 옵션 뒤에는 정수를 지정해야 합니다.")
+                sys.exit(1)
+        else:
+            print("❗ -k 옵션 뒤에는 정수를 지정해야 합니다.")
+            sys.exit(1)
+        if kstage_flag < 0 or kstage_flag > 63:
+            print("❗ -k 옵션 값은 0에서 63 사이의 정수여야 합니다.")
+            sys.exit(1)
+    if "-n" in sys.argv:
+        n_index = sys.argv.index("-n")
+        if n_index + 1 < len(sys.argv):
+            try:
+                startvar_flag = int(sys.argv[n_index + 1])
+            except ValueError:
+                print("❗ -n 옵션 뒤에는 정수를 지정해야 합니다.")
+                sys.exit(1)
+        else:
+            print("❗ -n 옵션 뒤에는 정수를 지정해야 합니다.")
+            sys.exit(1)
 
     if not json_files:
         print("❗ Please provide at least an input JSON file.")
@@ -251,12 +346,12 @@ def main():
         print("❗ Top-level JSON must be an object.")
         sys.exit(1)
 
-    expanded = expand_keys(data, sort_output=sort_flag, kstage=kstage_flag)
+    expanded = expand_keys(data, sort_output=sort_flag, kstage=kstage_flag, startvar=startvar_flag)
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(expanded, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Expanded and saved: {output_path}  (kstage={'ON' if kstage_flag else 'OFF'})")
+    print(f"✅ Expanded and saved: {output_path}  (kstage={kstage_flag if kstage_flag else 'OFF'}, startvar={startvar_flag}, sorted={'ON' if sort_flag else 'OFF'})")
 
 if __name__ == "__main__":
     main()
