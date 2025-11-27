@@ -208,13 +208,12 @@ def expand_korean_stages_in_tokens(tokens, kstage_param: int):
     return out_tokens, out_groups
 
 # ---------- prefix selection with group-collapse ----------
-def proportional_prefix_with_groups(tokens, groups, i, n):
+def proportional_prefix_with_groups(tokens, groups, take):
     """
     1..n 단계 중 i단계까지 토큰을 취하되,
     같은 group 내에서는 '마지막 토큰만' 남기고 앞단계 토큰을 제거한다.
     """
     L = len(tokens)
-    take = math.ceil(L * i / n) if n > 0 else 0
     slice_tokens = tokens[:take]
     slice_groups = groups[:take]
 
@@ -262,7 +261,7 @@ def expand_keys(data: dict, sort_output: bool = False, kstage: int = 0, startvar
 
     # 각 base에 대해 startvar..N 생성
     for base, (N, full_val) in bases.items():
-        if N < 1:
+        if N < startvar:
             continue
         tokens = tokenize_value(full_val)
         tokens = glue_section_codes(tokens)                 # §x-run + 뒤 1토큰 묶기
@@ -270,12 +269,13 @@ def expand_keys(data: dict, sort_output: bool = False, kstage: int = 0, startvar
 
         for i in range(1, N + 2 - startvar):
             gen_key = f"{base}.{startvar + i - 1}"
+            take = math.ceil(len(tokens) * i / (N+1 - startvar))
             if gen_key in out:
                 continue
             if kstage:
-                new_tokens = proportional_prefix_with_groups(tokens, groups, i, N)
+                new_tokens = proportional_prefix_with_groups(tokens, groups, take)
             else:
-                take = math.ceil(len(tokens) * i / N) if N > 0 else 0
+                
                 new_tokens = tokens[:take]
             out[gen_key] = detokenize_value(new_tokens)
 
@@ -288,7 +288,7 @@ def main():
     if len(sys.argv) < 2:
         print("Usage: python expand_trailing_number_keys.py <input.json> [output.json] [-s] [-n N] [-k N]")
         print("  -s : natural-sort keys on save (optional)")
-        print("  -n : start variable index (default: 1)")
+        print("  -n : starting index number (default: 1)")
         print("  -k : 한글 조합 단계(초성→초+중→초+중+기본종성→완성) 지정")
         print("       bit 플래그로 동작:")
         print("         1 -> 중첩 작업 진행 여부(V_BASE, V_BASE_2 중첩 적용만 해당): ㅙ → ㅗ, ㅘ, ㅙ 등")
