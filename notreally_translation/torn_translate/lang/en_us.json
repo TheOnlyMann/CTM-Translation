@@ -1,0 +1,10 @@
+{
+  "item.minecraft.arrow": "총탄",
+  "item.minecraft.spectral_arrow": "배트랑",
+  "item.minecraft.tipped_arrow": "약물 발린 배트랑",
+  "entity.minecraft.arrow": "총탄",
+  "entity.minecraft.spectral_arrow": "배트랑",
+  "entity.minecraft.husk": "캣우먼",
+  "entity.minecraft.skeleton": "깡패",
+  "entity.minecraft.zombie": "깡패"
+}
