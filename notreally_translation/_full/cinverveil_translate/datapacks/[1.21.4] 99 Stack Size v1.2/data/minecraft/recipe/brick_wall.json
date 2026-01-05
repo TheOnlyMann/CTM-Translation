@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:bricks"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 6,
+    "id": "minecraft:brick_wall"
+  }
+}

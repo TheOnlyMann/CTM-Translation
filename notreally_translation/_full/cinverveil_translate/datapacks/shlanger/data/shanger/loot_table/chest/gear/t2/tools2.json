@@ -1,0 +1,185 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 5,
+              "options": "#minecraft:on_random_loot"
+            },
+			{
+              "function": "minecraft:set_components",
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 100
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_axe",
+          "weight": 4,
+          "quality": 3,
+          "functions": [
+		  {
+              "function": "minecraft:set_components",
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/axe",
+            "speed": 3,
+            "correct_for_drops": true
+          }
+        ]
+      },
+				"minecraft:max_damage": 95,
+                "minecraft:attribute_modifiers": [
+                  {
+                    "type": "minecraft:attack_damage",
+                    "id": "minecraft:base_attack_damage",
+                    "amount": 7,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "type": "minecraft:attack_speed",
+                    "id": "minecraft:base_attack_speed",
+                    "amount": -3.2,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ]
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 8,
+                "max": 16
+              },
+			  "options":"#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_pickaxe",
+          "weight": 4,
+          "quality": 3,
+          "functions": [
+		  {
+              "function": "minecraft:set_components",
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/pickaxe",
+            "speed": 3,
+            "correct_for_drops": true
+          }
+        ]
+      },
+				"minecraft:max_damage": 95,
+                "minecraft:attribute_modifiers": [
+                  {
+                    "type": "minecraft:attack_damage",
+                    "id": "minecraft:base_attack_damage",
+                    "amount": 1.5,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "type": "minecraft:attack_speed",
+                    "id": "minecraft:base_attack_speed",
+                    "amount": -2.8,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ]
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 8,
+                "max": 16
+              },
+			  "options":"#minecraft:on_random_loot"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_sword",
+          "weight": 4,
+          "quality": 3,
+          "functions": [
+		  {
+              "function": "minecraft:set_components",
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+				"minecraft:max_damage": 95,
+                "minecraft:attribute_modifiers": [
+                  {
+                    "type": "minecraft:attack_damage",
+                    "id": "minecraft:base_attack_damage",
+                    "amount": 3.5,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  },
+                  {
+                    "type": "minecraft:attack_speed",
+                    "id": "minecraft:base_attack_speed",
+                    "amount": -2.4,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                  }
+                ]
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "type": "minecraft:uniform",
+                "min": 8,
+                "max": 16
+              },
+			  "options":"#minecraft:on_random_loot"
+            }
+          ]
+        }
+      ],
+      "functions": []
+    }
+  ],
+  "functions": []
+}

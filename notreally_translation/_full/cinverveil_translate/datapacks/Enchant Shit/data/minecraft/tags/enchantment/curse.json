@@ -1,0 +1,15 @@
+{
+  "values": [
+    "shanger:breaking",
+    "shanger:aspect/jump_boost",
+	"shanger:aspect/resistance",
+	"shanger:aspect/strength",
+	"shanger:aspect/swiftness",
+	"shanger:attribute/cut_armor",
+	"shanger:attribute/cut_attack_speed",
+	"shanger:attribute/cut_damage",
+	"shanger:attribute/cut_health",
+	"shanger:attribute/cut_toughness",
+	"shanger:attribute/heavy_falling"
+  ]
+}

@@ -1,0 +1,40 @@
+Improvements from the previous version (Tweaker 1.0/LEGACY):
+
+Features:
+-Multiple players may now use the system at once (previously, only 1 player could tweak at a time)
+-You may now edit multiple spawners at a time if you sneak while selecting new spawners
+-Added a trigger to enable/disable tweaker
+-Added a trigger to enable/disable block piercing for the raycast
+-Spawners are now assigned an ID to allow for bulk editing
+-You can remove an id with /trigger delete_spawner_id set <id>
+-You can get a spawner with an id with /trigger give_spawner set <id>
+-You can give yourself all registered spawners with /trigger give_all_spawners
+-You can now bulk edit spawners by modifying a registered spawner then selecting it with tweaker, which will prompt you how you would like to bulk edit
+-Added an automated search feature for registering spawners, along with a corresponding setting
+-Added a setting to control how fast spawners are modified with priming and bulk edits
+-Modifying delay is now accelerated when you click repeatedly
+-Precision of delay modifcation and display is now 1s
+-Most displays are now interpolated
+-There is now an unselect sfx
+-Added a trigger to highlight loaded spawners for a time
+
+QOL:
+-All systems now detect holding down the sneak key rather than if the player is crouched
+-You will no longer select or reselect spawners when crouching
+-Reworked the priming system to be more reliable
+-Tweaker will show the new toggle trigger to anyone that enters creative mode
+-Improved the title display so that the only units showing are seconds
+-Modifying delay preserves the ratio of the min and max
+-New visual indications when spawners are registered and/or when a new id is assigned
+-New visual indicators for multi-selecting spawners
+-Bossbars now always show for spawners and contain the id and spawner counts
+-Spawners with multiple potentials or passengers display details in the bossbar
+-Improved the displays for priming and bulk editing
+
+Bugs:
+-Fixed bug where swapping held spawners would re-select the previous spawner
+-Fixed a bug where placing a spawner while sneaking sometimes selected it
+-Slightly improved display precision
+-Fixed a bug where increasing block light from "-" then removing it did not reset the spawn rule
+-Added multiple failsafes to the spawner priming system, including a timeout system
+-Through great effort, prevented the spawner names from inbeedring

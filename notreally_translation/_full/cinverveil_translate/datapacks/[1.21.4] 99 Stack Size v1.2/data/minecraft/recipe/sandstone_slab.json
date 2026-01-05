@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      "minecraft:sandstone",
+      "minecraft:chiseled_sandstone"
+    ]
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 6,
+    "id": "minecraft:sandstone_slab"
+  }
+}

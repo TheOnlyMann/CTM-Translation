@@ -1,0 +1,2 @@
+#I keep running into stupid bugs which is why I have to do this. It is VERY annoying >:(
+$execute store result score id temp run data get storage spawner_tweaker:temp Spawners[{Pos:$(Pos),dimension:"$(dimension)"}].id

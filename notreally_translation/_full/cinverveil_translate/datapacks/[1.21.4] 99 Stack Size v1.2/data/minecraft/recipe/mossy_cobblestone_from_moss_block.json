@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_cobblestone",
+  "ingredients": [
+    "minecraft:cobblestone",
+    "minecraft:moss_block"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:mossy_cobblestone"
+  }
+}

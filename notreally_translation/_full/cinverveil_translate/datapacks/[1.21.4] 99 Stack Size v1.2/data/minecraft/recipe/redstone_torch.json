@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:redstone"
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:redstone_torch"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:dark_prismarine",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:dark_prismarine_stairs"
+  }
+}

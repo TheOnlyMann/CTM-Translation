@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "waxed_weathered_copper_bulb",
+  "ingredients": [
+    "minecraft:weathered_copper_bulb",
+    "minecraft:honeycomb"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:waxed_weathered_copper_bulb"
+  }
+}

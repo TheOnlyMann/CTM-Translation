@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "stained_glass_pane",
+  "key": {
+    "#": "minecraft:lime_stained_glass"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 16,
+    "id": "minecraft:lime_stained_glass_pane"
+  }
+}

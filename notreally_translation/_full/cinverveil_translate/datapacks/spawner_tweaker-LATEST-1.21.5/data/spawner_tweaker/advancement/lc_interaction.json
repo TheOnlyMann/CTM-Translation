@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {},
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"spawner_interaction\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spawner_tweaker:spawner_tweaking/interaction/player_interacts"
+  }
+}

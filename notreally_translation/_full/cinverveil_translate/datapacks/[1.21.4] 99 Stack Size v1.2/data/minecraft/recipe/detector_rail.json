@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:stone_pressure_plate",
+    "R": "minecraft:redstone",
+    "X": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "XRX"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 6,
+    "id": "minecraft:detector_rail"
+  }
+}

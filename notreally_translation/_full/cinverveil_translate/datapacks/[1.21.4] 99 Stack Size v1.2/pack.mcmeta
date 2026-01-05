@@ -1,0 +1,143 @@
+{
+  "pack": {
+    "pack_format": 57,
+    "description": "Shanger"
+  },
+  "filter": {
+    "block": [
+	
+      {
+        "namespace": "minecraft",
+        "path": "tags/block/enchantment_power_provider"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/repair_item"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/grindstone"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/enchanting_table"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/copper_ingot"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/copper_ingot_from_waxed_copper_block"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/leather"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/bundle"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/conduit"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/piston"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/bookshelf"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/white_wool_from_string"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_orange_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_magenta_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_light_blue_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_yellow_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_lime_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_pink_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_gray_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_light_gray_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_cyan_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_purple_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_blue_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_brown_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_green_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_red_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/dye_black_wool"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "loot_table/gameplay/fishing/treasure"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "advancement/story"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "advancement/nether"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "advancement/husbandry"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "advancement/end"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "advancement/adventure"
+      }
+    ]
+  }
+}

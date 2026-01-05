@@ -1,0 +1,17 @@
+Improvements from the previous version (Spawner Tweaker v2.0.0):
+
+Features:
+-You can now use the highlight trigger to only look for spawners of a specific id with the command /scoreboard players set $highlight_id spawner_tweaker <id>, resets on reload
+-ID displays now have their id written to their spawner_tweaker_id score (for easy teleporting)
+-If the mapmaker forgets to give the spawner light levels, tweaker sets it to 0-7 block, 0-15 sky
+-Dropping a spawner while tweaking will open chat prompts for bulk editing and highlighting
+
+QOL:
+-Added failsafe for if updates are triggered on non-spawners
+-Hotbar display for light levels now shows 0-15 for light immune values
+
+Bugs:
+-Added system failsafe to delete tweaker displays accidentally copied with axiom
+
+TODO in future version updates:
+Add new blocks to raycast list

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:popped_chorus_fruit",
+    "/": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    "/",
+    "#"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 4,
+    "id": "minecraft:end_rod"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "XX",
+    "XY",
+    " Y"
+  ],
+  "key": {
+    "X": [
+      "minecraft:copper_ingot"
+    ],
+    "Y": [
+      "minecraft:stick"
+    ]
+  },
+  "result": {
+    "components": {
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/axe",
+            "speed": 3,
+            "correct_for_drops": true
+          }
+        ]
+      },
+      "minecraft:max_damage": 95,
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_damage",
+          "id": "minecraft:base_attack_damage",
+          "amount": 7,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "type": "minecraft:attack_speed",
+          "id": "minecraft:base_attack_speed",
+          "amount": -3.2,
+          "operation": "add_value",
+          "slot": "mainhand"
+        }
+      ]
+    },
+    "id": "minecraft:copper_axe",
+    "count": 1
+  }
+}

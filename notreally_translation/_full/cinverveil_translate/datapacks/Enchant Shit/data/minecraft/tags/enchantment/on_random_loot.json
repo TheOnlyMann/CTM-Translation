@@ -1,0 +1,30 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:non_treasure",
+    "minecraft:binding_curse",
+    "minecraft:frost_walker",
+    "shanger:melee_protection",
+	"shanger:breaking",
+	"shanger:aspect/jump_boost",
+	"shanger:aspect/poison",
+	"shanger:aspect/resistance",
+	"shanger:aspect/slowness",
+	"shanger:aspect/strength",
+	"shanger:aspect/swiftness",
+	"shanger:aspect/weakness",
+	"shanger:aspect/wither",
+	"shanger:attribute/boost_armor",
+	"shanger:attribute/boost_attack_speed",
+	"shanger:attribute/boost_damage",
+	"shanger:attribute/boost_health",
+	"shanger:attribute/boost_toughness",
+	"shanger:attribute/cut_armor",
+	"shanger:attribute/cut_attack_speed",
+	"shanger:attribute/cut_damage",
+	"shanger:attribute/cut_health",
+	"shanger:attribute/cut_toughness",
+	"shanger:attribute/heavy_falling",
+	"shanger:attribute/knockback_resistance"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": [
+      "minecraft:copper_ingot"
+    ]
+  },
+  "result": {
+    "components": {
+      "minecraft:attribute_modifiers": [
+          {
+            "type": "minecraft:armor",
+            "id": "minecraft:armor.chestplate",
+            "amount": 4,
+            "operation": "add_value",
+            "slot": "chest"
+          }
+        ],
+      "minecraft:max_damage": 120
+    },
+    "id": "minecraft:copper_chestplate",
+    "count": 1
+  }
+}

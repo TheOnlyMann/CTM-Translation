@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "use_item": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"shanger.obj\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "shanger:wool_effect/interaction"
+  }
+}

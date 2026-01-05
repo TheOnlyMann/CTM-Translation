@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "components": {
+      "minecraft:lore": [
+        "",
+        {
+          "text": "In this map, golden pickaxes are",
+          "color": "#ff5757",
+          "italic": false
+        },
+        {
+          "text": "inefficient at breaking spawners",
+          "color": "#ff5757",
+          "italic": false
+        }
+      ]
+    },
+    "count": 1,
+    "id": "minecraft:golden_pickaxe"
+  }
+}

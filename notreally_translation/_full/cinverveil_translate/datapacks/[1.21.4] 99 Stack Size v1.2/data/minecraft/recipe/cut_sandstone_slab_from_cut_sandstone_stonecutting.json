@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cut_sandstone",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 2,
+    "id": "minecraft:cut_sandstone_slab"
+  }
+}

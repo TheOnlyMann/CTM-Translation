@@ -1,0 +1,142 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 6,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/armor1"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/armor2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/armor3"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/armor4"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/tools"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t1/tools2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/armor1"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/armor2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/armor3"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/armor4"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/tools"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t2/tools2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/armor1"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/armor2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/armor3"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/armor4"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/tools"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t3/tools2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/armor1"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/armor2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/armor3"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/armor4"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/tools"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/gear/t4/tools2"
+        }
+      ],
+      "functions": []
+    },
+	{
+      "rolls": 7,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/trash"
+        },
+{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/pot2"
+        },
+{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/util"
+        },
+{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/food"
+        },
+{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/food2"
+        },
+		{
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/block"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "shanger:chest/pot1"
+        }
+      ],
+      "functions": []
+    }
+  ],
+  "functions": []
+}

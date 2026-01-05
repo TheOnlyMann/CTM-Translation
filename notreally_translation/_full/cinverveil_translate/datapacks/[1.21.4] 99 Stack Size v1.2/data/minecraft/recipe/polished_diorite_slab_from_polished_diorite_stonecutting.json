@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:polished_diorite",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 2,
+    "id": "minecraft:polished_diorite_slab"
+  }
+}

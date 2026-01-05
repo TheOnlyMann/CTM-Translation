@@ -1,0 +1,2 @@
+#Summons a box to visualize the spawner register area
+$summon block_display $(x) $(y) $(z) {view_range:200f,width:200f,height:200f,Tags:["st_volume_display"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[-0.5001f,-0.0001f,-0.5001f],scale:[$(dx)f,$(dy)f,$(dz)f]},block_state:{Name:"minecraft:spawner"},UUID:[I;415455725,13255234,-1639345715,-2008616134],brightness:{sky:15,block:15}}

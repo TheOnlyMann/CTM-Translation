@@ -1,0 +1,102 @@
+{
+  "pack": {
+    "pack_format": 57,
+    "description": "Shanger"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/repair_item"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/snow_block"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/grindstone"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/enchanting_table"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/purple_shulker_box"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/black_shulker_box"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/white_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/orange_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/magenta_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/light_blue_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/yellow_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/lime_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/pink_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/gray_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/light_gray_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/cyan_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/purple_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/blue_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/brown_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/green_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/red_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "recipe/black_carpet"
+      },
+	  {
+        "namespace": "minecraft",
+        "path": "loot_table/gameplay/fishing/treasure"
+      }
+    ]
+  }
+}

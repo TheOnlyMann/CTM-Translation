@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "hit_thing": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_player_attack",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hit_thing"
+    ]
+  ],
+  "rewards": {
+    "function": "zat:hit_thing"
+  }
+}

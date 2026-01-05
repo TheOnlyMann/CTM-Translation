@@ -1,0 +1,13 @@
+{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    {
+      "nbt": "real_hint",
+      "storage": "shanger:storage",
+      "color": "#D8C7FF",
+      "italic": false
+    }
+  ],
+  "mode": "append"
+}

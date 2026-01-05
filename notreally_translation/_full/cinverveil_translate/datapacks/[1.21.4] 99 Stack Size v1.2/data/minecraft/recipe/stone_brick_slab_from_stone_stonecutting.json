@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:stone",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 2,
+    "id": "minecraft:stone_brick_slab"
+  }
+}

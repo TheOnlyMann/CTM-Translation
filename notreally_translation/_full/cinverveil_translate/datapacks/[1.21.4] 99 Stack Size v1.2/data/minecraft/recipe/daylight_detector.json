@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": "minecraft:glass",
+    "Q": "minecraft:quartz",
+    "W": "#minecraft:wooden_slabs"
+  },
+  "pattern": [
+    "GGG",
+    "QQQ",
+    "WWW"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:daylight_detector"
+  }
+}

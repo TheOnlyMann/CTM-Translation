@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:glass",
+    "O": "minecraft:obsidian",
+    "S": "minecraft:nether_star"
+  },
+  "pattern": [
+    "GGG",
+    "GSG",
+    "OOO"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:beacon"
+  }
+}

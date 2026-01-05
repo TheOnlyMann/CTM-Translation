@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:copper_block",
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 8,
+    "id": "minecraft:cut_copper_slab"
+  }
+}

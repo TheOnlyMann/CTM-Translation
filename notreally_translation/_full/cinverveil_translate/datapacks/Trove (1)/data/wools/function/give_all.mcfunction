@@ -1,0 +1,16 @@
+loot give @s loot minecraft:blocks/white_wool
+loot give @s loot minecraft:blocks/orange_wool
+loot give @s loot minecraft:blocks/magenta_wool
+loot give @s loot minecraft:blocks/light_blue_wool
+loot give @s loot minecraft:blocks/yellow_wool
+loot give @s loot minecraft:blocks/lime_wool
+loot give @s loot minecraft:blocks/pink_wool
+loot give @s loot minecraft:blocks/gray_wool
+loot give @s loot minecraft:blocks/light_gray_wool
+loot give @s loot minecraft:blocks/cyan_wool
+loot give @s loot minecraft:blocks/purple_wool
+loot give @s loot minecraft:blocks/blue_wool
+loot give @s loot minecraft:blocks/brown_wool
+loot give @s loot minecraft:blocks/green_wool
+loot give @s loot minecraft:blocks/red_wool
+loot give @s loot minecraft:blocks/black_wool

@@ -1,0 +1,57 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heart_of_the_sea",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:max_stack_size": 99
+              },
+              "conditions": []
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "netherite_scrap"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": " ",
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "text": "Salvaged equipment that can purchase high tier loot!",
+                  "color": "gray",
+                  "italic": false
+                }
+              ],
+              "mode": "replace_all"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Scrap",
+                "color": "#85DEFF",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "use_item": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"shanger.lobby.rp\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "shanger:lobby/rp"
+  }
+}

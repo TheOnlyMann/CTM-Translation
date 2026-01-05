@@ -1,0 +1,8 @@
+Improvements from the previous version (Spawner Tweaker v2.2.1 for 1.21.5):
+
+Bugs:
+-Spawner names support item_name component AND custom_name components
+-Fixed issue where default spawner light values were not 0-15
+
+TODO in future version updates:
+Add new blocks to raycast list

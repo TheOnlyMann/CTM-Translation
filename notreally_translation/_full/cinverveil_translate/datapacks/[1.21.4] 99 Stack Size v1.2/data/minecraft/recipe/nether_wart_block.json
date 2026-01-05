@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart",
+    "minecraft:nether_wart"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 1,
+    "id": "minecraft:nether_wart_block"
+  }
+}

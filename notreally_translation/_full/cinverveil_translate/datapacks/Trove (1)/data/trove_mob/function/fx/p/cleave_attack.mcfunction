@@ -1,0 +1,1 @@
+particle minecraft:sweep_attack ~ ~ ~ 1 .25 1 0 5 force

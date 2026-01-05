@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": [
+      "minecraft:iron_nugget"
+    ]
+  },
+  "result": {
+    "components": {
+      "minecraft:max_damage": 160
+    },
+    "id": "minecraft:chainmail_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,2038 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:amethyst",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:step_height",
+                      "id": "helm_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:block_interaction_range",
+                      "id": "helm_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:resin",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:movement_speed",
+                      "id": "helm_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:quartz",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:attack_speed",
+                      "id": "helm_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:redstone",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "id": "helm_trim",
+                      "amount": 3,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:mining_efficiency",
+                      "id": "helm_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:gold",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:block_break_speed",
+                      "id": "helm_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:knockback_resistance",
+                      "id": "helm_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:armor_toughness",
+                      "id": "helm_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:emerald",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:attack_damage",
+                      "id": "helm_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 110,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_head_armor",
+                      "amount": 2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    },
+                    {
+                      "type": "minecraft:entity_interaction_range",
+                      "id": "helm_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "head"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+		{
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:amethyst",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:step_height",
+                      "id": "chest_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:block_interaction_range",
+                      "id": "chest_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:resin",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:movement_speed",
+                      "id": "chest_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:quartz",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:attack_speed",
+                      "id": "chest_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:redstone",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "id": "chest_trim",
+                      "amount": 3,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:mining_efficiency",
+                      "id": "chest_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:gold",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:block_break_speed",
+                      "id": "chest_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:knockback_resistance",
+                      "id": "chest_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:armor_toughness",
+                      "id": "chest_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:emerald",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:attack_damage",
+                      "id": "chest_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 160,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_chest_armor",
+                      "amount": 5,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    },
+                    {
+                      "type": "minecraft:entity_interaction_range",
+                      "id": "chest_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "chest"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+		
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:amethyst",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:step_height",
+                      "id": "feet_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:block_interaction_range",
+                      "id": "feet_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:resin",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:movement_speed",
+                      "id": "feet_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:quartz",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:attack_speed",
+                      "id": "feet_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:redstone",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "id": "feet_trim",
+                      "amount": 3,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:mining_efficiency",
+                      "id": "feet_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:gold",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:block_break_speed",
+                      "id": "feet_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:knockback_resistance",
+                      "id": "feet_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:armor_toughness",
+                      "id": "feet_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:emerald",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:attack_damage",
+                      "id": "feet_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 130,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_feet_armor",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    },
+                    {
+                      "type": "minecraft:entity_interaction_range",
+                      "id": "feet_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "feet"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+		
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:amethyst",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:step_height",
+                      "id": "legs_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:block_interaction_range",
+                      "id": "legs_trim",
+                      "amount": 0.5,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:resin",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:movement_speed",
+                      "id": "legs_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:quartz",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:attack_speed",
+                      "id": "legs_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:redstone",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:max_health",
+                      "id": "legs_trim",
+                      "amount": 3,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:lapis",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:mining_efficiency",
+                      "id": "legs_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:gold",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:block_break_speed",
+                      "id": "legs_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:knockback_resistance",
+                      "id": "legs_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:iron",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:armor_toughness",
+                      "id": "legs_trim",
+                      "amount": 1,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:emerald",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:attack_damage",
+                      "id": "legs_trim",
+                      "amount": 0.1,
+                      "operation": "add_multiplied_base",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chainmail_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 8,
+			  "options":"#minecraft:on_random_loot"
+            },
+            {
+              "function": "minecraft:set_components",
+              "tag": {},
+              "components": {
+				  "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:trim"
+                  ]
+                },
+                "minecraft:max_damage": 150,
+                "minecraft:trim": {
+                  "material": "minecraft:copper",
+                  "pattern": "minecraft:dune",
+                  "show_in_tooltip": false
+                },
+                "minecraft:attribute_modifiers":  [
+                    {
+                      "type": "minecraft:armor",
+                      "id": "minecraft:shanger_legs_armor",
+                      "amount": 4,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    },
+                    {
+                      "type": "minecraft:entity_interaction_range",
+                      "id": "legs_trim",
+                      "amount": 0.2,
+                      "operation": "add_value",
+                      "slot": "legs"
+                    }
+                  ]
+                }
+,
+              "conditions": []
+            }
+          ]
+        }
+      ],
+      "functions": []
+    }
+  ],
+  "functions": []
+}

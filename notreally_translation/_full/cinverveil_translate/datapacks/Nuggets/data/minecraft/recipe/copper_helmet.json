@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": [
+      "minecraft:copper_ingot"
+    ]
+  },
+  "result": {
+    "components": {
+      "minecraft:attribute_modifiers": [
+          {
+            "type": "minecraft:armor",
+            "id": "minecraft:armor.helmet",
+            "amount": 1,
+            "operation": "add_value",
+            "slot": "head"
+          }
+        ],
+      "minecraft:max_damage": 80
+    },
+    "id": "minecraft:copper_helmet",
+    "count": 1
+  }
+}

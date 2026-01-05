@@ -1,0 +1,1 @@
+execute positioned ^ ^ ^40.12903225806451 align xyz positioned ~.5 ~ ~.5 run function suso.nats:try

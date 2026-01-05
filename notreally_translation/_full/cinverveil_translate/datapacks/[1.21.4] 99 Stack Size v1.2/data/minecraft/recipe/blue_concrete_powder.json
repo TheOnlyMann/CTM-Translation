@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "concrete_powder",
+  "ingredients": [
+    "minecraft:blue_dye",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:sand",
+    "minecraft:gravel",
+    "minecraft:gravel",
+    "minecraft:gravel",
+    "minecraft:gravel"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 8,
+    "id": "minecraft:blue_concrete_powder"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cyan_dye",
+  "ingredients": [
+    "minecraft:blue_dye",
+    "minecraft:green_dye"
+  ],
+  "result": {
+    "components": {
+      "minecraft:max_stack_size": 99
+    },
+    "count": 2,
+    "id": "minecraft:cyan_dye"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#minecraft:repairs_chain_armor"
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+   "components": {
+      "minecraft:lore": [
+        " ",
+        {
+          "text": "Real stone tools are better than copper",
+          "color": "#a8f1ff",
+          "italic": false
+        }
+      ]
+    },
+    "count": 1,
+    "id": "minecraft:stone_sword"
+  }
+}

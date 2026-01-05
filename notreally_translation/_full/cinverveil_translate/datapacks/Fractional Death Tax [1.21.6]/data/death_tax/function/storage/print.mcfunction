@@ -1,0 +1,2 @@
+$say message content: $(message)
+
