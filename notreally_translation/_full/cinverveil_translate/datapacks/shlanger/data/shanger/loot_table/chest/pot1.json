@@ -23,7 +23,7 @@
                 },
                 "minecraft:max_stack_size": 99,
                 "minecraft:custom_name": {
-                  "text": "Extinguisher",
+                  "text": "소화기",
                   "italic": false
                 }
               }

@@ -3,7 +3,7 @@ scoreboard players add .total_submissions shanger.data 1
 scoreboard players set .correct_wools shanger.data 0
 scoreboard players set .submission_cd shanger.data 10
 
-execute if score .total_submissions shanger.data matches 3 run summon item 105 68.25 -132 {Glowing:1b,Age:-32768,Item:{id:"minecraft:nether_star",count:1,components:{"minecraft:consumable":{consume_seconds:3,animation:"eat",sound:"block.spawner.hit",has_consume_particles:true},"minecraft:item_name":{"bold":true,"color":"#FF8A8A","italic":false,"text":"Surrender Star","underlined":true},"minecraft:lore":[" ",{"color":"#FF7575","italic":false,"text":"Consume to give up on monument puzzle"},{"color":"#FF7575","italic":false,"text":"(Irreversible)"}]}}}
+execute if score .total_submissions shanger.data matches 3 run summon item 105 68.25 -132 {Glowing:1b,Age:-32768,Item:{id:"minecraft:nether_star",count:1,components:{"minecraft:consumable":{consume_seconds:3,animation:"eat",sound:"block.spawner.hit",has_consume_particles:true},"minecraft:item_name":{"bold":true,"color":"#FF8A8A","italic":false,"text":"포기의 별","underlined":true},"minecraft:lore":[" ",{"color":"#FF7575","italic":false,"text":"기념비 퍼즐을 포기하려면 먹으세요"},{"color":"#FF7575","italic":false,"text":"(Irreversible)"}]}}}
 
 function shanger:place_wool/update_display
 

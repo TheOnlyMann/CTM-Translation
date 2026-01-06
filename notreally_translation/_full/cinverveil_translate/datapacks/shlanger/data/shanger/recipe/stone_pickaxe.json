@@ -48,12 +48,12 @@
 	  "minecraft:lore": [
         " ",
         {
-          "text": "Makeshift stone tools are worse than",
+          "text": "임시변통 돌 도구는 구리보다는",
           "color": "#baf3ef",
           "italic": false
         },
         {
-          "text": "copper, but better than wood",
+          "text": "약하지만, 나무보다는 낫습니다",
           "color": "#baf3ef",
           "italic": false
         }

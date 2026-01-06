@@ -19,29 +19,29 @@ execute if score .win_message shanger.data matches 100 run title @a title [{"tex
 execute if score .win_message shanger.data matches 102 run title @a title [{"text":"Cinderveil","color":"#FFDDAB","bold":true,"underlined":true}]
 execute if score .win_message shanger.data matches 105 run title @a title [{"text":"Cinderveil","color":"#FFD68F","bold":true,"underlined":true}]
 
-execute if score .win_message shanger.data matches 65 run title @a subtitle [{"text":"M","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 67 run title @a subtitle [{"text":"Ma","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 69 run title @a subtitle [{"text":"Map","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 71 run title @a subtitle [{"text":"Map ","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 73 run title @a subtitle [{"text":"Map C","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 75 run title @a subtitle [{"text":"Map Co","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 77 run title @a subtitle [{"text":"Map Com","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 79 run title @a subtitle [{"text":"Map Comp","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 81 run title @a subtitle [{"text":"Map Compl","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 83 run title @a subtitle [{"text":"Map Comple","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 85 run title @a subtitle [{"text":"Map Complet","color":"#FFC44F","bold":false}]
-execute if score .win_message shanger.data matches 87 run title @a subtitle [{"text":"Map Complete","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 65 run title @a subtitle [{"text":"ㅁ","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 67 run title @a subtitle [{"text":"마","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 69 run title @a subtitle [{"text":"매","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 71 run title @a subtitle [{"text":"맵","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 73 run title @a subtitle [{"text":"맵 ","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 75 run title @a subtitle [{"text":"맵 ㅇ","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 77 run title @a subtitle [{"text":"맵 오","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 79 run title @a subtitle [{"text":"맵 와","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 81 run title @a subtitle [{"text":"맵 완","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 83 run title @a subtitle [{"text":"맵 완ㄹ","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 85 run title @a subtitle [{"text":"맵 완로","color":"#FFC44F","bold":false}]
+execute if score .win_message shanger.data matches 87 run title @a subtitle [{"text":"맵 완료","color":"#FFC44F","bold":false}]
 
-execute if score .win_message shanger.data matches 100 run title @a subtitle [{"text":"Map Complete","color":"#FFFFFF","bold":false,"underlined":true}]
-execute if score .win_message shanger.data matches 102 run title @a subtitle [{"text":"Map Complete","color":"#FFDDAB","bold":false,"underlined":true}]
-execute if score .win_message shanger.data matches 105 run title @a subtitle [{"text":"Map Complete","color":"#FFC44F","bold":false,"underlined":true}]
+execute if score .win_message shanger.data matches 100 run title @a subtitle [{"text":"맵 완료","color":"#FFFFFF","bold":false,"underlined":true}]
+execute if score .win_message shanger.data matches 102 run title @a subtitle [{"text":"맵 완료","color":"#FFDDAB","bold":false,"underlined":true}]
+execute if score .win_message shanger.data matches 105 run title @a subtitle [{"text":"맵 완료","color":"#FFC44F","bold":false,"underlined":true}]
 
-execute if score .win_message shanger.data matches 180 run tellraw @a [{"color":"gold","text":"----------------------"},{"bold":true,"color":"#FFE252","text":"\n\nLed by: KVT & Mowse"},{"bold":false,"color":"#FFD59E","text":"\n\nContributors: \n\n","underlined":true},{"bold":false,"color":"#FFFCA3","text":"link2012  Cake  CooleyBrekka\nrenderXR  Enigma  Suso"},{"color":"gold","italic":false,"text":"\n\n----------------------"}]
+execute if score .win_message shanger.data matches 180 run tellraw @a [{"color":"gold","text":"----------------------"},{"bold":true,"color":"#FFE252","text":"\n\n주 개발진: KVT & Mowse"},{"bold":false,"color":"#FFD59E","text":"\n\n기여자: \n\n","underlined":true},{"bold":false,"color":"#FFFCA3","text":"link2012  Cake  CooleyBrekka\nrenderXR  Enigma  Suso"},{"color":"gold","italic":false,"text":"\n\n----------------------"}]
 
-execute if score .win_message shanger.data matches 280 run tellraw @a [{"color":"gold","text":"----------------------"},{"bold":false,"color":"#FFECCF","text":"\n\nThanks for playing! I hope this map has touched you!\nCheck out these links while you're here!","underlined":false},{"bold":true,"color":"#FFA8A8","italic":false,"text":"\n\nCTM Monthly Recaps ","underlined":false},{"clickEvent":{"action":"open_url","value":"https://youtube.com/playlist?list=PL4C54N-QlQUHu8yKZNqfYbUiW_qOIpIu_&si=vW6iACDQ1Oe_m7Y6"},"color":"#FFFFFF","hoverEvent":{"action":"show_text","value":[{"text":"Click to open a playlist for the CTM Monthly Recaps"}]},"italic":false,"text":"[Link]"},{"bold":true,"color":"#ABCDFF","italic":false,"text":"\n\nMore CTM Maps "},{"bold":false,"clickEvent":{"action":"open_url","value":"https://ctmrepository.com/"},"color":"white","hoverEvent":{"action":"show_text","value":[{"text":"Click to find more CTM Maps"}]},"italic":false,"text":"[Link]"},{"bold":true,"color":"#B7A8FF","italic":false,"text":"\n\nCTM Community Discord "},{"bold":false,"clickEvent":{"action":"open_url","value":"https://ctm.community/"},"color":"white","hoverEvent":{"action":"show_text","value":[{"text":"Click to join the CTM Community Discord!"}]},"text":"[Link]"},{"color":"gold","italic":false,"text":"\n\n----------------------"}]
+execute if score .win_message shanger.data matches 280 run tellraw @a [{"color":"gold","text":"----------------------"},{"bold":false,"color":"#FFECCF","text":"\n\n플레이해 주셔서 감사합니다! 이 맵이 여러분에게 감동을 주었기를 바랍니다!\n여기 있는 동안 이 링크들을 확인해 보세요!","underlined":false},{"bold":true,"color":"#FFA8A8","italic":false,"text":"\n\nCTM 월간호 ","underlined":false},{"clickEvent":{"action":"open_url","value":"https://youtube.com/playlist?list=PL4C54N-QlQUHu8yKZNqfYbUiW_qOIpIu_&si=vW6iACDQ1Oe_m7Y6"},"color":"#FFFFFF","hoverEvent":{"action":"show_text","value":[{"text":"CTM 월간호 플레이리스트를 열려면 클릭하세요"}]},"italic":false,"text":"[링크]"},{"bold":true,"color":"#ABCDFF","italic":false,"text":"\n\n더 많은 CTM 맵들 "},{"bold":false,"clickEvent":{"action":"open_url","value":"https://ctmrepository.com/"},"color":"white","hoverEvent":{"action":"show_text","value":[{"text":"더 많은 CTM 맵들을 찾으려면 클릭하세요"}]},"italic":false,"text":"[링크]"},{"bold":true,"color":"#B7A8FF","italic":false,"text":"\n\nCTM Community Discord "},{"bold":false,"clickEvent":{"action":"open_url","value":"https://ctm.community/"},"color":"white","hoverEvent":{"action":"show_text","value":[{"text":"\CTM Community Discord에 들어가려면 클릭하세요!"}]},"text":"[링크]"},{"color":"gold","italic":false,"text":"\n\n----------------------"}]
 
 
-execute if score .win_message shanger.data matches 280 if score .chal_ratio shanger.data matches 97.. run tellraw @a {"text":"\nCongrats on beating Challenge Mode! Enjoy the trophy helmet!","color":"red","bold":true}
+execute if score .win_message shanger.data matches 280 if score .chal_ratio shanger.data matches 97.. run tellraw @a {"text":"\n챌린지 모드를 완료한 것을 축하합니다! 트로피 헬멧을 즐기세요!","color":"red","bold":true}
 
 
 

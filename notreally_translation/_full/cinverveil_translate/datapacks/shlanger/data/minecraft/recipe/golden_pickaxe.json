@@ -15,12 +15,12 @@
       "minecraft:lore": [
         "",
         {
-          "text": "In this map, golden pickaxes are",
+          "text": "이 맵에서는, 금 곡괭이는",
           "color": "#ff5757",
           "italic": false
         },
         {
-          "text": "inefficient at breaking spawners",
+          "text": "스포너를 부수는 데 비효율적입니다",
           "color": "#ff5757",
           "italic": false
         }

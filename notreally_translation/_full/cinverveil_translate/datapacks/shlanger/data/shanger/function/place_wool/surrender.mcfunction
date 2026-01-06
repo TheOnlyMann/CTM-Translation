@@ -9,7 +9,7 @@ execute as @a at @s run playsound minecraft:entity.wither.death master @s ~ ~ ~ 
 
 title @a title [{"text":"Cinderveil","color":"#FFD68F","bold":true,"underlined":true}]
 
-title @a subtitle [{"text":"Puzzle Incomplete","color":"red","bold":false}]
+title @a subtitle [{"text":"퍼즐 포기","color":"red","bold":false}]
 
 function shanger:place_wool/end_map
 
