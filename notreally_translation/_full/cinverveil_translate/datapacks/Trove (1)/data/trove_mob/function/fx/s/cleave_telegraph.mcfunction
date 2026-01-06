@@ -1,1 +1,0 @@
-playsound minecraft:block.grindstone.use hostile @a ~ ~ ~ 1 1.5

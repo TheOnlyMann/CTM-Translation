@@ -1,1 +1,0 @@
-execute if block ~ ~ ~ #suso.nats:free if block ~ ~1 ~ #suso.nats:free run function suso.nats:spawn/ground/do

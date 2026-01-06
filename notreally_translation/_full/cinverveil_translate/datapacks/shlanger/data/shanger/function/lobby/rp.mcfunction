@@ -1,6 +1,0 @@
-advancement revoke @s only shanger:lobby_rp
-
-
-#tellraw @s [{"color":"gold","text":"----------------------"},{"color":"#FFE252","translate":"rp.info","fallback":"\n\nClick %s to install the Cinderveil Resource Pack!","with":[{"color":"#FFD59E","translate":"rp.link","fallback":"§l[HERE]","clickEvent":{"action":"open_url","value":"https://www.mediafire.com/file/iuhxanwlfr5fzl2/%255B1.21.10%255D_Cinderveil_-_Resource_Pack.zip/file"},"hoverEvent":{"action":"show_text","value":[{"translate":"rp.hover","fallback":"Go on, click it already!"}]}}]},{"color":"gold","italic":false,"text":"\n\n----------------------"}]
-tellraw @s ["",{color:"gold",text:"----------------------"},"\n\n",{color:"yellow",text:"여기를 ",extra:[{text:"[클릭해]",click_event:{action:"open_url",url:"https://www.mediafire.com/file/iuhxanwlfr5fzl2/%255B1.21.10%255D_Cinderveil_-_Resource_Pack.zip/file"}}," Cindeveil 리소스팩을 다운로드해 주세요!"]},"\n\n",{color:"gold",text:"----------------------"}]
-playsound minecraft:ui.button.click master @s ~ ~ ~ 0.3 1

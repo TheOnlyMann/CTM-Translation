@@ -1,1 +1,0 @@
-function death_tax:first_load

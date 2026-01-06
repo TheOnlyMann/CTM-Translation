@@ -1,4 +1,0 @@
-execute if score $rng suso.nats matches ..300 run summon bogged ~ ~ ~ {Health:5f,sheared:1b,Tags:["suso.nats.count","equip"],attributes:[{id:"minecraft:scale",base:.75},{id:"minecraft:step_height",base:.5}]}
-execute if score $rng suso.nats matches 301..600 run summon zombie ~ ~ ~ {Tags:["suso.nats.count","equip"],attributes:[{id:"minecraft:knockback_resistance",base:0}]}
-execute if score $rng suso.nats matches 601..899 run summon creeper ~ ~ ~ {Tags:["suso.nats.count"]}
-execute if score $rng suso.nats matches 900.. run summon skeleton ~ ~ ~ {Tags:["suso.nats.count","equip","not_main"],HandItems:[{id:"minecraft:bow",count:1},{}],HandDropChances:[-100.000F,0.085F]}

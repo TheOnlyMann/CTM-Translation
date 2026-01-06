@@ -1,1 +1,0 @@
-playsound minecraft:entity.player.attack.sweep hostile @a ~ ~ ~ 2 .5

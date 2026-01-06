@@ -1,1 +1,0 @@
-scoreboard objectives add skel_main dummy

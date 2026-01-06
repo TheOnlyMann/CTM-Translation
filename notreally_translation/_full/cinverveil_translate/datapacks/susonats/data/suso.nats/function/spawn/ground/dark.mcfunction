@@ -1,1 +1,0 @@
-execute unless biome ~ ~ ~ color:black unless biome ~ ~ ~ minecraft:the_void run function suso.nats:spawn/ground/hostile/tier1
