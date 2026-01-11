@@ -12260,7 +12260,7 @@
   "luisb1202.loot_tables.entities.gari3.1": "• Cabeza del Berkshire •",
   "minecraft.advancements.adventure.root.1": "Vacío",
   "luisb1202.functions.bossfight.b9.setvida.1":"§4§lFuria del Conquistador",
-  "luisb1202.functions.bossfight.b9.dialogos.enrage":"§c§l¡Enrage!",
+  "luisb1202.functions.bossfight.b9.dialogos.enrage":"§c§l¡Furia!",
   "luisb1202.item.tomo.clarividencia":"§b§o§lTomo de Clarividencia",
   "luisb1202.item.gatobotas": "§6- ★ §6§l§oFelibotas de Maldini§6 ★ - ",
   "luisb1202.item.gatobotas.1": "§9Lanza este objeto §edesde el slot de pies §9de tu inventario",
@@ -12412,7 +12412,7 @@
   "marawthar_mistery_dia_5": "Descubrid qué ha pasado, y no bajes la guardia.",
   "marawthar_mistery_dia_6": "§c§lAlgo ha despertado",
 
-  "marawthar_mistery_dia_7": "Este portal lleva al §esueño §fde alguien... o algo. Soy un constructo y no puedo soñar, así que tendrás que enfrentarte al peligro solo. ¿Estás listo? \n\n§7(§cAviso§7:Este contenido es difícil, puede que tengas que volver más tarde con mejor equipamiento.)",
+  "marawthar_mistery_dia_7": "Este portal lleva al §esueño §fde alguien... o algo. Soy un constructo y no puedo soñar, así que tendrás que enfrentarte al peligro solo. ¿Estás listo? \n\n§7(§cAviso§7: Este contenido es difícil, puede que tengas que volver más tarde con mejor equipamiento.)",
   
 
   "11_aphofis": "§6§l<Aphofis> ",
@@ -12442,7 +12442,7 @@
   "luisb1202.functions.bossfight.b9.parry.item.2": "§9§eClick derecho§9 en la mano secundaria para protegerte",
   "luisb1202.functions.bossfight.b9.parry.item.3": "§8§o(Surge ánima estigia de su interior...)",
   "luisb1202.functions.bossfight.b9.parry.item.4": "§9durante 1 segundo, §ebloqueando§9 todos los ataques de Maraw'Thar",
-  "luisb1202.functions.bossfight.b9.parry.item.9": "§9frontales. No §cpuedes moverte§9 mientras bloqueas.",
+  "luisb1202.functions.bossfight.b9.parry.item.9": "§9en frente de ti. No §cpuedes moverte§9 mientras bloqueas.",
   "luisb1202.functions.bossfight.b9.parry.item.5": "§9Tiene 2 segundos de §3enfriamiento§9 tras usarse.",
   "luisb1202.functions.bossfight.b9.parry.item.51": "§9§7§o(Brillará mientras esté en cooldown)",
   "luisb1202.functions.bossfight.b9.parry.item.6": "§9Si §ebloqueas§9 un ataque, establece la duración restante del",
@@ -12482,7 +12482,7 @@
   "b9_info_eothar_10": "§b§lMovilidad (! Importante)\n\n§f¡Tener buena movilidad y §cobjetos de teletransporte§f es necesario para escapar algunos ataques! ¡Usa objetos como el §dTomo Paradójico§f, §del Cetro de Eo'Thar§f, o el §dOmegatridente§f! Habla con las memorias de Koros en el santuario para obtener un §dTomo Paradójico§f.\n",
   "b9_info_eothar_11": "§c§lEcos Temporales (§c☠§c§l letal)\n\n§fA veces Maraw'Thar dejará ecos de tu pasado en tu camino. Si un eco es golpeado, ¡§ctú también sufrirás el daño§f!\n",
   "b9_info_eothar_12": "§c§lIra (§c☠§c§l letal)\n\n§fSi llegas al final de la tercera fase y el jefe no ha sido derrotado, entrará en §cira§f, §cy todos sus ataques serán inbloqueables§f. §e¡Optimiza tus ataques§f!\n",
-  "b9_info_eothar_14": "§e§lEl Desafío Final \n\n§fEste jefe es §c§lMUY DIFÍCIL§f. No está diseñado para ser derrotado en un intento, sino para §eaparender sus patrones§f. No te preocupes si te cuesta muchos intentos, este es el §adesafío final§f de §5§oFinal Paradox§f!\n\n§7(Dada la dificultad del boss, se §erecomienda jugar solo§7 para concentrarse mejor. El jefe es §bmuy rápido§7 y una §ebuena conexión§7 es necesaria, para jugarlo en §emultiplayer§7!)\n",
+  "b9_info_eothar_14": "§e§lEl Desafío Final \n\n§fEste jefe es §c§lMUY DIFÍCIL§f. No está diseñado para ser derrotado en un intento, sino para §eaprender sus patrones§f. No te preocupes si te cuesta muchos intentos, este es el §adesafío final§f de §5§oFinal Paradox§f!\n\n§7(Dada la dificultad del boss, se §erecomienda jugar solo§7 para concentrarse mejor. El jefe es §bmuy rápido§7 y una §ebuena conexión§7 es necesaria, para jugarlo en §emultiplayer§7!)\n",
   "b9_info_eothar_17": " No hay mucho tiempo, así que seré rápida. El Conquistador consiguió sus poderes temporales subyugando a §eAphofis§f, la gran serpiente cósmica, usando el conocimiento de la §eTorre del Reloj§f. El sufrimiento causado a §eAphofis§f fue tal que dio lugar a que surgiera una pesadilla temporal en su mente: §cMaraw'thar§f, un ser que representa el sufrimiento y se alimenta de él.",
   "b9_info_eothar_18": "   §e▶ §7Continúa.",
   "b9_info_eothar_19": " El Conquistador nunca supo del todo la verdadera fuente de su poder, y el fuego oscuro con el que quería purgar la galaxia, era §cMaraw'thar§f, no §eAphofis§f.",
@@ -12546,13 +12546,13 @@
   "cld_lore_22": "   §e▶ §7Es una escama de §eAphofis§7. Está muy enferma.",
   "cld_lore_23": "¿De §eAphofis§f? ¿Se ha contaminado? Esto podría ser muy grave...",
   "cld_lore_24": "   §e▶ §7¿Cómo de grave?",
-  "cld_lore_25": "Maldición... §8§o(Pausa, con sus ojos centrados en la escama)§f La energía estigia que tiene esto... es §eestigia primigenia§f. El Conquistador usaba una refinada, una a la que Éctron dio forma y perfeccionó... pero esto, esto es §eestigia pura§f, nacido de §ela propia fuente§f.",
+  "cld_lore_25": "Maldición... §8§o(Pausa, con sus ojos centrados en la escama)§f La energía estigia que tiene esto... es §eestigia primigenia§f. El Conquistador usaba una refinada, una a la que Éctron dio forma y perfeccionó... pero esto, esto es §eestigia pura§f, nacidaEH de §ela propia fuente§f.",
   "cld_lore_26": "   §e▶ §7¿Tendremos que buscar la §efuente§7, verdad?",
   "cld_lore_27": "El origen del Poder del Conquistador... todo empezó en la §etorre del reloj§f de §cHorror's Zenith§f, cuando el Conquistador robó sus secretos para esclavizar a §eAphofis§f... y por si fuera poco, se aseguró de que mi hermana §eEo'Thar§f no sobreviviera.",
   "cld_lore_28": "   §e▶ §7¿Debería volver ahí a §einvestigar§7?",
   "cld_lore_29": "Sí, debes investigar ese lugar. Todavía no me creo que mi hermana, con su poder, cayera ante la pesadilla temporal que tú derrotaste tan fácilmente... §eAquí pasa algo más§f...",
   "cld_lore_30": "   §e▶ §7¿Y qué hago cuando llegue?",
-  "cld_lore_31": "A mi hermana no le gustaría en absoluto, pero si §edesestabilizas §fla §etorre del reloj§f un poco, quizás podamos §cdescubrir§f algo más... Intenta §eestablecer un tiempo imposible§f, uno que vaya §emás allá §fde las §e12 horas del reloj§f. \n\n\n    §a§l[§e§l!§a§l] §e§lObjective: §fGo to §cHorror's Zenith§f, destabilize the clocktower by setting a time §ehigher than 12§f, and investigate what happens.\n",
+  "cld_lore_31": "A mi hermana no le gustaría en absoluto, pero si §edesestabilizas §fla §etorre del reloj§f un poco, quizás podamos §cdescubrir§f algo más... Intenta §eestablecer un tiempo imposible§f, uno que vaya §emás allá §fde las §e12 horas del reloj§f. \n\n\n    §a§l[§e§l!§a§l] §e§lObjetivo: §fVe a §cHorror's Zenith§f, desestabiliza la torre del reloj configurando una hora §esuperior a las 12§f, e investiga qué ocurre.\n",
   "cld_lore_32": "   §e▶ §7§cNo recuerdo§7 cómo usar la §ctorre del reloj§7.",
   "cld_lore_33": "   §e▶ §7¡Entendido!",
   "cld_lore_34": "Mira tu §einventario§f. Te he dejado algunas §enotas§f. Sigue los pasos.",
@@ -12711,10 +12711,10 @@
   "cld_lore_148": "No esperaba menos de los héroes de esta galaxia. Protegiendo la integridad de mi negocio una vez más. Y ahora que la galaxia ya no está en peligro... ¿qué vais a hacer?",
   "cld_lore_149": "   §e▶ §7Creo que me tomaré unas laaaargas vacaciones.",
   "cld_lore_150": "Suena bien. Descansar es importante... Yo también debería tomarme un descanso...",
-  "cld_lore_151": "   §e▶ §7Hasta luego, Mr. Ery!",
+  "cld_lore_151": "   §e▶ §7Hasta luego, Mr. Erio!",
 
   "cld_lore_152": "   §e▶ §7Quiero activar/desactivar la §emúsica§7 del Santuario.",
-  "cld_lore_153": "¿Quieres seguir escuchando la música del §esSantuario§f? §7§o(Esta opción solo afecta al santuario. El volumen de la música general del mapa se controla desde el deslizador de Bloques Musicales; no la pongas a cero o te perderás la música de jefes y cinemáticas).",
+  "cld_lore_153": "¿Quieres seguir escuchando la música del §eSantuario§f? §7§o(Esta opción solo afecta al santuario. El volumen de la música general del mapa se controla desde el deslizador de Bloques Musicales; no la pongas a cero o te perderás la música de jefes y cinemáticas).",
   "cld_lore_154": "   §e▶ §a§l[Música activada]§e ◀",
   "cld_lore_155": "   §e▶ §c§l[Música desactivada]§e ◀",
   "cld_lore_156": "      §7§l[Música activada]",
@@ -12722,7 +12722,7 @@
 
   "cld_lore_158": "§e=======================================\n§e§l<!> §fTodavía hay §ecabos sueltos§f. Síguelos, y podrás conseguir un §efinal que pocos han visto§f. Busca este símbolo: §c§l[§e§l!§c§l]\n§e=======================================",
   "cld_lore_159": "§c§l¡El guantelete está en enfriamiento!",
-  "cld_lore_160": "§f¡§cNo puedes§f bloquear ataques §b§lAZULES§F!",
+  "cld_lore_160": " §f¡§cNo puedes§f bloquear ataques §b§lAZULES§F!",
 
   "cld_lore_161": "   §e▶ §7Pero espera, ¡§eya he derrotado a Maraw'Thar§7 con ayuda de tu hermana!",
 
@@ -12757,9 +12757,9 @@
   "b11_text_24": "   §e▶ §7¿Puedes §bteletransportarme de vuelta§7?",
 
   "b11_text_25": "   §e▶ §bHomeostasis de Melsangre (§l!§b Importante)",
-  "b11_text_26": "§b§lHomeostasis de Melsangre (! Importante)\n\n§fLa reina siempre tiene consigo §e4 Momias de Miel§f en la arena. Matar una §einmediatamente§f hace que aparezca §eotra§f.\nLas momias son §einmóviles§f y §3no causan daño§f. Tras §c§l4 golpes§f, se §cmueren§f.\n\nSi §aTÚ§f aciertas el §aúltimo golpe§f, la momia §amuere de forma segura§f. \nSi la §cREINA§f acierta el §cúltimo golpe§f, se conviente en un §cEngendro de Melsangre§f que te §cperseguirá§f y §catacará§f. ¡Si el §cEngendro de Melsangre§f no se elimina en §e10 segundos§f, entrará en ira, aumentando su daño de forma §cletal ☠§f! \n\nMummies show hit progress on their health bar and §cglow red§f when §eone hit away§f.\n\nThe mummies also drop §efood§f, §earrows§f, and §eweapons§f.\n\n§b§lTip:§f finish the mummies when they are at one hit remaining, to save time.\n",
-  "b11_text_27": "   §e▶ §eRayo de Melsangre",
-  "b11_text_28": "§e§lRayo de Melsangre\n\n§fTras un §ebreve tiempo§f, la reina §cescupe0§f un rayo de Melsangre §c§lhacia delante§f y §c§lhacia§f cada §6momia de Melsangre§f y §cEngendro de Melsangre§f, dañando a los jugadores y a las §emomias§f.\n\n§b§lPista:§f No te quedes en frente del jefe y evita colocarte entre el jefe y las momias.\n",
+  "b11_text_26": "§b§lHomeostasis de Melsangre (! Importante)\n\n§fLa reina siempre tiene consigo §e4 Momias de Miel§f en la arena. Matar una §einmediatamente§f hace que aparezca §eotra§f.\nLas momias son §einmóviles§f y §3no causan daño§f. Tras §c§l4 golpes§f, se §cmueren§f.\n\nSi §aTÚ§f aciertas el §aúltimo golpe§f, la momia §amuere de forma segura§f. \nSi la §cREINA§f acierta el §cúltimo golpe§f, se conviente en un §cEngendro de Melsangre§f que te §cperseguirá§f y §catacará§f. ¡Si el §cEngendro de Melsangre§f no se elimina en §e10 segundos§f, entrará en ira, aumentando su daño de forma §cletal ☠§f! \n\nLas momias muestran el progreso de los golpes en su barra de vida y §cbrillan en rojo§f cuando están §ea un solo golpe§f de morir. Las momias también sueltan §ecomida§f, §eflechas§f y §earmas§f. \n\n§b§lConsejo:§f remata a las momias cuando estén a un golpe de morir para ahorrar tiempo.\n",
+  "b11_text_27": "   §e▶ §eDescarga de Melsangre",
+  "b11_text_28": "§e§lDescarga de Melsangre\n\n§fTras un §ebreve tiempo§f, la reina §cescupe§f un rayo de Melsangre §c§lhacia delante§f y §c§lhacia§f cada §6momia de Melsangre§f y §cEngendro de Melsangre§f, dañando a los jugadores y a las §emomias§f.\n\n§b§lPista:§f No te quedes en frente del jefe y evita colocarte entre el jefe y las momias.\n",
   "b11_text_29": "   §e▶ §rRompecolmenas (§l! §rpeligroso)",
   "b11_text_30": "§6§lRompecolmenas (! peligroso)\n\n§fLa Reina lleva a cabo una §esecuencia§f de dos ataques:\n\n§6§lGolpe Sísmico:§f La reina golpea §cla mitad§f de la arena, dañando a los §ejugadores§f y §emomias§f.\n\n§6§lPlacaje Radial:§f La Reina gira en el sitio, dañando a todos los §ejugadores§f y §emomias§f en un área circular a su alrededor.\n",
   "b11_text_31": "   §e▶ §eAsalto desde Abajo",
@@ -12823,6 +12823,7 @@
   "maldini_portal_3": "§9que teletransportará a todos los §egatos§9 cercanos a casa.",
   "maldini_portal_4": "§9El objeto se §econsume§9 tras usarse, pero",
   "maldini_portal_5": "§9 puedes pedirle más a §eMaldini§9.",
+  "luisb1202.functions.bossfight.koros_msg_lotear.3": "El jefe ha soltado un objeto!",
 
 
   "atacrom_book_lore_0":"§lCómo exceder las 12 horas del reloj",
@@ -12846,7 +12847,7 @@
   "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.1.1": "<Maldini> ",
   "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.1.2": "Bienvenido a mi humilde hogar, aventurero. Vivo aquí desde que tuve que abandonar mi antigua casa, en §eGlacial Fort§f.",
   "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.1.3": "   §e▶ §7¿Por qué la abandonaste?",
-  "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.2.1": "§eEl Conquistador§f's atacó y afectó al clima, haciendo que el sitio se congelara y fuera inhóspito. Por suerte, gracias a mis botas mágicas, pude escapar del invierno.",
+  "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.2.1": "§eEl Conquistador§f atacó y afectó al clima, haciendo que el sitio se congelara y fuera inhóspito. Por suerte, gracias a mis botas mágicas, pude escapar del invierno.",
   "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.2.2": "   §e▶ §7Bueno...",
   "luisb1202.functions.carga_lanas.no_lana.dialogos_i1.maldini.3.1": "Lamentablemente, se me han perdido §e9 gatos§f de camino hasta aquí. Si consigues encontrarlos, ¡te §erecompensaré§f con mis §dbotas§f! Cuando veas uno, lanza uno de mis §3portales de bolsillo§f para traerlo de vuelta. \n\n§2§l[MISIÓN]:§7 Encuentra los §e9 gatos§7 de Maldini, hay 3 en cada área de esta intersección. Cuando veas uno, §elanza§7 un §3Portal de Bolsillo de Maldini§7 a ellos para traerlos de vuelta.",
   "maldini_0": "   §e▶ §7Aceptar misión",
@@ -12960,6 +12961,10 @@
   "nightmare_cosmic_core_10003": "§7᛫ Música por §eCarles Roch§7 ᛫",
   "nightmare_cosmic_core_10004": "§7᛫ Playtesting y Traducción: §eOmegaSlime02§7 ᛫",
   "nightmare_cosmic_core_10005": "§7᛫ Playtesting y Diseñador Auxiliar: §eElRichMC§7 ᛫",
+
+
+  "skip_to_dlc": "\n\n§e=======================================\n§c☠ §l¡ATENCIÓN! §c☠\n\n§e▶ §fHas §aactivado§f el §eskip§f hasta el §efinal del mapa§f. §c§nPor favor§f, pasa el §c§nratón por encima§f para ver §c§ninformación muy importante§f sobre esta opción.\n\n§e=======================================",
+  "skip_to_dlc_2": "§c§l¡IMPORTANTÍSIMO! \n\n§e▶ §fDelante de ti hay varios cofres llenos de objetos de §eend-game§f para equiparte.\n\n§e▶ §fLos objetos especiales son §cúnicos§f y no puede haber copias: §c§nNO§f los forjes de nuevo§f. §c§nNO§f os equipéis el mismo objeto dos veces en diferentes jugadores. En caso contrario podrían ocurrir §4§nerrores inesperados§f.\n\n§e▶ §fTodos tus rasgos han sido desbloqueados. Habla con §eKoros§f para equiparlos.\n\n§e▶ §fTodas las mejoras de vida de la forja también han sido desbloqueadas.\n\n§e▶ §fHabla con §eMr. Erio§f, debajo de las escaleras del santuario, para comenzar la cadena de misiones del §efinal secreto§f señalada con un §c§l[§e§l!§c§l]§f.\n",
 
   "the_end": ""
   
