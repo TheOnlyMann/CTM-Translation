@@ -1,0 +1,36 @@
+{
+  "text.red.crafting_table.info.1": "There are many of them on the field. You need to find them to craft items.",
+  "text.red.crafting_table.info.2": "Hmm... that's right, wooden things burn easily here.",
+  "text.red.crafting_table.info.3": "This is a §cStone Crafting Table§r",
+
+  "item.red.ring_of_consequences": "Ring of Consequences",
+  "item.red.blade_of_endless_flame": "Blade of Endless Flame",
+  "item.red.blade_of_flame": "Blade of Flame",
+  "item.red.blessing_of_the_blaze": "Blessing of the Blaze",
+  "item.red.trampling_flames": "Trampling Flames",
+  "item.red.water_bottle": "Water Bottle",
+  "item.red.burning_berries": "Burning Berries",
+
+  "item_desc.red.offhand": "Offhand Item",
+  "item_desc.red.ring_of_consequences.1": "Burns the user when dealing damage",
+  "item_desc.red.ring_of_consequences.2": "and grants Strength III for 3 seconds",
+  "item_desc.red.blade_of_endless_flame.1": "Triggers an explosion every 5 hits",
+  "item_desc.red.blade_of_endless_flame.2": "Deals §c15§r damage to enemies within 8 blocks and sets them §cburning§r",
+  "item_desc.red.blade_of_endless_flame.3": "Affected players in the area gain §6Fire Resistance§r for 10 seconds",
+  "item_desc.red.blessing_of_the_blaze.1": "Gain §6Fire Resistance§r for 20 seconds when eating cooked food",
+  "item_desc.red.trampling_flames.1": "Extinguishes nearby flames when worn",
+  "item_desc.red.blade_of_flame.1": "A sword radiating powerful flame energy",
+  "item_desc.red.water_bottle.1": "Can §cextinguish§r burning monsters",
+  "item_desc.red.burning_berries.1": "A fruit wrapped in flames",
+  "item_desc.red.burning_berries.2": "Grants §6Fire Resistance§r for 10 seconds when eaten",
+
+  "entity.red.magma_bomb": "Magma Bomb",
+  "entity.red.blazing_warrior": "Blazing Warrior",
+  "entity.red.blazing_zombie_acolyte": "Blazing Zombie Acolyte",
+  "entity.red.burning_gardener": "Burning Gardener",
+  "entity.red.burning_soul": "Burnt-out Soul",
+  "entity.red.empowered_blaze": "Empowered Blaze",
+  "entity.red.flame_berserker": "Flame Berserker",
+  "entity.red.lava_creeper": "Lava Creeper",
+  "entity.red.magma_cube": "Empowered Magma Cube"
+}

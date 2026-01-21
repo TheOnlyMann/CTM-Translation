@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "gray:ttf/ibm_plex_mono_regular.ttf",
+      "size": 6,
+      "oversample": 6
+    }
+  ]
+}

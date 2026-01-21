@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "[": -105,
+        "]": 105,
+        "A": -10
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/armor_cancelled.png",
+      "height": 9,
+      "ascent": -26,
+      "chars": ["a"]
+    }
+  ]
+}

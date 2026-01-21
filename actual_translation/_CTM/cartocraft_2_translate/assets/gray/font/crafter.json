@@ -1,0 +1,63 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gray:font/crafting_gui.png",
+      "height": 38,
+      "ascent": 7,
+      "chars": ["\ue000"]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue001": -74,
+        "\ue002": -33,
+        "\ue003": 26,
+        "\ue004": 6,
+        " ": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "item/iron_ingot.png",
+      "height": 10,
+      "ascent": 4,
+      "chars": ["\ue100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "item/iron_ingot.png",
+      "height": 10,
+      "ascent": -7,
+      "chars": ["\ue101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/crafting_table.png",
+      "height": 10,
+      "ascent": -7,
+      "chars": ["\ue102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "item/redstone.png",
+      "height": 10,
+      "ascent": -18,
+      "chars": ["\ue103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/dropper.png",
+      "height": 10,
+      "ascent": -18,
+      "chars": ["\ue104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/crafter.png",
+      "height": 10,
+      "ascent": -7,
+      "chars": ["\ue105"]
+    }
+  ]
+}

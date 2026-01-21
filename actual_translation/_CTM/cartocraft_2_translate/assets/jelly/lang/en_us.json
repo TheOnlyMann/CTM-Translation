@@ -1,0 +1,34 @@
+{
+  "death.attack.jelly:flash": "%s was flashed by %s",
+  "death.attack.jelly:flash.item": "%s was flashed by %s using %s",
+  "death.attack.jelly:flash.player": "%s was flashed while trying to escape %s",
+  
+  "jelly.mob_tentacle":"Tentacles",
+  "jelly.mob_zombie":"Plant Zombie",
+  "jelly.mob_skeleton":"Skeletal Researcher",
+  "jelly.mob_creeper":"Best Employee for Life",
+  "jelly.mob_cat":"Master’s Cat",
+  "jelly.button.fail":"The Mechanism is Stuck. The monster (slime) jamming the mechanism seems to be nearby.",
+  "jelly.button.success":"Mechanism Unlocked",
+  "jelly.glowing_potion":"Splash Potion of Glowing",
+  "jelly.witch_hat":"Witch’s Hat",
+  "jelly.lore0":"A spirit seems to reside within.",
+  "jelly.lore1":"When life is threatened, grants Absorb III Duration: 30 seconds Cooldown: 60 seconds",
+  "jelly.lore2":"Final Area Reward",
+  
+  
+  "jelly.event0":"Fluorescent Light Activated",
+  "jelly.event1":"Lighting Pathway 1 Activated",
+  "jelly.event2":"Lighting Pathway 2 Activated",
+  "jelly.event3":"Final Area Reward Generated",
+  "jelly.tell_mob":"Area Monsters: ",
+  "jelly.tell_zombie":"Plant Zombie | ",
+  "jelly.tell_zombie_lore":"A monster formed when a corpse fails to fully decay for a long time and becomes parasitized by plants. When its life is threatened, it grabs its target and emerges from the ground. It fears bright light—being exposed to strong flashes will disable its abilities.",
+  "jelly.tell_skeleton":"Skeletal Researcher | ",
+  "jelly.tell_skeleton_lore":"A failed experiment, now reduced to just bones. When exposed to strong flashes of light, it goes into a berserk rage.",
+  "jelly.tell_creeper":"Best Employee for Life | ",
+  "jelly.tell_creeper_lore":"Originally a creature that helped transport goods, it always carries a vial of potion on its head. Having lost its master, it has reverted to its wild instincts. When exposed to strong flashes of light, its movement speed increases.",
+  "jelly.tell_cat":"Master’s Cat | ",
+  "jelly.tell_cat_lore":"An assistant responsible for guarding this place, hoping for its master’s return. It helps the area’s monsters activate their abilities.",
+  "test.negative":"\ue005"
+}

@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gray:font/armor_cancelled.png",
+      "height": 9,
+      "ascent": -16,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/b30.png",
+      "height": 5,
+      "ascent": -18,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/f30.png",
+      "height": 5,
+      "ascent": -18,
+      "chars": ["f"]
+    }
+  ]
+}

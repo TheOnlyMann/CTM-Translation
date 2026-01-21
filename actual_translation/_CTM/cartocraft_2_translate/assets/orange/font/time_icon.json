@@ -1,0 +1,46 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "ascent": 1,
+      "chars": ["-"],
+      "file": "orange:font/time_icon/bar.png",
+      "height": 1
+    },
+    {
+      "type": "bitmap",
+      "ascent": 48,
+      "chars": ["1"],
+      "file": "orange:font/time_icon/p1.png",
+      "height": 48
+    },
+    {
+      "type": "bitmap",
+      "ascent": 48,
+      "chars": ["2"],
+      "file": "orange:font/time_icon/p2.png",
+      "height": 48
+    },
+    {
+      "type": "bitmap",
+      "ascent": 48,
+      "chars": ["3"],
+      "file": "orange:font/time_icon/p3.png",
+      "height": 48
+    },
+    {
+      "type": "bitmap",
+      "ascent": 48,
+      "chars": ["4"],
+      "file": "orange:font/time_icon/p4.png",
+      "height": 48
+    },
+    {
+      "type": "bitmap",
+      "ascent": 48,
+      "chars": ["5"],
+      "file": "orange:font/time_icon/p5.png",
+      "height": 48
+    }
+  ]
+}

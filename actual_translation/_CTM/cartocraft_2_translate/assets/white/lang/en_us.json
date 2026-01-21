@@ -1,0 +1,35 @@
+{
+  "white.moving.bones": "Moving Bones",
+  "white.moving.remains": "Moving Remains",
+  "white.moving.body": "Moving Body",
+
+  "white.moving.husk": "Moving Husk",
+  "white.awaken.remains": "Awaken Remains",
+
+  "white.broom": "Broom",
+  "white.broom.lore1": "It's a common broom",
+  "white.broom.lore2": "But little larger than a regular sword",
+
+  "white.useful.sword": "Useful Sword",
+  "white.durable.sword": "Durable Sword",
+
+  "white.heavy.wooden.pickaxe": "Heavy Wooden Pickaxe",
+  "white.lucky.pickaxe": "Lucky Pickaxe",
+
+  "white.leather.jacket": "Leather Jacket",
+  "white.leather.jeans": "Leather Jeans",
+
+  "white.leather.hat": "Leather Hat",
+  "white.leather.shoes": "Leather Shoes",
+
+  "white.a.note": "A Note",
+  "white.a.note.lore": "The pistol uses copper ingots as bullets",
+
+  "white.rabbit.foot": "Special rabbit's foot",
+  "white.offhand.item": "offhand item",
+
+  "white.davleek.rabbit": "Davleek",
+  "white.davleek.stew": "Davleek Stew",
+  "white.davleek.stew.lore1": "The mysterious food someone is looking for.",
+  "white.davleek.stew.lore2": "But it's just a simple Rabbit Stew."
+}

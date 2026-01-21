@@ -1,0 +1,116 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "block/white_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/orange_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/magenta_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/light_blue_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/yellow_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/lime_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/pink_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/gray_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/light_gray_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/cyan_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/purple_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/blue_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["c"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/brown_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["d"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/green_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["e"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/red_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["f"]
+    },
+    {
+      "type": "bitmap",
+      "file": "block/black_wool.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["g"]
+    }
+  ]
+}

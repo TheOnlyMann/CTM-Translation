@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "(": -3,
+        ")": 3,
+        "\t": 182,
+        "B": -83,
+        "F": -83,
+        "-": -1,
+        "+": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/b80.png",
+      "height": 5,
+      "ascent": -5,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/f80.png",
+      "height": 5,
+      "ascent": -5,
+      "chars": ["f"]
+    }
+  ]
+}

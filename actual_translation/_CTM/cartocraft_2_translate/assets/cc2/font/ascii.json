@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "include/space"
+    },
+    {
+      "type": "reference",
+      "id": "include/default"
+    },
+    {
+      "type": "reference",
+      "id": "include/unifont"
+    }
+  ]
+}

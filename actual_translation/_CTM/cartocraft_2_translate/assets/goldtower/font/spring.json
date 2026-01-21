@@ -1,0 +1,131 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/0.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue000"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/1.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue001"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/2.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue002"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/3.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue003"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/4.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue004"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/5.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue005"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/6.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue006"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/7.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue007"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/8.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue008"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/9.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue009"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/10.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue010"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/11.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue011"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/12.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue012"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/13.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue013"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/14.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue014"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/15.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue015"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/16.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue016"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/17.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue017"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/18.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue018"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/19.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue019"]
+        },	{
+            "type": "bitmap",
+            "file": "goldtower:gui/overlay/spring/20.png",
+            "ascent":170,
+            "height":180,
+            "chars": ["\ue020"]
+        }
+    ]
+}

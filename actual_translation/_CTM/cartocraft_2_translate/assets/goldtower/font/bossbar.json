@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "goldtower:cutom_bossbar/moo_bossbar.png",
+            "ascent":7,
+            "height":21,
+            "chars": ["\ue000"]
+        },
+                {
+            "type": "bitmap",
+            "file": "goldtower:cutom_bossbar/moo_bossbar2.png",
+            "ascent":7,
+            "height":21,
+            "chars": ["\ue001"]
+        }
+    ]
+}

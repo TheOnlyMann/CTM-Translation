@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "goldtower:font/chk.png",
+      "ascent": 10, "height": 14,
+      "chars": ["\ue000"]
+    }
+  ]
+}

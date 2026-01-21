@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "0": 1
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/p10.png",
+      "height": 5,
+      "ascent": 0,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/p20.png",
+      "height": 5,
+      "ascent": 0,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/bar/p30.png",
+      "height": 5,
+      "ascent": 0,
+      "chars": ["3"]
+    }
+  ]
+}

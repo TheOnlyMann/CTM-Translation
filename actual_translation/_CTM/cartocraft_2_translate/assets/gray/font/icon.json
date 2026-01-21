@@ -1,0 +1,38 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "gray:item/learned.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\ue000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/shundle_source.png",
+      "height": 38,
+      "ascent": 7,
+      "chars": ["\ue001"]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue002": 25
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/js_trinity.png",
+      "height": 60,
+      "ascent": -27,
+      "chars": ["\ue003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "gray:font/charging.png",
+      "height": 7,
+      "ascent": -44,
+      "chars": ["\ue004"]
+    }
+  ]
+}

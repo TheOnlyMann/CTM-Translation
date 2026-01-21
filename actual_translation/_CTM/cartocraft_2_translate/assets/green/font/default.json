@@ -1,0 +1,142 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+          " ": 4
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/fu.png",
+      "ascent": 4, "height": 10,
+      "chars": ["\ue000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/jin.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/0.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/1.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/2.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/3.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/4.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/5.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue105"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/6.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue106"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/7.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue107"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/8.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue108"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/unknown.png",
+      "ascent": 9, "height": 10,
+      "chars": ["\ue109"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/9copper.png",
+      "ascent": 10, "height": 11,
+      "chars": ["\ue10a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/9flower.png",
+      "ascent": 10, "height": 11,
+      "chars": ["\ue10b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hanafuda/9teleport.png",
+      "ascent": 11, "height": 13,
+      "chars": ["\ue10c"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/white_blindness.png",
+      "ascent": 500, "height": 700,
+      "chars": ["\ue200"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/hot_face.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue201"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/clown.png",
+      "ascent": 30, "height": 65,
+      "chars": ["\ue202"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/dialog/sparkle1.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue203"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/dialog/sparkle2.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue204"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/dialog/sparkle3.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue205"]
+    },
+    {
+      "type": "bitmap",
+      "file": "green:font/tp_home/icon.png",
+      "ascent": 8, "height": 10,
+      "chars": ["\ue300"]
+    }
+  ]
+}

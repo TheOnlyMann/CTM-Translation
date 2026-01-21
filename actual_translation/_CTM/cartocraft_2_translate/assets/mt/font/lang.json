@@ -1,0 +1,56 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "bitmap",
+            "file": "mt:font/numbers.png",
+            "ascent": 5,
+            "height": 5,
+            "chars": [
+                "0123456789"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mt:font/numbers.png",
+            "ascent": 5,
+            "height": 5,
+            "chars": [
+                "\u25A0\u25B6\u25E5\u25B2\u25E4\u25C0\u25E3\u25BC\u25E2\u25C6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mt:font/letters.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1401\u1403\u1405\u1406\u140A",
+                "\u142F\u1431\u1433\u1434\u1438",
+                "\u144C\u144E\u1450\u1451\u1455",
+                "\u146B\u146D\u146F\u1470\u1472",
+                "\u14A3\u14A5\u14A7\u14A8\u14AA",
+                "\u14C0\u14C2\u14C4\u14C5\u14C7",
+                "\u14D3\u14D5\u14D7\u14D8\u14DA",
+                "\u14ED\u14EF\u14F1\u14F2\u14F4",
+                "\u1526\u1528\u152A\u152B\u152D",
+                "\u1553\u1555\u1557\u1558\u1559",
+                "\u1550\u14D0\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/default",
+            "filter": {
+                "uniform": false
+            }
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/unifont"
+        }
+    ]
+}

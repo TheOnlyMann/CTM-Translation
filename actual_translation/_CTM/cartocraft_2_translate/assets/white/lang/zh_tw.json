@@ -1,0 +1,35 @@
+{
+  "white.moving.bones": "會動的骨頭",
+  "white.moving.remains": "會動的殘骸",
+  "white.moving.body": "會動的身體",
+
+  "white.moving.husk": "會動的屍殼",
+  "white.awaken.remains": "甦醒的殘骸",
+
+  "white.broom": "掃把",
+  "white.broom.lore1": "只是一把普通的掃把",
+  "white.broom.lore2": "但比一般的劍還要長",
+
+  "white.useful.sword": "好用的木劍",
+  "white.durable.sword": "耐用的木劍",
+
+  "white.heavy.wooden.pickaxe": "堅硬的木鎬",
+  "white.lucky.pickaxe": "幸運鎬子",
+
+  "white.leather.jacket": "皮夾克",
+  "white.leather.jeans": "牛仔褲",
+
+  "white.leather.hat": "皮帽",
+  "white.leather.shoes": "皮鞋",
+
+  "white.a.note": "一張紙條",
+  "white.a.note.lore": "這把槍會拿銅錠當子彈發射",
+
+  "white.rabbit.foot": "特殊的兔子腳",
+  "white.offhand.item": "副手物品",
+
+  "white.davleek.rabbit": "兔子天天",
+  "white.davleek.stew": "天天兔肉湯",
+  "white.davleek.stew.lore1": "這是某人正在尋找的食物",
+  "white.davleek.stew.lore2": "但這只是一碗普通的兔肉湯"
+}

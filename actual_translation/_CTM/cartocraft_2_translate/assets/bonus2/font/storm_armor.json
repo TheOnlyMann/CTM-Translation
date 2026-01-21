@@ -1,0 +1,82 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "(": -145,
+        ")": 145,
+        "-": -21
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/0.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/1.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/2.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/3.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/4.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/5.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/6.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/7.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/8.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bonus2:font/storm_armor_hud/timer_ring.png",
+      "height": 20,
+      "ascent": -44,
+      "chars": ["r"]
+    }
+  ]
+}

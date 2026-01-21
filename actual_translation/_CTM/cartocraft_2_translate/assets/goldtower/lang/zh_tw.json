@@ -1,0 +1,93 @@
+{
+    "enchantment.goldtower.spring":"反重",
+    "item_desc.goldtower.spring":"長按跳躍蓄力，蓄力越久跳得越高",
+    "item_desc.goldtower.spring.2":"(沒有摔落保護)",
+    
+    "enchantment.goldtower.twine":"纏身",
+    "item_desc.goldtower.twine":"給予攻擊者§e緩速II(00:05)§f和§e虛弱II(00:05)",
+    "item_desc.goldtower.twine.2":"(冷卻40秒)",
+    
+    "item.goldtower.hood":"黃沙兜帽",
+    "enchantment.goldtower.ysand":"沙星",
+    "item_desc.goldtower.ysand":"召喚沙星鎖定敵人，造成範圍傷害(冷卻30秒)",
+    
+    "item.goldtower.hood2":"重力兜帽",
+    "enchantment.goldtower.hood2":"沙落陷阱",
+    "item_desc.goldtower.hood2":"對20格內隨機一個怪物，召喚5個沙子(冷卻10秒)",
+    
+    "item.goldtower.gravity_saber": "重力軍刀",
+    "enchantment.goldtower.quick_sand":"流沙",
+    "item_desc.goldtower.quick_sand.1": "近戰攻擊附帶擊退，被擊中的生物",
+    "item_desc.goldtower.quick_sand.2": "會在腳下生成流沙，定身 2.5 秒，",
+    "item_desc.goldtower.quick_sand.3": "結束時會產生 3 顆砂石，造成 3 點傷害。",
+    
+    "item.goldtower.she":"戰牛方盾",
+    "item_desc.goldtower.she":"舉盾時給予玩家加速，並可對接觸到的敵人造成2點傷害",
+    
+    "item.goldtower.vermicelli":"麵線",
+    "item_desc.goldtower.vermicelli":"§7據說會無性繁殖",
+    
+    "item.goldtower.chk":"沙漠之鷹",
+    "item_desc.goldtower.chk":"發射一發",
+    "item_desc.goldtower.chk2":"點傷害的臭雞蛋 (冷卻20秒)",
+    
+    "item.goldtower.spear":"石矛",
+    "item_desc.goldtower.spear":"可以增加",
+    "item_desc.goldtower.spear2":"戰牛方盾",
+    "item_desc.goldtower.spear3":"的衝撞範圍",
+    
+    "item.goldtower.enchant":"手持式附魔書",
+    "item_desc.goldtower.enchant":"一本能右鍵附魔副手物品的附魔書",
+    "item_desc.goldtower.boots":"(靴子類)",
+    "item_desc.goldtower.legs":"(護腿類)",
+    "item_desc.goldtower.head":"(頭盔類)",
+    "item_desc.goldtower.chest":"(胸甲類)",
+    "item_desc.goldtower.armor":"(防具類)",
+    "item_desc.goldtower.sword":"(劍斧類)",
+    "item_desc.goldtower.all":"(所有)",
+    
+    "item.goldtower.mummy_hat":"繃帶 - 頭",
+    "item.goldtower.mummy_chest":"繃帶 - 身",
+    "item.goldtower.mummy_legs":"繃帶 - 腿",
+    "item.goldtower.mummy_boots":"繃帶 - 腳",
+
+    "entity.goldtower.mummy":"木乃伊",
+    "entity.goldtower.burrower":"鑽地者",
+    "entity.goldtower.hugger":"擁抱者",
+    "entity.goldtower.archer":"萬引浮髏",
+    "entity.goldtower.qs":"擲沙者",
+    "entity.goldtower.ysand":"黃沙巫妖",
+    "entity.goldtower.gravity":"原力使者",
+    "entity.goldtower.boss":"黃金君主",
+
+    "text.goldtower.uwu":"吾",
+    "text.goldtower.uwu2":"吾乃",
+    "text.goldtower.uwu3":"黃",
+    "text.goldtower.uwu4":"黃金",
+    "text.goldtower.uwu5":"黃金君",
+    "text.goldtower.uwu6":"黃金君...",
+    "text.goldtower.uwu7":"hahu_mouei 加入了遊戲",
+    
+    "text.goldtower.gravity.deactivate.low":"一個神祕的聲音告訴你最近的重力力場已被關閉",
+    "text.goldtower.gravity.deactivate.up":"一個神祕的聲音告訴你最近的反重力力場已被關閉",
+    "text.goldtower.lock.remain.1":"剩餘 1 股重力力量守護",
+    "text.goldtower.lock.remain.0":"盡頭的守護已被解除",
+    "text.goldtower.lock.unlock":"互動 - 解除盡頭的守護",
+
+    "text.goldtower.lock.banish.2":"被 2 股重力力場守護著",
+    "text.goldtower.lock.banish.1":"被 1 股重力力場守護著",
+    "text.goldtower.lock.get_in":"門被封住了.w.",
+    "text.goldtower.ysand.tip":"🗡 攻擊沙星反彈 🗡",
+    
+    "text.goldtower.spawn":"互動 - 設置重生點",
+    "text.goldtower.spawn.tip":"已設定重生點",
+    "text.goldtower.gravity.low":"互動 - 關閉重力力場",
+    "text.goldtower.gravity.up":"互動 - 關閉反重力場",
+    "text.goldtower.gravity.sw":"互動 - 切換可動力場",
+    "text.goldtower.gravity.sw.up":"進入重力力場抵銷反重浮力",
+
+    "text.goldtower.enchant.lower_lvl": "附魔書等級太低",
+    "text.goldtower.enchant.not_offhand": "附魔書不能放在副手",
+    "text.goldtower.enchant.no_apply": "不相容此附魔",
+    "text.goldtower.enchant.no_item": "沒有物品可以附魔"
+}

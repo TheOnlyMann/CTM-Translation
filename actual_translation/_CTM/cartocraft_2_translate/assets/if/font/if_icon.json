@@ -1,0 +1,598 @@
+{
+    "providers":[
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_1.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf00"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_1.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf01"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_2.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf02"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_3.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf03"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_4.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf04"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_5.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf05"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_6.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf06"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_7.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf07"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_8.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf08"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_9.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf09"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_10.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf10"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_11.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf11"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_12.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf12"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_13.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf13"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_14.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf14"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_15.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf15"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_16.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf16"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_17.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf17"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_18.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf18"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_19.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf19"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_20.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf20"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_21.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf21"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_22.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf22"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_23.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf23"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_24.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf24"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_25.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf25"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_26.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf26"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_27.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf27"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_28.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf28"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_29.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf29"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_30.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf30"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_31.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf31"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_32.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf32"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_33.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf33"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_34.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf34"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_35.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf35"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_36.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf36"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_37.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf37"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_38.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf38"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_39.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf39"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_40.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf40"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_41.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf41"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_42.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf42"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_43.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf43"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_44.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf44"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_45.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf45"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_46.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf46"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_47.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf47"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_48.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf48"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_49.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf49"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/thermometer/thermometer_50.png",
+            "ascent": -30,
+            "height": 36,
+            "chars":[
+                    "\uEf50"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/cremate_variant_0.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfa0"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/cremate_variant_1.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfa1"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/burning_variant_0.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfb0"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/burning_variant_1.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfb1"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/burning_variant_2.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfb2"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/none.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfc0"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/none.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfc1"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/none.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfc2"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/cool_variant_0.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfd0"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/cool_variant_1.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfd1"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/cool_variant_2.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfd2"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/frozen_variant_0.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfe0"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/effects/frozen_variant_1.png",
+            "ascent": -26,
+            "height": 40,
+            "chars":[
+                    "\uEfe1"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/magic_shield.png",
+            "ascent": 100,
+            "height": 200,
+            "chars":[
+                    "s"
+                ]
+        },
+        {
+            "type": "bitmap",
+            "file": "if:icon/magic_shield2.png",
+            "ascent": 100,
+            "height": 200,
+            "chars":[
+                    "i"
+                ]
+        }
+    ]
+}
