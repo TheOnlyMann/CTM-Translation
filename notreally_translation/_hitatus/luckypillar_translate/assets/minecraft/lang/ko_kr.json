@@ -1,0 +1,18 @@
+{
+    "menu.game": "",
+    "container.crafting": "󏾡§f",
+    "multiplayer.player.joined": "§r§6§l[팁]§r§7§l §r§2+ %s",
+    "multiplayer.player.left": "§r§6§l[팁]§r§7§l §r§4- %s",
+    "menu.options": "§r§a§l§n설정",
+    "options.sounds": "§r§a§l§n음악 및 소리...",
+    "soundCategory.record": "§r§a§l§n커스텀 음악",
+    "yw-pillar.sound.fail_start": "시작 실패",
+    "yw-pillar.sound.good": "좋아요",
+    "yw-pillar.sound.bad": "나쁨",
+    "yw-pillar.sound.main": "음악-메인 음악",
+    "yw-pillar.sound.sea": "음악-바다",
+    "yw-pillar.sound.soft": "음악-소프트",
+    "yw-pillar.sound.battle": "음악-배틀",
+    "yw-pillar.sound.capixie": "구두 닦기",
+    "yw-pillar.sound.yanpai": "카드 확인"
+}

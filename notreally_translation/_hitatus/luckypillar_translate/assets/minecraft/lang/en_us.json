@@ -1,1 +1,18 @@
-{"menu.game":"\ue000","container.crafting":"\udaff\udfa1\u00a7f\ue001","multiplayer.player.joined":"\u00a7r\u00a76\u00a7l[Tips]\u00a7r\u00a77\u00a7l \u00a7r\u00a72+ %s","multiplayer.player.left":"\u00a7r\u00a76\u00a7l[Tips]\u00a7r\u00a77\u00a7l \u00a7r\u00a74- %s","menu.options":"\u00a7r\u00a7a\u00a7l\u00a7nOptions","options.sounds":"\u00a7r\u00a7a\u00a7l\u00a7nMusic & Sounds...","soundCategory.record":"\u00a7r\u00a7a\u00a7l\u00a7nCustom Music","yw-pillar.sound.fail_start":"\u5f00\u59cb\u5931\u8d25","yw-pillar.sound.good":"Good","yw-pillar.sound.bad":"Bad","yw-pillar.sound.main":"\u97f3\u4e50-\u4e3b\u97f3\u4e50","yw-pillar.sound.sea":"\u97f3\u4e50-\u6d77\u6d0b","yw-pillar.sound.soft":"\u97f3\u4e50-Soft","yw-pillar.sound.battle":"\u97f3\u4e50-Battle","yw-pillar.sound.capixie":"\u64e6\u76ae\u978b","yw-pillar.sound.yanpai":"\u6211\u8981\u9a8c\u724c"}
+{
+    "container.crafting": "󏾡§f\uE001",
+    "menu.game": "\uE000",
+    "menu.options": "§r§a§l§nOptions",
+    "multiplayer.player.joined": "§r§6§l[Tips]§r§7§l §r§2+ %s",
+    "multiplayer.player.left": "§r§6§l[Tips]§r§7§l §r§4- %s",
+    "options.sounds": "§r§a§l§nMusic & Sounds...",
+    "soundCategory.record": "§r§a§l§nCustom Music",
+    "yw-pillar.sound.bad": "Bad",
+    "yw-pillar.sound.battle": "音乐-Battle",
+    "yw-pillar.sound.capixie": "擦皮鞋",
+    "yw-pillar.sound.fail_start": "开始失败",
+    "yw-pillar.sound.good": "Good",
+    "yw-pillar.sound.main": "音乐-主音乐",
+    "yw-pillar.sound.sea": "音乐-海洋",
+    "yw-pillar.sound.soft": "音乐-Soft",
+    "yw-pillar.sound.yanpai": "我要验牌"
+}
