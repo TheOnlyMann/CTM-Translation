@@ -1,0 +1,31 @@
+{
+  "entity.minecraft.salmon": "Piranha",
+  "title.credits": " ",
+
+  "menu.singleplayer": "§cSingleplayer",
+  "menu.multiplayer": "§aMultiplayer",
+  "title.multiplayer.lan": "100 Ways To Die!",
+  "title.multiplayer.other": "100 Ways To Die!",
+  "title.multiplayer.realms": "100 Ways To Die!",
+  "title.singleplayer": "100 Ways To Die!",
+
+  "menu.options": "§aOptions...",
+  "options.sounds": "§aMusic & Sounds...",
+
+  "soundCategory.ambient": "Ambient/Environment",
+  "soundCategory.block": "Blocks",
+  "soundCategory.hostile": "Hostile Creatures",
+  "soundCategory.master": "Master Volume",
+  "soundCategory.music": "§cVanilla Music",
+  "soundCategory.neutral": "Friendly Creatures",
+  "soundCategory.player": "Players",
+  "soundCategory.record": "§aCustom Music",
+  "soundCategory.voice": "Voice/Speech",
+  "soundCategory.weather": "Weather",
+
+  "menu.game": "\ue000",
+
+  "key.keyboard.left.shift": "Shift"
+
+
+}

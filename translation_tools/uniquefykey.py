@@ -74,7 +74,7 @@ if __name__ == "__main__":
             print(f"Unknown argument: {arg}")
             sys.exit(1)
 
-    if len(json_files) < 2:
+    if len(json_files) < 1:
         print("❗ You must specify at least input.json.")
         sys.exit(1)
 

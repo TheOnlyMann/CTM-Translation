@@ -1,0 +1,32 @@
+{
+  "entity.minecraft.salmon": "피라냐",
+  "title.credits": " ",
+
+  "menu.singleplayer": "§c싱글플레이어",
+  "menu.multiplayer": "§a멀티플레이어",
+  "title.multiplayer.lan": "백가지 죽는 방법!",
+  "title.multiplayer.other": "백가지 죽는 방법!",
+  "title.multiplayer.realms": "백가지 죽는 방법!",
+  "title.singleplayer": "백가지 죽는 방법!",
+
+  "soundCategory.ambient": "분위기/환경",
+  "soundCategory.block": "블록",
+  "soundCategory.hostile": "적대적 생명체",
+  "soundCategory.master": "전체 음량",
+  "soundCategory.music": "§c바닐라 음악",
+  "soundCategory.neutral": "친화적 생명체",
+  "soundCategory.player": "플레이어",
+  "soundCategory.record": "§a커스텀 음악",
+  "soundCategory.voice": "음성",
+  "soundCategory.weather": "날씨",
+
+  "commands.trigger.add.success": " ",
+  "commands.trigger.failed.invalid": " ",
+  "commands.trigger.failed.unprimed": " ",
+  "commands.trigger.set.success": " ",
+  "commands.trigger.simple.success": " ",
+
+  "menu.game": "\ue000"
+
+
+}
