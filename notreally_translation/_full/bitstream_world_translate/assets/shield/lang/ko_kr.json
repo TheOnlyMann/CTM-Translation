@@ -1,0 +1,9 @@
+{
+	"subtitles.item.shield.up": "방패 올림",
+	"subtitles.item.shield.down": "방패 내림",
+	"subtitles.item.shield.ready": "방패 준비 완료",
+	"subtitles.item.shield.disable": "방패 비활성화",
+	"attribute.modifier.equals.time": "%s초 %s",
+	"item.modifiers.blocking": "방어 중:",
+	"attribute.name.shield.block_time": "방어 시간"
+}
