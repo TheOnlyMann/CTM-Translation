@@ -183,13 +183,10 @@
     "text.if.mechanism.cool.variant.2":"Iceblight",
     "text.if.mechanism.frozen.variant.0":"Freeze",
     "text.if.mechanism.frozen.variant.1":"Piercing Cold",
-
-    
     "text.if.potion.mh":"Permanent increase 4 Health.",
     "text.if.potion.ad":"Permanent increase 1 ATK.",
     "text.if.potion.m":"Permanent increase 0.1 Speed.",
     "text.if.potion.n/a":"Nothing Happend.",
-
     "text.if.player":"%1$s",
     "text.if.almost_frozen_1":"So cold. I should warm up quickly.",
     "text.if.almost_frozen_2":"I'm ge...getting Fff...Freezing.",
@@ -201,7 +198,6 @@
     "text.if.soul_knight_summon_triggered":"Triggered!",
     "text.if.soul_knight_summon_tips":"Please keep all players stay in the ring and click it to start BOSS Battle.",
     "text.if.soul_knight_summon_trigger_fail":"Fail! All players should stay in the ring.",
-
     "text.if.icy.spell.1.v0": "%s: You insignificant worm, you will pay for your offense!",
     "text.if.icy.spell.1.v1": "%s: You filthy vermin who barged into my factory and wreaked havoc!",
     "text.if.icy.spell.2.v0": "%s: I will bring down the divine decree in the name of %s!",
@@ -253,13 +249,11 @@
     "text.if.icy.hurt_talk_soul_box.8": "%s: Puh!",
     "text.if.icy.hurt_talk_soul_box.9": "%s: Cough, no! Not yet!",
     "text.if.icy.hurt_talk_soul_box.10": "%s: Aaaahhh! No! I can't die yet! I....",
-    
     "text.if.soul_knight_portal.outside":"Sure to transport into Flame Hell? (Boss Battle Field) %s",
     "text.if.soul_knight_portal.inside":"Sure to transport leave Flame Hell? (Boss Battle Field) %s",
     "text.if.icy_portal.outside":"Sure to transport ALL PLAYER into Dark Frozen Room? (Boss Battle Field) %s",
     "text.if.icy_portal.inside":"Sure to transport ALL PLAYER leave Dark Frozen Room?(Boss Battle Field) %s",
     "text.if.yes":"[Yes]",
-
     "advancement.if.enchantment.violent":"Rage",
     "advancement.if.enchantment.violent.desc":"Get Power after killed 10 mobs.",
     "advancement.if.enchantment.mace_protect":"Mace Smash Protect",
@@ -280,13 +274,11 @@
     "advancement.if.enchantment.cool_crossbow.desc":"Arrow will cause slowness, weakness and wither to the entity.",
     "advancement.if.enchantment.flame_crossbow":"Flame",
     "advancement.if.enchantment.flame_crossbow.desc":"Arrow will explode when hit entity.",
-    
     "advancement.if.welcom.name":"%s%s Soulforge",
     "advancement.if.welcom.name.1":"Pyro",
     "advancement.if.welcom.name.2":"glacial",
     "advancement.if.welcom.description":"A Strenge Alchemy Factory",
     "advancement.if.mob.root.name":"Monster Log",
-    
     "advancement.if.mob.root.description": "Your notes on the mysterious beings living in this factory.",
     "advancement.if.mob.boss_1.name": "Erphalos' Wraith",
     "advancement.if.mob.boss_1.description": "The lingering soul of a hero who once came to slay the evil alchemist. Now fallen into delusion, he mindlessly strikes at all life with masterful swordsmanship. He chants powerful incantations—better interrupt him with heavy damage before they're unleashed.",
