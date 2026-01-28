@@ -1,6 +1,6 @@
 {
     "death.attack.gun": "%s이(가) 총에 맞았습니다",
-    "death.attack.gun.item": "%s은(는) %s %s이(가) 쏜 총에 맞았습니다",
+    "death.attack.gun.item": "%s은(는) %s이(가) 쏜 %s에 맞았습니다",
     "gun.name.text": "메시지",
     "gun.name.phone": "전화",
     "gun.name.clock": "시계",
