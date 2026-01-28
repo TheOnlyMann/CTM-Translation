@@ -1,0 +1,3160 @@
+{
+    "attribute.name.block_interaction_range": "Block Hit Reach",
+    "attribute.name.entity_interaction_range": "Entity Hit Reach",
+
+    "enchantment.level.11": "XI",
+    "enchantment.level.12": "XII",
+    "enchantment.level.13": "XIII",
+    "enchantment.level.14": "XIV",
+    "enchantment.level.15": "XV",
+    "enchantment.level.16": "XVI",
+    "enchantment.level.17": "XVII",
+    "enchantment.level.18": "XVIII",
+    "enchantment.level.19": "XIX",
+    "enchantment.level.20": "XX",
+    "enchantment.level.21": "XXI",
+    "enchantment.level.22": "XXII",
+    "enchantment.level.23": "XXIII",
+    "enchantment.level.24": "XXIV",
+    "enchantment.level.25": "XXV",
+    "enchantment.level.26": "XXVI",
+    "enchantment.level.27": "XXVII",
+    "enchantment.level.28": "XXVIII",
+    "enchantment.level.29": "XXIX",
+    "enchantment.level.30": "XXX",
+    "enchantment.level.31": "XXXI",
+    "enchantment.level.32": "XXXII",
+    "enchantment.level.33": "XXXIII",
+    "enchantment.level.34": "XXXIV",
+    "enchantment.level.35": "XXXV",
+    "enchantment.level.36": "XXXVI",
+    "enchantment.level.37": "XXXVII",
+    "enchantment.level.38": "XXXVIII",
+    "enchantment.level.39": "XXXIX",
+    "enchantment.level.40": "XL",
+    "enchantment.level.41": "XLI",
+    "enchantment.level.42": "XLII",
+    "enchantment.level.43": "XLIII",
+    "enchantment.level.44": "XLIV",
+    "enchantment.level.45": "XLV",
+    "enchantment.level.46": "XLVI",
+    "enchantment.level.47": "XLVII",
+    "enchantment.level.48": "XLVIII",
+    "enchantment.level.49": "XLIX",
+    "enchantment.level.50": "L",
+
+    "##NOTE1": "--- ENCHANTS ---",
+    "enchantment.minecraft.thorns": "Thorns",
+    "enchantment.minecraft.unbreaking": "Unbreaking",
+    "enchantment.minecraft.infinity": "Infinity",
+    "enchantment.cartographer.hazard_protection": "Hazard Protection",
+    "enchantment.cartographer.melee_protection": "Melee Protection",
+    "enchantment.cartographer.ranged_protection": "Ranged Protection",
+
+    "##NOTE2": "ATTRIBUTE ENCHANTS",
+    "enchantment.cartographer.agility": "Agility",
+    "enchantment.cartographer.amplitude": "Amplitude",
+    "enchantment.cartographer.celerity": "Celerity",
+    "enchantment.cartographer.cloudstep": "Cloudstep",
+    "enchantment.cartographer.dexterity": "Dexterity",
+    "enchantment.cartographer.echo": "Echo",
+    "enchantment.cartographer.extended": "Extended",
+    "enchantment.cartographer.finesse": "Finesse",
+    "enchantment.cartographer.handling": "Handling",
+    "enchantment.cartographer.immovable": "Immovable",
+    "enchantment.cartographer.invigorated": "Invigorated",
+    "enchantment.cartographer.lifesteal": "Lifesteal",
+    "enchantment.cartographer.lucky": "Lucky",
+    "enchantment.cartographer.precision": "Precision",
+    "enchantment.cartographer.resonance": "Resonance",
+    "enchantment.cartographer.reverb": "Reverb",
+    "enchantment.cartographer.technique": "Technique",
+    "enchantment.cartographer.traveling": "Traveling",
+    "enchantment.cartographer.vitality": "Vitality",
+    "enchantment.cartographer.windborn": "Windborn",
+
+    "##NOTE3": "STATUS ENCHANTS",
+    "enchantment.cartographer.bracing": "Bracing",
+    "enchantment.cartographer.evasion": "Evasion",
+    "enchantment.cartographer.hastiness": "Hastiness",
+    "enchantment.cartographer.lifeblood": "Lifeblood",
+    "enchantment.cartographer.mightiness": "Mightiness",
+    "enchantment.cartographer.nullifying": "Nullifying",
+    "enchantment.cartographer.regeneration": "Regeneration",
+    "enchantment.cartographer.sapper": "Sapper",
+    "enchantment.cartographer.shielding": "Shielding",
+    "enchantment.cartographer.stealthiness": "Stealthiness",
+    "enchantment.cartographer.swiftness": "Swiftness",
+    "enchantment.cartographer.decontaminate": "Decontaminate",
+
+    "##NOTE4": "PASSIVE DEFENSE ENCHANTS",
+    "enchantment.cartographer.adrenaline": "Adrenaline",
+    "enchantment.cartographer.bulwark": "Bulwark",
+    "enchantment.cartographer.courageous": "Courageous",
+    "enchantment.cartographer.diversion": "Diversion",
+    "enchantment.cartographer.ethereal": "Ethereal",
+    "enchantment.cartographer.frenzy": "Frenzy",
+    "enchantment.cartographer.hardened": "Hardened",
+    "enchantment.cartographer.intertia": "Intertia",
+    "enchantment.cartographer.poise": "Poise",
+    "enchantment.cartographer.sidestep": "Sidestep",
+    "enchantment.cartographer.steadfast": "Steadfast",
+    "enchantment.cartographer.tenacity": "Tenacity",
+    "enchantment.cartographer.unseen": "Unseen",
+
+    "##NOTE5": "PASSIVE OFFENSE ENCHANTS",
+    "enchantment.cartographer.aberration": "Aberration",
+    "enchantment.cartographer.deadeye": "Deadeye",
+    "enchantment.cartographer.eruption": "Eruption",
+    "enchantment.cartographer.gravity": "Gravity",
+    "enchantment.cartographer.induction": "Induction",
+    "enchantment.cartographer.momentum": "Momentum",
+    "enchantment.cartographer.orbit": "Orbit",
+    "enchantment.cartographer.quake": "Quake",
+    "enchantment.cartographer.soulfire": "Soulfire",
+    "enchantment.cartographer.starfall": "Starfall",
+    "enchantment.cartographer.storm": "Storm",
+    "enchantment.cartographer.surge": "Surge",
+    "enchantment.cartographer.trailblazer": "Trailblazer",
+    "enchantment.cartographer.vengeance": "Vengeance",
+
+    "##NOTE6": "PASSIVE OTHER ENCHANTS",
+    "enchantment.cartographer.reconstruction": "Reconstruction",
+    "enchantment.cartographer.soulbound": "Soulbound",
+    "enchantment.cartographer.spurs": "Spurs",
+
+    "##NOTE7": "TOOL ENCHANTS",
+    "enchantment.cartographer.drilling": "Drilling",
+    "enchantment.cartographer.excavator": "Excavator",
+    "enchantment.cartographer.lightborn": "Lightborn",
+    "enchantment.cartographer.multitool": "Multitool",
+
+    "##NOTE8": "GENERAL WEAPON DAMAGE ENCHANTS",
+    "enchantment.cartographer.chaotic": "Chaotic",
+    "enchantment.cartographer.concentration": "Concentration",
+    "enchantment.cartographer.duelist": "Duelist",
+    "enchantment.cartographer.first_strike": "First Strike",
+    "enchantment.cartographer.focus": "Focus",
+    "enchantment.cartographer.follow_up": "Follow Up",
+    "enchantment.cartographer.hex_eater": "Hex Eater",
+    "enchantment.cartographer.hunter": "Hunter",
+
+    "##NOTE9": "MELEE WEAPON DAMAGE ENCHANTS",
+    "enchantment.cartographer.leverage": "Leverage",
+    "enchantment.cartographer.rushdown": "Rushdown",
+
+    "##NOTE10": "RANGED WEAPON DAMAGE ENCHANTS",
+    "enchantment.cartographer.overcharge": "Overcharge",
+    "enchantment.cartographer.point_blank": "Point Blank",
+    "enchantment.cartographer.sharpshot": "Sharpshot",
+
+    "##NOTE11": "UNIQUE WEAPON GENERAL ENCHANTS",
+    "enchantment.cartographer.explosive": "Explosive",
+    "enchantment.cartographer.pulling": "Pulling",
+    "enchantment.cartographer.recoil": "Recoil",
+    "enchantment.cartographer.repulsion": "Repulsion",
+
+    "##NOTE12": "UNIQUE WEAPON MELEE ENCHANTS",
+    "enchantment.cartographer.ambushing": "Ambushing",
+    "enchantment.cartographer.cleaving": "Cleaving",
+    "enchantment.cartographer.lunging": "Lunging",
+    "enchantment.cartographer.quick_strike": "Quick Strike",
+    "enchantment.cartographer.riposte": "Riposte",
+    "enchantment.cartographer.slamming": "Slamming",
+    "enchantment.cartographer.throwable": "Throwable",
+    "enchantment.cartographer.thrusting": "Thrusting",
+
+    "##NOTE13": "UNIQUE WEAPON RANGED ENCHANTS",
+    "enchantment.cartographer.barbed": "Barbed",
+    "enchantment.cartographer.collapse": "Collapse",
+    "enchantment.cartographer.correction": "Correction",
+    "enchantment.cartographer.fleetfoot": "Fleetfoot",
+    "enchantment.cartographer.grappling": "Grappling",
+    "enchantment.cartographer.ricochet": "Ricochet",
+    "enchantment.cartographer.ripper": "Ripper",
+    "enchantment.cartographer.shrapnel": "Shrapnel",
+
+    "##NOTE14": "OTHER ENCHANTS",
+    "enchantment.cartographer.auto_charge": "Auto Charge",
+    "enchantment.cartographer.infinity": "Infinity",
+    "enchantment.cartographer.repeating": "Repeating",
+    "enchantment.cartographer.scavenger": "Scavenger",
+
+
+    "##NOTE15": "CURSES",
+    "enchantment.cartographer.annulling_curse": "Curse of Annulling",
+    "enchantment.cartographer.clumsiness_curse": "Curse of Clumsiness",
+    "enchantment.cartographer.corruption_curse": "Curse of Corruption",
+    "enchantment.cartographer.crippling_curse": "Curse of Crippling",
+    "enchantment.cartographer.encumbering_curse": "Curse of Encumbering",
+    "enchantment.cartographer.gluttony_curse": "Curse of Gluttony",
+    "enchantment.cartographer.haunting_curse": "Curse of Haunting",
+    "enchantment.cartographer.instability_curse": "Curse of Instability",
+    "enchantment.cartographer.locked_curse": "🔒 Locked 🔒",
+    "enchantment.cartographer.melee_fragility_curse": "Curse of Melee Fragility",
+    "enchantment.cartographer.pride_curse": "Curse of Pride",
+    "enchantment.cartographer.projectile_fragility_curse": "Curse of Projectile Fragility",
+    "enchantment.cartographer.regret_curse": "Curse of Regret",
+    "enchantment.cartographer.shattering_curse": "Curse of Shattering",
+    "enchantment.cartographer.two_handed_curse": "Two Handed",
+    "enchantment.cartographer.heaviness_curse": "Curse of Heaviness",
+    "enchantment.cartographer.jamming_curse": "Curse of Jamming",
+
+
+    "enchantment.cartographer.": "",
+
+
+    "##NOTE16": "--- ATTRIBUTES ---",
+    "attribute.name.melee_damage": "Melee Damage",
+        "NOTE16.1": "Melee DMG is not Carto but added for mapper-use",
+    "attribute.name.ranged_damage": "Ranged Damage",
+    "attribute.name.ranged_velocity": "Ranged Velocity",
+    "attribute.name.combat_luck": "Combat Luck",
+    "attribute.name.potion_size": "Potion Size",
+    "attribute.name.aoe_size": "AoE Size",
+    "attribute.name.aoe_damage": "AoE Damage",
+    "attribute.name.status_inflict_damage": "Status Infliction Damage",
+    "attribute.name.status_inflict_duration": "Status Infliction Duration",
+    "attribute.name.status_inflict_potency": "Status Infliction Potency",
+    "attribute.name.status_apply_duration": "Status Application Duration",
+    "attribute.name.status_apply_potency": "Status Application Potency",
+    "attribute.name.healing_power": "Healing Power",
+    "attribute.name.precise_hit_chance": "Precise Hit Chance",
+    "attribute.name.precise_hit_damage": "Precise Hit Damage",
+    "attribute.name.chaining_chance": "Chaining Hit Chance",
+    "attribute.name.chaining_damage": "Chaining Hit Damage",
+    "attribute.name.chaining_amount": "Chaining Hit Amount",
+    "attribute.name.restrike_chance": "Restrike Hit Chance",
+    "attribute.name.restrike_damage": "Restrike Hit Damage",
+    "attribute.name.restrike_amount": "Restrike Hit Amount",
+    "attribute.name.life_drain_chance": "Life Drain Chance",
+    "attribute.name.life_drain_amount": "Life Drain Amount",
+    "attribute.name.extra_jump_count": "Extra Jump Count",
+    "attribute.name.airdash_count": "Air Dash Count",
+    "attribute.name.": "",
+
+
+    "##NOTE17": "--- STATUSES ---",
+    "##NOTE18": "STATUSES",
+    "effect.cartographer.stealth": "Stealth",
+    "effect.cartographer.barricade": "Barricade",
+    "effect.cartographer.nullify": "Nullify",
+    "effect.cartographer.evasion": "Evasion",
+    "effect.cartographer.absorption": "Absorption",
+    "effect.cartographer.instant_absorption": "Instant Absorption",
+    "effect.cartographer.regeneration": "Regeneration",
+    "effect.cartographer.instant_healing": "Instant Healing",
+    "effect.cartographer.instant_damage": "Instant Damage",
+    "effect.cartographer.fire_aspect": "Burning",
+    "effect.cartographer.cleansed": "Cleansed",
+    "effect.cartographer.purged": "Purged",
+    "effect.cartographer.Unstoppable": "Unstoppable",
+    "effect.cartographer.wither": "Wither",
+    "effect.cartographer.bleeding": "Bleeding",
+    "effect.cartographer.shocked": "Shocked",
+    "effect.cartographer.infected": "Infected",
+    "effect.cartographer.grounded": "Grounded",
+    "effect.cartographer.silenced": "Silenced",
+    "effect.cartographer.slowness": "Slowness",
+    "effect.cartographer.weakness": "Weakness",
+    "effect.cartographer.blindness": "Blindness",
+    "effect.cartographer.armor_shred": "Armor Shred",
+    "effect.cartographer.speed": "Speed",
+    "effect.cartographer.strength": "Strength",
+    "effect.cartographer.armor_buff": "Armor Buff",
+    "effect.cartographer.exposed": "Exposed",
+    "effect.cartographer.shackled": "Shackled",
+    "effect.cartographer.evocation": "Evocation",
+    "effect.cartographer.brittle": "Brittle",
+    "effect.cartographer.execute": "Execute",
+    "effect.cartographer.windblast": "Windblast",
+    "effect.cartographer.slippery": "Slippery",
+    "effect.cartographer.oiled": "Oiled",
+    "effect.cartographer.siphon_health": "Health Siphon",
+    "effect.cartographer.siphon_speed": "Speed Siphon",
+    "effect.cartographer.siphon_strength": "Strength Siphon",
+    "effect.cartographer.harvest": "Harvest",
+    "effect.cartographer.confused": "Confused",
+    "effect.cartographer.morphed": "Morphed",
+    "effect.cartographer.frozen": "Frozen",
+    "effect.cartographer.asleep": "Asleep",
+    "effect.cartographer.stunned": "Stunned",
+    "effect.cartographer.dazed": "Dazed",
+    "effect.cartographer.defiance": "Defiance",
+    "effect.cartographer.warding": "Warding",
+
+    "##NOTE19": "STATUS CALLS - mapper use",
+    "item.modifiers.melee_hit": "On Melee Hit:",
+    "item.modifiers.ranged_hit": "On Ranged Hit:",
+    "item.modifiers.melee_ranged_hit": "On Hit:",
+    "item.modifiers.passive": "Passively:",
+    "item.modifiers.kill": "On Kill:",
+    "item.modifiers.jump": "On Jump:",
+    "item.modifiers.break": "On Spawner Break:",
+    "item.modifiers.consume": "When Used:",
+    "item.modifiers.attacked": "When Attacked:",
+    "item.modifiers.potion": "On Potion Throw:",
+    "item.modifiers.enchant_proc": "When Using %s:",
+    "item.modifiers.": "",
+
+
+    
+    "##NOTE20": "LEXICA",
+
+
+    "lexica.cartographer.effect.stealth.desc.1": "Cannot be targeted or seen",
+    "lexica.cartographer.effect.stealth.desc.2": "except by mobs within",
+    "lexica.cartographer.effect.stealth.desc.3": "%1$s blocks.",
+
+    "lexica.cartographer.effect.stealth.with.1": "[19 - (3 * lvl)]",
+
+
+    "lexica.cartographer.effect.barricade.desc.1": "Blocks the next %1$s instances",
+    "lexica.cartographer.effect.barricade.desc.2": "of damage. When reapplied,",
+    "lexica.cartographer.effect.barricade.desc.3": "stores additional instances",
+    "lexica.cartographer.effect.barricade.desc.4": "up to %2$s total.",
+
+    "lexica.cartographer.effect.barricade.with.1": "[lvl]",
+    "lexica.cartographer.effect.barricade.with.2": "[2 * lvl]",
+
+
+    "lexica.cartographer.effect.nullify.desc.1": "Blocks the next instance of damage.",
+    "lexica.cartographer.effect.nullify.desc.2": "Recharges in 15 seconds. Higher",
+    "lexica.cartographer.effect.nullify.desc.3": "levels reduce the recharge time by",
+    "lexica.cartographer.effect.nullify.desc.4": "%1$s.",
+
+    "lexica.cartographer.effect.nullify.with.1": "[15% per lvl (multiplicative)]",
+
+
+    "lexica.cartographer.effect.evasion.desc.1": "Blocks an instance of damage",
+    "lexica.cartographer.effect.evasion.desc.2": "%1$s of the time.",
+
+    "lexica.cartographer.effect.evasion.with.1": "[4% * lvl]",
+
+
+    "lexica.cartographer.effect.absorption.desc.1": "Gives %1$s every %2$s. Higher",
+    "lexica.cartographer.effect.absorption.desc.2": "levels reduce the time between",
+    "lexica.cartographer.effect.absorption.desc.3": "procs by %3$s.",
+    "lexica.cartographer.effect.absorption.desc.4": "The %4$s remains for extra time",
+    "lexica.cartographer.effect.absorption.desc.5": "after the effect ends.",
+
+    "lexica.cartographer.effect.absorption.with.1": "(1❤)",
+    "lexica.cartographer.effect.absorption.with.2": "(00:05)",
+    "lexica.cartographer.effect.absorption.with.3": "[50% per lvl (multiplicative)]",
+    "lexica.cartographer.effect.absorption.with.4": "(❤)",
+
+
+    "lexica.cartographer.effect.instant_absorption.desc.1": "Gives %1$s %2$s instantly",
+    "lexica.cartographer.effect.instant_absorption.desc.2": "for the duration.",
+
+    "lexica.cartographer.effect.instant_absorption.with.1": "[lvl]",
+    "lexica.cartographer.effect.instant_absorption.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.regeneration.desc.1": "Gives %1$s every %2$s. Higher",
+    "lexica.cartographer.effect.regeneration.desc.2": "levels reduce the time between procs",
+    "lexica.cartographer.effect.regeneration.desc.3": "by %3$s.",
+
+    "lexica.cartographer.effect.regeneration.with.1": "(1❤)",
+    "lexica.cartographer.effect.regeneration.with.2": "(00:05)",
+    "lexica.cartographer.effect.regeneration.with.3": "[50% per lvl (multiplicative)]",
+
+
+    "lexica.cartographer.effect.instant_healing.desc.1": "Gives %1$s %2$s instantly.",
+
+    "lexica.cartographer.effect.instant_healing.with.1": "[lvl]",
+    "lexica.cartographer.effect.instant_healing.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.instant_damage.desc.1": "Deals %1$s physical",
+    "lexica.cartographer.effect.instant_damage.desc.2": "damage instantly.",
+
+    "lexica.cartographer.effect.instant_damage.with.1": "[lvl]",
+
+
+    "lexica.cartographer.effect.fire_aspect.desc.1": "Ignites the target for a duration.",
+
+
+    "lexica.cartographer.effect.cleansed.desc.1": "Removes all %1$s",
+    "lexica.cartographer.effect.cleansed.desc.2": "from the afflicted.",
+
+    "lexica.cartographer.effect.cleansed.with.1": "Negative Statuses",
+
+
+    "lexica.cartographer.effect.purged.desc.1": "Removes all %1$s",
+    "lexica.cartographer.effect.purged.desc.2": "from the afflicted.",
+
+    "lexica.cartographer.effect.purged.with.1": "Positive Statuses",
+
+
+    "lexica.cartographer.effect.unstoppable.desc.1": "Removes all %1$s",
+    "lexica.cartographer.effect.unstoppable.desc.2": "from the afflicted.",
+
+    "lexica.cartographer.effect.unstoppable.with.1": "Crowd Control",
+
+
+    "lexica.cartographer.effect.wither.desc.1": "Deals 1 physical damage every %1$s.",
+    "lexica.cartographer.effect.wither.desc.2": "Higher levels reduce the time by",
+    "lexica.cartographer.effect.wither.desc.3": "%2$s each level.",
+
+    "lexica.cartographer.effect.wither.with.1": "(00:02)",
+    "lexica.cartographer.effect.wither.with.2": "[50% of remaining duration]",
+
+
+    "lexica.cartographer.effect.bleeding.desc.1": "Adds %1$s bleed damage.",
+    "lexica.cartographer.effect.bleeding.desc.2": "Bleed damage is dealt every",
+    "lexica.cartographer.effect.bleeding.desc.3": "%2$s, and then cut in half.",
+
+    "lexica.cartographer.effect.bleeding.with.1": "[2 * lvl]",
+    "lexica.cartographer.effect.bleeding.with.2": "(00:02)",
+
+
+    "lexica.cartographer.effect.shocked.desc.1": "Deals %1$s damage every",
+    "lexica.cartographer.effect.shocked.desc.2": "%2$s to itself and 2",
+    "lexica.cartographer.effect.shocked.desc.3": "additional nearby mobs.",
+
+    "lexica.cartographer.effect.shocked.with.1": "[lvl]",
+    "lexica.cartographer.effect.shocked.with.2": "(00:01)",
+
+
+    "lexica.cartographer.effect.infected.desc.1": "Deals %1$s damage every %2$s.",
+    "lexica.cartographer.effect.infected.desc.2": "When the afflicted dies, Infected",
+    "lexica.cartographer.effect.infected.desc.3": "is transferred to 2 nearby",
+    "lexica.cartographer.effect.infected.desc.4": "entities, dealing 5 damage.",
+
+    "lexica.cartographer.effect.infected.with.1": "[lvl]",
+    "lexica.cartographer.effect.infected.with.2": "(00:01)",
+
+
+    "lexica.cartographer.effect.grounded.desc.1": "The afflicted cannot use %1$s",
+    "lexica.cartographer.effect.grounded.desc.2": "enchantments or effects. Additionally,",
+    "lexica.cartographer.effect.grounded.desc.3": "they cannot jump or fly.",
+
+    "lexica.cartographer.effect.grounded.with.1": "Self Movement",
+
+
+    "lexica.cartographer.effect.silenced.desc.1": "The afflicted cannot use",
+    "lexica.cartographer.effect.silenced.desc.2": "%1$s enchantments or",
+    "lexica.cartographer.effect.silenced.desc.3": "effects. Additionally, hostile",
+    "lexica.cartographer.effect.silenced.desc.4": "mobs cannot create projectiles.",
+
+    "lexica.cartographer.effect.silenced.with.1": "Channeled",
+
+
+    "lexica.cartographer.effect.slowness.desc.1": "Reduces the afflicted's",
+    "lexica.cartographer.effect.slowness.desc.2": "movement speed by %1$s.",
+
+    "lexica.cartographer.effect.slowness.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.weakness.desc.1": "Reduces the afflicted's",
+    "lexica.cartographer.effect.weakness.desc.2": "attack damage by %1$s.",
+
+    "lexica.cartographer.effect.weakness.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.blindness.desc.1": "Reduces the afflicted's",
+    "lexica.cartographer.effect.blindness.desc.2": "follow range by %1$s.",
+
+    "lexica.cartographer.effect.blindness.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.armor_shred.desc.1": "Reduces the afflicted's",
+    "lexica.cartographer.effect.armor_shred.desc.2": "armor by %1$s.",
+
+    "lexica.cartographer.effect.armor_shred.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.speed.desc.1": "Increases the afflicted's",
+    "lexica.cartographer.effect.speed.desc.2": "movement speed by %1$s.",
+
+    "lexica.cartographer.effect.speed.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.strength.desc.1": "Increases the afflicted's",
+    "lexica.cartographer.effect.strength.desc.2": "attack damage by %1$s.",
+
+    "lexica.cartographer.effect.strength.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.armor_buff.desc.1": "Increases the afflicted's",
+    "lexica.cartographer.effect.armor_buff.desc.2": "armor by %1$s.",
+
+    "lexica.cartographer.effect.armor_buff.with.1": "[lvl]",
+
+
+    "lexica.cartographer.effect.exposed.desc.1": "Increases the damage the",
+    "lexica.cartographer.effect.exposed.desc.2": "afflicted takes from all",
+    "lexica.cartographer.effect.exposed.desc.3": "sources by %1$s.",
+
+    "lexica.cartographer.effect.exposed.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.shackled.desc.1": "Afflicted takes %1$s",
+    "lexica.cartographer.effect.shackled.desc.2": "of all damage dealt to other",
+    "lexica.cartographer.effect.shackled.desc.3": "nearby Shackled entities.",
+
+    "lexica.cartographer.effect.shackled.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.evocation.desc.1": "Afflicted takes %1$s",
+    "lexica.cartographer.effect.evocation.desc.2": "damage when the effect ends.",
+
+    "lexica.cartographer.effect.evocation.with.1": "[3 * lvl]",
+
+
+    "lexica.cartographer.effect.brittle.desc.1": "Afflicted takes %1$s damage",
+    "lexica.cartographer.effect.brittle.desc.2": "if the afflicted takes %2$s",
+    "lexica.cartographer.effect.brittle.desc.3": "damage while Brittle.",
+
+    "lexica.cartographer.effect.brittle.with.1": "[2 * lvl]",
+    "lexica.cartographer.effect.brittle.with.2": "[3 * lvl]",
+
+
+    "lexica.cartographer.effect.execute.desc.1": "The afflicted instantly dies",
+    "lexica.cartographer.effect.execute.desc.2": "if their health is below",
+    "lexica.cartographer.effect.execute.desc.3": "%1$s of their %2$s.",
+
+    "lexica.cartographer.effect.execute.with.1": "[5% * lvl]",
+    "lexica.cartographer.effect.execute.with.2": "Max Health",
+
+
+    "lexica.cartographer.effect.windblast.desc.1": "Blasts 3 nearby entities away",
+    "lexica.cartographer.effect.windblast.desc.2": "dealing %1$s damage when",
+    "lexica.cartographer.effect.windblast.desc.3": "the afflicted is damaged.",
+
+    "lexica.cartographer.effect.windblast.with.1": "[3 * lvl]",
+
+
+    "lexica.cartographer.effect.slippery.desc.1": "Increases the knockback the",
+    "lexica.cartographer.effect.slippery.desc.2": "afflicted receives by",
+    "lexica.cartographer.effect.slippery.desc.3": "%1$s. The afflicted",
+    "lexica.cartographer.effect.slippery.desc.4": "takes fall damage from any height.",
+
+    "lexica.cartographer.effect.slippery.with.1": "[30% * lvl]",
+
+
+    "lexica.cartographer.effect.oiled.desc.1": "When the afflicted is ignited, they",
+    "lexica.cartographer.effect.oiled.desc.2": "take an extra %1$s fire damage.",
+
+    "lexica.cartographer.effect.oiled.with.1": "[lvl]",
+
+
+    "lexica.cartographer.effect.siphon_speed.desc.1": "The user steals %1$s",
+    "lexica.cartographer.effect.siphon_speed.desc.2": "movement speed from the afflicted.",
+
+    "lexica.cartographer.effect.siphon_speed.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.siphon_strength.desc.1": "The user steals %1$s attack",
+    "lexica.cartographer.effect.siphon_strength.desc.2": "damage from the afflicted.",
+
+    "lexica.cartographer.effect.siphon_strength.with.1": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.siphon_health.desc.1": "The afflicted takes %1$s",
+    "lexica.cartographer.effect.siphon_health.desc.2": "damage and gives %2$s %3$s.",
+
+    "lexica.cartographer.effect.siphon_health.with.1": "[lvl * 2]",
+    "lexica.cartographer.effect.siphon_health.with.2": "[lvl]",
+    "lexica.cartographer.effect.siphon_health.with.3": "(❤)",
+
+
+    "lexica.cartographer.effect.harvest.desc.1": "The next time the afflicted takes",
+    "lexica.cartographer.effect.harvest.desc.2": "damage it drops a health pickup.",
+    "lexica.cartographer.effect.harvest.desc.3": "The pickup gives %1$s %2$s.",
+
+    "lexica.cartographer.effect.harvest.with.1": "[1 + lvl]",
+    "lexica.cartographer.effect.harvest.with.2": "(❤)",
+
+
+    "lexica.cartographer.effect.confused.desc.1": "The afflicted will target",
+    "lexica.cartographer.effect.confused.desc.2": "other entities nearby. When",
+    "lexica.cartographer.effect.confused.desc.3": "it attempts to, it takes 4",
+    "lexica.cartographer.effect.confused.desc.4": "damage and moves 20% faster.",
+
+
+    "lexica.cartographer.effect.morphed.desc.1": "The afflicted becomes a baby sheep.",
+
+
+    "lexica.cartographer.effect.frozen.desc.1": "The afflicted cannot move or act.",
+    "lexica.cartographer.effect.frozen.desc.2": "If the afflicted takes %1$s",
+    "lexica.cartographer.effect.frozen.desc.3": "damage the effect ends early.",
+
+    "lexica.cartographer.effect.frozen.with.1": "[lvl * 3]",
+
+
+    "lexica.cartographer.effect.asleep.desc.1": "After %1$s, The afflicted",
+    "lexica.cartographer.effect.asleep.desc.2": "cannot move or act until it",
+    "lexica.cartographer.effect.asleep.desc.3": "takes damage. The next time",
+    "lexica.cartographer.effect.asleep.desc.4": "it takes damage, it takes",
+    "lexica.cartographer.effect.asleep.desc.5": "%2$s additional damage.",
+
+    "lexica.cartographer.effect.asleep.with.1": "(00:02)",
+    "lexica.cartographer.effect.asleep.with.2": "[10% * lvl]",
+
+
+    "lexica.cartographer.effect.stunned.desc.1": "The afflicted cannot move or",
+    "lexica.cartographer.effect.stunned.desc.2": "act. When the effect ends,",
+    "lexica.cartographer.effect.stunned.desc.3": "the afflicted is then %1$s",
+    "lexica.cartographer.effect.stunned.desc.4": "for %2$s %3$s.",
+
+    "lexica.cartographer.effect.stunned.with.1": "Dazed",
+    "lexica.cartographer.effect.stunned.with.2": "[1 + (lvl * 0.25)]",
+    "lexica.cartographer.effect.stunned.with.3": "seconds",
+
+
+    "lexica.cartographer.effect.dazed.desc.1": "The afflicted's speed and",
+    "lexica.cartographer.effect.dazed.desc.2": "damage are cut by 50%%, which",
+    "lexica.cartographer.effect.dazed.desc.3": "diminishes over the duration.",
+
+
+    "lexica.cartographer.effect.defiance.desc.1": "Prevents the next instance of lethal",
+    "lexica.cartographer.effect.defiance.desc.2": "damage, and sets the afflicted's",
+    "lexica.cartographer.effect.defiance.desc.3": "health to %1$s. They are immune",
+    "lexica.cartographer.effect.defiance.desc.4": "to damage for %2$s. This effect",
+    "lexica.cartographer.effect.defiance.desc.5": "ends early when it activates.",
+
+    "lexica.cartographer.effect.defiance.with.1": "(2❤)",
+    "lexica.cartographer.effect.defiance.with.2": "(00:03)",
+
+
+    "lexica.cartographer.effect.warding.desc.1": "Splits incoming instances of",
+    "lexica.cartographer.effect.warding.desc.2": "damage into %1$s equal hits",
+    "lexica.cartographer.effect.warding.desc.3": "that trigger %2$s apart. Only",
+    "lexica.cartographer.effect.warding.desc.4": "the initial hit and final hit",
+    "lexica.cartographer.effect.warding.desc.5": "of cascading damage is lethal.",
+
+    "lexica.cartographer.effect.warding.with.1": "[1 + lvl]",
+    "lexica.cartographer.effect.warding.with.2": "(00:01)",
+
+
+    "lexica.cartographer.attribute.ranged_damage.desc.1": "Increases damage dealt with",
+    "lexica.cartographer.attribute.ranged_damage.desc.2": "fired or thrown projectiles.",
+
+
+    "lexica.cartographer.attribute.ranged_velocity.desc.1": "Increases the speed of thrown",
+    "lexica.cartographer.attribute.ranged_velocity.desc.2": "or fired projectiles.",
+
+
+    "lexica.cartographer.attribute.combat_luck.desc.1": "Increases the number of rolls",
+    "lexica.cartographer.attribute.combat_luck.desc.2": "for random effects for favorable",
+    "lexica.cartographer.attribute.combat_luck.desc.3": "outcomes when positive.",
+
+
+    "lexica.cartographer.attribute.potion_size.desc.1": "Increases the radius of a",
+    "lexica.cartographer.attribute.potion_size.desc.2": "thrown splash potion for",
+    "lexica.cartographer.attribute.potion_size.desc.3": "custom effects and damage.",
+
+
+    "lexica.cartographer.attribute.aoe_size.desc.1": "Increases the size of AoE effects.",
+
+
+    "lexica.cartographer.attribute.aoe_damage.desc.1": "Increases damage dealt",
+    "lexica.cartographer.attribute.aoe_damage.desc.2": "by AoE effects.",
+
+
+    "lexica.cartographer.attribute.status_inflict_damage.desc.1": "Increases damage dealt by",
+    "lexica.cartographer.attribute.status_inflict_damage.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.status_inflict_duration.desc.1": "Increases the duration of inflicted",
+    "lexica.cartographer.attribute.status_inflict_duration.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.status_inflict_potency.desc.1": "Increases the potency of inflicted",
+    "lexica.cartographer.attribute.status_inflict_potency.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.status_apply_duration.desc.1": "Increases the duration of applied",
+    "lexica.cartographer.attribute.status_apply_duration.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.status_apply_potency.desc.1": "Increases the potency of applied",
+    "lexica.cartographer.attribute.status_apply_potency.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.healing_power.desc.1": "Increases the amount of all",
+    "lexica.cartographer.attribute.healing_power.desc.2": "healing done to the user.",
+
+
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.1": "%1$s: A %2$s",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.2": "can perform a %3$s.",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.4": "%4$s: Deal an extra",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.5": "25%% of the attack's",
+    "lexica.cartographer.attribute.lucky_hit_chance.desc.6": "base damage to the target.",
+
+    "lexica.cartographer.attribute.lucky_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.3": "Lucky Hit",
+    "lexica.cartographer.attribute.lucky_hit_chance.with.4": "Lucky Hit",
+
+
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.1": "Increases the damage of %1$s.",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.3": "%2$s: Deal an extra",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.4": "25%% of the attack's",
+    "lexica.cartographer.attribute.lucky_hit_damage.desc.5": "base damage to the target.",
+
+    "lexica.cartographer.attribute.lucky_hit_damage.with.1": "Lucky Hits",
+    "lexica.cartographer.attribute.lucky_hit_damage.with.2": "Lucky Hit",
+
+
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.1": "%1$s: A %2$s can",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.2": "perform a %3$s.",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.4": "%4$s: Deal 50%% of",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.5": "the attack's total damage",
+    "lexica.cartographer.attribute.chaining_hit_chance.desc.6": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.chaining_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.chaining_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.chaining_hit_chance.with.3": "Chaining Hit",
+    "lexica.cartographer.attribute.chaining_hit_chance.with.4": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.1": "Increases the damage",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.2": "of %1$s.",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.3": " ",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.4": "%2$s: Deal 50%% of",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.5": "the attack's total damage",
+    "lexica.cartographer.attribute.chaining_hit_damage.desc.6": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.chaining_hit_damage.with.1": "Chaining Hits",
+    "lexica.cartographer.attribute.chaining_hit_damage.with.2": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.1": "Increases the number of mobs",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.2": "affected by %1$s.",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.3": "After the chain hits a mob, the",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.4": "chain's damage is reduced by 50%%.",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.5": " ",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.6": "%2$s: Deal 50%% of",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.7": "the attack's total damage",
+    "lexica.cartographer.attribute.chaining_hit_amount.desc.8": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.chaining_hit_amount.with.1": "Chaining Hits",
+    "lexica.cartographer.attribute.chaining_hit_amount.with.2": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.1": "%1$s: A %2$s can",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.2": "perform a %3$s.",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.4": "%4$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.restrike_hit_chance.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.restrike_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.restrike_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.restrike_hit_chance.with.3": "Restrike Hit",
+    "lexica.cartographer.attribute.restrike_hit_chance.with.4": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.1": "Increases the damage",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.2": "of %1$s.",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.restrike_hit_damage.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.restrike_hit_damage.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.restrike_hit_damage.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.1": "Increases the number of repeated",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.2": "hits from %1$s.",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.restrike_hit_amount.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.restrike_hit_amount.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.restrike_hit_amount.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.1": "Reduces the number of ticks",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.2": "between hits in a %1$s.",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.3": " ",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.restrike_hit_rate.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.restrike_hit_rate.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.restrike_hit_rate.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.life_drain_chance.desc.1": "%1$s: Dealing any damage",
+    "lexica.cartographer.attribute.life_drain_chance.desc.2": "can trigger %2$s.",
+    "lexica.cartographer.attribute.life_drain_chance.desc.3": " ",
+    "lexica.cartographer.attribute.life_drain_chance.desc.4": "%3$s: Restore",
+    "lexica.cartographer.attribute.life_drain_chance.desc.5": "%4$s when activated.",
+
+    "lexica.cartographer.attribute.life_drain_chance.with.1": "Random",
+    "lexica.cartographer.attribute.life_drain_chance.with.2": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_chance.with.3": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_chance.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.life_drain_amount.desc.1": "Increases the restoration",
+    "lexica.cartographer.attribute.life_drain_amount.desc.2": "%1$s from %2$s.",
+    "lexica.cartographer.attribute.life_drain_amount.desc.3": " ",
+    "lexica.cartographer.attribute.life_drain_amount.desc.4": "%3$s: Restore",
+    "lexica.cartographer.attribute.life_drain_amount.desc.5": "%4$s when activated.",
+
+    "lexica.cartographer.attribute.life_drain_amount.with.1": "(❤)",
+    "lexica.cartographer.attribute.life_drain_amount.with.2": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_amount.with.3": "Life Drain",
+    "lexica.cartographer.attribute.life_drain_amount.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.extra_jump_count.desc.1": "Increases the number of additional",
+    "lexica.cartographer.attribute.extra_jump_count.desc.2": "jumps that can be made while",
+    "lexica.cartographer.attribute.extra_jump_count.desc.3": "airborne by pressing %1$s.",
+
+    "lexica.cartographer.attribute.extra_jump_count.with.1": "key.jump",
+
+
+    "lexica.cartographer.attribute.air_dash_count.desc.1": "Increases the number of directional",
+    "lexica.cartographer.attribute.air_dash_count.desc.2": "dashes that can be made while",
+    "lexica.cartographer.attribute.air_dash_count.desc.3": "airborne by pressing %1$s.",
+
+    "lexica.cartographer.attribute.air_dash_count.with.1": "key.jump",
+
+
+    "lexica.cartographer.attribute.armor.desc.1": "Increases armor defense",
+    "lexica.cartographer.attribute.armor.desc.2": "points, which reduce damage.",
+
+
+    "lexica.cartographer.attribute.armor_toughness.desc.1": "Increases armor toughness, which",
+    "lexica.cartographer.attribute.armor_toughness.desc.2": "improves the effectiveness of %1$s.",
+
+    "lexica.cartographer.attribute.armor_toughness.with.1": "Armor",
+
+
+    "lexica.cartographer.attribute.attack_damage.desc.1": "Increases the damage",
+    "lexica.cartographer.attribute.attack_damage.desc.2": "dealt by melee attacks.",
+
+
+    "lexica.cartographer.attribute.attack_knockback.desc.1": "Increases the knockback",
+    "lexica.cartographer.attribute.attack_knockback.desc.2": "of melee attacks.",
+
+
+    "lexica.cartographer.attribute.attack_speed.desc.1": "Increases the rate of",
+    "lexica.cartographer.attribute.attack_speed.desc.2": "attack cooldown recovery.",
+
+
+    "lexica.cartographer.attribute.follow_range.desc.1": "Increases the range a mob",
+    "lexica.cartographer.attribute.follow_range.desc.2": "can aggro onto a target.",
+
+
+    "lexica.cartographer.attribute.knockback_resistance.desc.1": "Reduces the amount of knockback",
+    "lexica.cartographer.attribute.knockback_resistance.desc.2": "inflicted on the user.",
+
+
+    "lexica.cartographer.attribute.max_health.desc.1": "Increases the health of the user.",
+
+
+    "lexica.cartographer.attribute.speed.desc.1": "Increases the speed at",
+    "lexica.cartographer.attribute.speed.desc.2": "which the user moves.",
+
+
+    "lexica.cartographer.attribute.scale.desc.1": "Increases the size and",
+    "lexica.cartographer.attribute.scale.desc.2": "hitbox of the user.",
+
+
+    "lexica.cartographer.attribute.step_height.desc.1": "Increases the number of blocks the",
+    "lexica.cartographer.attribute.step_height.desc.2": "user can step up without jumping.",
+
+
+    "lexica.cartographer.attribute.jump_strength.desc.1": "Increases the height",
+    "lexica.cartographer.attribute.jump_strength.desc.2": "of the user's jumps.",
+
+
+    "lexica.cartographer.attribute.block_interaction_range.desc.1": "Increases the range which blocks",
+    "lexica.cartographer.attribute.block_interaction_range.desc.2": "can be broken or interacted with.",
+
+
+    "lexica.cartographer.attribute.entity_interaction_range.desc.1": "Increases the range which entities",
+    "lexica.cartographer.attribute.entity_interaction_range.desc.2": "can be attacked or interacted with.",
+
+
+    "lexica.cartographer.attribute.block_break_speed.desc.1": "Increases the mining",
+    "lexica.cartographer.attribute.block_break_speed.desc.2": "speed of the user.",
+
+
+    "lexica.cartographer.attribute.gravity.desc.1": "Increases the effect",
+    "lexica.cartographer.attribute.gravity.desc.2": "gravity has on the user.",
+
+
+    "lexica.cartographer.attribute.safe_fall_distance.desc.1": "Increases the number of",
+    "lexica.cartographer.attribute.safe_fall_distance.desc.2": "blocks the user can fall",
+    "lexica.cartographer.attribute.safe_fall_distance.desc.3": "before they take fall damage.",
+
+
+    "lexica.cartographer.attribute.fall_damage_multiplier.desc.1": "Increases the amount of fall",
+    "lexica.cartographer.attribute.fall_damage_multiplier.desc.2": "damage the user takes.",
+
+
+    "lexica.cartographer.attribute.burning_time.desc.1": "Reduces the amount of time",
+    "lexica.cartographer.attribute.burning_time.desc.2": "the user is on fire for.",
+
+
+    "lexica.cartographer.attribute.explosion_knockback_resistance.desc.1": "Increases the %1$s",
+    "lexica.cartographer.attribute.explosion_knockback_resistance.desc.2": "of the user for explosions.",
+
+    "lexica.cartographer.attribute.explosion_knockback_resistance.with.1": "Knockback Resistance",
+
+
+    "lexica.cartographer.attribute.mining_efficiency.desc.1": "Increases the mining speed of the",
+    "lexica.cartographer.attribute.mining_efficiency.desc.2": "user when using a proper tool.",
+
+
+    "lexica.cartographer.attribute.movement_efficiency.desc.1": "Reduces the terrain penalty",
+    "lexica.cartographer.attribute.movement_efficiency.desc.2": "on %1$s when walking on",
+    "lexica.cartographer.attribute.movement_efficiency.desc.3": "or through certain blocks.",
+
+    "lexica.cartographer.attribute.movement_efficiency.with.1": "Speed",
+
+
+    "lexica.cartographer.attribute.oxygen_bonus.desc.1": "Increases the chance of not consuming",
+    "lexica.cartographer.attribute.oxygen_bonus.desc.2": "Air when underwater each second.",
+
+
+    "lexica.cartographer.attribute.sneaking_speed.desc.1": "Reduces the %1$s",
+    "lexica.cartographer.attribute.sneaking_speed.desc.2": "penalty while sneaking.",
+
+    "lexica.cartographer.attribute.sneaking_speed.with.1": "Speed",
+
+
+    "lexica.cartographer.attribute.submerged_mining_speed.desc.1": "Reduces the mining speed",
+    "lexica.cartographer.attribute.submerged_mining_speed.desc.2": "penalty when underwater.",
+
+
+    "lexica.cartographer.attribute.sweeping_damage_ratio.desc.1": "Increases the percentage of",
+    "lexica.cartographer.attribute.sweeping_damage_ratio.desc.2": "damage dealt in a sweep attack.",
+
+
+    "lexica.cartographer.attribute.water_movement_efficiency.desc.1": "Reduces the %1$s penalty",
+    "lexica.cartographer.attribute.water_movement_efficiency.desc.2": "when moving through water.",
+
+    "lexica.cartographer.attribute.water_movement_efficiency.with.1": "Speed",
+
+
+    "lexica.cartographer.attribute.negative.ranged_damage.desc.1": "Reduces damage dealt with",
+    "lexica.cartographer.attribute.negative.ranged_damage.desc.2": "fired or thrown projectiles.",
+
+
+    "lexica.cartographer.attribute.negative.ranged_velocity.desc.1": "Reduces the speed of thrown",
+    "lexica.cartographer.attribute.negative.ranged_velocity.desc.2": "or fired projectiles.",
+
+
+    "lexica.cartographer.attribute.negative.combat_luck.desc.1": "Increases the number of rolls",
+    "lexica.cartographer.attribute.negative.combat_luck.desc.2": "for random effects for unfavorable",
+    "lexica.cartographer.attribute.negative.combat_luck.desc.3": "outcomes when negative.",
+
+
+    "lexica.cartographer.attribute.negative.potion_size.desc.1": "Reduces the radius of a",
+    "lexica.cartographer.attribute.negative.potion_size.desc.2": "thrown splash potion for",
+    "lexica.cartographer.attribute.negative.potion_size.desc.3": "custom effects and damage.",
+
+
+    "lexica.cartographer.attribute.negative.aoe_size.desc.1": "Reduces the size of AoE effects.",
+
+
+    "lexica.cartographer.attribute.negative.aoe_damage.desc.1": "Reduces damage dealt",
+    "lexica.cartographer.attribute.negative.aoe_damage.desc.2": "by AoE effects.",
+
+
+    "lexica.cartographer.attribute.negative.status_inflict_damage.desc.1": "Reduces damage dealt by",
+    "lexica.cartographer.attribute.negative.status_inflict_damage.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.negative.status_inflict_duration.desc.1": "Reduces the duration of inflicted",
+    "lexica.cartographer.attribute.negative.status_inflict_duration.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.negative.status_inflict_potency.desc.1": "Reduces the potency of inflicted",
+    "lexica.cartographer.attribute.negative.status_inflict_potency.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.negative.status_apply_duration.desc.1": "Reduces the duration of applied",
+    "lexica.cartographer.attribute.negative.status_apply_duration.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.negative.status_apply_potency.desc.1": "Reduces the potency of applied",
+    "lexica.cartographer.attribute.negative.status_apply_potency.desc.2": "non-vanilla status effects.",
+
+
+    "lexica.cartographer.attribute.negative.healing_power.desc.1": "Reduces the amount of all",
+    "lexica.cartographer.attribute.negative.healing_power.desc.2": "healing done to the user.",
+
+
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.1": "%1$s: A %2$s",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.2": "can perform a %3$s.",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.4": "%4$s: Deal an extra",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.5": "25%% of the attack's",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.desc.6": "base damage to the target.",
+
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.3": "Lucky Hit",
+    "lexica.cartographer.attribute.negative.lucky_hit_chance.with.4": "Lucky Hit",
+
+
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.1": "Decreases the damage of %1$s.",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.2": " ",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.3": "%2$s: Deal an extra",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.4": "25%% of the attack's",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.desc.5": "base damage to the target.",
+
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.1": "Lucky Hits",
+    "lexica.cartographer.attribute.negative.lucky_hit_damage.with.2": "Lucky Hit",
+
+
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.1": "%1$s: A %2$s can",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.2": "perform a %3$s.",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.4": "%4$s: Deal 50%% of",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.5": "the attack's total damage",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.desc.6": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.3": "Chaining Hit",
+    "lexica.cartographer.attribute.negative.chaining_hit_chance.with.4": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.1": "Decreases the damage",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.2": "of %1$s.",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.3": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.4": "%2$s: Deal 50%% of",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.5": "the attack's total damage",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.desc.6": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.1": "Chaining Hits",
+    "lexica.cartographer.attribute.negative.chaining_hit_damage.with.2": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.1": "Decreases the number of mobs",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.2": "affected by %1$s.",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.4": "%2$s: Deal 50%% of",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.5": "the attack's total damage",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.desc.6": "to another nearby mob.",
+
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.1": "Chaining Hits",
+    "lexica.cartographer.attribute.negative.chaining_hit_amount.with.2": "Chaining Hit",
+
+
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.1": "%1$s: A %2$s can",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.2": "perform a %3$s.",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.4": "%4$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.1": "Random",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.2": "Weapon Attack",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.3": "Restrike Hit",
+    "lexica.cartographer.attribute.negative.restrike_hit_chance.with.4": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.1": "Decreases the damage",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.2": "of %1$s.",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.negative.restrike_hit_damage.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.1": "Decreases the number of repeated",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.2": "hits from %1$s.",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.negative.restrike_hit_amount.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.1": "Increases the number of ticks",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.2": "between hits in a %1$s.",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.3": " ",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.4": "%2$s: Deal 25%% of the",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.5": "attack's total damage to the",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.desc.6": "target shortly after the attack.",
+
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.1": "Restrike Hits",
+    "lexica.cartographer.attribute.negative.restrike_hit_rate.with.2": "Restrike Hit",
+
+
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.1": "%1$s: Dealing any damage",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.2": "can trigger %2$s.",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.3": " ",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.4": "%3$s: Restore",
+    "lexica.cartographer.attribute.negative.life_drain_chance.desc.5": "%4$s when activated.",
+
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.1": "Random",
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.2": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.3": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_chance.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.1": "Decreases the restoration",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.2": "%1$s from %2$s.",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.3": " ",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.4": "%3$s: Restore",
+    "lexica.cartographer.attribute.negative.life_drain_amount.desc.5": "%4$s when activated.",
+
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.1": "(❤)",
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.2": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.3": "Life Drain",
+    "lexica.cartographer.attribute.negative.life_drain_amount.with.4": "(1❤)",
+
+
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.1": "Reduces the number of additional",
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.2": "jumps that can be made while",
+    "lexica.cartographer.attribute.negative.extra_jump_count.desc.3": "airborne by pressing %1$s.",
+
+    "lexica.cartographer.attribute.negative.extra_jump_count.with.1": "key.jump",
+
+
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.1": "Reduces the number of directional",
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.2": "dashes that can be made while",
+    "lexica.cartographer.attribute.negative.air_dash_count.desc.3": "airborne by pressing %1$s.",
+
+    "lexica.cartographer.attribute.negative.air_dash_count.with.1": "key.sprint",
+
+
+    "lexica.cartographer.attribute.negative.armor.desc.1": "Reduces armor defense points,",
+    "lexica.cartographer.attribute.negative.armor.desc.2": "which reduce damage.",
+
+
+    "lexica.cartographer.attribute.negative.armor_toughness.desc.1": "Reduces armor toughness, which",
+    "lexica.cartographer.attribute.negative.armor_toughness.desc.2": "improves the effectiveness of %1$s.",
+
+    "lexica.cartographer.attribute.negative.armor_toughness.with.1": "Armor",
+
+
+    "lexica.cartographer.attribute.negative.attack_damage.desc.1": "Reduces the damage dealt",
+    "lexica.cartographer.attribute.negative.attack_damage.desc.2": "by melee attacks.",
+
+
+    "lexica.cartographer.attribute.negative.attack_knockback.desc.1": "Reduces the knockback",
+    "lexica.cartographer.attribute.negative.attack_knockback.desc.2": "of melee attacks.",
+
+
+    "lexica.cartographer.attribute.negative.attack_speed.desc.1": "Reduces the rate of attack",
+    "lexica.cartographer.attribute.negative.attack_speed.desc.2": "cooldown recovery.",
+
+
+    "lexica.cartographer.attribute.negative.follow_range.desc.1": "Reduces the range a mob",
+    "lexica.cartographer.attribute.negative.follow_range.desc.2": "can aggro onto a target.",
+
+
+    "lexica.cartographer.attribute.negative.knockback_resistance.desc.1": "Increases the amount of knockback",
+    "lexica.cartographer.attribute.negative.knockback_resistance.desc.2": "inflicted on the user.",
+
+
+    "lexica.cartographer.attribute.negative.max_health.desc.1": "Reduces the health of the user.",
+
+
+    "lexica.cartographer.attribute.negative.speed.desc.1": "Reduces the speed at",
+    "lexica.cartographer.attribute.negative.speed.desc.2": "which the user moves.",
+
+
+    "lexica.cartographer.attribute.negative.scale.desc.1": "Reduces the size and",
+    "lexica.cartographer.attribute.negative.scale.desc.2": "hitbox of the user.",
+
+
+    "lexica.cartographer.attribute.negative.step_height.desc.1": "Reduces the number of blocks the",
+    "lexica.cartographer.attribute.negative.step_height.desc.2": "user can step up without jumping.",
+
+
+    "lexica.cartographer.attribute.negative.jump_strength.desc.1": "Reduces the height of",
+    "lexica.cartographer.attribute.negative.jump_strength.desc.2": "the user's jumps.",
+
+
+    "lexica.cartographer.attribute.negative.block_interaction_range.desc.1": "Reduces the range which blocks can",
+    "lexica.cartographer.attribute.negative.block_interaction_range.desc.2": "be broken or interacted with.",
+
+
+    "lexica.cartographer.attribute.negative.entity_interaction_range.desc.1": "Reduces the range which entities can",
+    "lexica.cartographer.attribute.negative.entity_interaction_range.desc.2": "be attacked or interacted with.",
+
+
+    "lexica.cartographer.attribute.negative.block_break_speed.desc.1": "Reduces the mining",
+    "lexica.cartographer.attribute.negative.block_break_speed.desc.2": "speed of the user.",
+
+
+    "lexica.cartographer.attribute.negative.gravity.desc.1": "Reduces the effect",
+    "lexica.cartographer.attribute.negative.gravity.desc.2": "gravity has on the user.",
+
+
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.1": "Reduces the number of blocks",
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.2": "the user can fall before",
+    "lexica.cartographer.attribute.negative.safe_fall_distance.desc.3": "they take fall damage.",
+
+
+    "lexica.cartographer.attribute.negative.fall_damage_multiplier.desc.1": "Reduces the amount of fall",
+    "lexica.cartographer.attribute.negative.fall_damage_multiplier.desc.2": "damage the user takes.",
+
+
+    "lexica.cartographer.attribute.negative.burning_time.desc.1": "Increases the amount of time",
+    "lexica.cartographer.attribute.negative.burning_time.desc.2": "the user is on fire for.",
+
+
+    "lexica.cartographer.attribute.negative.explosion_knockback_resistance.desc.1": "Reduces the %1$s",
+    "lexica.cartographer.attribute.negative.explosion_knockback_resistance.desc.2": "of the user for explosions.",
+
+    "lexica.cartographer.attribute.negative.explosion_knockback_resistance.with.1": "Knockback Resistance",
+
+
+    "lexica.cartographer.attribute.negative.mining_efficiency.desc.1": "Reduces the mining speed of the",
+    "lexica.cartographer.attribute.negative.mining_efficiency.desc.2": "user when using a proper tool.",
+
+
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.1": "Increases the terrain penalty",
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.2": "on %1$s when walking on or",
+    "lexica.cartographer.attribute.negative.movement_efficiency.desc.3": "through certain blocks.",
+
+    "lexica.cartographer.attribute.negative.movement_efficiency.with.1": "Speed",
+
+
+    "lexica.cartographer.attribute.negative.oxygen_bonus.desc.1": "Reduces the chance of not consuming",
+    "lexica.cartographer.attribute.negative.oxygen_bonus.desc.2": "Air when underwater each second.",
+
+
+    "lexica.cartographer.attribute.negative.sneaking_speed.desc.1": "Increases the %1$s",
+    "lexica.cartographer.attribute.negative.sneaking_speed.desc.2": "penalty while sneaking.",
+
+    "lexica.cartographer.attribute.negative.sneaking_speed.with.1": "Speed",
+
+
+    "lexica.cartographer.attribute.negative.submerged_mining_speed.desc.1": "Increases the mining speed",
+    "lexica.cartographer.attribute.negative.submerged_mining_speed.desc.2": "penalty when underwater.",
+
+
+    "lexica.cartographer.attribute.negative.sweeping_damage_ratio.desc.1": "Reduces the percentage of damage",
+    "lexica.cartographer.attribute.negative.sweeping_damage_ratio.desc.2": "dealt in a sweep attack.",
+
+
+    "lexica.cartographer.attribute.negative.water_movement_efficiency.desc.1": "Increases the %1$s penalty",
+    "lexica.cartographer.attribute.negative.water_movement_efficiency.desc.2": "when moving through water.",
+
+    "lexica.cartographer.attribute.negative.water_movement_efficiency.with.1": "Speed",
+
+
+    "lexica.cartographer.enchantment.hazard_protection.desc.1": "%1$s: Reduce damage",
+    "lexica.cartographer.enchantment.hazard_protection.desc.2": "from fire, explosion, and",
+    "lexica.cartographer.enchantment.hazard_protection.desc.3": "magic damage by %2$s.",
+
+    "lexica.cartographer.enchantment.hazard_protection.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.hazard_protection.with.2": "[4% * level]",
+
+
+    "lexica.cartographer.enchantment.melee_protection.desc.1": "%1$s: Reduce damage from",
+    "lexica.cartographer.enchantment.melee_protection.desc.2": "melee damage by %2$s.",
+
+    "lexica.cartographer.enchantment.melee_protection.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.melee_protection.with.2": "[4% * level]",
+
+
+    "lexica.cartographer.enchantment.ranged_protection.desc.1": "%1$s: Reduce damage from",
+    "lexica.cartographer.enchantment.ranged_protection.desc.2": "ranged damage by %2$s.",
+
+    "lexica.cartographer.enchantment.ranged_protection.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.ranged_protection.with.2": "[4% * level]",
+
+
+    "lexica.cartographer.enchantment.agility.desc.1": "%1$s: Gain %2$s Blocks",
+    "lexica.cartographer.enchantment.agility.desc.2": "of %3$s Attribute.",
+
+    "lexica.cartographer.enchantment.agility.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.agility.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.agility.with.3": "Jump Strength",
+
+
+    "lexica.cartographer.enchantment.amplitude.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.amplitude.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.amplitude.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.amplitude.with.2": "+[10% * lvl]",
+    "lexica.cartographer.enchantment.amplitude.with.3": "AoE Size",
+
+
+    "lexica.cartographer.enchantment.celerity.desc.1": "%1$s: Gain",
+    "lexica.cartographer.enchantment.celerity.desc.2": "%2$s %3$s Attribute.",
+
+    "lexica.cartographer.enchantment.celerity.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.celerity.with.2": "+[4% * lvl]",
+    "lexica.cartographer.enchantment.celerity.with.3": "Speed",
+
+
+    "lexica.cartographer.enchantment.cloudstep.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.cloudstep.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.cloudstep.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.cloudstep.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.cloudstep.with.3": "Extra Jump Count",
+
+
+    "lexica.cartographer.enchantment.dexterity.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.dexterity.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.dexterity.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.dexterity.with.2": "+[10% * lvl]",
+    "lexica.cartographer.enchantment.dexterity.with.3": "Attack Speed",
+
+
+    "lexica.cartographer.enchantment.echo.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.echo.desc.2": "%3$s Attribute.",
+    "lexica.cartographer.enchantment.echo.desc.3": "Guarantees a %4$s.",
+    "lexica.cartographer.enchantment.echo.desc.4": "Gives -1 %5$s Attribute",
+    "lexica.cartographer.enchantment.echo.desc.5": "every 2 additional lvls.",
+
+    "lexica.cartographer.enchantment.echo.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.echo.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.echo.with.3": "Restrike Hit Amount",
+    "lexica.cartographer.enchantment.echo.with.4": "Restrike Hit Chance",
+    "lexica.cartographer.enchantment.echo.with.5": "Restrike Hit Rate",
+
+
+    "lexica.cartographer.enchantment.extended.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.extended.desc.2": "%3$s and",
+    "lexica.cartographer.enchantment.extended.desc.3": "%4$s Attributes.",
+
+    "lexica.cartographer.enchantment.extended.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.extended.with.2": "+[0.25 * lvl]",
+    "lexica.cartographer.enchantment.extended.with.3": "Block Hit Reach",
+    "lexica.cartographer.enchantment.extended.with.4": "Entity Hit Reach",
+
+
+    "lexica.cartographer.enchantment.finesse.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.finesse.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.finesse.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.finesse.with.2": "+[5% * lvl]",
+    "lexica.cartographer.enchantment.finesse.with.3": "Attack Damage",
+
+
+    "lexica.cartographer.enchantment.handling.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.handling.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.handling.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.handling.with.2": "+[3 * lvl]",
+    "lexica.cartographer.enchantment.handling.with.3": "Mining Efficiency",
+
+
+    "lexica.cartographer.enchantment.immovable.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.immovable.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.immovable.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.immovable.with.2": "+[lvl]]",
+    "lexica.cartographer.enchantment.immovable.with.3": "Knockback Resistance",
+
+
+    "lexica.cartographer.enchantment.invigorated.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.invigorated.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.invigorated.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.invigorated.with.2": "+[10% * lvl]]",
+    "lexica.cartographer.enchantment.invigorated.with.3": "Healing Power",
+
+
+    "lexica.cartographer.enchantment.lifesteal.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.lifesteal.desc.2": "%3$s Attribute.",
+    "lexica.cartographer.enchantment.lifesteal.desc.3": "Additionally gives +1",
+    "lexica.cartographer.enchantment.lifesteal.desc.4": "%4$s Attribute.",
+
+    "lexica.cartographer.enchantment.lifesteal.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.lifesteal.with.2": "+[5% * lvl]]",
+    "lexica.cartographer.enchantment.lifesteal.with.3": "Life Drain Chance",
+    "lexica.cartographer.enchantment.lifesteal.with.4": "Life Drain Amount",
+
+
+    "lexica.cartographer.enchantment.lucky.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.lucky.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.lucky.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.lucky.with.2": "+[0.2 * lvl]]",
+    "lexica.cartographer.enchantment.lucky.with.3": "Combat Luck",
+
+
+    "lexica.cartographer.enchantment.precision.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.precision.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.precision.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.precision.with.2": "+[5% * lvl]]",
+    "lexica.cartographer.enchantment.precision.with.3": "Ranged Damage",
+
+
+    "lexica.cartographer.enchantment.resonance.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.resonance.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.resonance.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.resonance.with.2": "+[10% * lvl]]",
+    "lexica.cartographer.enchantment.resonance.with.3": "AoE Damage",
+
+
+    "lexica.cartographer.enchantment.reverb.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.reverb.desc.2": "%3$s. Additionally,",
+    "lexica.cartographer.enchantment.reverb.desc.3": "guarantees a %4$s.",
+
+    "lexica.cartographer.enchantment.reverb.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.reverb.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.reverb.with.3": "Chaining Hit Amount",
+    "lexica.cartographer.enchantment.reverb.with.4": "Chaining Hit",
+
+
+    "lexica.cartographer.enchantment.technique.desc.1": "%1$s: Gain",
+    "lexica.cartographer.enchantment.technique.desc.2": "%2$s %3$s.",
+
+    "lexica.cartographer.enchantment.technique.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.technique.with.2": "+[10% * lvl]]",
+    "lexica.cartographer.enchantment.technique.with.3": "Lucky Hit Chance",
+
+
+    "lexica.cartographer.enchantment.traveling.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.traveling.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.traveling.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.traveling.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.traveling.with.3": "Step Height",
+
+
+    "lexica.cartographer.enchantment.vitality.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.vitality.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.vitality.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.vitality.with.2": "+[5% * lvl]",
+    "lexica.cartographer.enchantment.vitality.with.3": "Max Health",
+
+
+    "lexica.cartographer.enchantment.windborn.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.windborn.desc.2": "%3$s Attribute.",
+
+    "lexica.cartographer.enchantment.windborn.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.windborn.with.2": "+[lvl]",
+    "lexica.cartographer.enchantment.windborn.with.3": "Air Dash Count",
+
+
+    "lexica.cartographer.enchantment.evasion.desc.1": "%1$s: Gain %2$s %3$s.",
+
+    "lexica.cartographer.enchantment.evasion.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.evasion.with.2": "Evasion",
+    "lexica.cartographer.enchantment.evasion.with.3": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.hastiness.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.hastiness.desc.2": "%3$s and",
+    "lexica.cartographer.enchantment.hastiness.desc.3": "%4$s for %5$s.",
+
+    "lexica.cartographer.enchantment.hastiness.with.1": "Lethal",
+    "lexica.cartographer.enchantment.hastiness.with.2": "+[10% * lvl]",
+    "lexica.cartographer.enchantment.hastiness.with.3": "Attack Speed",
+    "lexica.cartographer.enchantment.hastiness.with.4": "Mining Efficiency",
+    "lexica.cartographer.enchantment.hastiness.with.5": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.lifeblood.desc.1": "%1$s: Gain %2$s %3$s for %4$s.",
+    "lexica.cartographer.enchantment.lifeblood.desc.2": " ",
+    "lexica.cartographer.enchantment.lifeblood.desc.3": "This can stack up to %5$s %6$s",
+
+    "lexica.cartographer.enchantment.lifeblood.with.1": "Lethal",
+    "lexica.cartographer.enchantment.lifeblood.with.2": "[lvl]",
+    "lexica.cartographer.enchantment.lifeblood.with.3": "(❤)",
+    "lexica.cartographer.enchantment.lifeblood.with.4": "(00:15)",
+    "lexica.cartographer.enchantment.lifeblood.with.5": "[2 * lvl]",
+    "lexica.cartographer.enchantment.lifeblood.with.6": "(❤)",
+
+
+    "lexica.cartographer.enchantment.mightiness.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.mightiness.desc.2": "%3$s for %4$s.",
+
+    "lexica.cartographer.enchantment.mightiness.with.1": "Lethal",
+    "lexica.cartographer.enchantment.mightiness.with.2": "+[10% * lvl]",
+    "lexica.cartographer.enchantment.mightiness.with.3": "Attack Damage",
+    "lexica.cartographer.enchantment.mightiness.with.4": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.nullifying.desc.1": "%1$s: Gain %2$s %3$s.",
+
+    "lexica.cartographer.enchantment.nullifying.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.nullifying.with.2": "Nullify",
+    "lexica.cartographer.enchantment.nullifying.with.3": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.regeneration.desc.1": "%1$s: Restore %2$s every",
+    "lexica.cartographer.enchantment.regeneration.desc.2": "%3$s. Higher levels reduce",
+    "lexica.cartographer.enchantment.regeneration.desc.3": "the time between procs by",
+    "lexica.cartographer.enchantment.regeneration.desc.4": "%4$s.",
+
+    "lexica.cartographer.enchantment.regeneration.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.regeneration.with.2": "(1❤)",
+    "lexica.cartographer.enchantment.regeneration.with.3": "(00:05)",
+    "lexica.cartographer.enchantment.regeneration.with.4": "[15% per lvl (multiplicative)]",
+
+
+    "lexica.cartographer.enchantment.bracing.desc.1": "%1$s: Gain %2$s I.",
+    "lexica.cartographer.enchantment.bracing.desc.2": " ",
+    "lexica.cartographer.enchantment.bracing.desc.3": "The user can store up to %3$s",
+    "lexica.cartographer.enchantment.bracing.desc.4": "%4$s charges from Bracing.",
+
+    "lexica.cartographer.enchantment.bracing.with.1": "Lethal",
+    "lexica.cartographer.enchantment.bracing.with.2": "Barricade",
+    "lexica.cartographer.enchantment.bracing.with.3": "[lvl]",
+    "lexica.cartographer.enchantment.bracing.with.4": "Barricade",
+
+
+    "lexica.cartographer.enchantment.sapper.desc.1": "%1$s: Restore %2$s per %3$s",
+
+    "lexica.cartographer.enchantment.sapper.with.1": "Lethal",
+    "lexica.cartographer.enchantment.sapper.with.2": "(1❤)",
+    "lexica.cartographer.enchantment.sapper.with.3": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.shielding.desc.1": "%1$s: Gain %2$s every %3$s.",
+    "lexica.cartographer.enchantment.shielding.desc.2": "Higher levels reduce the time between",
+    "lexica.cartographer.enchantment.shielding.desc.3": "procs by %4$s.",
+    "lexica.cartographer.enchantment.shielding.desc.4": " ",
+    "lexica.cartographer.enchantment.shielding.desc.5": "%5$s: Shielding pauses for %6$s",
+    "lexica.cartographer.enchantment.shielding.desc.6": "or %7$s when the user has no %8$s.",
+    "lexica.cartographer.enchantment.shielding.desc.7": " ",
+    "lexica.cartographer.enchantment.shielding.desc.8": "The max %9$s is %10$s capping at 12.",
+
+    "lexica.cartographer.enchantment.shielding.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.shielding.with.2": "(1❤)",
+    "lexica.cartographer.enchantment.shielding.with.3": "(00:03)",
+    "lexica.cartographer.enchantment.shielding.with.4": "[15% per lvl (multiplicative)]",
+    "lexica.cartographer.enchantment.shielding.with.5": "When Damaged",
+    "lexica.cartographer.enchantment.shielding.with.6": "(00:08)",
+    "lexica.cartographer.enchantment.shielding.with.7": "(00:16)",
+    "lexica.cartographer.enchantment.shielding.with.8": "(❤)",
+    "lexica.cartographer.enchantment.shielding.with.9": "(❤)",
+    "lexica.cartographer.enchantment.shielding.with.10": "[4 + (2 * lvl)]",
+
+
+    "lexica.cartographer.enchantment.stealthiness.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.stealthiness.desc.2": "%3$s for %4$s.",
+
+    "lexica.cartographer.enchantment.stealthiness.with.1": "Lethal",
+    "lexica.cartographer.enchantment.stealthiness.with.2": "Stealth",
+    "lexica.cartographer.enchantment.stealthiness.with.3": "[lvl]",
+    "lexica.cartographer.enchantment.stealthiness.with.4": "(00:06)",
+
+
+    "lexica.cartographer.enchantment.swiftness.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.swiftness.desc.2": "%3$s for %4$s.",
+
+    "lexica.cartographer.enchantment.swiftness.with.1": "Lethal",
+    "lexica.cartographer.enchantment.swiftness.with.2": "+[10% * lvl]",
+    "lexica.cartographer.enchantment.swiftness.with.3": "Speed",
+    "lexica.cartographer.enchantment.swiftness.with.4": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.decontaminate.desc.1": "%1$s: When the user is",
+    "lexica.cartographer.enchantment.decontaminate.desc.2": "afflicted with a new debuff,",
+    "lexica.cartographer.enchantment.decontaminate.desc.3": "there is a %2$s chance",
+    "lexica.cartographer.enchantment.decontaminate.desc.4": "to gain %3$s %4$s.",
+
+    "lexica.cartographer.enchantment.decontaminate.with.1": "Random",
+    "lexica.cartographer.enchantment.decontaminate.with.2": "[5% per lvl]",
+    "lexica.cartographer.enchantment.decontaminate.with.3": "Cleansed",
+    "lexica.cartographer.enchantment.decontaminate.with.4": "(00:02)",
+
+
+    "lexica.cartographer.enchantment.adrenaline.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.adrenaline.desc.2": "%3$s %4$s. This effect",
+    "lexica.cartographer.enchantment.adrenaline.desc.3": "can stack up to 5 times.",
+
+    "lexica.cartographer.enchantment.adrenaline.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.adrenaline.with.2": "+[2% * lvl]",
+    "lexica.cartographer.enchantment.adrenaline.with.3": "Speed",
+    "lexica.cartographer.enchantment.adrenaline.with.4": "(00:08)",
+
+
+    "lexica.cartographer.enchantment.bulwark.desc.1": "%1$s: Reduce all damage by",
+    "lexica.cartographer.enchantment.bulwark.desc.2": "%2$s for the next %3$s.",
+
+    "lexica.cartographer.enchantment.bulwark.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.bulwark.with.2": "[8% * lvl]",
+    "lexica.cartographer.enchantment.bulwark.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.courageous.desc.1": "%1$s: Reduce all",
+    "lexica.cartographer.enchantment.courageous.desc.2": "damage by %2$s for",
+    "lexica.cartographer.enchantment.courageous.desc.3": "every hostile mob targeting",
+    "lexica.cartographer.enchantment.courageous.desc.4": "the user, up to 4 hostile mobs.",
+
+    "lexica.cartographer.enchantment.courageous.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.courageous.with.2": "[2% * lvl]",
+
+
+    "lexica.cartographer.enchantment.diversion.desc.1": "%1$s: Chance to create a",
+    "lexica.cartographer.enchantment.diversion.desc.2": "distraction that pulls the attention",
+    "lexica.cartographer.enchantment.diversion.desc.3": "of every mob targeting the user.",
+    "lexica.cartographer.enchantment.diversion.desc.4": "When the distraction is destroyed,",
+    "lexica.cartographer.enchantment.diversion.desc.5": "it counts as a %2$s action. The",
+    "lexica.cartographer.enchantment.diversion.desc.6": "distraction lasts up to %3$s.",
+    "lexica.cartographer.enchantment.diversion.desc.7": " ",
+    "lexica.cartographer.enchantment.diversion.desc.8": "%4$s: %5$s chance.",
+
+    "lexica.cartographer.enchantment.diversion.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.diversion.with.2": "Lethal",
+    "lexica.cartographer.enchantment.diversion.with.3": "(00:06)",
+    "lexica.cartographer.enchantment.diversion.with.4": "Random",
+    "lexica.cartographer.enchantment.diversion.with.5": "[3% * lvl]",
+
+
+    "lexica.cartographer.enchantment.ethereal.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.ethereal.desc.2": "%3$s of extra invulnerability frames.",
+
+    "lexica.cartographer.enchantment.ethereal.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.ethereal.with.2": "[3 * lvl * 0.05]",
+    "lexica.cartographer.enchantment.ethereal.with.3": "seconds",
+
+
+    "lexica.cartographer.enchantment.frenzy.desc.1": "%1$s: Gain %2$s",
+    "lexica.cartographer.enchantment.frenzy.desc.2": "%3$s %4$s. This",
+    "lexica.cartographer.enchantment.frenzy.desc.3": "effect can stack up to 5 times.",
+
+    "lexica.cartographer.enchantment.frenzy.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.frenzy.with.2": "+[2% * lvl]",
+    "lexica.cartographer.enchantment.frenzy.with.3": "Attack Damage",
+    "lexica.cartographer.enchantment.frenzy.with.4": "(00:08)",
+
+
+    "lexica.cartographer.enchantment.hardened.desc.1": "%1$s: Reduce all damage",
+    "lexica.cartographer.enchantment.hardened.desc.2": "by %2$s if the damage",
+    "lexica.cartographer.enchantment.hardened.desc.3": "received is the same type as",
+    "lexica.cartographer.enchantment.hardened.desc.4": "the last damage received.",
+
+    "lexica.cartographer.enchantment.hardened.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.hardened.with.2": "[8% * lvl]",
+
+
+    "lexica.cartographer.enchantment.inertia.desc.1": "%1$s: Reduce all damage by",
+    "lexica.cartographer.enchantment.inertia.desc.2": "%2$s. At max charge, this",
+    "lexica.cartographer.enchantment.inertia.desc.3": "affects 5 instances of damage.",
+
+    "lexica.cartographer.enchantment.inertia.with.1": "Energized",
+    "lexica.cartographer.enchantment.inertia.with.2": "[8% * lvl]",
+
+
+    "lexica.cartographer.enchantment.poise.desc.1": "%1$s: Reduce all",
+    "lexica.cartographer.enchantment.poise.desc.2": "damage by %2$s when",
+    "lexica.cartographer.enchantment.poise.desc.3": "above 50%% %3$s.",
+
+    "lexica.cartographer.enchantment.poise.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.poise.with.2": "[8% * lvl]",
+    "lexica.cartographer.enchantment.poise.with.3": "Max Health",
+
+
+    "lexica.cartographer.enchantment.sidestep.desc.1": "%1$s: Reduce all",
+    "lexica.cartographer.enchantment.sidestep.desc.2": "damage by %2$s.",
+    "lexica.cartographer.enchantment.sidestep.desc.3": " ",
+    "lexica.cartographer.enchantment.sidestep.desc.4": "%3$s: Disable Sidestep for",
+    "lexica.cartographer.enchantment.sidestep.desc.5": "%4$s. After %5$s, Sidestep",
+    "lexica.cartographer.enchantment.sidestep.desc.6": "will activate at half efficiency.",
+
+    "lexica.cartographer.enchantment.sidestep.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.sidestep.with.2": "[8% * lvl]",
+    "lexica.cartographer.enchantment.sidestep.with.3": "When Attacked",
+    "lexica.cartographer.enchantment.sidestep.with.4": "(00:03)",
+    "lexica.cartographer.enchantment.sidestep.with.5": "1.5 seconds",
+
+
+    "lexica.cartographer.enchantment.steadfast.desc.1": "%1$s: Reduce all",
+    "lexica.cartographer.enchantment.steadfast.desc.2": "damage by %2$s when",
+    "lexica.cartographer.enchantment.steadfast.desc.3": "below 50%% %3$s.",
+
+    "lexica.cartographer.enchantment.steadfast.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.steadfast.with.2": "[8% * lvl]",
+    "lexica.cartographer.enchantment.steadfast.with.3": "Max Health",
+
+
+    "lexica.cartographer.enchantment.tenacity.desc.1": "%1$s: When the user heals",
+    "lexica.cartographer.enchantment.tenacity.desc.2": "10%% of their %2$s, reduce",
+    "lexica.cartographer.enchantment.tenacity.desc.3": "all damage by %3$s for %4$s.",
+    "lexica.cartographer.enchantment.tenacity.desc.4": "This can stack up to 5 times.",
+
+    "lexica.cartographer.enchantment.tenacity.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.tenacity.with.2": "Max Health",
+    "lexica.cartographer.enchantment.tenacity.with.3": "[2% * lvl]",
+    "lexica.cartographer.enchantment.tenacity.with.4": "(00:05)",
+
+
+    "lexica.cartographer.enchantment.unseen.desc.1": "%1$s: Reduce all damage",
+    "lexica.cartographer.enchantment.unseen.desc.2": "by %2$s when being targeted",
+    "lexica.cartographer.enchantment.unseen.desc.3": "by only one hostile mob. Reduce",
+    "lexica.cartographer.enchantment.unseen.desc.4": "the effect by %3$s per",
+    "lexica.cartographer.enchantment.unseen.desc.5": "each extra hostile mob.",
+
+    "lexica.cartographer.enchantment.unseen.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.unseen.with.2": "[8% * lvl]",
+    "lexica.cartographer.enchantment.unseen.with.3": "[2% * lvl]",
+
+
+    "lexica.cartographer.enchantment.aberration.desc.1": "%1$s: Create a slime minion",
+    "lexica.cartographer.enchantment.aberration.desc.2": "that targets a nearby mob",
+    "lexica.cartographer.enchantment.aberration.desc.3": "and explodes after %2$s.",
+    "lexica.cartographer.enchantment.aberration.desc.4": "Slimes deal %3$s damage.",
+    "lexica.cartographer.enchantment.aberration.desc.5": " ",
+    "lexica.cartographer.enchantment.aberration.desc.6": "%4$s: %5$s",
+    "lexica.cartographer.enchantment.aberration.desc.7": "or %6$s.",
+    "lexica.cartographer.enchantment.aberration.desc.8": " ",
+    "lexica.cartographer.enchantment.aberration.desc.9": "%7$s: Slimes have a 50%%",
+    "lexica.cartographer.enchantment.aberration.desc.10": "chance to split on",
+    "lexica.cartographer.enchantment.aberration.desc.11": "explosion, up to 2 times.",
+
+    "lexica.cartographer.enchantment.aberration.with.1": "Lethal",
+    "lexica.cartographer.enchantment.aberration.with.2": "(00:06)",
+    "lexica.cartographer.enchantment.aberration.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.aberration.with.4": "Dynamic",
+    "lexica.cartographer.enchantment.aberration.with.5": "[20% per lvl]",
+    "lexica.cartographer.enchantment.aberration.with.6": "2 damage",
+    "lexica.cartographer.enchantment.aberration.with.7": "Random",
+
+
+    "lexica.cartographer.enchantment.deadeye.desc.1": "%1$s: Fire a projectile at",
+    "lexica.cartographer.enchantment.deadeye.desc.2": "the nearest mob every %2$s.",
+    "lexica.cartographer.enchantment.deadeye.desc.3": "Projectiles deal %3$s damage.",
+    "lexica.cartographer.enchantment.deadeye.desc.4": "Entities cannot be retargeted by",
+    "lexica.cartographer.enchantment.deadeye.desc.5": "Deadeye for %4$s.",
+
+    "lexica.cartographer.enchantment.deadeye.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.deadeye.with.2": "0.5 seconds",
+    "lexica.cartographer.enchantment.deadeye.with.3": "[2 * lvl]",
+    "lexica.cartographer.enchantment.deadeye.with.4": "1.5 seconds",
+
+
+    "lexica.cartographer.enchantment.eruption.desc.1": "%1$s: Detonate mobs,",
+    "lexica.cartographer.enchantment.eruption.desc.2": "dealing %2$s damage.",
+    "lexica.cartographer.enchantment.eruption.desc.3": " ",
+    "lexica.cartographer.enchantment.eruption.desc.4": "%3$s: %4$s",
+    "lexica.cartographer.enchantment.eruption.desc.5": "or %5$s.",
+
+    "lexica.cartographer.enchantment.eruption.with.1": "Opportunist",
+    "lexica.cartographer.enchantment.eruption.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.eruption.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.eruption.with.4": "[20% per lvl]",
+    "lexica.cartographer.enchantment.eruption.with.5": "2 damage",
+
+
+    "lexica.cartographer.enchantment.gravity.desc.1": "%1$s: Weapon attacks while",
+    "lexica.cartographer.enchantment.gravity.desc.2": "falling deal %2$s damage",
+    "lexica.cartographer.enchantment.gravity.desc.3": "and knock away other nearby mobs.",
+
+    "lexica.cartographer.enchantment.gravity.with.1": "Passive",
+    "lexica.cartographer.enchantment.gravity.with.2": "+[lvl * 2]",
+
+
+    "lexica.cartographer.enchantment.induction.desc.1": "%1$s: Weapon attacks release",
+    "lexica.cartographer.enchantment.induction.desc.2": "a spark that deals %2$s",
+    "lexica.cartographer.enchantment.induction.desc.3": "damage to up to 8 nearby mobs.",
+    "lexica.cartographer.enchantment.induction.desc.4": " ",
+    "lexica.cartographer.enchantment.induction.desc.5": "%3$s: %4$s",
+    "lexica.cartographer.enchantment.induction.desc.6": "or %5$s.",
+
+    "lexica.cartographer.enchantment.induction.with.1": "Energized",
+    "lexica.cartographer.enchantment.induction.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.induction.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.induction.with.4": "[40% per lvl]",
+    "lexica.cartographer.enchantment.induction.with.5": "3 damage",
+
+
+    "lexica.cartographer.enchantment.momentum.desc.1": "%1$s: Weapon attacks",
+    "lexica.cartographer.enchantment.momentum.desc.2": "deal %2$s damage and",
+    "lexica.cartographer.enchantment.momentum.desc.3": "knock away other nearby mobs.",
+
+    "lexica.cartographer.enchantment.momentum.with.1": "Energized",
+    "lexica.cartographer.enchantment.momentum.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.orbit.desc.1": "%1$s: Dealing damage can create an",
+    "lexica.cartographer.enchantment.orbit.desc.2": "Orbital. Orbitals rotate around their",
+    "lexica.cartographer.enchantment.orbit.desc.3": "owner and deal %2$s damage. Orbitals",
+    "lexica.cartographer.enchantment.orbit.desc.4": "break after hitting 4 mobs.",
+    "lexica.cartographer.enchantment.orbit.desc.5": " ",
+    "lexica.cartographer.enchantment.orbit.desc.6": "%3$s: %4$s",
+    "lexica.cartographer.enchantment.orbit.desc.7": "or %5$s.",
+
+    "lexica.cartographer.enchantment.orbit.with.1": "Random",
+    "lexica.cartographer.enchantment.orbit.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.orbit.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.orbit.with.4": "[15% per lvl]",
+    "lexica.cartographer.enchantment.orbit.with.5": "2 damage",
+
+
+    "lexica.cartographer.enchantment.quake.desc.1": "%1$s: Create a tremor at the",
+    "lexica.cartographer.enchantment.quake.desc.2": "mob's position that deals %2$s",
+    "lexica.cartographer.enchantment.quake.desc.3": "damage to mobs within. The tremor",
+    "lexica.cartographer.enchantment.quake.desc.4": "can be jumped and pillared over.",
+    "lexica.cartographer.enchantment.quake.desc.5": " ",
+    "lexica.cartographer.enchantment.quake.desc.6": "%3$s: %4$s or %5$s.",
+
+    "lexica.cartographer.enchantment.quake.with.1": "Lethal",
+    "lexica.cartographer.enchantment.quake.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.quake.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.quake.with.4": "[20% per lvl]",
+    "lexica.cartographer.enchantment.quake.with.5": "3 damage",
+
+
+    "lexica.cartographer.enchantment.soulfire.desc.1": "%1$s: Release a wisp entity.",
+    "lexica.cartographer.enchantment.soulfire.desc.2": "Wisps deal %2$s damage to the",
+    "lexica.cartographer.enchantment.soulfire.desc.3": "nearest 4 mobs after a short delay.",
+    "lexica.cartographer.enchantment.soulfire.desc.4": " ",
+    "lexica.cartographer.enchantment.soulfire.desc.5": "%3$s: %4$s or %5$s.",
+
+    "lexica.cartographer.enchantment.soulfire.with.1": "Opportunist",
+    "lexica.cartographer.enchantment.soulfire.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.soulfire.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.soulfire.with.4": "[20% per lvl]",
+    "lexica.cartographer.enchantment.soulfire.with.5": "3 damage",
+
+
+    "lexica.cartographer.enchantment.starfall.desc.1": "%1$s: Dealing damage can create",
+    "lexica.cartographer.enchantment.starfall.desc.2": "Meteors. Meteors land near the",
+    "lexica.cartographer.enchantment.starfall.desc.3": "attacked mob and deal %2$s damage.",
+    "lexica.cartographer.enchantment.starfall.desc.4": " ",
+    "lexica.cartographer.enchantment.starfall.desc.5": "%3$s: %4$s",
+    "lexica.cartographer.enchantment.starfall.desc.6": "or %5$s.",
+
+    "lexica.cartographer.enchantment.starfall.with.1": "Random",
+    "lexica.cartographer.enchantment.starfall.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.starfall.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.starfall.with.4": "[15% per lvl]",
+    "lexica.cartographer.enchantment.starfall.with.5": "3 damage",
+
+
+    "lexica.cartographer.enchantment.storm.desc.1": "%1$s: Weapon attacks create",
+    "lexica.cartographer.enchantment.storm.desc.2": "a storm that chases enemies it",
+    "lexica.cartographer.enchantment.storm.desc.3": "damages. Storms deal %2$s",
+    "lexica.cartographer.enchantment.storm.desc.4": "damage every %3$s, and",
+    "lexica.cartographer.enchantment.storm.desc.5": "last for %4$s %5$s.",
+    "lexica.cartographer.enchantment.storm.desc.6": " ",
+    "lexica.cartographer.enchantment.storm.desc.7": "%6$s: 15%% or 2.",
+
+    "lexica.cartographer.enchantment.storm.with.1": "Energized",
+    "lexica.cartographer.enchantment.storm.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.storm.with.3": "1.5 seconds",
+    "lexica.cartographer.enchantment.storm.with.4": "[4.5 + (lvl * 1.5)]",
+    "lexica.cartographer.enchantment.storm.with.5": "seconds",
+    "lexica.cartographer.enchantment.storm.with.6": "Dynamic",
+
+
+    "lexica.cartographer.enchantment.surge.desc.1": "%1$s: When the user stops",
+    "lexica.cartographer.enchantment.surge.desc.2": "sprinting, releases a shockwave",
+    "lexica.cartographer.enchantment.surge.desc.3": "in front of them that deals",
+    "lexica.cartographer.enchantment.surge.desc.4": "%2$s damage and knocks",
+    "lexica.cartographer.enchantment.surge.desc.5": "hit entities straight upwards.",
+
+    "lexica.cartographer.enchantment.surge.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.surge.with.2": "[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.trailblazer.desc.1": "%1$s: Create a trail",
+    "lexica.cartographer.enchantment.trailblazer.desc.2": "behind the user that deals",
+    "lexica.cartographer.enchantment.trailblazer.desc.3": "%2$s damage every %3$s",
+    "lexica.cartographer.enchantment.trailblazer.desc.4": "to mobs that stand within it.",
+
+    "lexica.cartographer.enchantment.trailblazer.with.1": "Sprinting",
+    "lexica.cartographer.enchantment.trailblazer.with.2": "[lvl]",
+    "lexica.cartographer.enchantment.trailblazer.with.3": "(00:01)",
+
+
+    "lexica.cartographer.enchantment.vengeance.desc.1": "%1$s: The user's",
+    "lexica.cartographer.enchantment.vengeance.desc.2": "next weapon attack within",
+    "lexica.cartographer.enchantment.vengeance.desc.3": "%2$s deals %3$s damage.",
+
+    "lexica.cartographer.enchantment.vengeance.with.1": "When Attacked",
+    "lexica.cartographer.enchantment.vengeance.with.2": "(00:08)",
+    "lexica.cartographer.enchantment.vengeance.with.3": "+[3 * lvl]",
+
+
+    "lexica.cartographer.enchantment.reconstruction.desc.1": "%1$s: Chance to restore 1",
+    "lexica.cartographer.enchantment.reconstruction.desc.2": "durability every %2$s.",
+    "lexica.cartographer.enchantment.reconstruction.desc.3": " ",
+    "lexica.cartographer.enchantment.reconstruction.desc.4": "Reconstruction is only",
+    "lexica.cartographer.enchantment.reconstruction.desc.5": "activated when on the",
+    "lexica.cartographer.enchantment.reconstruction.desc.6": "user's hotbar or while worn.",
+    "lexica.cartographer.enchantment.reconstruction.desc.7": " ",
+    "lexica.cartographer.enchantment.reconstruction.desc.8": "%3$s: %4$s.",
+
+    "lexica.cartographer.enchantment.reconstruction.with.1": "Passive",
+    "lexica.cartographer.enchantment.reconstruction.with.2": "(00:05)",
+    "lexica.cartographer.enchantment.reconstruction.with.3": "Random",
+    "lexica.cartographer.enchantment.reconstruction.with.4": "([15% * lvl])",
+
+
+    "lexica.cartographer.enchantment.soulbound.desc.1": "%1$s: This item reappears in its",
+    "lexica.cartographer.enchantment.soulbound.desc.2": "user's inventory after death.",
+
+    "lexica.cartographer.enchantment.soulbound.with.1": "Passive",
+
+
+    "lexica.cartographer.enchantment.spurs.desc.1": "%1$s: Break nearby cobwebs",
+    "lexica.cartographer.enchantment.spurs.desc.2": "and other hazardous plants.",
+
+    "lexica.cartographer.enchantment.spurs.with.1": "When Equipped",
+
+
+    "lexica.cartographer.enchantment.drilling.desc.1": "%1$s: Chance of instantly",
+    "lexica.cartographer.enchantment.drilling.desc.2": "breaking a block when the user",
+    "lexica.cartographer.enchantment.drilling.desc.3": "begins mining it. Drilling",
+    "lexica.cartographer.enchantment.drilling.desc.4": "cannot be used again until a",
+    "lexica.cartographer.enchantment.drilling.desc.5": "block is broken by the user.",
+    "lexica.cartographer.enchantment.drilling.desc.6": " ",
+    "lexica.cartographer.enchantment.drilling.desc.7": "%2$s: %3$s.",
+
+    "lexica.cartographer.enchantment.drilling.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.drilling.with.2": "Random",
+    "lexica.cartographer.enchantment.drilling.with.3": "([5% * lvl])",
+
+
+    "lexica.cartographer.enchantment.excavator.desc.1": "%1$s: When the user",
+    "lexica.cartographer.enchantment.excavator.desc.2": "breaks an ore, spawner, or",
+    "lexica.cartographer.enchantment.excavator.desc.3": "cobweb, all neighboring",
+    "lexica.cartographer.enchantment.excavator.desc.4": "identical blocks are broken.",
+
+    "lexica.cartographer.enchantment.excavator.with.1": "When Equipped",
+
+
+    "lexica.cartographer.enchantment.lightborn.desc.1": "%1$s: Punching a block",
+    "lexica.cartographer.enchantment.lightborn.desc.2": "while sneaking places a torch from",
+    "lexica.cartographer.enchantment.lightborn.desc.3": "the user's inventory on the block",
+    "lexica.cartographer.enchantment.lightborn.desc.4": "clicked. This behavior can be",
+    "lexica.cartographer.enchantment.lightborn.desc.5": "modified with %2$s.",
+
+    "lexica.cartographer.enchantment.lightborn.with.1": "When Equipped",
+    "lexica.cartographer.enchantment.lightborn.with.2": "/trigger lightborn",
+
+
+    "lexica.cartographer.enchantment.multitool.desc.1": "%1$s: Break blocks",
+    "lexica.cartographer.enchantment.multitool.desc.2": "in other tool categories",
+    "lexica.cartographer.enchantment.multitool.desc.3": "at 75%% effectiveness.",
+
+    "lexica.cartographer.enchantment.multitool.with.1": "When Equipped",
+
+
+    "lexica.cartographer.enchantment.chaotic.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.chaotic.desc.2": "damage at lvl I. Deal %3$s",
+    "lexica.cartographer.enchantment.chaotic.desc.3": "damage for each extra lvl.",
+    "lexica.cartographer.enchantment.chaotic.desc.4": " ",
+    "lexica.cartographer.enchantment.chaotic.desc.5": "%4$s increases the",
+    "lexica.cartographer.enchantment.chaotic.desc.6": "likelihood of dealing higher",
+    "lexica.cartographer.enchantment.chaotic.desc.7": "amounts of Chaotic damage.",
+
+    "lexica.cartographer.enchantment.chaotic.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.chaotic.with.2": "+[0.5~2.0]",
+    "lexica.cartographer.enchantment.chaotic.with.3": "+[0.25~1]",
+    "lexica.cartographer.enchantment.chaotic.with.4": "Combat Luck",
+
+
+    "lexica.cartographer.enchantment.concentration.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.concentration.desc.2": "damage when attacking perfectly.",
+    "lexica.cartographer.enchantment.concentration.desc.3": " ",
+    "lexica.cartographer.enchantment.concentration.desc.4": "For melee weapons, this is when",
+    "lexica.cartographer.enchantment.concentration.desc.5": "your cooldown is fully recharged.",
+    "lexica.cartographer.enchantment.concentration.desc.6": "For ranged weapons, this is when",
+    "lexica.cartographer.enchantment.concentration.desc.7": "the weapon fully draws.",
+
+    "lexica.cartographer.enchantment.concentration.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.concentration.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.duelist.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.duelist.desc.2": "damage when the target is %3$s.",
+
+    "lexica.cartographer.enchantment.duelist.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.duelist.with.2": "+[2 * lvl]",
+    "lexica.cartographer.enchantment.duelist.with.3": "Humanoid",
+
+
+    "lexica.cartographer.enchantment.hunter.desc.1": "%1$s: Deal %2$s damage",
+    "lexica.cartographer.enchantment.hunter.desc.2": "when the target is %3$s.",
+
+    "lexica.cartographer.enchantment.hunter.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.hunter.with.2": "+[2 * lvl]",
+    "lexica.cartographer.enchantment.hunter.with.3": "Monstrous",
+
+
+    "lexica.cartographer.enchantment.first_strike.desc.1": "%1$s: Deal %2$s damage",
+    "lexica.cartographer.enchantment.first_strike.desc.2": "when the target has not been affected",
+    "lexica.cartographer.enchantment.first_strike.desc.3": "by First Strike for %3$s.",
+
+    "lexica.cartographer.enchantment.first_strike.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.first_strike.with.2": "+[2 * lvl]",
+    "lexica.cartographer.enchantment.first_strike.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.focus.desc.1": "%1$s: Attacks give a",
+    "lexica.cartographer.enchantment.focus.desc.2": "Focus Stack for %2$s, stacking",
+    "lexica.cartographer.enchantment.focus.desc.3": "infinitely. Deal %3$s",
+    "lexica.cartographer.enchantment.focus.desc.4": "damage per stack of Focus.",
+
+    "lexica.cartographer.enchantment.focus.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.focus.with.2": "(00:05)",
+    "lexica.cartographer.enchantment.focus.with.3": "+[0.5 * lvl]",
+
+
+    "lexica.cartographer.enchantment.follow_up.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.follow_up.desc.2": "damage when the target has",
+    "lexica.cartographer.enchantment.follow_up.desc.3": "been affected by Follow Up",
+    "lexica.cartographer.enchantment.follow_up.desc.4": "within the last %3$s.",
+
+    "lexica.cartographer.enchantment.follow_up.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.follow_up.with.2": "+[2 * lvl]",
+    "lexica.cartographer.enchantment.follow_up.with.3": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.hex_eater.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.hex_eater.desc.2": "damage when the target has at",
+    "lexica.cartographer.enchantment.hex_eater.desc.3": "least 2 %3$s.",
+
+    "lexica.cartographer.enchantment.hex_eater.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.hex_eater.with.2": "+[2 * lvl]",
+    "lexica.cartographer.enchantment.hex_eater.with.3": "Negative Statuses",
+
+
+    "lexica.cartographer.enchantment.leverage.desc.1": "%1$s: Critical hits",
+    "lexica.cartographer.enchantment.leverage.desc.2": "deal %2$s damage.",
+
+    "lexica.cartographer.enchantment.leverage.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.leverage.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.rushdown.desc.1": "%1$s: Sprint attacks",
+    "lexica.cartographer.enchantment.rushdown.desc.2": "deal %2$s damage.",
+
+    "lexica.cartographer.enchantment.rushdown.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.rushdown.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.overcharge.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.overcharge.desc.2": "damage if the weapon is drawn",
+    "lexica.cartographer.enchantment.overcharge.desc.3": "and held for an extra second.",
+
+    "lexica.cartographer.enchantment.overcharge.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.overcharge.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.point_blank.desc.1": "%1$s: Deal",
+    "lexica.cartographer.enchantment.point_blank.desc.2": "%2$s damage if the",
+    "lexica.cartographer.enchantment.point_blank.desc.3": "target is within 8 blocks.",
+
+    "lexica.cartographer.enchantment.point_blank.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.point_blank.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.sharpshot.desc.1": "%1$s: Deal %2$s",
+    "lexica.cartographer.enchantment.sharpshot.desc.2": "damage if the target is",
+    "lexica.cartographer.enchantment.sharpshot.desc.3": "further than 12 blocks away.",
+
+    "lexica.cartographer.enchantment.sharpshot.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.sharpshot.with.2": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.explosive.desc.1": "%1$s: Create a small",
+    "lexica.cartographer.enchantment.explosive.desc.2": "explosion when hitting mobs.",
+    "lexica.cartographer.enchantment.explosive.desc.3": "The explosion deals %2$s",
+    "lexica.cartographer.enchantment.explosive.desc.4": "damage. Higher levels also",
+    "lexica.cartographer.enchantment.explosive.desc.5": "increase the size of the explosion.",
+    "lexica.cartographer.enchantment.explosive.desc.6": " ",
+    "lexica.cartographer.enchantment.explosive.desc.7": "%3$s: %4$s or 2.",
+
+    "lexica.cartographer.enchantment.explosive.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.explosive.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.explosive.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.explosive.with.4": "[10% per lvl]",
+
+
+    "lexica.cartographer.enchantment.pulling.desc.1": "%1$s: Hitting mobs pulls",
+    "lexica.cartographer.enchantment.pulling.desc.2": "them towards the user. The pull",
+    "lexica.cartographer.enchantment.pulling.desc.3": "strength is %2$s blocks.",
+    "lexica.cartographer.enchantment.pulling.desc.4": "While being pulled, entities cannot",
+    "lexica.cartographer.enchantment.pulling.desc.5": "explode or inflict contact damage.",
+
+    "lexica.cartographer.enchantment.pulling.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.pulling.with.2": "[3 * lvl]",
+
+
+    "lexica.cartographer.enchantment.recoil.desc.1": "%1$s: Knocks the user",
+    "lexica.cartographer.enchantment.recoil.desc.2": "away from the direction of",
+    "lexica.cartographer.enchantment.recoil.desc.3": "the attack. Higher levels",
+    "lexica.cartographer.enchantment.recoil.desc.4": "increase the distance traveled.",
+    "lexica.cartographer.enchantment.recoil.desc.5": " ",
+    "lexica.cartographer.enchantment.recoil.desc.6": "Recoil is considered a",
+    "lexica.cartographer.enchantment.recoil.desc.7": "%2$s effect.",
+
+    "lexica.cartographer.enchantment.recoil.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.recoil.with.2": "Self Movement",
+
+
+    "lexica.cartographer.enchantment.repulsion.desc.1": "%1$s: Create a blast around",
+    "lexica.cartographer.enchantment.repulsion.desc.2": "the user when they start channeling.",
+    "lexica.cartographer.enchantment.repulsion.desc.3": "The blast deals %2$s damage.",
+    "lexica.cartographer.enchantment.repulsion.desc.4": " ",
+    "lexica.cartographer.enchantment.repulsion.desc.5": "This blast also activates when a",
+    "lexica.cartographer.enchantment.repulsion.desc.6": "melee weapon with Repulsion recharges,",
+    "lexica.cartographer.enchantment.repulsion.desc.7": "or if a ranged weapon with Repulsion",
+    "lexica.cartographer.enchantment.repulsion.desc.8": "is aimed, drawn, or reloading.",
+
+    "lexica.cartographer.enchantment.repulsion.with.1": "Channeling",
+    "lexica.cartographer.enchantment.repulsion.with.2": "[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.ambushing.desc.1": "%1$s: Aim a teleport at a",
+    "lexica.cartographer.enchantment.ambushing.desc.2": "mob the user is looking at,",
+    "lexica.cartographer.enchantment.ambushing.desc.3": "activated on release. The mob",
+    "lexica.cartographer.enchantment.ambushing.desc.4": "must be within 24 blocks and visible.",
+    "lexica.cartographer.enchantment.ambushing.desc.5": " ",
+    "lexica.cartographer.enchantment.ambushing.desc.6": "Ambushing is considered",
+    "lexica.cartographer.enchantment.ambushing.desc.7": "a %2$s effect.",
+    "lexica.cartographer.enchantment.ambushing.desc.8": " ",
+    "lexica.cartographer.enchantment.ambushing.desc.9": "%3$s: %4$s %5$s.",
+
+    "lexica.cartographer.enchantment.ambushing.with.1": "Channeling",
+    "lexica.cartographer.enchantment.ambushing.with.2": "Self Movement",
+    "lexica.cartographer.enchantment.ambushing.with.3": "Cooldown",
+    "lexica.cartographer.enchantment.ambushing.with.4": "[24 - (2 * lvl)]",
+    "lexica.cartographer.enchantment.ambushing.with.5": "seconds",
+
+
+    "lexica.cartographer.enchantment.cleaving.desc.1": "%1$s: Deal 80%%",
+    "lexica.cartographer.enchantment.cleaving.desc.2": "%2$s in an area",
+    "lexica.cartographer.enchantment.cleaving.desc.3": "in front of the user.",
+
+    "lexica.cartographer.enchantment.cleaving.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.cleaving.with.2": "Attack Damage",
+
+
+    "lexica.cartographer.enchantment.lunging.desc.1": "%1$s: Aim a dash in the",
+    "lexica.cartographer.enchantment.lunging.desc.2": "direction the user is looking at,",
+    "lexica.cartographer.enchantment.lunging.desc.3": "activated on release. Passing",
+    "lexica.cartographer.enchantment.lunging.desc.4": "through mobs deals 50%% %2$s.",
+    "lexica.cartographer.enchantment.lunging.desc.5": "Users are invulnerable while",
+    "lexica.cartographer.enchantment.lunging.desc.6": "airborne. Higher levels increase",
+    "lexica.cartographer.enchantment.lunging.desc.7": "the distance traveled. The distance",
+    "lexica.cartographer.enchantment.lunging.desc.8": "traveled is less in vertical directions.",
+    "lexica.cartographer.enchantment.lunging.desc.9": " ",
+    "lexica.cartographer.enchantment.lunging.desc.10": "Lunging is considered a",
+    "lexica.cartographer.enchantment.lunging.desc.11": "%3$s effect.",
+    "lexica.cartographer.enchantment.lunging.desc.12": " ",
+    "lexica.cartographer.enchantment.lunging.desc.13": "%4$s: %5$s.",
+
+    "lexica.cartographer.enchantment.lunging.with.1": "Channeling",
+    "lexica.cartographer.enchantment.lunging.with.2": "Attack Damage",
+    "lexica.cartographer.enchantment.lunging.with.3": "Self Movement",
+    "lexica.cartographer.enchantment.lunging.with.4": "Cooldown",
+    "lexica.cartographer.enchantment.lunging.with.5": "(00:04)",
+
+
+    "lexica.cartographer.enchantment.quick_strike.desc.1": "%1$s: Gain instant",
+    "lexica.cartographer.enchantment.quick_strike.desc.2": "attack speed after attacking",
+    "lexica.cartographer.enchantment.quick_strike.desc.3": "for %2$s hits, usable for",
+    "lexica.cartographer.enchantment.quick_strike.desc.4": "up to %3$s %4$s.",
+    "lexica.cartographer.enchantment.quick_strike.desc.5": " ",
+    "lexica.cartographer.enchantment.quick_strike.desc.6": "%5$s: %6$s %7$s.",
+
+    "lexica.cartographer.enchantment.quick_strike.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.quick_strike.with.2": "[lvl]",
+    "lexica.cartographer.enchantment.quick_strike.with.3": "[1 + lvl]",
+    "lexica.cartographer.enchantment.quick_strike.with.4": "seconds",
+    "lexica.cartographer.enchantment.quick_strike.with.5": "Cooldown",
+    "lexica.cartographer.enchantment.quick_strike.with.6": "[11 + lvl)]",
+    "lexica.cartographer.enchantment.quick_strike.with.7": "seconds",
+
+
+    "lexica.cartographer.enchantment.riposte.desc.1": "%1$s: Block 40%% of incoming",
+    "lexica.cartographer.enchantment.riposte.desc.2": "damage for up to %2$s. When",
+    "lexica.cartographer.enchantment.riposte.desc.3": "damage is blocked, the attacker",
+    "lexica.cartographer.enchantment.riposte.desc.4": "takes %3$s damage.",
+    "lexica.cartographer.enchantment.riposte.desc.5": " ",
+    "lexica.cartographer.enchantment.riposte.desc.6": "%4$s: %5$s",
+    "lexica.cartographer.enchantment.riposte.desc.7": "or %6$s.",
+    "lexica.cartographer.enchantment.riposte.desc.8": " ",
+    "lexica.cartographer.enchantment.riposte.desc.9": "%7$s: %8$s",
+    "lexica.cartographer.enchantment.riposte.desc.10": "(based on block time).",
+
+    "lexica.cartographer.enchantment.riposte.with.1": "Channeling",
+    "lexica.cartographer.enchantment.riposte.with.2": "(00:03)",
+    "lexica.cartographer.enchantment.riposte.with.3": "Dynamic",
+    "lexica.cartographer.enchantment.riposte.with.4": "Dynamic",
+    "lexica.cartographer.enchantment.riposte.with.5": "[25% per lvl]",
+    "lexica.cartographer.enchantment.riposte.with.6": "[2 per lvl]",
+    "lexica.cartographer.enchantment.riposte.with.7": "Cooldown",
+    "lexica.cartographer.enchantment.riposte.with.8": "(00:02)~(00:08)",
+
+
+    "lexica.cartographer.enchantment.slamming.desc.1": "%1$s: Critical hits",
+    "lexica.cartographer.enchantment.slamming.desc.2": "deal 60%% %2$s in",
+    "lexica.cartographer.enchantment.slamming.desc.3": "an area around the target.",
+
+    "lexica.cartographer.enchantment.slamming.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.slamming.with.2": "Attack Damage",
+
+
+    "lexica.cartographer.enchantment.throwable.desc.1": "%1$s: Aim a copy of this",
+    "lexica.cartographer.enchantment.throwable.desc.2": "weapon, thrown on release. The",
+    "lexica.cartographer.enchantment.throwable.desc.3": "copy deals %2$s %3$s.",
+    "lexica.cartographer.enchantment.throwable.desc.4": " ",
+    "lexica.cartographer.enchantment.throwable.desc.5": "%4$s: User's %5$s",
+    "lexica.cartographer.enchantment.throwable.desc.6": "or %6$s",
+    "lexica.cartographer.enchantment.throwable.desc.7": " ",
+    "lexica.cartographer.enchantment.throwable.desc.8": "%7$s: %8$s %9$s.",
+
+    "lexica.cartographer.enchantment.throwable.with.1": "Channeling",
+    "lexica.cartographer.enchantment.throwable.with.2": "Dynamic",
+    "lexica.cartographer.enchantment.throwable.with.3": "Ranged Damage",
+    "lexica.cartographer.enchantment.throwable.with.4": "Dynamic",
+    "lexica.cartographer.enchantment.throwable.with.5": "Attack Damage",
+    "lexica.cartographer.enchantment.throwable.with.6": "Ranged Damage",
+    "lexica.cartographer.enchantment.throwable.with.7": "Cooldown",
+    "lexica.cartographer.enchantment.throwable.with.8": "[11 - lvl]",
+    "lexica.cartographer.enchantment.throwable.with.9": "seconds",
+
+
+    "lexica.cartographer.enchantment.thrusting.desc.1": "%1$s: Sprint attacks with",
+    "lexica.cartographer.enchantment.thrusting.desc.2": "this weapon deal 80%% %2$s",
+    "lexica.cartographer.enchantment.thrusting.desc.3": "in a line in front of the user.",
+
+    "lexica.cartographer.enchantment.thrusting.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.thrusting.with.2": "Attack Damage",
+
+
+    "lexica.cartographer.enchantment.barbed.desc.1": "%1$s: Apply 1",
+    "lexica.cartographer.enchantment.barbed.desc.2": "%2$s to the target.",
+    "lexica.cartographer.enchantment.barbed.desc.3": " ",
+    "lexica.cartographer.enchantment.barbed.desc.4": "%3$s: Mobs take",
+    "lexica.cartographer.enchantment.barbed.desc.5": "%4$s per Splinter each",
+    "lexica.cartographer.enchantment.barbed.desc.6": "time they move 2 blocks.",
+
+    "lexica.cartographer.enchantment.barbed.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.barbed.with.2": "Splinter",
+    "lexica.cartographer.enchantment.barbed.with.3": "Splintering",
+    "lexica.cartographer.enchantment.barbed.with.4": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.barrage.desc.1": "%1$s: Create an extra %2$s",
+    "lexica.cartographer.enchantment.barrage.desc.2": "projectile(s) shortly after",
+    "lexica.cartographer.enchantment.barrage.desc.3": "firing. The extra projectiles",
+    "lexica.cartographer.enchantment.barrage.desc.4": "are identical replicas.",
+
+    "lexica.cartographer.enchantment.barrage.with.1": "Passive",
+    "lexica.cartographer.enchantment.barrage.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.collapse.desc.1": "%1$s: Projectiles that hit",
+    "lexica.cartographer.enchantment.collapse.desc.2": "blocks attempt to break them.",
+    "lexica.cartographer.enchantment.collapse.desc.3": "The breaking takes %2$s and",
+    "lexica.cartographer.enchantment.collapse.desc.4": "counts as an Iron Pickaxe.",
+    "lexica.cartographer.enchantment.collapse.desc.5": " ",
+    "lexica.cartographer.enchantment.collapse.desc.6": "Tool enchantments on the weapon",
+    "lexica.cartographer.enchantment.collapse.desc.7": "are applied. Spawners will take",
+    "lexica.cartographer.enchantment.collapse.desc.8": "twice as long and will always",
+    "lexica.cartographer.enchantment.collapse.desc.9": "spawn a monster when finished.",
+
+    "lexica.cartographer.enchantment.collapse.with.1": "Passive",
+    "lexica.cartographer.enchantment.collapse.with.2": "(00:03)",
+
+
+    "lexica.cartographer.enchantment.correction.desc.1": "%1$s: Projectiles redirect",
+    "lexica.cartographer.enchantment.correction.desc.2": "towards a mob 1 time. This",
+    "lexica.cartographer.enchantment.correction.desc.3": "occurs when a mob is within",
+    "lexica.cartographer.enchantment.correction.desc.4": "7 blocks of the projectile.",
+
+    "lexica.cartographer.enchantment.correction.with.1": "Passive",
+
+
+    "lexica.cartographer.enchantment.dodgeroll.desc.1": "%1$s: The user will dash in",
+    "lexica.cartographer.enchantment.dodgeroll.desc.2": "the direction they are moving.",
+    "lexica.cartographer.enchantment.dodgeroll.desc.3": " ",
+    "lexica.cartographer.enchantment.dodgeroll.desc.4": "Dodgeroll also activates",
+    "lexica.cartographer.enchantment.dodgeroll.desc.5": "when a ranged weapon is",
+    "lexica.cartographer.enchantment.dodgeroll.desc.6": "drawn, aimed, or loaded.",
+    "lexica.cartographer.enchantment.dodgeroll.desc.7": " ",
+    "lexica.cartographer.enchantment.dodgeroll.desc.8": "Dodgeroll is considered",
+    "lexica.cartographer.enchantment.dodgeroll.desc.9": "a %2$s effect.",
+
+    "lexica.cartographer.enchantment.dodgeroll.with.1": "Channeling",
+    "lexica.cartographer.enchantment.dodgeroll.with.2": "Self Movement",
+
+
+    "lexica.cartographer.enchantment.fleetfoot.desc.1": "While %1$s, aiming,",
+    "lexica.cartographer.enchantment.fleetfoot.desc.2": "blocking, or reloading, the",
+    "lexica.cartographer.enchantment.fleetfoot.desc.3": "user moves %2$s faster.",
+
+    "lexica.cartographer.enchantment.fleetfoot.with.1": "Channeling",
+    "lexica.cartographer.enchantment.fleetfoot.with.2": "+[10%% * lvl]",
+
+
+    "lexica.cartographer.enchantment.grappling.desc.1": "%1$s: Projectiles pull the user",
+    "lexica.cartographer.enchantment.grappling.desc.2": "towards where they land. Higher",
+    "lexica.cartographer.enchantment.grappling.desc.3": "levels increase the distance traveled.",
+    "lexica.cartographer.enchantment.grappling.desc.4": " ",
+    "lexica.cartographer.enchantment.grappling.desc.5": "Grappling is considered",
+    "lexica.cartographer.enchantment.grappling.desc.6": "a %2$s effect.",
+
+    "lexica.cartographer.enchantment.grappling.with.1": "Passive",
+    "lexica.cartographer.enchantment.grappling.with.2": "Self Movement",
+
+
+    "lexica.cartographer.enchantment.ricochet.desc.1": "%1$s: Projectiles bounce off",
+    "lexica.cartographer.enchantment.ricochet.desc.2": "walls and floors %2$s times.",
+    "lexica.cartographer.enchantment.ricochet.desc.3": " ",
+    "lexica.cartographer.enchantment.ricochet.desc.4": "Potions with Ricochet will",
+    "lexica.cartographer.enchantment.ricochet.desc.5": "splash at each bounce point.",
+
+    "lexica.cartographer.enchantment.ricochet.with.1": "Passive",
+    "lexica.cartographer.enchantment.ricochet.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.ripper.desc.1": "%1$s: Apply 1",
+    "lexica.cartographer.enchantment.ripper.desc.2": "%2$s to the target.",
+    "lexica.cartographer.enchantment.ripper.desc.3": " ",
+    "lexica.cartographer.enchantment.ripper.desc.4": "%3$s: Mobs take %4$s",
+    "lexica.cartographer.enchantment.ripper.desc.5": "damage per Splinter when",
+    "lexica.cartographer.enchantment.ripper.desc.6": "struck by a melee attack.",
+
+    "lexica.cartographer.enchantment.ripper.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.ripper.with.2": "Splinter",
+    "lexica.cartographer.enchantment.ripper.with.3": "Splintering",
+    "lexica.cartographer.enchantment.ripper.with.4": "+[2 * lvl]",
+
+
+    "lexica.cartographer.enchantment.shrapnel.desc.1": "%1$s: Creates a cone of",
+    "lexica.cartographer.enchantment.shrapnel.desc.2": "shrapnel behind the target,",
+    "lexica.cartographer.enchantment.shrapnel.desc.3": "dealing 50%% of the projectile's",
+    "lexica.cartographer.enchantment.shrapnel.desc.4": "damage. The Shrapnel cone contains",
+    "lexica.cartographer.enchantment.shrapnel.desc.5": "%2$s bullets.",
+
+    "lexica.cartographer.enchantment.shrapnel.with.1": "Weapon Attack",
+    "lexica.cartographer.enchantment.shrapnel.with.2": "[1 + (2 * lvl)]",
+
+
+    "lexica.cartographer.enchantment.auto_charge.desc.1": "%1$s: Reloads or Recharges",
+    "lexica.cartographer.enchantment.auto_charge.desc.2": "after a time delay. On standard",
+    "lexica.cartographer.enchantment.auto_charge.desc.3": "items, this is %2$s.",
+    "lexica.cartographer.enchantment.auto_charge.desc.4": " ",
+    "lexica.cartographer.enchantment.auto_charge.desc.5": "Auto Charge is only activated",
+    "lexica.cartographer.enchantment.auto_charge.desc.6": "when on the user's hotbar.",
+
+    "lexica.cartographer.enchantment.auto_charge.with.1": "Passive",
+    "lexica.cartographer.enchantment.auto_charge.with.2": "(00:10)",
+
+
+    "lexica.cartographer.enchantment.scavenger.desc.1": "%1$s: Reloads or Recharges.",
+    "lexica.cartographer.enchantment.scavenger.desc.2": "On standard items, this",
+    "lexica.cartographer.enchantment.scavenger.desc.3": "requires 1 %2$s action.",
+    "lexica.cartographer.enchantment.scavenger.desc.4": " ",
+    "lexica.cartographer.enchantment.scavenger.desc.5": "Scavenger is only activated",
+    "lexica.cartographer.enchantment.scavenger.desc.6": "when on the user's hotbar.",
+
+    "lexica.cartographer.enchantment.scavenger.with.1": "Lethal",
+    "lexica.cartographer.enchantment.scavenger.with.2": "Lethal",
+
+
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.1": "%1$s: This item can reload",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.2": "multiple arrows. Up to %2$s extra",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.3": "arrows can be loaded, taking 0.25",
+    "lexica.cartographer.enchantment.repeating_crossbow.desc.4": "extra seconds to load each arrow.",
+
+    "lexica.cartographer.enchantment.repeating_crossbow.with.1": "Passive",
+    "lexica.cartographer.enchantment.repeating_crossbow.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.repeating_consumable.desc.1": "%1$s: This item has multiple",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.2": "charges. When out of charges, it",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.3": "is destroyed (or inert if combined",
+    "lexica.cartographer.enchantment.repeating_consumable.desc.4": "with certain enchantments).",
+
+    "lexica.cartographer.enchantment.repeating_consumable.with.1": "Passive",
+
+
+    "lexica.cartographer.enchantment.aqua_affinity.desc.1": "Removes the underwater",
+    "lexica.cartographer.enchantment.aqua_affinity.desc.2": "mining speed penalty.",
+
+
+    "lexica.cartographer.enchantment.bane_of_arthropods.desc.1": "Attacks made against arthropods",
+    "lexica.cartographer.enchantment.bane_of_arthropods.desc.2": "deal %1$s additional",
+    "lexica.cartographer.enchantment.bane_of_arthropods.desc.3": "damage. Additionally, arthropods",
+    "lexica.cartographer.enchantment.bane_of_arthropods.desc.4": "are inflicted with %2$s",
+    "lexica.cartographer.enchantment.bane_of_arthropods.desc.5": "for %3$s %4$s.",
+
+    "lexica.cartographer.enchantment.bane_of_arthropods.with.1": "[2.5 * lvl]",
+    "lexica.cartographer.enchantment.bane_of_arthropods.with.2": "Slowness IV",
+    "lexica.cartographer.enchantment.bane_of_arthropods.with.3": "[1 + (0.5 * lvl)]",
+    "lexica.cartographer.enchantment.bane_of_arthropods.with.4": "seconds",
+
+
+    "lexica.cartographer.enchantment.blast_protection.desc.1": "Reduces damage from",
+    "lexica.cartographer.enchantment.blast_protection.desc.2": "explosions by %1$s.",
+
+    "lexica.cartographer.enchantment.blast_protection.with.1": "[8% per lvl]",
+
+
+    "lexica.cartographer.enchantment.breach.desc.1": "Reduces the effectiveness of armor",
+    "lexica.cartographer.enchantment.breach.desc.2": "of a hit target by %1$s.",
+
+    "lexica.cartographer.enchantment.breach.with.1": "[15% per lvl]",
+
+
+    "lexica.cartographer.enchantment.channeling.desc.1": "While thundering, this Trident summons",
+    "lexica.cartographer.enchantment.channeling.desc.2": "a lightning bolt at the target.",
+
+
+    "lexica.cartographer.enchantment.density.desc.1": "Increases the damage of smash attacks",
+    "lexica.cartographer.enchantment.density.desc.2": "by %1$s per block fallen.",
+
+    "lexica.cartographer.enchantment.density.with.1": "[0.5 * lvl]",
+
+
+    "lexica.cartographer.enchantment.depth_strider.desc.1": "Increases underwater movement",
+    "lexica.cartographer.enchantment.depth_strider.desc.2": "speed by %1$s.",
+
+    "lexica.cartographer.enchantment.depth_strider.with.1": "[33% per lvl]",
+
+
+    "lexica.cartographer.enchantment.efficiency.desc.1": "Increases mining speed",
+    "lexica.cartographer.enchantment.efficiency.desc.2": "by %1$s.",
+
+    "lexica.cartographer.enchantment.efficiency.with.1": "[(lvl * lvl) + 1]",
+
+
+    "lexica.cartographer.enchantment.feather_falling.desc.1": "Reduces fall damage",
+    "lexica.cartographer.enchantment.feather_falling.desc.2": "by %1$s.",
+
+    "lexica.cartographer.enchantment.feather_falling.with.1": "[12% per lvl]",
+
+
+    "lexica.cartographer.enchantment.fire_aspect.desc.1": "Lights the target on fire",
+    "lexica.cartographer.enchantment.fire_aspect.desc.2": "for %1$s %2$s.",
+
+    "lexica.cartographer.enchantment.fire_aspect.with.1": "[4 * lvl]",
+    "lexica.cartographer.enchantment.fire_aspect.with.2": "seconds",
+
+
+    "lexica.cartographer.enchantment.fire_protection.desc.1": "Reduces damage from",
+    "lexica.cartographer.enchantment.fire_protection.desc.2": "fire by %1$s.",
+
+    "lexica.cartographer.enchantment.fire_protection.with.1": "[8% per lvl]",
+
+
+    "lexica.cartographer.enchantment.flame.desc.1": "Arrows from this weapon ignite",
+    "lexica.cartographer.enchantment.flame.desc.2": "the target for %1$s.",
+
+    "lexica.cartographer.enchantment.flame.with.1": "(00:04)",
+
+
+    "lexica.cartographer.enchantment.fortune.desc.1": "Increases the amount",
+    "lexica.cartographer.enchantment.fortune.desc.2": "of block drops.",
+
+
+    "lexica.cartographer.enchantment.frost_walker.desc.1": "The wearer can walk on water,",
+    "lexica.cartographer.enchantment.frost_walker.desc.2": "turning it into frosted ice. Water",
+    "lexica.cartographer.enchantment.frost_walker.desc.3": "within %1$s blocks is iced.",
+
+    "lexica.cartographer.enchantment.frost_walker.with.1": "[2 + lvl]",
+
+
+    "lexica.cartographer.enchantment.impaling.desc.1": "Attacks made against aquatic mobs",
+    "lexica.cartographer.enchantment.impaling.desc.2": "deal %1$s additional damage.",
+
+    "lexica.cartographer.enchantment.impaling.with.1": "[2.5 * lvl]",
+
+
+    "lexica.cartographer.enchantment.infinity.desc.1": "This weapon does not consume",
+    "lexica.cartographer.enchantment.infinity.desc.2": "ammo. On a consumable, it can",
+    "lexica.cartographer.enchantment.infinity.desc.3": "be used infinitely instead.",
+
+
+    "lexica.cartographer.enchantment.knockback.desc.1": "Increases melee knockback",
+    "lexica.cartographer.enchantment.knockback.desc.2": "by %1$s blocks.",
+
+    "lexica.cartographer.enchantment.knockback.with.1": "+[3 per lvl]",
+
+
+    "lexica.cartographer.enchantment.looting.desc.1": "Increases the amount of mob drops.",
+
+
+    "lexica.cartographer.enchantment.loyalty.desc.1": "This weapon returns after",
+    "lexica.cartographer.enchantment.loyalty.desc.2": "being thrown. Higher levels",
+    "lexica.cartographer.enchantment.loyalty.desc.3": "increase the return speed.",
+
+
+    "lexica.cartographer.enchantment.luck_of_the_sea.desc.1": "Increases the rate of",
+    "lexica.cartographer.enchantment.luck_of_the_sea.desc.2": "treasure from fishing.",
+
+
+    "lexica.cartographer.enchantment.lure.desc.1": "Decreases the time for",
+    "lexica.cartographer.enchantment.lure.desc.2": "bites while fishing.",
+
+
+    "lexica.cartographer.enchantment.mending.desc.1": "Repairs the item while",
+    "lexica.cartographer.enchantment.mending.desc.2": "worn with collected XP.",
+
+
+    "lexica.cartographer.enchantment.multishot.desc.1": "Adds %1$s arrows in a",
+    "lexica.cartographer.enchantment.multishot.desc.2": "cone when this weapon is fired.",
+
+    "lexica.cartographer.enchantment.multishot.with.1": "[2 per lvl]",
+
+
+    "lexica.cartographer.enchantment.piercing.desc.1": "Arrows from this weapon pierce",
+    "lexica.cartographer.enchantment.piercing.desc.2": "through mobs %1$s times.",
+
+    "lexica.cartographer.enchantment.piercing.with.1": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.power.desc.1": "Increases the damage of arrows",
+    "lexica.cartographer.enchantment.power.desc.2": "by %1$s.",
+
+    "lexica.cartographer.enchantment.power.with.1": "+[25% + (25% per lvl)]",
+
+
+    "lexica.cartographer.enchantment.projectile_protection.desc.1": "Reduces damage from",
+    "lexica.cartographer.enchantment.projectile_protection.desc.2": "projectiles by %1$s",
+
+    "lexica.cartographer.enchantment.projectile_protection.with.1": "[8% per lvl]",
+
+
+    "lexica.cartographer.enchantment.protection.desc.1": "Reduces all damage by %1$s.",
+
+    "lexica.cartographer.enchantment.protection.with.1": "[4% per lvl]",
+
+
+    "lexica.cartographer.enchantment.punch.desc.1": "Increases arrow knockback",
+    "lexica.cartographer.enchantment.punch.desc.2": "by %1$s blocks.",
+
+    "lexica.cartographer.enchantment.punch.with.1": "+[3 per lvl]",
+
+
+    "lexica.cartographer.enchantment.quick_charge.desc.1": "Decreases charge time by",
+    "lexica.cartographer.enchantment.quick_charge.desc.2": "%1$s %2$s.",
+
+    "lexica.cartographer.enchantment.quick_charge.with.1": "[0.5 per lvl]",
+    "lexica.cartographer.enchantment.quick_charge.with.2": "seconds",
+
+
+    "lexica.cartographer.enchantment.respiration.desc.1": "Increases underwater breathing",
+    "lexica.cartographer.enchantment.respiration.desc.2": "time by %1$s %2$s.",
+
+    "lexica.cartographer.enchantment.respiration.with.1": "+[15 * lvl]",
+    "lexica.cartographer.enchantment.respiration.with.2": "seconds",
+
+
+    "lexica.cartographer.enchantment.riptide.desc.1": "Instead of throwing, this trident",
+    "lexica.cartographer.enchantment.riptide.desc.2": "launches the user if they are",
+    "lexica.cartographer.enchantment.riptide.desc.3": "in water. Higher levels increase",
+    "lexica.cartographer.enchantment.riptide.desc.4": "the distance traveled.",
+
+
+    "lexica.cartographer.enchantment.sharpness.desc.1": "Increases the damage of this",
+    "lexica.cartographer.enchantment.sharpness.desc.2": "weapon by %1$s.",
+
+    "lexica.cartographer.enchantment.sharpness.with.1": "[0.5 + (0.5 * lvl)]",
+
+
+    "lexica.cartographer.enchantment.silk_touch.desc.1": "Mined blocks drop themselves",
+    "lexica.cartographer.enchantment.silk_touch.desc.2": "instead of their normal drops.",
+
+
+    "lexica.cartographer.enchantment.smite.desc.1": "Attacks made against undead mobs",
+    "lexica.cartographer.enchantment.smite.desc.2": "deal %1$s additional damage.",
+
+    "lexica.cartographer.enchantment.smite.with.1": "[2.5 * lvl]",
+
+
+    "lexica.cartographer.enchantment.soul_speed.desc.1": "Increases the speed the user moves",
+    "lexica.cartographer.enchantment.soul_speed.desc.2": "on Soul Sand and Soul Soil. Higher",
+    "lexica.cartographer.enchantment.soul_speed.desc.3": "levels increase the speed.",
+
+
+    "lexica.cartographer.enchantment.sweeping_edge.desc.1": "Increases the damage dealt by",
+    "lexica.cartographer.enchantment.sweeping_edge.desc.2": "sweeping attacks to be %1$s",
+    "lexica.cartographer.enchantment.sweeping_edge.desc.3": "of the total attack damage.",
+
+    "lexica.cartographer.enchantment.sweeping_edge.with.1": "[lvl / (lvl + 1)]",
+
+
+    "lexica.cartographer.enchantment.swift_sneak.desc.1": "Increases the speed of the",
+    "lexica.cartographer.enchantment.swift_sneak.desc.2": "user while sneaking. Higher",
+    "lexica.cartographer.enchantment.swift_sneak.desc.3": "levels increase the speed.",
+
+
+    "lexica.cartographer.enchantment.thorns.desc.1": "Taking damage from a mob deals",
+    "lexica.cartographer.enchantment.thorns.desc.2": "%1$s damage back to the attacker.",
+
+    "lexica.cartographer.enchantment.thorns.with.1": "[lvl]",
+
+
+    "lexica.cartographer.enchantment.unbreaking.desc.1": "When used, the item has a",
+    "lexica.cartographer.enchantment.unbreaking.desc.2": "%1$s chance",
+    "lexica.cartographer.enchantment.unbreaking.desc.3": "to not lose durability.",
+
+    "lexica.cartographer.enchantment.unbreaking.with.1": "[lvl / (lvl + 1)]",
+
+
+    "lexica.cartographer.enchantment.wind_burst.desc.1": "Creates a burst of wind when",
+    "lexica.cartographer.enchantment.wind_burst.desc.2": "landing a smash attack or",
+    "lexica.cartographer.enchantment.wind_burst.desc.3": "critical hit. The burst of",
+    "lexica.cartographer.enchantment.wind_burst.desc.4": "wind launches the user upwards",
+    "lexica.cartographer.enchantment.wind_burst.desc.5": "and levels increase its power.",
+
+
+    "lexica.cartographer.enchantment.annulling.desc.1": "%1$s: When the user is afflicted",
+    "lexica.cartographer.enchantment.annulling.desc.2": "with a new buff, there is a",
+    "lexica.cartographer.enchantment.annulling.desc.3": "%2$s chance to be",
+    "lexica.cartographer.enchantment.annulling.desc.4": "inflicted with %3$s %4$s.",
+
+    "lexica.cartographer.enchantment.annulling.with.1": "Random",
+    "lexica.cartographer.enchantment.annulling.with.2": "[5% per lvl]",
+    "lexica.cartographer.enchantment.annulling.with.3": "Purged",
+    "lexica.cartographer.enchantment.annulling.with.4": "(00:02)",
+
+
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.1": "%1$s: The user takes %2$s",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.2": "additional damage when falling.",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.3": "The user cannot sneak off the edge",
+    "lexica.cartographer.enchantment_curse.clumsiness.desc.4": "of blocks without falling off.",
+
+    "lexica.cartographer.enchantment_curse.clumsiness.with.1": "When Equipped",
+    "lexica.cartographer.enchantment_curse.clumsiness.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.corruption.desc.1": "%1$s: When the user is suffering",
+    "lexica.cartographer.enchantment_curse.corruption.desc.2": "from a status condition.",
+
+    "lexica.cartographer.enchantment_curse.corruption.with.1": "Locked",
+
+
+    "lexica.cartographer.enchantment_curse.crippling.desc.1": "%1$s: When the user takes",
+    "lexica.cartographer.enchantment_curse.crippling.desc.2": "direct damage for %2$s.",
+
+    "lexica.cartographer.enchantment_curse.crippling.with.1": "Locked",
+    "lexica.cartographer.enchantment_curse.crippling.with.2": "(00:04)",
+
+
+    "lexica.cartographer.enchantment_curse.crumbling.desc.1": "%1$s: The item has a",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.2": "%2$s chance to lose 1",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.3": "durability every %3$s. This",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.4": "curse cannot reduce an item",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.5": "below 10%% max durability.",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.6": " ",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.7": "Crumbling is only activated when on",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.8": "the user's hotbar or while worn.",
+
+    "lexica.cartographer.enchantment_curse.crumbling.with.1": "When Equipped",
+    "lexica.cartographer.enchantment_curse.crumbling.with.2": "[5% * lvl]",
+    "lexica.cartographer.enchantment_curse.crumbling.with.3": "(00:05)",
+
+
+    "lexica.cartographer.enchantment_curse.encumbering.desc.1": "%1$s: Deals normal",
+    "lexica.cartographer.enchantment_curse.encumbering.desc.2": "damage on critical hits.",
+
+    "lexica.cartographer.enchantment_curse.encumbering.with.1": "Weapon Attack",
+
+
+    "lexica.cartographer.enchantment_curse.gluttony.desc.1": "%1$s: Drains %2$s",
+    "lexica.cartographer.enchantment_curse.gluttony.desc.2": "hunger and saturation from",
+    "lexica.cartographer.enchantment_curse.gluttony.desc.3": "the user each time it is used.",
+
+    "lexica.cartographer.enchantment_curse.gluttony.with.1": "When Equipped",
+    "lexica.cartographer.enchantment_curse.gluttony.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.haunting.desc.1": "%1$s: On death, the item drops",
+    "lexica.cartographer.enchantment_curse.haunting.desc.2": "as a mob that attacks users.",
+
+    "lexica.cartographer.enchantment_curse.haunting.with.1": "Passive",
+
+
+    "lexica.cartographer.enchantment_curse.heaviness.desc.1": "%1$s: This Crossbow takes",
+    "lexica.cartographer.enchantment_curse.heaviness.desc.2": "%2$s seconds to load.",
+
+    "lexica.cartographer.enchantment_curse.heaviness.with.1": "When Equipped",
+    "lexica.cartographer.enchantment_curse.heaviness.with.2": "+[0.5 * lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.instability.desc.1": "%1$s: The damage type the",
+    "lexica.cartographer.enchantment_curse.instability.desc.2": "wearer takes from entities is",
+    "lexica.cartographer.enchantment_curse.instability.desc.3": "changed from the original type",
+    "lexica.cartographer.enchantment_curse.instability.desc.4": "to be Melee, Projectile, Explosion,",
+    "lexica.cartographer.enchantment_curse.instability.desc.5": "and Fall Damage. When Instability",
+    "lexica.cartographer.enchantment_curse.instability.desc.6": "is worn, the damage type rotates",
+    "lexica.cartographer.enchantment_curse.instability.desc.7": "to the next one in the list.",
+
+    "lexica.cartographer.enchantment_curse.instability.with.1": "When Equipped",
+
+
+    "lexica.cartographer.enchantment_curse.jamming.desc.1": "%1$s: This Crossbow",
+    "lexica.cartographer.enchantment_curse.jamming.desc.2": "cannot be loaded manually.",
+
+    "lexica.cartographer.enchantment_curse.jamming.with.1": "When Equipped",
+
+
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.1": "%1$s: When attacked via",
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.2": "melee, the user takes a separate",
+    "lexica.cartographer.enchantment_curse.melee_fragility.desc.3": "instance of %2$s melee damage.",
+
+    "lexica.cartographer.enchantment_curse.melee_fragility.with.1": "When Attacked",
+    "lexica.cartographer.enchantment_curse.melee_fragility.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.pride.desc.1": "%1$s: When the user is using",
+    "lexica.cartographer.enchantment_curse.pride.desc.2": "more than 1 item with this curse.",
+
+    "lexica.cartographer.enchantment_curse.pride.with.1": "Locked",
+
+
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.1": "%1$s: When attacked",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.2": "via a projectile, the user",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.3": "takes a separate instance",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.desc.4": "of %2$s projectile damage.",
+
+    "lexica.cartographer.enchantment_curse.projectile_fragility.with.1": "When Attacked",
+    "lexica.cartographer.enchantment_curse.projectile_fragility.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.regret.desc.1": "%1$s: Deals %2$s true",
+    "lexica.cartographer.enchantment_curse.regret.desc.2": "damage to the user when used.",
+
+    "lexica.cartographer.enchantment_curse.regret.with.1": "When Equipped",
+    "lexica.cartographer.enchantment_curse.regret.with.2": "[lvl]",
+
+
+    "lexica.cartographer.enchantment_curse.shattering.desc.1": "%1$s: On death, the item loses",
+    "lexica.cartographer.enchantment_curse.shattering.desc.2": "33%% of its remaining durability.",
+
+    "lexica.cartographer.enchantment_curse.shattering.with.1": "Passive",
+
+
+    "lexica.cartographer.enchantment_curse.two_handed.desc.1": "%1$s: When held in either",
+    "lexica.cartographer.enchantment_curse.two_handed.desc.2": "hand while another item is",
+    "lexica.cartographer.enchantment_curse.two_handed.desc.3": "held in the other hand.",
+
+    "lexica.cartographer.enchantment_curse.two_handed.with.1": "Locked",
+
+
+    "lexica.cartographer.enchantment.binding.desc.1": "This item cannot be unequipped",
+    "lexica.cartographer.enchantment.binding.desc.2": "except through death.",
+
+
+    "lexica.cartographer.enchantment.vanishing.desc.1": "This item disappears",
+    "lexica.cartographer.enchantment.vanishing.desc.2": "when dropped on death.",
+
+
+    "lexica.cartographer.keyword.passive.desc.1": "This effect is active at all",
+    "lexica.cartographer.keyword.passive.desc.2": "times unless specified.",
+
+
+    "lexica.cartographer.keyword.equipped.desc.1": "This effect is active at all",
+    "lexica.cartographer.keyword.equipped.desc.2": "times as long as the item is",
+    "lexica.cartographer.keyword.equipped.desc.3": "equipped (unless specified).",
+
+
+    "lexica.cartographer.keyword.weapon_attack.desc.1": "This effect is applied only",
+    "lexica.cartographer.keyword.weapon_attack.desc.2": "when this weapon is used to",
+    "lexica.cartographer.keyword.weapon_attack.desc.3": "attack. The effect may apply",
+    "lexica.cartographer.keyword.weapon_attack.desc.4": "to the user or the target.",
+
+
+    "lexica.cartographer.keyword.tool.desc.1": "When applied to a tool, enchantments",
+    "lexica.cartographer.keyword.tool.desc.2": "that affect mobs will only consider",
+    "lexica.cartographer.keyword.tool.desc.3": "the level of the enchantment on",
+    "lexica.cartographer.keyword.tool.desc.4": "the tool when activated.",
+
+
+    "lexica.cartographer.keyword.attacked.desc.1": "This effect is applied to the user",
+    "lexica.cartographer.keyword.attacked.desc.2": "when they are attacked by a mob.",
+
+
+    "lexica.cartographer.keyword.damaged.desc.1": "This effect is applied to the",
+    "lexica.cartographer.keyword.damaged.desc.2": "user when they take any damage.",
+
+
+    "lexica.cartographer.keyword.random.desc.1": "This effect activates on random",
+    "lexica.cartographer.keyword.random.desc.2": "chance each time a specified",
+    "lexica.cartographer.keyword.random.desc.3": "action is taken. Random effects",
+    "lexica.cartographer.keyword.random.desc.4": "are affected by %1$s.",
+
+    "lexica.cartographer.keyword.random.with.1": "Combat Luck",
+
+
+    "lexica.cartographer.keyword.energized.desc.1": "This effect charges while moving and",
+    "lexica.cartographer.keyword.energized.desc.2": "attacking, activating on a condition",
+    "lexica.cartographer.keyword.energized.desc.3": "when charged. When sufficiently",
+    "lexica.cartographer.keyword.energized.desc.4": "charged, the user will emit static",
+    "lexica.cartographer.keyword.energized.desc.5": "around them. On tools, breaking",
+    "lexica.cartographer.keyword.energized.desc.6": "spawners is considered attacking.",
+
+
+    "lexica.cartographer.keyword.lethal.desc.1": "This effect triggers when a user",
+    "lexica.cartographer.keyword.lethal.desc.2": "kills an entity. On tools, breaking",
+    "lexica.cartographer.keyword.lethal.desc.3": "a spawner is considered a kill.",
+
+
+    "lexica.cartographer.keyword.opportunist.desc.1": "This effect triggers the first",
+    "lexica.cartographer.keyword.opportunist.desc.2": "time a mob is damaged by the",
+    "lexica.cartographer.keyword.opportunist.desc.3": "user. This cannot be triggered",
+    "lexica.cartographer.keyword.opportunist.desc.4": "again on that mob for 15 seconds.",
+    "lexica.cartographer.keyword.opportunist.desc.5": "On tools, starting to break a",
+    "lexica.cartographer.keyword.opportunist.desc.6": "spawner triggers the effect.",
+
+
+    "lexica.cartographer.keyword.splintering.desc.1": "This effect sticks a splinter",
+    "lexica.cartographer.keyword.splintering.desc.2": "into an enemy, and scales off",
+    "lexica.cartographer.keyword.splintering.desc.3": "total splinters in an enemy.",
+    "lexica.cartographer.keyword.splintering.desc.4": "Each splinter past the first",
+    "lexica.cartographer.keyword.splintering.desc.5": "has 50% less effectiveness.",
+    "lexica.cartographer.keyword.splintering.desc.6": " ",
+    "lexica.cartographer.keyword.splintering.desc.7": "1 Splinter falls out every %1$s.",
+    "lexica.cartographer.keyword.splintering.desc.8": "When the target receives melee",
+    "lexica.cartographer.keyword.splintering.desc.9": "damage, all Splinters fall out.",
+
+    "lexica.cartographer.keyword.splintering.with.1": "(00:04)",
+
+
+    "lexica.cartographer.keyword.channeled.desc.1": "Hold %1$s to use this effect.",
+    "lexica.cartographer.keyword.channeled.desc.2": "Effects that are channeled are",
+    "lexica.cartographer.keyword.channeled.desc.3": "disabled while %2$s.",
+
+    "lexica.cartographer.keyword.channeled.with.1": "key.use",
+    "lexica.cartographer.keyword.channeled.with.2": "Silenced",
+
+
+    "lexica.cartographer.keyword.self_movement.desc.1": "A movement effect that intentionally",
+    "lexica.cartographer.keyword.self_movement.desc.2": "moves the user, such as a dash",
+    "lexica.cartographer.keyword.self_movement.desc.3": "or pull. These effects are",
+    "lexica.cartographer.keyword.self_movement.desc.4": "disabled while %1$s.",
+
+    "lexica.cartographer.keyword.self_movement.with.1": "Grounded",
+
+
+    "lexica.cartographer.keyword.locked.desc.1": "The item's enchantments are",
+    "lexica.cartographer.keyword.locked.desc.2": "disabled on a specified condition.",
+    "lexica.cartographer.keyword.locked.desc.3": "If the source of Locked is a",
+    "lexica.cartographer.keyword.locked.desc.4": "level 2 curse, all the item's",
+    "lexica.cartographer.keyword.locked.desc.5": "stats are disabled instead.",
+
+
+    "lexica.cartographer.keyword.dynamic.desc.1": "This amount is either a flat value,",
+    "lexica.cartographer.keyword.dynamic.desc.2": "or dependent on the source of the",
+    "lexica.cartographer.keyword.dynamic.desc.3": "effect. (For example, the damage",
+    "lexica.cartographer.keyword.dynamic.desc.4": "of an attack). The most favorable",
+    "lexica.cartographer.keyword.dynamic.desc.5": "value is always chosen.",
+
+
+    "lexica.cartographer.keyword.cooldown.desc.1": "This effect has a short amount",
+    "lexica.cartographer.keyword.cooldown.desc.2": "of time before it can be used",
+    "lexica.cartographer.keyword.cooldown.desc.3": "again after it activates.",
+
+
+    "lexica.cartographer.keyword.humanoid.desc.1": "The following mobs are",
+    "lexica.cartographer.keyword.humanoid.desc.2": "considered Humanoid:",
+    "lexica.cartographer.keyword.humanoid.desc.3": " ",
+    "lexica.cartographer.keyword.humanoid.desc.4": "Zombie, Husk, Drowned, Zombified Piglin,",
+    "lexica.cartographer.keyword.humanoid.desc.5": "Skeleton, Stray, Wither Skeleton,",
+    "lexica.cartographer.keyword.humanoid.desc.6": "Bogged, Vindicator, Evoker, Vex,",
+    "lexica.cartographer.keyword.humanoid.desc.7": "Pillager, Witch, Iron Golem,",
+    "lexica.cartographer.keyword.humanoid.desc.8": "Zombie Villager, Piglin, Piglin Brute,",
+    "lexica.cartographer.keyword.humanoid.desc.9": "Illusioner, Giant, Villager, Wandering Trader",
+
+
+    "lexica.cartographer.keyword.monstrous.desc.1": "The following mobs are",
+    "lexica.cartographer.keyword.monstrous.desc.2": "considered Monstrous:",
+    "lexica.cartographer.keyword.monstrous.desc.3": " ",
+    "lexica.cartographer.keyword.monstrous.desc.4": "Phantom, Wither, Spider, Cave Spider,",
+    "lexica.cartographer.keyword.monstrous.desc.5": "Silverfish, Endermite, Enderman, Creeper,",
+    "lexica.cartographer.keyword.monstrous.desc.6": "Blaze, Breeze, Slime, Magma Cube, Ghast,",
+    "lexica.cartographer.keyword.monstrous.desc.7": "Ravager, Guardian, Elder Guardian,",
+    "lexica.cartographer.keyword.monstrous.desc.8": "Shulker, Bee, Hoglin, Zoglin, Wolf,",
+    "lexica.cartographer.keyword.monstrous.desc.9": "Ender Dragon, Rabbit, Pufferfish,",
+    "lexica.cartographer.keyword.monstrous.desc.10": "Warden, Creaking, Dolphin, Polar Bear",
+
+
+    "lexica.cartographer.keyword.positive_status.desc.1": "The following Custom Statuses",
+    "lexica.cartographer.keyword.positive_status.desc.2": "are considered Positive:",
+    "lexica.cartographer.keyword.positive_status.desc.3": " ",
+    "lexica.cartographer.keyword.positive_status.desc.4": "Speed, Strength, Armor Buff,",
+    "lexica.cartographer.keyword.positive_status.desc.5": "Stealth, Barricade, Nullify,",
+    "lexica.cartographer.keyword.positive_status.desc.6": "Evasion, Absorption, Regeneration",
+    "lexica.cartographer.keyword.positive_status.desc.7": " ",
+    "lexica.cartographer.keyword.positive_status.desc.8": "The following Vanilla Effects",
+    "lexica.cartographer.keyword.positive_status.desc.9": "are considered Positive:",
+    "lexica.cartographer.keyword.positive_status.desc.10": " ",
+    "lexica.cartographer.keyword.positive_status.desc.11": "Speed, Haste, Strength, Jump Boost,",
+    "lexica.cartographer.keyword.positive_status.desc.12": "Regeneration, Resistance, Fire Resistance,",
+    "lexica.cartographer.keyword.positive_status.desc.13": "Water Breathing, Invisibility,",
+    "lexica.cartographer.keyword.positive_status.desc.14": "Night Vision, Health Boost, Luck,",
+    "lexica.cartographer.keyword.positive_status.desc.15": "Absorption, Slow Falling, Dolphin's Grace,",
+    "lexica.cartographer.keyword.positive_status.desc.16": "Conduit Power, Hero of the Village",
+
+
+    "lexica.cartographer.keyword.negative_status.desc.1": "The following Custom Statuses",
+    "lexica.cartographer.keyword.negative_status.desc.2": "are considered Negative:",
+    "lexica.cartographer.keyword.negative_status.desc.3": " ",
+    "lexica.cartographer.keyword.negative_status.desc.4": "Slowness, Weakness, Armor Shred, Blindness,",
+    "lexica.cartographer.keyword.negative_status.desc.5": "Wither, Bleeding, Shocked, Infected,",
+    "lexica.cartographer.keyword.negative_status.desc.6": "Evocation, Brittle, Exposed, Shackled,",
+    "lexica.cartographer.keyword.negative_status.desc.7": "Grounded, Silenced, Confused, Frozen,",
+    "lexica.cartographer.keyword.negative_status.desc.8": "Asleep, Stunned, Dazed, Execute, Windblast,",
+    "lexica.cartographer.keyword.negative_status.desc.9": "Slippery, Oiled, Siphon, Harvest",
+    "lexica.cartographer.keyword.negative_status.desc.10": " ",
+    "lexica.cartographer.keyword.negative_status.desc.11": "The following Vanilla Effects",
+    "lexica.cartographer.keyword.negative_status.desc.12": "are considered Negative:",
+    "lexica.cartographer.keyword.negative_status.desc.13": " ",
+    "lexica.cartographer.keyword.negative_status.desc.14": "Slowness, Mining Fatigue, Weakness,",
+    "lexica.cartographer.keyword.negative_status.desc.15": "Nausea, Blindness, Hunger, Poison,",
+    "lexica.cartographer.keyword.negative_status.desc.16": "Wither, Levitation, Bad Luck, Darkness",
+
+
+    "lexica.cartographer.keyword.crowd_control.desc.1": "The following Custom Statuses",
+    "lexica.cartographer.keyword.crowd_control.desc.2": "are considered Crowd Control:",
+    "lexica.cartographer.keyword.crowd_control.desc.3": " ",
+    "lexica.cartographer.keyword.crowd_control.desc.4": "Slowness, Weakness, Siphon, Blindness,",
+    "lexica.cartographer.keyword.crowd_control.desc.5": "Confused, Grounded, Frozen, Silenced,",
+    "lexica.cartographer.keyword.crowd_control.desc.6": "Asleep, Stunned, Dazed,",
+    "lexica.cartographer.keyword.crowd_control.desc.7": " ",
+    "lexica.cartographer.keyword.crowd_control.desc.8": "The following Vanilla Effects",
+    "lexica.cartographer.keyword.crowd_control.desc.9": "are considered Crowd Control:",
+    "lexica.cartographer.keyword.crowd_control.desc.10": " ",
+    "lexica.cartographer.keyword.crowd_control.desc.11": "Slowness, Mining Fatigue, Weakness,",
+    "lexica.cartographer.keyword.crowd_control.desc.12": "Blindness, Levitation, Darkness",
+
+
+
+
+    "lexica.cartographer.keyword.name.passive.name": "Passive",
+    "lexica.cartographer.keyword.name.equipped.name": "Equipped",
+    "lexica.cartographer.keyword.name.weapon_attack.name": "Weapon Attack",
+    "lexica.cartographer.keyword.name.tool.name": "Tool Usage",
+    "lexica.cartographer.keyword.name.attacked.name": "Attacked",
+    "lexica.cartographer.keyword.name.damaged.name": "Damaged",
+    "lexica.cartographer.keyword.name.random.name": "Random",
+    "lexica.cartographer.keyword.name.random.with.1": "Combat Luck",
+    "lexica.cartographer.keyword.name.energized.name": "Energized",
+    "lexica.cartographer.keyword.name.lethal.name": "Lethal",
+    "lexica.cartographer.keyword.name.opportunist.name": "Opportunist",
+    "lexica.cartographer.keyword.name.splintering.name": "Splintering",
+    "lexica.cartographer.keyword.name.channeled.name": "Channeled",
+    "lexica.cartographer.keyword.name.self_movement.name": "Self Movement",
+    "lexica.cartographer.keyword.name.locked.name": "Locked",
+    "lexica.cartographer.keyword.name.dynamic.name": "Dynamic",
+    "lexica.cartographer.keyword.name.cooldown.name": "Cooldown",
+    "lexica.cartographer.keyword.name.humanoid.name": "Humanoid",
+    "lexica.cartographer.keyword.name.monstrous.name": "Monstrous",
+    "lexica.cartographer.keyword.name.positive_status.name": "Positive Status",
+    "lexica.cartographer.keyword.name.negative_status.name": "Negative Status",
+    "lexica.cartographer.keyword.name.crowd_control.name": "Crowd Control",
+
+
+    "format.grammar.possessive": "%s's",
+        "TL_NOTE.charon.1.1": "Accessible as %1$s. If you only want player name use %2$s.",
+        "TL_NOTE.charon.1.2": "Used in '.death_drop.bundle', '.shade.display.name', and '.shade.despawn.announce.chat'",
+
+    "cartographer.charon.ambrosia.name": "Bottle of Ambrosia",
+        "cartographer.charon.ambrosia.desc.1": "When consumed, grants the player",
+        "cartographer.charon.ambrosia.desc.2": "one Boon. When you die, your",
+        "cartographer.charon.ambrosia.desc.3": "items are protected from death and",
+        "cartographer.charon.ambrosia.desc.4": "one Boon is consumed instead.",
+
+    "cartographer.charon.boons.add": "You have been granted a Boon!",
+    "cartographer.charon.boons.take": "A Boon has been taken away to protect your items!",
+    "cartographer.charon.boons.remaining": "Boons Remaining: %s",
+    "cartographer.charon.boons.no_remaining": "§lOut Of Boons",
+    "cartographer.charon.boons.score": "§lBoons",
+    
+    "cartographer.charon.collector.name": "§lReaper",
+
+    "cartographer.charon.death_drop.bundle": "%1$s Valuables (#%3$s)",
+
+    "cartographer.charon.death_timepiece.name": "Death Timepiece",
+        "cartographer.charon.death_timepiece.desc.1": "Unlike a normal watch, remembers",
+        "cartographer.charon.death_timepiece.desc.2": "when you died and points to that",
+        "cartographer.charon.death_timepiece.desc.3": "location instead. Lost on death, or",
+        "cartographer.charon.death_timepiece.desc.4": "when you recover your items.",
+
+    "cartographer.charon.respawnable.set_spawn": "Your spawnpoint has been moved!",
+    
+    "cartographer.charon.trader.name": "§lCharon",
+    "cartographer.charon.trader.trade.name": "Fallen Hero's Valuables (#1)",
+        "cartographer.charon.trader.trade.desc.1": "Looks like this grave",
+        "cartographer.charon.trader.trade.desc.2": "isn't up for sale...",
+    "cartographer.charon.trader.first_dialog.1": "The mysterious shade grunts as to briefly acknowledge your existence, but continues glancing at his ledger.",
+    "cartographer.charon.trader.first_dialog.2": "Charon can be traded with like a villager using %s.",
+    "cartographer.charon.trader.first_dialog.3": "Charon will trade back items collected from death.",
+    
+    "cartographer.charon.shade.display.name": "%s Shade (#%s)",
+        "cartographer.charon.shade.display.tutorial": "Hold [%s] to\nrevive %s",
+    "cartographer.charon.shade.interaction.name": "Fallen Player",
+        "cartographer.charon.shade.interaction.tutorial": "Hold [%s] to \nrevive this player",
+    "cartographer.charon.shade.tutorial": "Revive a player by sneaking and looking directly at their shade!",
+    "cartographer.charon.shade.despawn.notify.chat": "Your shade was not revived, and dropped its items normally.",
+    "cartographer.charon.shade.despawn.notify.actionbar": "Your shade was not revived.",
+    "cartographer.charon.shade.despawn.announce": "%s shade has despawned!",
+    "cartographer.charon.shade.notify.collection": "Another player has collected your shade's items",
+    "cartographer.charon.shade.revive.auto_off": "%s has revived you via your shade!",
+    "cartographer.charon.shade.revive.auto_on": "You have respawned!",
+    "cartographer.charon.shade.revive.1": "You have returned to your death location.",
+    "cartographer.charon.shade.revive.2": "Your items have been returned to you.",
+    "cartographer.charon.shade.lifetime.auto_off": "Shade fades away in %s seconds.",
+    "cartographer.charon.shade.lifetime.auto_on": "You respawn in %s seconds.",
+
+    "cartographer.charon.shade.revive_progress.display.format": "[%s%s]",
+        "cartographer.charon.shade.revive_progress.display.0.1": "",
+        "cartographer.charon.shade.revive_progress.display.0.2": "Reviving...",
+        "cartographer.charon.shade.revive_progress.display.1.1": "R",
+        "cartographer.charon.shade.revive_progress.display.1.2": "eviving...",
+        "cartographer.charon.shade.revive_progress.display.2.1": "Re",
+        "cartographer.charon.shade.revive_progress.display.2.2": "viving...",
+        "cartographer.charon.shade.revive_progress.display.3.1": "Rev",
+        "cartographer.charon.shade.revive_progress.display.3.2": "iving...",
+        "cartographer.charon.shade.revive_progress.display.4.1": "Revi",
+        "cartographer.charon.shade.revive_progress.display.4.2": "ving...",
+        "cartographer.charon.shade.revive_progress.display.5.1": "Reviv",
+        "cartographer.charon.shade.revive_progress.display.5.2": "ing...",
+        "cartographer.charon.shade.revive_progress.display.6.1": "Revivi",
+        "cartographer.charon.shade.revive_progress.display.6.2": "ng...",
+        "cartographer.charon.shade.revive_progress.display.7.1": "Revivin",
+        "cartographer.charon.shade.revive_progress.display.7.2": "g...",
+        "cartographer.charon.shade.revive_progress.display.8.1": "Reviving",
+        "cartographer.charon.shade.revive_progress.display.8.2": "...",
+        "cartographer.charon.shade.revive_progress.display.9.1": "Reviving...",
+        "cartographer.charon.shade.revive_progress.display.9.2": "",
+
+    "cartographer.charon.shade.revive_progress.notify.msg_format": "%s is %s you.",
+    "cartographer.charon.shade.revive_progress.notify.format": "[%s%s]",
+        "cartographer.charon.shade.revive_progress.notify.0.1": "",
+        "cartographer.charon.shade.revive_progress.notify.0.2": "Reviving...",
+        "cartographer.charon.shade.revive_progress.notify.1.1": "Re",
+        "cartographer.charon.shade.revive_progress.notify.1.2": "viving...",
+        "cartographer.charon.shade.revive_progress.notify.2.1": "Revivi",
+        "cartographer.charon.shade.revive_progress.notify.2.2": "ng...",
+        "cartographer.charon.shade.revive_progress.notify.3.1": "Reviving",
+        "cartographer.charon.shade.revive_progress.notify.3.2": "...",
+        "cartographer.charon.shade.revive_progress.notify.4.1": "Reviving...",
+        "cartographer.charon.shade.revive_progress.notify.4.2": "",
+
+    
+    "cartographer.ender_pouch.name": "Ender Pouch",
+        "cartographer.ender_pouch.desc.1": "Items placed in this bundle are",
+        "cartographer.ender_pouch.desc.2": "saved in a pocket dimension.",
+        "cartographer.ender_pouch.desc.3": "When you %s an Ender Chest,",
+        "cartographer.ender_pouch.desc.4": "all items stored away are retrieved.",
+    "cartographer.ender_pouch.reject": "This item cannot be sent to the Ender Pouch pocket dimension!",
+    "cartographer.ender_pouch.release": "Ender Pouch storage has been released!",
+
+    
+    "cartographer.repair_anvil.expensive_lapis": "This item cannot be repaired! (Lapis Lazuli Cost too high!)",
+    "cartographer.repair_anvil.expensive_xp": "This item cannot be repaired! (XP Cost too high!)",
+
+    "cartographer.repair_station.display": "[%s] with an item\nto repair it.",
+    "cartographer.repair_station.display.use": "[%s] to repair the item.\n[%s] to return the item.",
+    "cartographer.repair_station.repair.insufficient": "Not enough resources to repair!",
+    "cartographer.repair_station.repair.expensive": "Item is too expensive to repair!",
+    "cartographer.repair_station.repair.reject": "Item cannot be repaired!",
+        "cartographer.repair_station.cost.format": "%s | %s | %s",
+
+        "cartographer.repair_station.cost.xp": "%s Levels",
+        "cartographer.repair_station.cost.lapis": "%s Lapis Lazuli",
+        "cartographer.repair_station.cost.essence": "%s Mob Essence",
+
+        "cartographer.repair_station.cost.wood": "%s Wooden Planks",
+        "cartographer.repair_station.cost.stone": "%s Cobblestone",
+        "cartographer.repair_station.cost.gold": "%s Gold Ingots",
+        "cartographer.repair_station.cost.iron": "%s Iron Ingots",
+        "cartographer.repair_station.cost.diamond": "%s Diamonds",
+        "cartographer.repair_station.cost.netherite": "%s Netherite Ingots",
+        "cartographer.repair_station.cost.leather": "%s Leather",
+        "cartographer.repair_station.cost.chain": "%s Chain",
+        "cartographer.repair_station.cost.scute": "%s Scutes",
+        "cartographer.repair_station.cost.a_scute": "%s Armadillo Scutes",
+        "cartographer.repair_station.cost.membrane": "%s Phantom Membranes",
+        "cartographer.repair_station.cost.string": "%s String",
+        "cartographer.repair_station.cost.quartz": "%s Nether Quartz",
+        "cartographer.repair_station.cost.redstone": "%s Redstone Dust",
+        "cartographer.repair_station.cost.amethyst": "%s Amethyst Shards",
+        "cartographer.repair_station.cost.copper": "%s Copper Ingots",
+        "cartographer.repair_station.cost.emerald": "%s Emeralds",
+        "cartographer.repair_station.cost.carrot": "%s Carrots",
+        "cartographer.repair_station.cost.warped": "%s Warped Fungi",
+        "cartographer.repair_station.cost.prismarine": "%s Prismarine Shards",
+        "cartographer.repair_station.cost.breeze_rod": "%s Breeze Rods",
+
+        "cartographer.repair_station.cost.ink": "%s Ink Sacs",
+        "cartographer.repair_station.cost.ender": "%s Ender Pearls",
+        "cartographer.repair_station.cost.gunpowder": "%s Gunpowder",
+        "cartographer.repair_station.cost.glowstone": "%s Glowstone Dust",
+        "cartographer.repair_station.cost.blaze_powder": "%s Blaze Powder",
+        "cartographer.repair_station.cost.blaze_rod": "%s Blaze Rods",
+        
+        "cartographer.repair_station.cost.slime": "%s Slimeballs",
+        "cartographer.repair_station.cost.magma": "%s Magma Cream",
+        "cartographer.repair_station.cost.star": "%s Nether Stars",
+        "cartographer.repair_station.cost.echo": "%s Echo Shards",
+        "cartographer.repair_station.cost.shulker": "%s Shulker Shells",
+
+    "cartographer.repair_station.upgrade.add": "+1 %s",
+    "cartographer.repair_station.upgrade.shard.name": "Absorbent Amethyst",
+        "cartographer.repair_station.upgrade.shard.desc": "+5 Bonus Durability",
+            "cartographer.repair_station.upgrade.bonus_durability.desc.1": "(Grants permanent bonus durability.",
+            "cartographer.repair_station.upgrade.bonus_durability.desc.2": "This can only be applied one time.)",
+    "cartographer.repair_station.upgrade.moss.name": "Mending Moss",
+        "cartographer.repair_station.upgrade.moss.desc": "-10% Experience Cost",
+    "cartographer.repair_station.upgrade.rune.name": "Repairing Runes",
+        "cartographer.repair_station.upgrade.rune.desc": "+10% Bonus Repair Chance",
+            "cartographer.repair_station.upgrade.bonus_repair.desc.1": "(A \"Bonus Repair\" will prevent",
+            "cartographer.repair_station.upgrade.bonus_repair.desc.2": "repair costs from increasing once.)",
+            "cartographer.repair_station.upgrade.bonus_repair.proc": "! -= Bonus Repair =- !",
+    "cartographer.repair_station.upgrade.simulacrum.name": "Sulfur Simulacrum",
+        "cartographer.repair_station.upgrade.simulacrum.desc": "+10% Free Repair Chance",
+            "cartographer.repair_station.upgrade.free_repair.desc.1": "(Free repairs will have no",
+            "cartographer.repair_station.upgrade.free_repair.desc.2": "material cost. XP is unaffected.)",
+            "cartographer.repair_station.upgrade.free_repair.proc": "! -= Free Repair =- !",
+    "cartographer.repair_station.upgrade.generic.desc.1": "[%s] this item on the",
+    "cartographer.repair_station.upgrade.generic.desc.2": "Repair Station to improve it.",
+    "cartographer.repair_station.upgrade.generic.desc.use": "When applied:",
+
+    "cartographer.repair_tesseract.villager": "Repair Tesseract",
+    "cartographer.repair_tesseract.item.name": "Repair Tesseract",
+        "cartographer.repair_tesseract.item.desc.1": "Items you would break are",
+        "cartographer.repair_tesseract.item.desc.2": "transferred here. They can be",
+        "cartographer.repair_tesseract.item.desc.3": "bought and then repaired using",
+        "cartographer.repair_tesseract.item.desc.4": "the specified materials.",
+    "cartographer.repair_tesseract.break_item": "An item you were using has broken, and has been transported to the Repair Tesseract!",
+    "cartographer.repair_tesseract.activate.1": "As you approach the altar, the construct on top glows with energy.",
+    "cartographer.repair_tesseract.activate.2": "Your destroyed items will now be saved inside the Repair Tesseract!",
+
+    "##NOTE21": "--- POPUPS ---",
+
+    "cartographer.popup.enchant_effect": "Enchant Effect",
+    "cartographer.popup.enchant_resist": "Enchant Resist",
+    "cartographer.popup.status_resist": "Status Resist",
+    "cartographer.popup.status_asleep": "Zzz...",
+    "cartographer.popup.status_cleansed": "Cleansed",
+    "cartographer.popup.status_purged": "Purged",
+    "cartographer.popup.status_unstoppable": "Unstoppable",
+
+    "##NOTE22": "--- ITEMS ---",
+
+    "cartographer.item_cooldown.seconds": "%ss",
+    "cartographer.item_cooldown.kills": "%sk",
+
+    "cartographer.item.inert": "Inert Item",
+    "cartographer.item.disabled": "Disabled Item",
+
+    "cartographer.item.inert.desc.1": "An item that is temporarily",
+    "cartographer.item.inert.desc.2": "useless from an enchantment.",
+
+    "cartographer.item.disabled.desc.1": "This item is currently",
+    "cartographer.item.disabled.desc.2": "disabled by a Curse."
+}
