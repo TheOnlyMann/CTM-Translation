@@ -7,15 +7,14 @@ from collections import OrderedDict
 
 
 snippet_dir=[
-    "actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/en_us_mod/ko_kr.json",
-    "actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/en_us_mod/artifact_kr.json",
-    "actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/en_us_mod/effect_kr.json",
-    "actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/en_us_mod/death_msg_kr.json",
-    "actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/en_us_mod/mob_boss_kr.json"
+    "actual_translation/_CTM/absolution_translate/lang/ko_kr_pt copy.json",
+    "actual_translation/_CTM/absolution_translate/abso_carto1/ko_kr.json",
+    "actual_translation/_CTM/absolution_translate/lang/ko_kr_lore.json",
+    "actual_translation/_CTM/absolution_translate/lang/ko_kr_lore copy 2.json"
 ]
 mergejson_dir="translation_tools/mergejson.py"
-base_dir="actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/assembly/base/ko_kr.json"
-save_dir_base="actual_translation/_CTM/theskyblessing_translate/assets/minecraft/lang/assembly/"
+base_dir="actual_translation/_CTM/absolution_translate/assembly/base/en_us.json"
+save_dir_base="actual_translation/_CTM/absolution_translate/assembly"
 import importlib.util
 
 # load mergejson module from provided path
