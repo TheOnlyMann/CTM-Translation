@@ -1,0 +1,166 @@
+・(0033) Arcane Shield - TUSB
+・(0152) Call: Housecat - TUSB
+・(0162) Field Rations - TUSB
+・(0297) Spirit Trance - TUSB (+ Touhou)
+    https://en.wikipedia.org/wiki/Ten_Desires
+    lit. "Spirit World Trance", flattened to simply "Trance" in the game.
+・(0342) Super Dragon Bell - TUSB
+・(0905) Teleportation Tome - TUSB
+    TUSB (The Unusual Skyblock) is a map available here: 
+    (JP) https://skyblock.jp/the-unusual-skyblock/
+・(0003) Humanity - Dark Souls
+    https://darksouls.wiki.fextralife.com/Humanity
+・(0007) Nitrogen Fixater - Haber-Bosch Process
+    https://en.wikipedia.org/wiki/Haber_process
+    https://en.wikipedia.org/wiki/Nitrogen_fixation
+・(0008) Timbrel of Tension - Dragon Quest
+    https://dragon-quest.org/wiki/Timbrel_of_tension
+    lit. "Mysterious Tambourine"
+・(0012) Sketchy Herb - it's just marijuana
+・(0035) Malleus Maleficarum - Malleus Maleficarum
+    https://en.wikipedia.org/wiki/Malleus_Maleficarum
+    lit. "The Iron Hammer Dealt to Witches" or "Hammer of Witches"; lore is a play on words not present in EN.
+・(0071) Ariadne Thread - Etrian Odyssey
+    https://etrian.fandom.com/wiki/Ariadne_Thread
+・(0125) Stormbow - Terraria
+    https://terraria.wiki.gg/wiki/Daedalus_Stormbow
+・(0183) The Answer to the Ultimate Question of Life, the Universe, and Everything - Hitchhiker's Guide
+    https://simple.wikipedia.org/wiki/42_(answer)
+・(0184-0185) Proliferating Cookie - Cookie Clicker
+・(0188) Mana Transcriptase - Reverse Transcriptase
+    https://en.wikipedia.org/wiki/Reverse_transcriptase
+    jp: 逆転写酵素 ➝ 逆転写(魔)素
+・(0210) Terra Edge - Terraria
+    https://terraria.wiki.gg/wiki/Terra_Blade
+・(0214) Webshooter - Spiderman
+・(0224) Onegai Muscle - Dumbbell Nan Kilo Moteru
+    https://myanimelist.net/anime/39026/Dumbbell_Nan_Kilo_Moteru
+・(0246) Magical Stick - Godfield
+・(0247) Heaven Herb - Godfield
+    https://godfield.net/
+・(0248) Bow of Vinderre - Elona
+    https://elona.fandom.com/wiki/Bow_of_Vinderre
+・(0253) Holy Barrier - Yu-Gi-Oh!
+    # Not sure if this references any particular card
+・(0260/0263/0266) Heal - MapleStory 2
+    https://maplestorywiki.net/w/Heal
+・(0261/0264/0267) Holy Symbol - MapleStory 2
+    https://maplestorywiki.net/w/Holy_Symbol
+・(0262/0265/0268) Angel Ray - MapleStory 2
+    https://maplestorywiki.net/w/Angel_Ray
+・(0273) U-Turn - Pokemon
+    https://bulbapedia.bulbagarden.net/wiki/U-turn_(move)
+    https://pokemondb.net/move/u-turn
+・(0454) Chocoroom (Kinoko no Yama) - ↓
+・(0455) Chococone (Takenoko no Sato) - ↓
+    https://en.wikipedia.org/wiki/Kinoko_no_yama_vs_Takenoko_no_sato
+・(0462) 4・5・6 Dice - Kaiji
+    # WIP
+・(0467) Cosmo Blue Flash - Princess Connect! Re:Dive
+    https://princess-connect.fandom.com/wiki/Kyoka
+    https://youtu.be/5M0-fhrAK4s&t=97
+    Same name as the Union Burst used by the character Kyoka in-game. Lore references a line from her story quest.
+・(0573) Final Prism - Terraria
+    https://terraria.wiki.gg/wiki/Last_Prism
+・(0609) Lunar Flare - Terraria
+    https://terraria.wiki.gg/wiki/Lunar_Flare
+・(0615) [CENSORED] - LobotomyCorporation
+    https://projectmoon.miraheze.org/wiki/CENSORED
+・(0801) Mysterious Ruby - Risk of Rain 2 (Planula)
+    https://riskofrain2.wiki.gg/wiki/Planula
+・(0822) Sound of a Star - LobotomyCorporation
+    https://projectmoon.miraheze.org/wiki/Blue_Star_(Lobotomy_Corporation)
+    Lore references story log.
+・(0826) Infinite Potato Sack - SCP
+    https://scp-wiki.wikidot.com/scp-1689
+・(0837) [The World] Knives - Jojo
+    https://jojowiki.com/The_World
+    # WIP; Lore comes from an episode of Stardust Crusaders
+・(0844) The Closed Eyes of Love - Touhou
+    https://en.touhouwiki.net/wiki/Koishi_Komeiji
+・(1207) Rainbow Sign - Touhou
+    https://en.touhouwiki.net/wiki/List_of_Spell_Cards
+    Follows the style of Touhou's Spell Cards
+・(0870) Samurai - Slashblade Mod
+    https://modrinth.com/mod/slashblade-resharped
+    https://minecraftjapan.miraheze.org/wiki/MOD%E8%A7%A3%E8%AA%AC/SlashBladeMod/%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%83%AA%E3%82%B9%E3%83%88_1.12.2
+・(0930) Z-Flag - Military Stuff
+    https://en.wikipedia.org/wiki/Z_flag
+・(0931) D・U・T・Y - Military Stuff
+    https://en.wikipedia.org/wiki/England_expects_that_every_man_will_do_his_duty
+・(0932) Equal Speed Charlie London - Military Stuff
+    https://www.commsmuseum.co.uk/dykes/smallsnips/escl/escl.htm
+・(0278) Reveille - Military Stuff
+    https://en.wikipedia.org/wiki/Reveille
+・(0985) Ark of the Sanctuary - Terraria Calamity Mod
+    https://calamitymod.wiki.gg/wiki/Fractured_Ark
+・(0470) Crystal Pistol - Terraria
+    https://terraria.wiki.gg/wiki/Dart_Pistol
+    https://terraria.wiki.gg/wiki/Crystal_Dart
+・(0816-0820) Taketori Set - ↓
+    https://en.wikipedia.org/wiki/The_Tale_of_the_Bamboo_Cutter
+・(0908) Butterfly Staff - Genshin Impact
+    https://wiki.hoyolab.com/pc/genshin/entry/34
+・(0999) Sextuple Ultima - Madoka Magika
+    # lore probably needs double checking
+・(1065) Freikugel - LobotomyCorporation
+    https://limbuscompany.wiki.gg/wiki/Der_Freisch%C3%BCtz
+    https://projectmoon.miraheze.org/wiki/Der_Freisch%C3%BCtz_(Library_of_Ruina)
+・(1068) Emberfly's Dream - LimbusCompany (Hellterfly's Dream)
+    https://limbuscompany.wiki.gg/wiki/Ardor_Blossom_Moth
+・(1076) Death Snap - Fujicolor Utsurundesu
+    https://ja.wikipedia.org/wiki/%E5%86%99%E3%83%AB%E3%83%B3%E3%81%A7%E3%81%99
+    Name is a pun reading "The Snap" and "Death Snap" simultaneously.
+・(1108) White Lily of the Priestess - Ender Lilies
+・(1121) Inferno Rush - Jojo
+    Lore is from Stardust Crusaders, Part2 Ep24, 15:05
+・(1141) Bell of Courage - Yomawari 3
+・(1175) Rubber Mallet - Terror of Nowhere
+    https://terror.moe/items/rubber_mallet
+・(1177) Bow of Salvation - Madoka Magica
+    Lore from Ep10 4:11; Internal name is 'spinnrade' if that means anything
+・(1219) Firespring Monster Hunter Wilds
+    Name: https://monsterhunterwiki.org/wiki/Oilwell_Basin (Inclemency) 
+    Lore: https://youtu.be/-ALTXqNTT9w&t=91
+・(0468) Raging Demon - Street Fighter
+・(1057-1060) Akuma Set - Street Fighter
+    https://streetfighter.fandom.com/wiki/Shun_Goku_Satsu
+    https://streetfighter.fandom.com/wiki/Shin_Akuma (lore)
+・(1043) Gamma Ray - sans
+    Lore: https://undertale.wiki/w/Sans
+・(1066) Tsukemono Stone
+    https://en.wikipedia.org/wiki/Tsukemono
+・(0876) UNI - UZI
+    ref: "Uni" is sea urchin in Japanese
+・(0793) QUEEN BEE - Metal Gear V
+・(0796) log4shell - log4j Vulnerability
+・(0797) Heartbleed - Heartbleed Vulnerability
+・(0920) Dal-i-thalion angband
+    https://elona.fandom.com/wiki/Dal-i-thalion
+    originally from here > https://en.wikipedia.org/wiki/Angband_(video_game)
+・(0277) Naked Carnival - Suppada Carnival
+・(0295) Call: Elemental Familiar - Inishie Dungeon
+・(0355) Barrel - Atelier Series
+    https://youtu.be/lKiC1im1Ixc
+・(1172) Saifojio - Zatch Bell!
+    https://en.wikipedia.org/wiki/List_of_Zatch_Bell!_episodes#Season_2_(2004%E2%80%932005) #56
+    Also translated as "Saifogeo"
+・(0441) Awaited Opportunity - Kaze Densetsu: Bukkomi no Taku
+
+
+・(1163) Railshooter - Fallout
+・(1228) FU-K111111111L - Fallout
+・(0566) Elder Set - Fallout New Vegas
+    Allegedly a fallout reference but I can't track it down fully
+    https://fallout.wiki/wiki/Overview:Railway_Rifle
+    https://fallout.wiki/wiki/Elder
+
+Not an explicit Genshin reference, but I found it useful for these items anyway
+・(0736) Sailor's Tricorne
+    https://wiki.hoyolab.com/pc/genshin/entry/2079
+・(0725-0728) Palesnow Oblivion Set
+    https://wiki.hoyolab.com/pc/genshin/entry/2062
+・(0729) Bloodstained Pride
+    https://wiki.hoyolab.com/pc/genshin/entry/2079
+・(0737) Summer's Lingering Spark
+    https://wiki.hoyolab.com/pc/genshin/entry/2099
