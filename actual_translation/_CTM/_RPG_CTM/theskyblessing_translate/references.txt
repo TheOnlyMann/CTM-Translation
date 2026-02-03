@@ -41,7 +41,7 @@
 ・(0248) Bow of Vinderre - Elona
     https://elona.fandom.com/wiki/Bow_of_Vinderre
 ・(0253) Holy Barrier - Yu-Gi-Oh!
-    # Not sure if this references any particular card
+    # References Mirror Force(International Release has blocked the use of 'holy' apprantly)
 ・(0260/0263/0266) Heal - MapleStory 2
     https://maplestorywiki.net/w/Heal
 ・(0261/0264/0267) Holy Symbol - MapleStory 2
@@ -103,6 +103,7 @@
     https://wiki.hoyolab.com/pc/genshin/entry/34
 ・(0999) Sextuple Ultima - Madoka Magika
     # lore probably needs double checking
+	# Weapon itself is a reference to attack from Mami Tomoe and her muskets https://madoka.fandom.com/wiki/Mami_Tomoe
 ・(1065) Freikugel - LobotomyCorporation
     https://limbuscompany.wiki.gg/wiki/Der_Freisch%C3%BCtz
     https://projectmoon.miraheze.org/wiki/Der_Freisch%C3%BCtz_(Library_of_Ruina)
@@ -112,6 +113,8 @@
     https://ja.wikipedia.org/wiki/%E5%86%99%E3%83%AB%E3%83%B3%E3%81%A7%E3%81%99
     Name is a pun reading "The Snap" and "Death Snap" simultaneously.
 ・(1108) White Lily of the Priestess - Ender Lilies
+・(1120) Flamethrower - Fist of the North Star
+    Lore is from flamethrower man https://hokuto.fandom.com/wiki/Flamethrower_Man 
 ・(1121) Inferno Rush - Jojo
     Lore is from Stardust Crusaders, Part2 Ep24, 15:05
 ・(1141) Bell of Courage - Yomawari 3
