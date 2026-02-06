@@ -25,7 +25,7 @@
     "artifact.0001.use.enemy.health":         "체력",
     "artifact.0001.use.enemy.weak":           "약점",
     "artifact.0001.use.enemy.effects_none":   "효과 없음",
-    "artifact.0001.use.generic.res":          "기본 저항",
+    "artifact.0001.use.generic.res":          "저항",
     "artifact.0001.use.generic.effects":      "효과",
     "artifact.0001.use.generic.unknown":      "상세 불명",
   "artifact.0002.name": "%s의 축복",
