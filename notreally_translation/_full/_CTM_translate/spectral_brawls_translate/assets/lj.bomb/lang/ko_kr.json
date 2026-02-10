@@ -6,7 +6,7 @@
 	"lj.bomb.lore_ice_1":"감속 III 구름을 남깁니다",
 	"lj.bomb.lore_toxic":"착탄 시, 폭발하며 그 자리에",
 	"lj.bomb.lore_toxic_1":"독 II/시듦 II 구름을 남깁니다",
-	"lj.bomb.lore_fire":"착탄 시, 폭발하며 블럭을 파괴하며,",
+	"lj.bomb.lore_fire":"착탄 시, 폭발하며 블록을 파괴하며,",
 	"lj.bomb.lore_fire_1":"그 주변에 불을 붙입니다",
 	"lj.bomb.lore_power":"\u00b7 폭발력: 2"
 }

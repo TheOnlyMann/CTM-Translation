@@ -136,8 +136,8 @@
     "enchantment.minecraft.power.desc": "화살이 더 큰 피해를 줍니다.",
 
     "enchantment.cartographer.overcharge.desc": "시위를 당긴 후 1초간 대기 시 추가 피해를 줍니다.",
-    "enchantment.cartographer.point_blank.desc": "대상이 8블럭 이내에 있을 때 추가 피해를 줍니다.",
-    "enchantment.cartographer.sharpshot.desc": "대상이 12블럭 이상 떨어져 있을 때 추가 피해를 줍니다.",
+    "enchantment.cartographer.point_blank.desc": "대상이 8블록 이내에 있을 때 추가 피해를 줍니다.",
+    "enchantment.cartographer.sharpshot.desc": "대상이 12블록 이상 떨어져 있을 때 추가 피해를 줍니다.",
 
     "## TL_NOTE.enchants11.desc": "고유 일반 무기 마법 부여",
     "enchantment.minecraft.looting.desc": "몹을 죽일때 더 많은 전리품을 떨어트립니다.",
