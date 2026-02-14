@@ -1,0 +1,5 @@
+{
+    "soso.music.info": "[§a음악§r] 재생 중: %1$s  작곡: %2$s",
+    "soso.music.info.name": "%1$s 《%2$s》",
+    "soso.music.info.full": "§9곡명: %1$s\n§e작곡: %2$s\n§cURL:\n%3$s"
+}

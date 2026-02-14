@@ -1,11 +1,11 @@
 {
-    "effect.minecraft.luck": "Mystic Arts",
-    "effect.minecraft.night_vision": "Spiritual Energy",
-    "effect.minecraft.strength": "damage boost",
-    "effect.minecraft.unluck": "Armor Penetration",
-    "menu.options": "§aOptions...",
-    "options.sounds": "§aMusic & Sounds...",
-    "soundCategory.block": "Blocks/§aMap Sounds",
-    "soundCategory.record": "Jukebox/Note Blocks/§aMap BGM",
-    "options.video": "§aVideo Settings... (OptiFine)"
+    "effect.minecraft.luck": "비술",
+    "effect.minecraft.night_vision": "영기",
+    "effect.minecraft.strength": "피해 증가",
+    "effect.minecraft.unluck": "방어 관통",
+    "menu.options": "§a설정...",
+    "options.sounds": "§a음악 및 소리...",
+    "soundCategory.block": "블록/§a맵 사운드",
+    "soundCategory.record": "주크박스/소리 블록/§a맵 BGM",
+    "options.video": "§a비디오 설정... (OptiFine)"
 }
