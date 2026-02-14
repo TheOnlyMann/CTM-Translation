@@ -14,9 +14,10 @@
 	"item.book.1.page.4":"オーダー\n秩序と時を司る創世神。ブリトデネクの秩序とを創造し、管理している。甲冑を着た青年の姿をしている。",
 	"item.book.1.page.5":"ビースピア\n裏切りと絶望を司る邪神。人間に猜疑心を植え付け、人間関係を破壊する。素朴な女性のような姿をしており、ジュエルランドと呼ばれる異世界を支配している。",
 	"item.book.1.page.6":"アモラサック\n破壊を司る邪神。噴火や洪水などの災害を引き起こす。翼の生えたゴリラのような姿をしており、アーモリーと呼ばれる異世界を支配している。",
-	"item.book.1.page.7":"レスレクト\n復活と不死を司る邪神。信者に気まぐれで生物を復活させる力を与える。4本腕の女性のような姿をしており、グレイブヤードと呼ばれる異世界を支配している。",
-	"item.book.1.page.8":"ブレズーロ\n快楽と堕落を司る邪神。人間の怠惰な心を見抜き、欲望の沼へと引きずり込む。男性をも惚れさせるほどの美青年の姿をしており、フォールアイランドと呼ばれる異世界を支配している。",
-	"item.book.1.page.9":"ルーゼコラップ\n病と暗闇を司る邪神。あらゆる病気を作り出した。杖を持った老婆の姿をしており、ダークスワンプあるいはヴェノムスワンプと呼ばれる異世界を支配している。",
+	"item.book.1.page.7":"ラコロンド\n恐怖と混乱を司る邪神。死者の魂を使った罠を作り、生きた人間に恐怖と混乱を植え付ける。マグマをまとった人間のような姿をしており、マッドガレージと呼ばれる異世界を支配している。",
+	"item.book.1.page.8":"レスレクト\n復活と不死を司る邪神。信者に気まぐれで生物を復活させる力を与える。4本腕の女性のような姿をしており、グレイブヤードと呼ばれる異世界を支配している。",
+	"item.book.1.page.9":"ブレズーロ\n快楽と堕落を司る邪神。人間の怠惰な心を見抜き、欲望の沼へと引きずり込む。男性をも惚れさせるほどの美青年の姿をしており、フォールアイランドと呼ばれる異世界を支配している。",
+	"item.book.1.page.10":"ルーゼコラップ\n病と暗闇を司る邪神。あらゆる病気を作り出した。杖を持った老婆の姿をしており、ダークスワンプあるいはヴェノムスワンプと呼ばれる異世界を支配している。",
 
 	"item.book.2.title":"ブリトデネクの歴史",
 	"item.book.2.author":"インペリオ出版",
@@ -743,6 +744,9 @@
 	"system.item.other.lore.5.1":"ロミアカジノで使える専用コイン",
 	"system.item.other.lore.5.2":"様々な景品などと交換できる",
 
+	"system.item.other.name.6":"パラドックスボックス-SH",
+	"system.item.other.lore.6.1":"ランダムにガラクタが入れられた箱",
+	"system.item.other.lore.6.2":"中身は異世界のアイテムの材料になるとの噂がある",
 
 
 	"system.item.book.name.1":"剣術奥義秘伝書-満月斬り-",
@@ -1074,6 +1078,7 @@
 	"system.system.illusion_arena.text.24":"アイゼンの幻影",
 	"system.system.illusion_arena.text.25":"エルマンの幻影",
 	"system.system.illusion_arena.text.26":"ハヤテの幻影",
+	"system.system.illusion_arena.text.27":"シデンの幻影",
 
 
 	"system.system.illusion_arena.text.1001":"ゾンビの幻影",
@@ -1110,7 +1115,7 @@
 	"system.boss.name.24":"アイゼンの幻影",
 	"system.boss.name.25":"エルマンの幻影",
 	"system.boss.name.26":"ハヤテの幻影",
-	"system.boss.name.27":"ACR Type:Omicron",
+	"system.boss.name.27":"シデンの幻影",
 	"system.boss.name.28":"ACR Type:Omicron",
 	"system.boss.name.29":"ACR Type:Omicron",
 	"system.boss.name.30":"ACR Type:Omicron",
@@ -1161,6 +1166,7 @@
 	"test.system.boss.name.24":"Eisen",
 	"test.system.boss.name.25":"Erman",
 	"test.system.boss.name.26":"Hayate",
+	"test.system.boss.name.27":"Shiden",
 
 
 	"block.minecraft.coin": "コイン投入口",
@@ -1274,6 +1280,7 @@
 	"system.talk.lomia.npc20.name":"アルバス",
 	"system.talk.lomia.npc21.name":"リガン",
 	"system.talk.lomia.npc22.name":"ピサロ",
+	"system.talk.lomia.npc25.name":"オートマトン・マスク",
 
 	"system.talk.lomia.npc1.event0.1":"<オートマトン・コック> イラッシャイ～",
 	"system.talk.lomia.npc1.event0.2":"<オートマトン・コック> 世界の珍しい料理売ってますヨ～",
@@ -1552,7 +1559,12 @@
 	"system.talk.lomia.npc24.event6.3":"<マルク> 飲もうよ飲もうよ～！",
 	"system.talk.lomia.npc24.event6.4":"<マルク> ぐぅ…頭痛が…ピサロ殿には感謝せねばな…",
 	"system.talk.lomia.npc24.event6.5":"<マルク> だが…何故ワシがスターシロップ中毒に…飲んだ記憶なぞないのだが…",
-	"system.talk.lomia.npc24.event6.6":"<マルク> この街の観光中に桃色の霧に包まれたところまでは覚えてるのだが…うむ…"
+	"system.talk.lomia.npc24.event6.6":"<マルク> この街の観光中に桃色の霧に包まれたところまでは覚えてるのだが…うむ…",
+
+
+	"system.talk.lomia.npc25.event1.1":"<オートマトン・マスク> ようこそ幻想商店へ!",
+	"system.talk.lomia.npc25.event1.2":"<オートマトン・マスク> うちの商品は素質のある者のみが視ることを許され、購入できます",
+	"system.talk.lomia.npc25.event1.3":"<オートマトン・マスク> さて…あなたはいかがですかね…?"
 
 	
 	

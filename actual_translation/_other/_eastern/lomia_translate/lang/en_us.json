@@ -11,9 +11,10 @@
     "item.book.1.page.4": "Order\nThe creation god who controls order and time. He creates and manages Britodenek's order. He looks like a young man in armor.",
     "item.book.1.page.5": "Beespear\nAn evil god who controls betrayal and despair. They instill doubt in humans and destroy human relationships. She looks like a simple woman and rules another world called Jewelland.",
     "item.book.1.page.6": "Amorasac\nThe evil god who controls destruction. It causes disasters such as eruptions and floods. It looks like a winged gorilla and rules another world called the Armory.",
-    "item.book.1.page.7": "Resrect\nThe evil god who controls resurrection and immortality. Gives believers the power to revive living creatures on a whim. She looks like a four-armed woman and rules another world called Graveyard.",
-    "item.book.1.page.8": "Brezzuro\nThe evil god who controls pleasure and fall. They see through the lazy human mind and drag them into the swamp of desire. He is so beautiful that even men fall in love with him, he rules another world called Fall Island.",
-    "item.book.1.page.9": "Ruzekolap\nThe evil god who controls illness and darkness. It created all sorts of illnesses. She looks like an old woman with a staff and rules another world called the Dark Swamp or Venom Swamp.",
+	"item.book.1.page.7":"Racolondo\nAn evil god of fear and confusion. He creates traps using the souls of the dead and instills fear and confusion in the living. He appears as a human covered in magma and rules over a different world known as the Mad Garage.",
+    "item.book.1.page.8": "Resrect\nThe evil god who controls resurrection and immortality. Gives believers the power to revive living creatures on a whim. She looks like a four-armed woman and rules another world called Graveyard.",
+    "item.book.1.page.9": "Brezzuro\nThe evil god who controls pleasure and fall. They see through the lazy human mind and drag them into the swamp of desire. He is so beautiful that even men fall in love with him, he rules another world called Fall Island.",
+    "item.book.1.page.10": "Ruzekolap\nThe evil god who controls illness and darkness. It created all sorts of illnesses. She looks like an old woman with a staff and rules another world called the Dark Swamp or Venom Swamp.",
     "item.book.2.title": "The History of Britodenek",
     "item.book.2.author": "Imperio Publishing",
     "item.book.2.page.1": "The history of Britodenek can be divided into four categories: the beginning period, the construction period, the unborn period, and the divine period. This book explains what happened in these times.",
@@ -622,6 +623,9 @@
     "system.item.other.name.5": "Romia Casino Green Coins",
     "system.item.other.lore.5.1": "Special coins available at Romia Casino",
     "system.item.other.lore.5.2": "Can be exchanged for various prizes",
+	"system.item.other.name.6":"Paradox box SH",
+	"system.item.other.lore.6.1":"A box filled with random junk",
+	"system.item.other.lore.6.2":"There are rumors that the contents are materials for otherworldly items.",    
     "system.item.book.name.1": "Secret Book of Swordsmanship - Full Moon Slash -",
     "system.item.book.lore.1.1": "Secret book of swordsmanship that will give readers a full moon slash",
     "system.item.book.lore.1.2": "However, to master it requires a certain level of skill",
@@ -1302,5 +1306,8 @@
     "system.talk.lomia.npc24.event6.3": "<Mark> Let's drink, let's drink!",
     "system.talk.lomia.npc24.event6.4": "<Mark> Ghh... I have a headache... I have to thank Lord Pisarro...",
     "system.talk.lomia.npc24.event6.5": "<Mark> But... I'm addicted to star syrup... I don't remember drinking it...",
-    "system.talk.lomia.npc24.event6.6": "<Mark> I remember when I was sightseeing in this town, I was surrounded by pink fog... yeah..."
+    "system.talk.lomia.npc24.event6.6": "<Mark> I remember when I was sightseeing in this town, I was surrounded by pink fog... yeah...",
+	"system.talk.lomia.npc25.event1.1": "<Automaton Mask> Welcome to the Gensou Shop!",
+	"system.talk.lomia.npc25.event1.2": "<Automaton Mask> Our products are only visible to those with the right talent and can be purchased.",
+	"system.talk.lomia.npc25.event1.3": "<Automaton Mask> Well... how about you...?"
 }
