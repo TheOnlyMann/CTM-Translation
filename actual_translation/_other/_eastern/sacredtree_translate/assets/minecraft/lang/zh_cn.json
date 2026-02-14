@@ -1,1 +1,11 @@
-{"effect.minecraft.luck":"秘术","effect.minecraft.night_vision":"灵气","effect.minecraft.strength":"增伤","effect.minecraft.unluck":"破甲","menu.options":"§a§l选项…","options.sounds":"§a§l音乐和声音…","soundCategory.block":"方块/§a§l地图音效","soundCategory.record":"唱片机/音符盒/§a§l地图§r§aBGM","options.video":"§a§l视频设置… (OptiFine)"}
+{
+    "effect.minecraft.luck": "秘术",
+    "effect.minecraft.night_vision": "灵气",
+    "effect.minecraft.strength": "增伤",
+    "effect.minecraft.unluck": "破甲",
+    "menu.options": "§a§l选项…",
+    "options.sounds": "§a§l音乐和声音…",
+    "soundCategory.block": "方块/§a§l地图音效",
+    "soundCategory.record": "唱片机/音符盒/§a§l地图§r§aBGM",
+    "options.video": "§a§l视频设置… (OptiFine)"
+}
