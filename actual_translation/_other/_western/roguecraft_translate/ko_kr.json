@@ -536,7 +536,7 @@
     "roguecraft.skillpoint.boss_phase": "보스 페이즈",
 
     "roguecraft.obelisk.name": "오벨리스크",
-    "roguecraft.obelisk.vigilis.inactive": "<%s> status: unimplemented // awaiting V1.4;",
+    "roguecraft.obelisk.vigilis.inactive": "<%s> 상태: 미구현 // V1.4 업데이트 대기중;",
   "roguecraft.obelisk.corpus.inactive": "<%s> ...",
     "roguecraft.obelisk.sol.inactive": "<%s> 너는 내 존재에 합당하지 않은 자다, 멍청이. 이제 사라져라!",
     "roguecraft.obelisk.custos.main": "<%s> 나는 네더 요새의 수호자다. 블레이즈의 탄생지에서 나와 맞서라.",
