@@ -1,0 +1,14 @@
+{
+    "effect.minecraft.luck": "비술",
+    "effect.minecraft.night_vision": "영기",
+    "effect.minecraft.strength": "피해 증가",
+    "effect.minecraft.unluck": "방어 관통",
+    "menu.options": "§a설정...",
+    "options.sounds": "§a음악 및 소리...",
+    "soundCategory.block": "블록/§a맵 사운드",
+    "soundCategory.record": "주크박스/소리 블록/§a맵 BGM",
+    "options.video": "§a비디오 설정... (OptiFine)",
+
+    "options.language": "§b언어...",
+    "options.forceUnicodeFont": "§b유니코드 글꼴 강제 사용"
+}

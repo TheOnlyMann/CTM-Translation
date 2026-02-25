@@ -1,0 +1,40 @@
+{
+	"providers": [
+		{
+			"type": "unihex",
+			"hex_file": "minecraft:font/convert.zip",
+			"size_overrides": [
+				{
+					"from": "\u1100",
+					"to": "\u1112",
+					"left": 0,
+					"right": 8
+				},
+				{
+					"from": "\u1161",
+					"to": "\u1175",
+					"left": 0,
+					"right": 8
+				},
+				{
+					"from": "\u11a8",
+					"to": "\u11c2",
+					"left": 0,
+					"right": 8
+				},
+				{
+					"from": "\u3131",
+					"to": "\u3163",
+					"left": 0,
+					"right": 8
+				},
+				{
+					"from": "\uac00",
+					"to": "\ud7a3",
+					"left": 0,
+					"right": 8
+				}
+			]
+		}
+	]
+}
