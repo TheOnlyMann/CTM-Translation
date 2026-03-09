@@ -7,14 +7,14 @@ from collections import OrderedDict
 
 
 snippet_dir=[
-    "actual_translation/_CTM/absolution_translate/lang/ko_kr_pt copy.json",
-    "actual_translation/_CTM/absolution_translate/abso_carto1/ko_kr.json",
-    "actual_translation/_CTM/absolution_translate/lang/ko_kr_lore.json",
-    "actual_translation/_CTM/absolution_translate/lang/ko_kr_lore_gpt_manual.json"
+    "actual_translation/_CTM/_reg_CTM/absolution_translate/lang/ko_kr_pt copy.json",
+    "actual_translation/_CTM/_reg_CTM/absolution_translate/abso_carto1/ko_kr.json",
+    "actual_translation/_CTM/_reg_CTM/absolution_translate/lang/ko_kr_lore.json",
+    "actual_translation/_CTM/_reg_CTM/absolution_translate/lang/ko_kr_lore_gpt_manual.json"
 ]
 mergejson_dir="translation_tools/mergejson.py"
-base_dir="actual_translation/_CTM/absolution_translate/assembly/base/en_us.json"
-save_dir_base="actual_translation/_CTM/absolution_translate/assembly"
+base_dir="actual_translation/_CTM/_reg_CTM/absolution_translate/assembly/base/en_us.json"
+save_dir_base="actual_translation/_CTM/_reg_CTM/absolution_translate/assembly"
 import importlib.util
 
 # load mergejson module from provided path
