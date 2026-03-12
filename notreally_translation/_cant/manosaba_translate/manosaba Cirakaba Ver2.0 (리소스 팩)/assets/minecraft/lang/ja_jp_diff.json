@@ -1,0 +1,9 @@
+{
+    "deathScreen.quit.confirm": "タイトル画面に戻る",
+    "deathScreen.respawn": "直前の選択肢に戻る",
+    "deathScreen.score": "処刑した人数",
+    "deathScreen.score.value": "処刑した人数：%s",
+    "deathScreen.title": "B A D E N D",
+
+    "stat.minecraft.deaths": "死に戻った回数"
+}

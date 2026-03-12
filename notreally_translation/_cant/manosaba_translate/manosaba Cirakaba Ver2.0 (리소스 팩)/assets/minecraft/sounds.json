@@ -1,0 +1,52 @@
+{
+  "bgm.1": {
+    "sounds": [
+      "bgm/1"
+    ]
+  },
+  "bgm.2": {
+    "sounds": [
+      "bgm/2"
+    ]
+  },
+  "bgm.3": {
+    "sounds": [
+      "bgm/3"
+    ]
+  },
+  "bgm.4": {
+    "sounds": [
+      "bgm/4"
+    ]
+  },
+  "bgm.5": {
+    "sounds": [
+      "bgm/5"
+    ]
+  },
+  "bgm.6": {
+    "sounds": [
+      "bgm/6"
+    ]
+  },
+  "bgm.7": {
+    "sounds": [
+      "bgm/7"
+    ]
+  },
+  "bgm.8": {
+    "sounds": [
+      "bgm/8"
+    ]
+  },
+  "bgm.9": {
+    "sounds": [
+      "bgm/9"
+    ]
+  },
+  "bgm.10": {
+    "sounds": [
+      "bgm/10"
+    ]
+  }
+}
