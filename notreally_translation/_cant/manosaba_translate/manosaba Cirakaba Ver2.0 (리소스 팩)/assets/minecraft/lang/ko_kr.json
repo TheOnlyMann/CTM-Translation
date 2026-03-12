@@ -1,0 +1,9 @@
+{
+    "deathScreen.quit.confirm": "타이틀 화면으로 돌아가기",
+    "deathScreen.respawn": "직전 선택지로 돌아가기",
+    "deathScreen.score": "처형한 인원 수",
+    "deathScreen.score.value": "처형한 인원 수: %s",
+    "deathScreen.title": "B A D E N D",
+
+    "stat.minecraft.deaths": "죽음을 되돌린 횟수"
+}
