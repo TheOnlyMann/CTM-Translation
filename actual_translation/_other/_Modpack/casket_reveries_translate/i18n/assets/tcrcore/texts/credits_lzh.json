@@ -1,0 +1,216 @@
+[
+  {
+    "section": "製作團隊（以下皆指原創內容）",
+    "disciplines": [
+      {
+        "discipline": "作者",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "程式",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "劇情設計",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "任務書、圖鑑",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero",
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "美術",
+        "titles": [
+          {
+            "title": "建模",
+            "names": [
+              "Ao22333"
+            ]
+          },
+          {
+            "title": "材質貼圖",
+            "names": [
+              "一只路过的小吴",
+              "Ao22333",
+              "XVIII-凌",
+              "yu_moooo",
+              "脚踏梯子hill",
+              "I_Black_Demon_I"
+            ]
+          },
+          {
+            "title": "權重繪製",
+            "names": [
+              "asanginxst"
+            ]
+          },
+          {
+            "title": "封面設計",
+            "names": [
+              "v4lk"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "怪物AI設計",
+        "titles": [
+          {
+            "title": "Boss",
+            "names": [
+              "XVIII-凌",
+              "ShelMarow"
+            ]
+          },
+          {
+            "title": "常規人型怪",
+            "names": [
+              "气球恶魔"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "主城場景設計",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "El_mal（玩建筑之牢E）",
+              "300wan"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "動畫協助",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "merlin204",
+              "asanginxst"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "服務端製作",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "宣傳片協助拍攝",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Apex Hosting",
+    "disciplines": [
+      {
+        "discipline": "租用君之伺服器！",
+        "titles": [
+          {
+            "title": "用此鏈結得折扣！",
+            "names": [
+              "https://apexhost.gg/P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "廣告招租",
+    "disciplines": [
+      {
+        "discipline": "廣告招租",
+        "titles": [
+          {
+            "title": "廣告招租",
+            "names": [
+              "廣告招租",
+              "有意者聯 P1nero",
+              "gaylordfocker@foxmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "特別鳴謝",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "列位诸公贊助者",
+            "names": [
+              ""
+            ]
+          },
+          {
+            "title": "譯者（他語譯者請於此處添汝名）",
+            "names": [
+              "zh_cn, en_us - P1nero, Windrinn"
+            ]
+          },
+          {
+            "title": "致敬",
+            "names": [
+              "Yesman",
+              "超级厉害宝宝大队",
+              "Minecraft",
+              "Minecraft Forge",
+              "及本合包中所用諸模組、資源包、光影包及其作者！"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

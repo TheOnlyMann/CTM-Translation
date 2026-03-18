@@ -1,0 +1,222 @@
+[
+  {
+    "section": "開発チーム（オリジナルコンテンツ）",
+    "disciplines": [
+      {
+        "discipline": "制作監督",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "プログラミング",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "脚本",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "クエストブック＆生物図鑑デザイン",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero",
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "アート",
+        "titles": [
+          {
+            "title": "モデリング",
+            "names": [
+              "Ao22333"
+            ]
+          },
+          {
+            "title": "テクスチャ",
+            "names": [
+              "一只路过的小吴",
+              "Ao22333",
+              "XVIII-凌",
+              "yu_moooo",
+              "脚踏梯子hill",
+              "I_Black_Demon_I"
+            ]
+          },
+          {
+            "title": "ウェイトペインティング",
+            "names": [
+              "asanginxst"
+            ]
+          },
+          {
+            "title": "カバーアート",
+            "names": [
+              "v4lk"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "モンスター行動AIデザイン",
+        "titles": [
+          {
+            "title": "ボス",
+            "names": [
+              "XVIII-凌",
+              "ShelMarow"
+            ]
+          },
+          {
+            "title": "一般人型モブ",
+            "names": [
+              "气球恶魔"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "主要都市の景観デザイン",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "El_mal（玩建筑的牢E）",
+              "300wan"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "アニメーション・アシスタント",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "merlin204",
+              "asanginxst"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "サーバー・デベロッパー",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "トレーラー制作アシスタント",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Apex Hosting",
+    "disciplines": [
+      {
+        "discipline": "サーバーを借りるならApex Hosting！",
+        "titles": [
+          {
+            "title": "このリンクから飛ぶと特別割引が適用されます！",
+            "names": [
+              "https://apexhost.gg/P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "広告募集中",
+    "disciplines": [
+      {
+        "discipline": "広告募集中",
+        "titles": [
+          {
+            "title": "広告募集中",
+            "names": [
+              "広告募集中",
+              "お問い合わせはP1neroまで",
+              "gaylordfocker@foxmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "スペシャルサンクス",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "全てのスポンサー",
+            "names": [
+              ""
+            ]
+          },
+          {
+            "title": "翻訳者",
+            "names": [
+              "zh_cn, en_us - P1nero, Windrinn",
+              "ja_jp - mirinsyouyu, Just_jpGamer",
+              "ru_ru — fimkov, DJDemin",
+              "pt_br - gabriellima666",
+              "vi_vn - cattfan",
+              "ko_kr - PerFectCode0425",
+              "id_id - 1stsayazaki"
+            ]
+          },
+          {
+            "title": "賛辞",
+            "names": [
+              "Yesman",
+              "超级厉害宝宝(Super Awesome Baby) チーム",
+              "Minecraft",
+              "Minecraft Forge",
+              "このパックで使用されている全てのMOD、リソースパック、シェーダーパック、およびそれらの作者に感謝します！"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "section": "Đội Ngũ Sản Xuất (Nội dung sáng tạo gốc)",
+        "disciplines": [
+            {
+                "discipline": "Tác giả",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "P1nero"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Lập trình",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "P1nero"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Thiết kế Kịch bản",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "P1nero"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Nhiệm vụ thư, Đồ giám",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "P1nero",
+                            "Windrinn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Mỹ thuật",
+                "titles": [
+                    {
+                        "title": "Dựng mô hình",
+                        "names": [
+                            "Ao22333"
+                        ]
+                    },
+                    {
+                        "title": "Chất liệu & Vẽ texture",
+                        "names": [
+                            "一只路过的小吴",
+                            "Ao22333",
+                            "XVIII-凌",
+                            "yu_moooo",
+                            "脚踏梯子hill",
+                            "I_Black_Demon_I"
+                        ]
+                    },
+                    {
+                        "title": "Vẽ trọng số",
+                        "names": [
+                            "asanginxst"
+                        ]
+                    },
+                    {
+                        "title": "Thiết kế bìa",
+                        "names": [
+                            "v4lk"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Thiết kế AI Quái vật",
+                "titles": [
+                    {
+                        "title": "Boss",
+                        "names": [
+                            "XVIII-凌",
+                            "ShelMarow"
+                        ]
+                    },
+                    {
+                        "title": "Quái nhân hình thường",
+                        "names": [
+                            "气球恶魔"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Thiết kế Cảnh Chủ Thành",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "El_mal（玩建筑的牢E）",
+                            "300wan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Hỗ trợ Hoạt họa",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "merlin204",
+                            "asanginxst"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Chế tác Server",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "Windrinn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "Hỗ trợ Quay Trailer",
+                "titles": [
+                    {
+                        "title": "",
+                        "names": [
+                            "Arcadia"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Apex Hosting",
+        "disciplines": [
+            {
+                "discipline": "Thuê server của bạn!",
+                "titles": [
+                    {
+                        "title": "Dùng link bên dưới để nhận ưu đãi!",
+                        "names": [
+                            "https://apexhost.gg/P1nero"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Quảng cáo cho thuê",
+        "disciplines": [
+            {
+                "discipline": "Quảng cáo cho thuê",
+                "titles": [
+                    {
+                        "title": "Quảng cáo cho thuê",
+                        "names": [
+                            "Quảng cáo cho thuê",
+                            "Liên hệ P1nero nếu quan tâm",
+                            "gaylordfocker@foxmail.com"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "section": "Đặc biệt Cảm ơn",
+        "disciplines": [
+            {
+                "discipline": "",
+                "titles": [
+                    {
+                        "title": "Tất cả các nhà tài trợ",
+                        "names": [
+                            ""
+                        ]
+                    },
+                    {
+                        "title": "Dịch giả (Dịch giả ngôn ngữ khác hãy thêm tên tại đây)",
+                        "names": [
+                            "zh_cn, en_us - P1nero, Windrinn",
+                            "vi_vn - cattfan"
+                        ]
+                    },
+                    {
+                        "title": "Kính tặng",
+                        "names": [
+                            "Yesman",
+                            "超级厉害宝宝(Super Awesome Baby) Đại Đội",
+                            "Minecraft",
+                            "Minecraft Forge",
+                            "Và tất cả các tác giả mod, resource pack, shader mà modpack này sử dụng!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

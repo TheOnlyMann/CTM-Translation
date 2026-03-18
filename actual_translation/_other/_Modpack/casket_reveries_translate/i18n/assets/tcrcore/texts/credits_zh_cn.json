@@ -1,0 +1,231 @@
+[
+  {
+    "section": "制作团队（以下均指原创内容）",
+    "disciplines": [
+      {
+        "discipline": "作者",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "程序",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "剧情设计",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "任务书、图鉴",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero",
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "美术",
+        "titles": [
+          {
+            "title": "建模",
+            "names": [
+              "Ao22333"
+            ]
+          },
+          {
+            "title": "材质贴图",
+            "names": [
+              "一只路过的小吴",
+              "Ao22333",
+              "XVIII-凌",
+              "yu_moooo",
+              "脚踏梯子hill",
+              "I_Black_Demon_I"
+            ]
+          },
+          {
+            "title": "权重绘制",
+            "names": [
+              "asanginxst"
+            ]
+          },
+          {
+            "title": "封面设计",
+            "names": [
+              "v4lk"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "怪物AI设计",
+        "titles": [
+          {
+            "title": "Boss",
+            "names": [
+              "XVIII-凌",
+              "ShelMarow"
+            ]
+          },
+          {
+            "title": "常规人型怪",
+            "names": [
+              "气球恶魔"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "主城场景设计",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "El_mal（玩建筑的牢E）",
+              "300wan"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "动画协助",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "merlin204",
+              "asanginxst"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "服务端制作",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "宣传片协助拍摄",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "重大内测贡献",
+        "titles": [
+          {
+            "title": "包括但不限于",
+            "names": [
+              "Windrinn",
+              "下次一定出货",
+              "Peanuts",
+              "wswda6",
+              "LoSo"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Apex Hosting",
+    "disciplines": [
+      {
+        "discipline": "Rent your server!",
+        "titles": [
+          {
+            "title": "Use the link to get a discount!",
+            "names": [
+              "https://apexhost.gg/P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "广告招租",
+    "disciplines": [
+      {
+        "discipline": "广告招租",
+        "titles": [
+          {
+            "title": "广告招租",
+            "names": [
+              "广告招租",
+              "有意者联系 P1nero",
+              "gaylordfocker@foxmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "特别鸣谢",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "所有赞助者们",
+            "names": [
+              ""
+            ]
+          },
+          {
+            "title": "译者（其他语言的译者记得在此处加上你的名字）",
+            "names": [
+              "zh_cn, en_us - P1nero, Windrinn"
+            ]
+          },
+          {
+            "title": "致敬",
+            "names": [
+              "Yesman",
+              "超级厉害宝宝(Super Awesome Baby) 大队",
+              "Minecraft",
+              "Minecraft Forge",
+              "以及本整合包中所有用到的模组、资源包、光影包及其作者们！"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

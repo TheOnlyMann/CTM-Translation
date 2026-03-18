@@ -1,0 +1,216 @@
+[
+  {
+    "section": "Equipe de Desenvolvimento",
+    "disciplines": [
+      {
+        "discipline": "Autor",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Programação",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Design de História",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Livro de Missões & Bestiário",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero",
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Arte",
+        "titles": [
+          {
+            "title": "Modelagem",
+            "names": [
+              "Ao22333"
+            ]
+          },
+          {
+            "title": "Texturização",
+            "names": [
+              "一只路过的小吴",
+              "Ao22333",
+              "XVIII-凌",
+              "yu_moooo",
+              "脚踏梯子hill",
+              "I_Black_Demon_I"
+            ]
+          },
+          {
+            "title": "Pintura de Pesos",
+            "names": [
+              "asanginxst"
+            ]
+          },
+          {
+            "title": "Arte de Capa",
+            "names": [
+              "v4lk"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Design de IA dos Monstros",
+        "titles": [
+          {
+            "title": "Chefes",
+            "names": [
+              "XVIII-凌",
+              "ShelMarow"
+            ]
+          },
+          {
+            "title": "Inimigos Humanoides Comuns",
+            "names": [
+              "气球恶魔"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Design de Cenário da Cidade Principal",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "El_mal（玩建筑的牢E）",
+              "300wan"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Assistência de Animação",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "merlin204",
+              "asanginxst"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Desenvolvimento do Lado do Servidor",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Assistência de Filmagem do Trailer",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Apex Hosting",
+    "disciplines": [
+      {
+        "discipline": "Alugue o seu servidor!",
+        "titles": [
+          {
+            "title": "Use o link para ganhar um desconto!",
+            "names": [
+              "https://apexhost.gg/P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Espaço Publicitário Disponível",
+    "disciplines": [
+      {
+        "discipline": "Espaço Publicitário Disponível",
+        "titles": [
+          {
+            "title": "Espaço Publicitário Disponível",
+            "names": [
+              "Espaço Publicitário Disponível",
+              "Entre em contato com P1nero para mais informações",
+              "gaylordfocker@foxmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Agradecimentos Especiais",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "Todos os Patrocinadores",
+            "names": [
+              ""
+            ]
+          },
+          {
+            "title": "Tradutores",
+            "names": [
+              "zh_cn, en_us - P1nero, Windrinn", "pt_br - gabriellima666"
+            ]
+          },
+          {
+            "title": "Homenagem",
+            "names": [
+              "Yesman",
+              "Equipe 超级厉害宝宝 (Super Awesome Baby)",
+              "Minecraft",
+              "Minecraft Forge",
+              "E todos os mods, pacotes de recursos, pacotes de shaders e seus autores usados neste modpack!"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
