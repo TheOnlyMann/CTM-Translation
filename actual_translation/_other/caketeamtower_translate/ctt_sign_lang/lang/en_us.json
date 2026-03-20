@@ -1,0 +1,521 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+  
+  #Lobby Sign
+  
+  "ctt_Lobby_Sign_1":"Command",   
+  "ctt_Lobby_Sign_2":"Guide",
+  
+  "ctt_Lobby_Sign_3":"FREQUENTLY",
+  "ctt_Lobby_Sign_4":"ASKED QUESTIONS",
+  
+  "ctt_Lobby_Sign_5":"How do I get",
+  "ctt_Lobby_Sign_6":"the music",
+  "ctt_Lobby_Sign_7":"working?",
+  
+  "ctt_Lobby_Sign_8":"I got softlocked!",
+  
+  "ctt_Lobby_Sign_9":"I encountered",
+  "ctt_Lobby_Sign_10":"a bug",
+  
+  "ctt_Lobby_Sign_11":"Talking to",
+  "ctt_Lobby_Sign_12":"NPCS",
+  
+  "ctt_Lobby_Sign_13":"Types of",
+  "ctt_Lobby_Sign_14":"Currency",
+  
+  "ctt_Lobby_Sign_15":"What does every",
+  "ctt_Lobby_Sign_16":"Stat Point do?",
+  
+  "ctt_Lobby_Sign_17":"I don\'t know what",
+  "ctt_Lobby_Sign_18":"to do!",
+  
+  "ctt_Lobby_Sign_19":"Type",
+  "ctt_Lobby_Sign_20":"/trigger",
+  "ctt_Lobby_Sign_21":"ResourcePack",
+  
+  "ctt_Lobby_Sign_22":"When you walk",
+  "ctt_Lobby_Sign_23":"up to an NPC",
+  "ctt_Lobby_Sign_24":"Simply click the",
+  
+  "ctt_Lobby_Sign_25":"Download Music",
+  "ctt_Lobby_Sign_26":"pack and apply it",
+  "ctt_Lobby_Sign_27":"Turn up",
+  "ctt_Lobby_Sign_28":"Jukeblock in SFX",
+  
+  "ctt_Lobby_Sign_29":"Click in",
+  "ctt_Lobby_Sign_30":"Button",
+  
+  "ctt_Lobby_Sign_31":"dialogue options",
+  "ctt_Lobby_Sign_32":"in the chat to",
+  "ctt_Lobby_Sign_33":"respond to them",
+  
+  "ctt_Lobby_Sign_34":"Talk to swan in ",
+  "ctt_Lobby_Sign_35":"the lobby or",
+  "ctt_Lobby_Sign_36":"check your",
+  "ctt_Lobby_Sign_37":"advancements!",
+  
+  "ctt_Lobby_Sign_38":"Tips",
+  
+  "ctt_Lobby_Sign_39":"Type /trigger",
+  "ctt_Lobby_Sign_40":"Help",
+  "ctt_Lobby_Sign_41":"to see a list of",
+  "ctt_Lobby_Sign_42":"commands",
+  
+  "ctt_Lobby_Sign_43":"NO TRESPASSING",
+
+  "ctt_Lobby_Sign_44":"STAY AWAY",
+  
+  "ctt_Lobby_Sign_45":"LEAVE NOW",
+  
+  "ctt_Lobby_Sign_46":"LAST WARNING",
+
+  "ctt_Lobby_Sign_47":"Press to",
+  "ctt_Lobby_Sign_48":"Start the Climb",
+
+  "ctt_Lobby_Sign_49":"Game in progress",
+  "ctt_Lobby_Sign_50":"join your friends",
+  "ctt_Lobby_Sign_51":"using the",
+  "ctt_Lobby_Sign_52":"Elevator",
+
+  "ctt_Lobby_Sign_53":"Shift to select",
+  "ctt_Lobby_Sign_54":"who to backfill",
+  "ctt_Lobby_Sign_55":"as",
+
+  "ctt_Lobby_Sign_56":"Spectate Game",
+  "ctt_Lobby_Sign_57":"/trigger",
+  "ctt_Lobby_Sign_58":"WarpLobby",
+  "ctt_Lobby_Sign_59":"to return",
+
+  "ctt_Lobby_Sign_60":"TOKEN",
+  "ctt_Lobby_Sign_61":"SHOP",
+
+  "ctt_Lobby_Sign_62":"highscore",
+
+  "ctt_Lobby_Sign_63":"Super\'s",
+  "ctt_Lobby_Sign_64":"Experimental",
+  "ctt_Lobby_Sign_65":"Flower Garden",
+  "ctt_Lobby_Sign_66":"(Stay Away.)",
+
+  "ctt_Lobby_Sign_67":"Only Up",
+
+  "ctt_Lobby_Sign_69":"Horse Race",
+
+  "ctt_Lobby_Sign_68":"Play Now!",
+
+  "ctt_Lobby_Sign_70":"more",
+  "ctt_Lobby_Sign_71":"minigames",
+  "ctt_Lobby_Sign_72":"this way!",
+
+  "ctt_Lobby_Sign_73":"JELLY",
+  "ctt_Lobby_Sign_74":"TRIALS",
+
+  "ctt_Lobby_Sign_75":"Snowball",
+  "ctt_Lobby_Sign_76":"Civilization",
+  "ctt_Lobby_Sign_77":"PLAY NOW!",
+
+  "ctt_Lobby_Sign_78":"Someone",
+  "ctt_Lobby_Sign_79":"killed",
+  "ctt_Lobby_Sign_80":"me",
+
+  "ctt_Lobby_Sign_81":"the sad box",
+  "ctt_Lobby_Sign_82":"use when",
+  "ctt_Lobby_Sign_83":"unhappy :(",
+
+  "ctt_Lobby_Sign_84":"S.S",
+  "ctt_Lobby_Sign_85":"Joker",
+
+  "ctt_Lobby_Sign_86":"Nut has been",
+  "ctt_Lobby_Sign_87":"confined due to",
+  "ctt_Lobby_Sign_88":"several privacy",
+  "ctt_Lobby_Sign_89":"complaints",
+
+  "ctt_Lobby_Sign_90":"DO NOT",
+  "ctt_Lobby_Sign_91":"LET HIM OUT",
+
+  "ctt_Lobby_Sign_92":"GRAVEYARD",
+
+  "ctt_Lobby_Sign_93":"Glacium memorial",
+  "ctt_Lobby_Sign_94":"bench",
+
+  "ctt_Lobby_Sign_95":"Naim",
+
+  "ctt_Lobby_Sign_96":"Hunter",
+
+  "ctt_Lobby_Sign_97":"Logan",
+
+  "ctt_Lobby_Sign_98":"Vision",
+
+  "ctt_Lobby_Sign_99":"K####",
+
+  "ctt_Lobby_Sign_100":"Blevmar",
+
+  "ctt_Lobby_Sign_101":"Katahri",
+
+  "ctt_Lobby_Sign_102":"PLEASE",
+  "ctt_Lobby_Sign_103":"COME AGAIN",
+  "ctt_Lobby_Sign_104":"CAKE TEAM",
+  "ctt_Lobby_Sign_105":"TAVERN",
+
+  "ctt_Lobby_Sign_106":"Mooses",
+  "ctt_Lobby_Sign_107":"Lab",
+
+  "ctt_Lobby_Sign_108":"Ben\'s",
+  "ctt_Lobby_Sign_109":"Armory",
+
+  "ctt_Lobby_Sign_110":"He just wants to",
+  "ctt_Lobby_Sign_111":"make her",
+
+  "ctt_Lobby_Sign_112":"but I want to be",
+
+  "ctt_Lobby_Sign_113":"Teleportation",
+  "ctt_Lobby_Sign_114":"point",
+
+  "ctt_Lobby_Sign_115":"No",
+  "ctt_Lobby_Sign_116":"Trespassing",
+
+  "ctt_Lobby_Sign_117":"Back to",
+  "ctt_Lobby_Sign_118":"Main Lobby",
+
+  "ctt_Lobby_Sign_119":"Eastern",
+  "ctt_Lobby_Sign_120":"Woods",
+
+  "ctt_Lobby_Sign_121":"Training",
+  "ctt_Lobby_Sign_122":"Grounds",
+
+  "ctt_Lobby_Sign_123":"Cemetery",
+
+  "ctt_Lobby_Sign_124":"Mini Games",
+  
+  "ctt_Lobby_Sign_125":"Continue",
+
+  "ctt_Lobby_Sign_126":"Cake Team",
+  "ctt_Lobby_Sign_127":"Towers uses",
+  "ctt_Lobby_Sign_128":"Custom Textures",
+  "ctt_Lobby_Sign_129":"& Models",
+  
+  "ctt_Lobby_Sign_130":"If you see a",
+  "ctt_Lobby_Sign_131":"Player Model",
+  "ctt_Lobby_Sign_132":"Your models are",
+  "ctt_Lobby_Sign_133":"working",
+  
+  "ctt_Lobby_Sign_134":"If you don\'t see",
+  "ctt_Lobby_Sign_135":"a Player Model",
+  "ctt_Lobby_Sign_136":"your models are",
+  "ctt_Lobby_Sign_137":"NOT working",
+  
+  "ctt_Lobby_Sign_138":"If you see",
+  "ctt_Lobby_Sign_139":"a Red Sword",
+  "ctt_Lobby_Sign_140":"Your textures",
+  "ctt_Lobby_Sign_141":"are working",
+  
+  "ctt_Lobby_Sign_142":"If you see",
+  "ctt_Lobby_Sign_143":"a Carrot on a",
+  "ctt_Lobby_Sign_144":"Stick",
+  "ctt_Lobby_Sign_145":"It is NOT working",
+  
+  "ctt_Lobby_Sign_146":"Download",
+  "ctt_Lobby_Sign_147":"EMF & ETF here",
+
+  "ctt_Lobby_Sign_148":"Custom Textures",  
+  "ctt_Lobby_Sign_149":"Need EMF & ETF", 
+
+  "ctt_Lobby_Sign_150":"Textures not",
+  "ctt_Lobby_Sign_151":"Solutions here!",
+  
+  "ctt_Lobby_Sign_152":"EMF & ETF Install",
+  "ctt_Lobby_Sign_153":"Tutorial Here",
+  
+  "ctt_Lobby_Sign_154":"Make sure to",
+  "ctt_Lobby_Sign_155":"install EMF & ETF",
+  "ctt_Lobby_Sign_156":"for the correct",
+  "ctt_Lobby_Sign_157":"Version!",
+  
+  "ctt_Lobby_Sign_158":"When your",
+  "ctt_Lobby_Sign_159":"Textures",
+  "ctt_Lobby_Sign_160":"Work",
+  "ctt_Lobby_Sign_161":"Go Here!",
+
+  "ctt_Lobby_Sign_162":"Other mods",
+  "ctt_Lobby_Sign_163":"recommended",
+  "ctt_Lobby_Sign_164":"for Towers",
+
+  #Lobby Command Block
+
+  "ctt_Lobby_Command_Block_1":"If for any reason the game glitches out and",
+  "ctt_Lobby_Command_Block_2":"\nyou are stuck in a level with no way of escaping,",
+  "ctt_Lobby_Command_Block_3":"\nyou can use /Trigger Softlocked to reset the level...",
+  "ctt_Lobby_Command_Block_4":"\nOnly admins can use this",
+  "ctt_Lobby_Command_Block_5":"\nso you must do /tag (NAME) add OP",
+  "ctt_Lobby_Command_Block_6":"\nfor this trigger to work",
+  "ctt_Lobby_Command_Block_7":"\nNote that this trigger should only be",
+  "ctt_Lobby_Command_Block_8":"\nused if you are SOFTLOCKED and not",
+  "ctt_Lobby_Command_Block_9":"\ntaken advantage of",
+
+  "ctt_Lobby_Command_Block_10":"If you encounter a bug, please report it to the discord.",
+  "ctt_Lobby_Command_Block_11":"\nClick Here",
+  "ctt_Lobby_Command_Block_12":" find the discord link",
+  "ctt_Lobby_Command_Block_13":"\nThen submit the bug in #bug-reports",
+  "ctt_Lobby_Command_Block_14":"\nAnd it will be fixed in the next update!",
+
+  "ctt_Lobby_Command_Block_15":"Here is every type of currency in Cake Team Towers.",
+  "ctt_Lobby_Command_Block_16":"\nMove the mouse to the currency you wish to view.",
+  "ctt_Lobby_Command_Block_17":"\n[Tower Tokens]",
+  "ctt_Lobby_Command_Block_18":"Tower Tokens are the main type of currency. They are obtained by completing the Tower and can be spent at the Token Shop on cosmetics, additional dungeons, and items.",
+  "ctt_Lobby_Command_Block_19":"   [Cake Coins]",
+  "ctt_Lobby_Command_Block_20":"Cake Coins are the premium currency of this game, they can be obtained from playing but is mostly unlocked from transactions or to patreon members.\n\nThey are used to buy cosmetics and other items in the Premium Token Shop\n\nIf this is the world download of the normal version, Cake Coins cannot be spent on Premium Items and require the Premium download of the game. In the Premium download, Cake Coins are obtained much faster by reaching the top.",
+  "ctt_Lobby_Command_Block_21":"   [Cake Shards]",
+  "ctt_Lobby_Command_Block_22":"Every 100 Cake Shards convert into one Cake Coin.",
+  "ctt_Lobby_Command_Block_23":"\n[Kai Coins]",
+  "ctt_Lobby_Command_Block_24":"Kai Coins are a special currency that can only be spent on Kai Island or shops run by Kais",
+  "ctt_Lobby_Command_Block_25":"   [Time Gears]",
+  "ctt_Lobby_Command_Block_26":"Time Gears are used for the Time Keeper quest. Every 100 Time Gears grant a level-up and an unlock. Time Gears are obtained by completing missions or sometimes from Command Boxes.\n\nMax 1500 Time Gears",
+  "ctt_Lobby_Command_Block_27":"   [Zunzite Shards]",
+  "ctt_Lobby_Command_Block_28":"Can be used in the Otherside Protectors' shop",
+
+  "ctt_Lobby_Command_Block_29":"What are Stat Points?",
+  "ctt_Lobby_Command_Block_30":"\nStat points will boost different types of weapons or abilities,",
+  "ctt_Lobby_Command_Block_45":"\nyou can gain stat points with items, level ups,",
+  "ctt_Lobby_Command_Block_46":"\nand some characters start with some.",
+  "ctt_Lobby_Command_Block_31":"\nYou can view them in /Trigger ViewStats",
+  "ctt_Lobby_Command_Block_32":"\nMove the mouse to the Stat Points you wish to view.",
+  "ctt_Lobby_Command_Block_33":"\n[Red Hearts]",
+  "ctt_Lobby_Command_Block_34":"Red hearts is your normal health, similiar to your MC hearts, although in Towers it appears as a bossbar above your head.\n\nWhen your hearts hit 0 you die. Your Red Hearts cannot go above your Max HP",
+  "ctt_Lobby_Command_Block_35":"   [Soul Hearts]",
+  "ctt_Lobby_Command_Block_36":"Soul Hearts are like Absorbtion Hearts in Minecraft, they are hearts that can go past your Max HP",
+  "ctt_Lobby_Command_Block_37":"   [Black Hearts]",
+  "ctt_Lobby_Command_Block_38":"Black Hearts behave the same as Soul Hearts. However losing them causes all nearby enemies to take damage aswell",
+  "ctt_Lobby_Command_Block_39":"\n[Blue Hearts]",
+  "ctt_Lobby_Command_Block_40":"Blue Hearts behave the same as Soul Hearts, however they will only last one level and go away every Break Room",
+  "ctt_Lobby_Command_Block_41":"   [Class Stat]",
+  "ctt_Lobby_Command_Block_42":"Class Stat will boost a different stat depending on who you are playing as\n\nSwans Boosts Strength\n\nCheck your class passive to see what it boosts",
+  "ctt_Lobby_Command_Block_43":"   [Strength]",
+  "ctt_Lobby_Command_Block_44":"Strength is how much damage you do with Melee Attacks",
+  "ctt_Lobby_Command_Block_47":"\n[Attack Speed]",
+  "ctt_Lobby_Command_Block_48":"Attack Speed decreases the time between Melee Attacks, and also gives you Stamina Regeneration",
+  "ctt_Lobby_Command_Block_49":"   [Stamina Speed]",
+  "ctt_Lobby_Command_Block_50":"This effects how fast your Stamina Recharges overtime",
+  "ctt_Lobby_Command_Block_51":"   [Max Stamina]",
+  "ctt_Lobby_Command_Block_52":"This is how much Stamina you have\n\nStamina is used for various special abilities that Melee Weapons have",
+  "ctt_Lobby_Command_Block_53":"\n[Archery]",
+  "ctt_Lobby_Command_Block_54":"Archery boosts the damage of ranged weapons.\n\nArchery also provides Arrows OR Bullets every break room. and Soul Arrows/Bullets too Press shift with the soul ammo to change which one you get",
+  "ctt_Lobby_Command_Block_55":"   [Defence]",
+  "ctt_Lobby_Command_Block_56":"Defence decreases the amount of damage you take\n\n20 Defence is the Maximum, any additional Defence is True Armor Instead",
+  "ctt_Lobby_Command_Block_57":"   [True Armor]",
+  "ctt_Lobby_Command_Block_58":"True Armor subtracts the damage you take based on your True Armor\n\n(Max 75% Damage Reduction)",
+  "ctt_Lobby_Command_Block_59":"\n[Healing]",
+  "ctt_Lobby_Command_Block_60":"Your Healing stat decides how many health crystals you are given.\n\nHealth Crystals is ammo used for Healing Items",
+  "ctt_Lobby_Command_Block_61":"   [Regen]",
+  "ctt_Lobby_Command_Block_62":"Regen will make you regenerate Health overtime.\n\n1 Regen = 1 Red Heart Per Second",
+  "ctt_Lobby_Command_Block_63":"   [Heal Percent]",
+  "ctt_Lobby_Command_Block_64":"Heal Percent determines how much health you heal after every break room.\n\nThe percentage is based on your Max Health, if your Health Percent is 25% and you have 200 Max HP you heal 50 Red Hearts",
+  "ctt_Lobby_Command_Block_65":"\n[Bonus Healing Recieved]",
+  "ctt_Lobby_Command_Block_66":"Boosts the amount of healing you receive.\n\nIf you have 50 Bonus Healing Recieved and heal 100 damage, you will heal an extra 50 damage",
+  "ctt_Lobby_Command_Block_67":"   [Fire Armor]",
+  "ctt_Lobby_Command_Block_68":"Behaves like Defence but only for Fire Attacks\n\nFire Armor will provide temp fire resistance when you fall in lava or touch fire",
+  "ctt_Lobby_Command_Block_69":"   [Water Armor]",
+  "ctt_Lobby_Command_Block_70":"Behaves like Defence but only for Water Attacks\n\nAlso allows you to hold your breath underwater longer",
+  "ctt_Lobby_Command_Block_71":"\n[Electric Armor]",
+  "ctt_Lobby_Command_Block_72":"Behaves like Defence but only for Electric Attacks",
+  "ctt_Lobby_Command_Block_73":"   [Ice Armor]",
+  "ctt_Lobby_Command_Block_74":"Behaves like Defence but only for Ice Attacks\n\nChance to freeze enemies when you take damage\n\nChance to Electricute nearby enemies when you take damage",
+  "ctt_Lobby_Command_Block_75":"   [Dark Armor]",
+  "ctt_Lobby_Command_Block_76":"Behaves like Defence but only for Dark Attacks\n\nGain 2 Black Hearts per Dark Armor every Break Room",
+  "ctt_Lobby_Command_Block_77":"\n[Light Armor]",
+  "ctt_Lobby_Command_Block_78":"Behaves like Defence but only for Light Attacks\n\nChance to not take any damage from attacks (% Chance Based on Light Armor Stat)",
+  "ctt_Lobby_Command_Block_79":"   [Speed]",
+  "ctt_Lobby_Command_Block_80":"How fast you move",
+  "ctt_Lobby_Command_Block_81":"   [Mana Power]",
+  "ctt_Lobby_Command_Block_82":"How much damage Magic Attacks deal",
+  "ctt_Lobby_Command_Block_83":"\n[Max Mana]",
+  "ctt_Lobby_Command_Block_84":"How much Mana you have\n\nYour mana regenerates faster based on how much Max Mana you have (Max 30)",
+  "ctt_Lobby_Command_Block_85":"   [Jump]",
+  "ctt_Lobby_Command_Block_86":"How high you jump\n\nIf your jump is in the negatives you take damage from jumping",
+  "ctt_Lobby_Command_Block_87":"   [Max Active Charge]",
+  "ctt_Lobby_Command_Block_88":"How much Active Charge you can store",
+  "ctt_Lobby_Command_Block_89":"\n[Active Charge Speed]",
+  "ctt_Lobby_Command_Block_90":"How much Active Charge you recieve every Break Room",
+  "ctt_Lobby_Command_Block_91":"   [Summoning]",
+  "ctt_Lobby_Command_Block_92":"Grants you an additional Summoning Slot. Which you can use for Summoning items that will buff the power of your Summons. Does not work on any trinkets.\n\nAlso increases Whip Damage",
+  "ctt_Lobby_Command_Block_93":"   [Fishing]",
+  "ctt_Lobby_Command_Block_94":"Gives you soul bait per Fishing Stat at the start of each level\n\nIncreases fishing speed\n\nIncreases chances of catching better fish",
+  "ctt_Lobby_Command_Block_95":"\n[Ant Points]",
+  "ctt_Lobby_Command_Block_96":"Each Ant point gives you a different ability related to Ants\n\nhaving negative starts causing problems",
+  "ctt_Lobby_Command_Block_97":"   [Bee Points]",
+  "ctt_Lobby_Command_Block_98":"Each point gives a different ability related to bees\n\nhaving negative starts causing problems",
+  "ctt_Lobby_Command_Block_99":"   [Light Karma]",
+  "ctt_Lobby_Command_Block_100":"Given by doing good deeds.\n\n100 Light Karma allows you to do an Angel Deal",
+  "ctt_Lobby_Command_Block_101":"\n[Dark Karma]",
+  "ctt_Lobby_Command_Block_102":"Given by doing sins.\n\n100 Dark Karma Allows you to do a Devil Deal",
+  "ctt_Lobby_Command_Block_103":"   [Neutral Karma]",
+  "ctt_Lobby_Command_Block_104":"Given by completing Karma Dungeon Challenges.\n\nCan be converted to either Light/Dark Karma at the Main Shop Churches",
+  "ctt_Lobby_Command_Block_105":"   [True Fire Armor]",
+  "ctt_Lobby_Command_Block_106":"True Fire armor subtracts fire damage, cannot make attacks deal less than 25% of the original damage",
+  "ctt_Lobby_Command_Block_107":"\n[Range]",
+  "ctt_Lobby_Command_Block_108":"Every Attack Range increases your range by 0.25 Blocks",
+  "ctt_Lobby_Command_Block_109":"   [Size]",
+  "ctt_Lobby_Command_Block_110":"Change the player's body size",
+  "ctt_Lobby_Command_Block_111":"   [Gravity]",
+  "ctt_Lobby_Command_Block_112":"Increase the jumping height and prolong the speed at which one falls from a high altitude to the ground",
+  "ctt_Lobby_Command_Block_113":"\n[Mana Regen]",
+  "ctt_Lobby_Command_Block_114":"Increased Mana Regen",
+  "ctt_Lobby_Command_Block_115":"   [Double Jump]",
+  "ctt_Lobby_Command_Block_116":"Increase the number of jumps",
+  "ctt_Lobby_Command_Block_117":"   [Bitches]",
+  "ctt_Lobby_Command_Block_118":"Depending on the quantity, Max Health and Coins will change each time you arrive at the break room",
+
+  "ctt_Lobby_Command_Block_119":"Click here",
+  "ctt_Lobby_Command_Block_120":" View all commands",
+
+  "ctt_Lobby_Command_Block_121":"EMF & ETF Download\n",
+  "ctt_Lobby_Command_Block_122":"Click Here",
+
+  "ctt_Lobby_Command_Block_123":"How to install EMF & ETF Tutorial by ",
+  "ctt_Lobby_Command_Block_124":"GuideRealm",
+  "ctt_Lobby_Command_Block_125":"Click Here",
+
+  #Lobby_Book
+
+  "ctt_Lobby_Book_1":"Horriculture Growth Stimulatior Experiemnt\n==================\nSpecimen 1:\n\nRosa Ignus\n\"§cFire Rose§0\"\n\n==================\n\nStart date:\nSeptember 21st 2023\n\n==================\n",
+  "ctt_Lobby_Book_2":"Day 1:\n\nSpecimen has been injected with artifical grown stimulant\n\ncurrently being kept in medical tent\n\nno notable results so far\n",
+  "ctt_Lobby_Book_3":"Day 3:\n\nSubject is growing faster than typical, but has not gotten larger than any recorded instances\n\nSubject moved to experimental flower garden so roots can spread\n",
+  "ctt_Lobby_Book_4":"Day 4:\n\nSubject seems to be producing more heat that others of it's species\n\nNearby flowers also seem to be growing larger\n",
+  "ctt_Lobby_Book_5":"Day 7\n\nFlower has grown to about 7 meters tall, about 6 1/2 meters taller than the larges recorded specimen\n\nHeat produced by specimen is starting to become detrimemtal to nearby vegetation and uncomfortable to humans\n",
+  "ctt_Lobby_Book_6":"Day 9\n\nLarge explosion heard from site of specimen at apoxamately 2:23 AM\n\nCurrently investigating along with group doctor\n",
+  "ctt_Lobby_Book_7":"Day 10\n\nFlower appears to have ignited the area surounding it, along with nearby Clematis Fragor growths causing small explosion\n\nno damage to reasearch tent, flames under control\n",
+  "ctt_Lobby_Book_8":"Day 11\n\nFalmes have stopped spreading, but have yet to disipate without outside intervention\n\nForcasted rain will likely extenguish flames\n\nSpecimen has stunted growth\n",
+  "ctt_Lobby_Book_9":"Day 13\n\nFlame rekindled day after rainstorm, cause currently unknown\n\nall experimentiation with specimen 1 shall be halted for the time being, growth serum to be further developed and experimented with\n",
+
+  "ctt_Lobby_Book_10":"Horriculture Growth\nStimulant Experiment\n===================\nSpecimen 7:\n\nTulipa Gelus\n\"Ice Tulip\"\n\n===================\n\nStart date:\nJuly 7th 2024\n\n==================",
+  "ctt_Lobby_Book_11":"Day 0\n\nSpecimen selected and experimination of growth stimulant resumed at request of associate\n\nassociate wishes for easy accses to snow and ice year round in temperant eviroment\n(lack of frezer also given as reason)",
+  "ctt_Lobby_Book_12":"Day 1\n\nPreperations complete\n\nSpecimen will be directly injected with newest version of growth serum shortly\n\nsubject will then be watered with mixture  of water, growth serum, and zunzite granules",
+  "ctt_Lobby_Book_13":"Day 2\n\nSpecimen has been moved from experimental flower garden to clearing in nearby woods due to rapidly increasing size\n\nroot network slightly severed in process due to non-expert assosiates",
+  "ctt_Lobby_Book_14":"Day 3\n\nSubject growing rapidly now about 7 meters tall\n\nshortest time to reach this height was previously specimen 2 taking 6 days, height only beten by specimen 4 reaching 8 meters tall in 9 days",
+  "ctt_Lobby_Book_15":"Day 4\n\nSpecimen has reached 10 meters tall\n\nFrost produced is minimal, in order to fufill request watering  will be continued with mixture\n\n",
+  "ctt_Lobby_Book_16":"Day 5\n\nWatering has ceased due to discovery of extremely frozen soil preventing more mixture from reaching the roots\n\nNearby plants have also started slowly wilting",
+  "ctt_Lobby_Book_17":"Day 8\n\nafter no notable changes for 2 days, flower has reached height of 30+ meters\n\nGround surounding area has started to thaw however\n\nSurounding air is much colder",
+  "ctt_Lobby_Book_18":"Day 9\n\nRain storm has become snow storm in area near specimen despite time of year\n\nother nearby areas still record rain\n\n",
+  "ctt_Lobby_Book_19":"Day 11\n\nMost snow in area has melted with the expection of the area directly surounding specimen\n\nAssociate now requesting procces repeated on Syringa Caligo",
+  "ctt_Lobby_Book_20":"Day 12\nSpecimen has stopped growth at aproximetly 45 meters tall\n\nAssiociate continues to request modification of Syringa Caligo for unkown reasons\n\nRequest likely to be denied due to danger of requested subject",
+  
+  "ctt_Lobby_Book_21":"Please note that any minigames blocked off means that there are either no players online with the minigame unlocked.\n\nOr the minigame is blocked due to a Towers run/Other minigame currently being played :)",
+
+  "ctt_Lobby_Book_22":"Only Up\n\n1+ Players\n\nStart from the bottom and climb to the top in a parkour map inspired by the hit game \"Only Up\"\n\nGood Luck :D",
+
+  "ctt_Lobby_Book_23":"The Race\n\n1-10 Players\n\nUnlock Requirement\nSometimes appears in the Token shop to purchase\n\nRace against your friends and AI in a horse racing game",
+  "ctt_Lobby_Book_24":"Each horse comes with random stats, and abilities, let the best (or more accurate, luckiest) Jockey win!",
+  
+  "ctt_Lobby_Book_25":"Jelly Trials\n\n1+ Players\n\n4 Parkour courses\nthemed around Swan Jellys Wallride ability\n\nGood Luck :D",
+  
+  "ctt_Lobby_Book_26":"Magum Trials\n1-10 Players\n\nA \"choose your own path\" take on the normal Tower gameplay, where you will progress through Magum's 10 custom levels!\n\nEach defeat makes you stronger.",
+
+  "ctt_Lobby_Book_27":"Snowball Civilization\n2+ Players (Recommended 5-10)\n\nIn this minigame you are sent into an arena where you must snowball fight the other players.\n\nCollect Powerups to make your snowballs stronger and become the strongest!!",
+
+  "ctt_Lobby_Book_28":"being sad makes others sad\n\nwhich means its a bad thing to be sad\n\nbut there comes a day to be sad, because sometimes being sad isnt that bad",
+
+  "ctt_Lobby_Book_29":"can't belive i died, not that it matters, being a powerful necromancer and all, but it is weird being trapped underground, at least i have this book with me, probably should start trying to escape now....",
+
+  "ctt_Lobby_Book_30":"Step 1 Enable Server Resource Packs.\n\nIn the server menu. Click on the Cake Team Server. Click \"Edit\", and set \"Server Resource Packs\" to Enabled.\n\nWhen you log in, the resource pack will download",
+  "ctt_Lobby_Book_31":"Step 2 Install EMF & ETF\n\nThere is a button to install EMF & ETF in this room. If you don't know how to install EMF & ETF. Click the button on the wall that will link you to a youtube tutorial.",
+  "ctt_Lobby_Book_32":"Step 3 Still not working.\n\nIf your item textures and models are still not working after following the previous steps. You can ask for help on the discord\n\ntype /trigger Discord for the link, me, and some others can help!",
+  "ctt_Lobby_Book_33":"Hello there ;)",
+
+  #Difficulty_Sign
+
+  "ctt_Difficulty_Sign_1":"Difficulty",
+
+  "ctt_Difficulty_Sign_2":"Story",
+  "ctt_Difficulty_Sign_3":"(-5 Skulls)",
+
+  "ctt_Difficulty_Sign_4":"WARNING:",
+  "ctt_Difficulty_Sign_5":"Progression",
+  "ctt_Difficulty_Sign_6":"for anything but",
+  "ctt_Difficulty_Sign_7":"the Main Story...",
+
+  "ctt_Difficulty_Sign_8":"...is disabled",
+  "ctt_Difficulty_Sign_9":"with negative",
+  "ctt_Difficulty_Sign_10":"Skulls!",
+
+  "ctt_Difficulty_Sign_11":"Unlimited",
+  "ctt_Difficulty_Sign_12":"continues, for",
+  "ctt_Difficulty_Sign_13":"players who want",
+  "ctt_Difficulty_Sign_14":"to play the story",
+
+  "ctt_Difficulty_Sign_15":"Normal",
+  "ctt_Difficulty_Sign_16":"(+0 Skulls)",
+
+  "ctt_Difficulty_Sign_17":"The default mode;",
+  "ctt_Difficulty_Sign_18":"best for players",
+  "ctt_Difficulty_Sign_19":"who are just",
+  "ctt_Difficulty_Sign_20":"starting out",
+
+  "ctt_Difficulty_Sign_21":"Hard",
+  "ctt_Difficulty_Sign_22":"(+3 Skulls)",
+
+  "ctt_Difficulty_Sign_23":"A higher level",
+  "ctt_Difficulty_Sign_24":"of challenge for",
+  "ctt_Difficulty_Sign_25":"those familiar with",
+  "ctt_Difficulty_Sign_26":"the Tower",
+
+  "ctt_Difficulty_Sign_27":"Nightmare",
+  "ctt_Difficulty_Sign_28":"(+5 Skulls)",
+
+  "ctt_Difficulty_Sign_29":"A real challenge",
+  "ctt_Difficulty_Sign_30":"for those who",
+  "ctt_Difficulty_Sign_31":"wish to truly test",
+  "ctt_Difficulty_Sign_32":"themselves",
+
+  "ctt_Difficulty_Sign_33":"☀ ECLIPSE ☽",
+  "ctt_Difficulty_Sign_34":"(+10 Skulls)",
+
+  "ctt_Difficulty_Sign_35":"Sure, you could.",
+  "ctt_Difficulty_Sign_36":"But...",
+  "ctt_Difficulty_Sign_37":"Should you?",
+
+  "ctt_Difficulty_Sign_38":"Gamemodes",
+
+  "ctt_Difficulty_Sign_39":"50 Floors Mode",
+  "ctt_Difficulty_Sign_40":"(-1 Skulls)",
+
+  "ctt_Difficulty_Sign_41":"*Warning: may",
+  "ctt_Difficulty_Sign_42":"contain repeated",
+  "ctt_Difficulty_Sign_43":"dungeons/bosses",
+
+  "ctt_Difficulty_Sign_44":"30 Floors Mode",
+  "ctt_Difficulty_Sign_45":"(+0 Skulls)",
+
+  "ctt_Difficulty_Sign_46":"The default",
+  "ctt_Difficulty_Sign_47":"run length",
+
+  "ctt_Difficulty_Sign_48":"15 Floors Mode",
+  "ctt_Difficulty_Sign_49":"(-1 Skull)",
+
+  "ctt_Difficulty_Sign_50":"A shorter run",
+  "ctt_Difficulty_Sign_51":"for those without",
+  "ctt_Difficulty_Sign_52":"much time",
+
+  "ctt_Difficulty_Sign_53":"More",
+  "ctt_Difficulty_Sign_54":"Gamemodes",
+
+  "ctt_Difficulty_Sign_55":"Boss",
+  "ctt_Difficulty_Sign_56":"Rushes",
+
+  "ctt_Difficulty_Sign_57":"Boss Rush",
+  "ctt_Difficulty_Sign_58":"Volume #1",
+
+  "ctt_Difficulty_Sign_59":"Fight All the",
+  "ctt_Difficulty_Sign_60":"Bosses from",
+  "ctt_Difficulty_Sign_61":"Chapter 1",
+
+  "ctt_Difficulty_Sign_62":"Boss Rush",
+  "ctt_Difficulty_Sign_63":"Volume #2",
+
+  "ctt_Difficulty_Sign_64":"Fight All the",
+  "ctt_Difficulty_Sign_65":"Bosses from",
+  "ctt_Difficulty_Sign_66":"Chapter 2",
+
+  "ctt_Difficulty_Sign_67":"Class",
+  "ctt_Difficulty_Sign_68":"Select"
+}
