@@ -1,0 +1,217 @@
+[
+  {
+    "section": "제작팀 (오리지널 컨텐츠)",
+    "disciplines": [
+      {
+        "discipline": "총괄 감독",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "프로그래밍",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "스토리 디자인",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "퀘스트 책 & 생물 도감",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero",
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "아트",
+        "titles": [
+          {
+            "title": "모델링",
+            "names": [
+              "Ao22333"
+            ]
+          },
+          {
+            "title": "텍스쳐",
+            "names": [
+              "一只路过的小吴",
+              "Ao22333",
+              "XVIII-凌",
+              "yu_moooo",
+              "脚踏梯子hill",
+              "I_Black_Demon_I"
+            ]
+          },
+          {
+            "title": "웨이트 페인팅",
+            "names": [
+              "asanginxst"
+            ]
+          },
+          {
+            "title": "커버 아트",
+            "names": [
+              "v4lk"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "몬스터 AI 디자인",
+        "titles": [
+          {
+            "title": "Boss",
+            "names": [
+              "XVIII-凌",
+              "ShelMarow"
+            ]
+          },
+          {
+            "title": "일반 인간형 적군",
+            "names": [
+              "气球恶魔"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "주 도시 경관 디자인",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "El_mal（玩建筑的牢E）",
+              "300wan"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "애니메이션 보조",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "merlin204",
+              "asanginxst"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "서버사이드 개발자",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Windrinn"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "트레일러 촬영 보조",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Apex Hosting",
+    "disciplines": [
+      {
+        "discipline": "서버를 빌리세요!",
+        "titles": [
+          {
+            "title": "링크를 사용해 할인받으세요!",
+            "names": [
+              "https://apexhost.gg/P1nero"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "광고 모집 중",
+    "disciplines": [
+      {
+        "discipline": "광고 모집 중",
+        "titles": [
+          {
+            "title": "광고 모집 중",
+            "names": [
+              "광고 모집 중",
+              "문의는 P1nero에게",
+              "gaylordfocker@foxmail.com"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "특별한 감사 인사",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "모든 후원자 분들",
+            "names": [
+              ""
+            ]
+          },
+          {
+            "title": "번역자",
+            "names": [
+              "zh_cn, en_us - P1nero, Windrinn",
+              "ko_kr - TheOnlyMann"
+            ]
+          },
+          {
+            "title": "감사",
+            "names": [
+              "Yesman",
+              "超级厉害宝宝(Super Awesome Baby) 팀",
+              "Minecraft",
+              "Minecraft Forge",
+              "또한 이 팩에 사용된 모든 모드, 리소스 팩, 셰이더 팩 및 그 제작자분들께 감사드립니다!"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
