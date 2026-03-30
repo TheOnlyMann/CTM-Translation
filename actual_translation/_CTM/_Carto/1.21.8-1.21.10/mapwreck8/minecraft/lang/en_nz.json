@@ -1,0 +1,15 @@
+{
+    "block.minecraft.deepslate_lapis_ore": "Deepslate Aquamarine Ore",
+    "block.minecraft.lapis_ore": "Aquamarine Ore",
+    "block.minecraft.lapis_block": "Block of Aquamarine",
+    "item.minecraft.lapis_lazuli": "Aquamarine",
+    "item.canBreak": "Can only break:",
+    "attribute.name.block_interaction_range": "Block Hit Reach",
+    "attribute.name.entity_interaction_range": "Entity Hit Reach",
+    "key.mouse.left": "Left Click",
+    "key.mouse.middle": "Middle Click",
+    "key.mouse.right": "Right Click",
+    "selectWorld.backupQuestion.experimental": "§e⚠ §fMods §nwill break§r this map §e⚠",
+    "selectWorld.backupWarning.experimental": "Incompatible with: §cForge§f, §cSpigot/Paper§f, §cEssentials§f, §cLunar Client§f, §cOptifine",
+    "selectWorld.backupJoinSkipButton": "Continue"
+}

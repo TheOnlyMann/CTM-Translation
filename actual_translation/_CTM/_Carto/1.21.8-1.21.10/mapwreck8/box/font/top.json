@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "box:font/top.png",
+            "ascent": 23,
+			"height": 33,
+            "chars": [
+                "se012345"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "box:font/top_big.png",
+            "ascent": 23,
+			"height": 33,
+            "chars": [
+                "67"
+            ]
+        },
+		{
+			"type": "space",
+            "advances": {
+                "b": -1,
+                "f": -4
+			}
+		}
+    ]
+}

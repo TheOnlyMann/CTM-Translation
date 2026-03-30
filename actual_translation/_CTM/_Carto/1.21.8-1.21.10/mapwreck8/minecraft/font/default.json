@@ -1,0 +1,704 @@
+{
+    "providers": [
+	        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uF801": -1,
+                "\uF802": -2,
+                "\uF803": -3,
+                "\uF804": -4,
+                "\uF805": -5,
+                "\uF806": -6,
+                "\uF807": -7,
+                "\uF808": -8,
+                "\uF809": -16,
+                "\uF80A": -32,
+                "\uF80B": -64,
+                "\uF80C": -128,
+                "\uF80D": -256,
+                "\uF80E": -512,
+                "\uF80F": -1024,
+                "\uF800": -32768,
+                "\uF821": 1,
+                "\uF822": 2,
+                "\uF823": 3,
+                "\uF824": 4,
+                "\uF825": 5,
+                "\uF826": 6,
+                "\uF827": 7,
+                "\uF828": 8,
+                "\uF829": 16,
+                "\uF82A": 32,
+                "\uF82B": 64,
+                "\uF82C": 128,
+                "\uF82D": 256,
+                "\uF82E": 512,
+                "\uF82F": 1024,
+                "\uF820": 32768,
+                "\uF811": -1,
+                "\uF812": -2,
+                "\uF813": -3,
+                "\uF814": -4,
+                "\uF815": -5,
+                "\uF816": -6,
+                "\uF817": -7,
+                "\uF818": -8,
+                "\uF819": -16,
+                "\uF81A": -32,
+                "\uF81B": -64,
+                "\uF81C": -128,
+                "\uF81D": -256,
+                "\uF81E": -512,
+                "\uF81F": -1024,
+                "\uF810": -32768,
+                "\uF831": 1,
+                "\uF832": 2,
+                "\uF833": 3,
+                "\uF834": 4,
+                "\uF835": 5,
+                "\uF836": 6,
+                "\uF837": 7,
+                "\uF838": 8,
+                "\uF839": 16,
+                "\uF83A": 32,
+                "\uF83B": 64,
+                "\uF83C": 128,
+                "\uF83D": 256,
+                "\uF83E": 512,
+                "\uF83F": 1024,
+                "\uF830": 32768
+            }
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/fade.png",
+          "ascent": 1500,
+          "height": 3000,
+          "chars": ["\ue033"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/filler/middle.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue034"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/filler/edge.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue035"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/a.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue036"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/b.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue037"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/c.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue038"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/d.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue039"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/e.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue040"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/f.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue041"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/g.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue042"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/h.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue043"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/i.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue044"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/j.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue045"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/k.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue046"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/l.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue047"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/m.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue048"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/n.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue049"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/o.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue050"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/p.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue051"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/q.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue052"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/r.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue053"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/s.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue054"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/t.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue055"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/u.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue056"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/v.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue057"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/w.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue058"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/x.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue059"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/y.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue060"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/lowercase/z.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue061"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/a.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue062"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/b.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue063"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/c.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue064"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/d.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue065"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/e.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue066"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/f.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue067"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/g.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue068"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/h.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue069"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/i.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue070"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/j.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue071"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/k.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue072"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/l.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue073"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/m.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue074"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/n.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue075"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/o.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue076"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/p.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue077"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/q.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue078"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/r.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue079"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/s.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue080"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/t.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue081"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/u.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue082"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/v.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue083"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/w.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue084"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/x.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue085"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/y.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue086"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/uppercase/z.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue087"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/rpg_tag/error.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue088"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/flag/french.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue089"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/flag/trans.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue090"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/map_specific/bow_wrong.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue091"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/signature/suzuna.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue092"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/bishop.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue093"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/money.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue094"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/starlit.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue095"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/static.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue096"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/sun.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue097"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/tree.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue098"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/unique/wax.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue099"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/armor.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue100"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/book.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue101"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/boot.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue102"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/bow.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue103"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/butterfly.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue104"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/globe.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue105"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/hook.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue106"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/key.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue107"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/knockback_resistance.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue108"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/potion.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue109"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/sword.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue110"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/wing_left.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue111"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/wing_right.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue112"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/edge_marker.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue113"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/map_specific/goob/tile.png",
+          "ascent": 7,
+          "height": 9,
+          "chars": ["\ue114"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/map_specific/goob/invis_tile.png",
+          "ascent": 7,
+          "height": 9,
+          "chars": ["\ue115"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/map_specific/goob/sheet.png",
+          "ascent": 128,
+          "height": 128,
+          "chars": ["\ue116"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/fire.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue117"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/helmet.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue118"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/leggings.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue119"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/boots.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue120"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/trinket.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue121"]
+        },
+		{
+          "type": "bitmap",
+          "file": "ico_lib:font/icon/trophy.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue122"]
+        }
+    ]
+}

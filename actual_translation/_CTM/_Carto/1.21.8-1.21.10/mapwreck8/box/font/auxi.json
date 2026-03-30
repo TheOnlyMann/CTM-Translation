@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "1": -1,
+                "2": -2,
+                "3": -4,
+                "4": -8,
+                "5": -16,
+                "6": -32,
+                "7": -64,
+                "8": -128,
+                "9": -256,
+				"0": 31
+            }
+        },
+		{
+          "type": "bitmap",
+          "file": "box:font/auxi/magic_damage.png",
+          "ascent": 0,
+          "height": 16,
+          "chars": ["a"]
+       }
+    ]
+}
