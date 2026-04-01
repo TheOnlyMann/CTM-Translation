@@ -1,0 +1,32 @@
+{
+    "artifact.0002.use_min": "이 축복을 더 이상 약화시킬 수 없습니다!",
+    "artifact.0002.reset": "축복이 초기화되었습니다.",
+    "artifact.0002.points.remaining": "%s 포인트 남음",
+    "artifact.0002.points.hp": " - 최대 체력 (총합:%1$s+%2$s%1$s/%1$s60)",
+    "artifact.0002.points.mp": " - 최대 마나 (총합:%1$s+%2$s%1$s/%1$s120)",
+    "artifact.0002.points.atk": " - 기본 공격 (총합:%1$s+%2$s%1$s/%1$s30%%)",
+    "artifact.0002.points.def": " - 기본 저항 (총합:%1$s+%2$s%1$s/%1$s30%%)",
+    
+    
+  "artifact.1144.name.1": "푸",
+  "artifact.1144.name.2": "른",
+  "artifact.1144.name.3": " 달",
+  "artifact.1144.name.4": "의 ",
+  "artifact.1144.name.5": "요",
+  "artifact.1144.name.6": "람",
+  "artifact.1144.name.7": "",
+    "artifact.1144.desc.1": "주변 적을 공격하는 해파리를 소환한다.",
+    "artifact.1144.desc.2": "푸른 해파리를 품은 물의 요람.",
+    "artifact.1144.desc.3": "달은 수면에 일렁이며 고요 속에 떠돈다.",
+
+  "artifact.1317.name": "망각의 깃털",
+	"artifact.1317.desc.1": "“네가 나를 떠올릴 때까지",
+	"artifact.1317.desc.2": " 나는 여기서 계속 죽어갈 거야”",
+  "artifact.1324.name.1": "균",
+  "artifact.1324.name.2": "형",
+  "artifact.1324.name.3": "의 ",
+  "artifact.1324.name.4": "별",
+    "artifact.1324.desc.1": "자신과 주변 20m 내 플레이어 중",
+    "artifact.1324.desc.2": "현재 마나가 가장 높은 1명의 마나를 2 감소시키고,",
+    "artifact.1324.desc.3": "현재 마나가 제일 낮은 1명의 마나를 2 증가시킨다."
+}
