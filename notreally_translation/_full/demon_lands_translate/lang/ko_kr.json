@@ -1,0 +1,23 @@
+{   "options.graphics.fancy": "§6화려하게",
+  "options.graphics.fast": "§c빠르게",
+  "options.video": "§6비디오 설정...",
+  "menu.options": "§6설정...",  
+  "options.graphics": "§6그래픽",  
+  "options.mipmapLevels": "§6밉맵 레벨",
+  "of.options.AA_LEVEL" : "안티에일리어싱",  
+  "options.title": "설정 \ue241",  
+  "options.videoTitle": "비디오 설정 \ue242",
+
+	  "options.graphics.fast.tooltip": "빠르게 그래픽은 화면에 보이는 비와 눈의 양을 줄입니다.\n나뭇잎 등 각종 블록의 투명 효과 또한 꺼지며, 빠르게 그래픽 설정 시 매우 좋지 않게 보일 수 있습니다!!",
+  "pack.dropInfo": "이 창에 파일을 끌어다 놓아 팩 추가, §6Conquest 사용 시 CTM을 위해 옵티파인 사용 권장!",
+
+
+
+
+"menu.disconnect":"\uF118\uF119\ue238\uF119\ue239\uF119\ue240",
+"menu.game":"\uF117\uF119\uF120",
+"menu.returnToMenu": "\uF118\uF119\ue238\uF119\ue239\uF119\ue240",
+  "container.brewing": "                          §f\ue246§8              양조기             §f\ue243\uF119\ue244\uF119\ue252\ue249\uF119\ue250\uF119",
+  "container.repair": "§f                             \ue281\ue281\ue279\uF119\ue280\ue281\ue277\uF119\ue278\ue281\ue275\uF119\ue276\ue281\ue253\uF119\ue274          §8수리 및 이름 바꾸기"
+
+}
