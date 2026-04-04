@@ -17,7 +17,7 @@
 "menu.disconnect":"\uF118\uF119\ue238\uF119\ue239\uF119\ue240",
 "menu.game":"\uF117\uF119\uF120",
 "menu.returnToMenu": "\uF118\uF119\ue238\uF119\ue239\uF119\ue240",
-  "container.brewing": "                          §f\ue246§8              양조기             §f\ue243\uF119\ue244\uF119\ue252\ue249\uF119\ue250\uF119",
+  "container.brewing": "                          §f\ue246§8                   양조기                  §f\ue243\uF119\ue244\uF119\ue252\ue249\uF119\ue250\uF119",
   "container.repair": "§f                             \ue281\ue281\ue279\uF119\ue280\ue281\ue277\uF119\ue278\ue281\ue275\uF119\ue276\ue281\ue253\uF119\ue274          §8수리 및 이름 바꾸기"
 
 }
