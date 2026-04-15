@@ -1,0 +1,10 @@
+{
+    "create.contraptions.moving_container": "§f움직이는 통",
+    "block.create.cuckoo_clock": "숨겨진 시",
+    "block.create.cuckoo_clock.tooltip.behaviour1": "",
+    "block.create.cuckoo_clock.tooltip.condition1": "",
+    "block.create.cuckoo_clock.tooltip.summary": "함께 협력하여 되찾은, 한때 잃어버린 시간. _12개 모두를 모으세요_!",
+    "create.tooltip.stressImpact": "",
+    "create.tooltip.stressImpact.low": "",
+    "create.tooltip.holdForDescription": "[%1$s]을(를) 눌러 설명 보기:"
+}
