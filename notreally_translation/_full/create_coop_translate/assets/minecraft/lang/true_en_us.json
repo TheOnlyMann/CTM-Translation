@@ -1,0 +1,27 @@
+{
+    
+  "container.barrel": "§fBarrel",
+  "container.beacon": "§fBeacon",
+  "container.blast_furnace": "§fBlast Furnace",
+  "container.brewing": "§fBrewing Stand",
+  "container.cartography_table": "§fCartography Table",
+  "container.chest": "§fChest",
+  "container.chestDouble": "§fLarge Chest",
+  "container.crafter": "§fCrafter",
+  "container.crafting": "",
+  "container.creative": "Item Selection",
+  "container.dispenser": "§fDispenser",
+  "container.dropper": "§fDropper",
+  "container.enchant": "§fEnchant",
+  "container.enderchest": "§fEnder Chest",
+  "container.furnace": "§fFurnace",
+  "container.grindstone_title": "§fRepair & Disenchant",
+  "container.hopper": "§fItem Hopper",
+  "container.inventory": "§fInventory",
+  "container.lectern": "§fLectern",
+  "container.loom": "§fLoom",
+  "container.repair": "§fRename Item",
+  "container.shulkerBox": "§fShulker Box",
+  "container.smoker": "§fSmoker",
+  "container.stonecutter": "§fStonecutter"
+}
