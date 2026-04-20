@@ -1,0 +1,37 @@
+{
+  "title.multiplayer.lan": "복마어주자!",
+  "title.multiplayer.other": "복마어주자!",
+  "title.multiplayer.realms": "복마어주자!",
+
+  "chat.tag.modified": " ",
+  "chat.tag.not_secure": " ",
+  "chat.tag.system": " ",
+  "chat.tag.system_single_player": " ",
+    "death.attack.anvil": "%1$s이(가) 썰렸습니다",
+    "death.attack.arrow": "%1$s이(가) %2$s에게 썰렸습니다",
+    "death.attack.arrow.item": "%1$s이(가) %2$s에게 %3$s(으)로 썰렸습니다",
+    
+    
+    "death.attack.dragonBreath": "%1$s이(가) 썩은 달걀 세례를 쳐맞았습니다",
+    "death.attack.drown": "%1$s이(가) 씻겨졌습니다",
+    
+    "death.attack.fallingStalactite": "%1$s이(가) 갈렸습니다",
+    "death.attack.fireworks": "%1$s이(가) 지나치게 양념됐습니다",
+    "death.attack.flyIntoWall": "%1$s이(가) 소원을 빌었습니다",
+    "death.attack.flyIntoWall.player": "%1$s이(가) %2$s에게서 도망치려다 소원을 빌었습니다",
+
+    "death.attack.inFire": "%1$s이(가) 전자레인지에 돌려졌습니다",
+    "death.attack.magic": "%1$s이(가) 방사능에 의해 죽었습니다",
+    
+    "death.attack.onFire": "%1$s이(가) 구워졌습니다",
+    "death.attack.outOfWorld": "%1$s이(가) 떨어졌습니다",
+    
+  "gameMode.changed": " ",
+  
+  "gameMode.hardcore": "하드코어 모드!",
+  
+  "soundCategory.music": "§c바닐라 음악",
+  
+  "soundCategory.record": "§a커스텀 음악"
+
+}
