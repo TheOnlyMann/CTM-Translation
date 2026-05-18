@@ -1,0 +1,834 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/lines.png",
+            "ascent": 64,
+            "height": 100,
+            "chars": ["\uE002"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:titles/black.png",
+            "ascent": 128,
+            "height": 512,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/fire.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/white_bg.png",
+            "ascent": 128,
+            "height": 512,
+            "chars": ["\uE004"]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/async1.png",
+            "ascent": 64,
+            "height": 128,
+            "chars": ["\uE005"]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/frame1.png",
+            "ascent": 65,
+            "height": 256,
+            "chars": ["\uE006"]
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/frame2.png",
+            "ascent": 65,
+            "height": 241,
+            "chars": ["\uE007"]
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/frame3.png",
+            "ascent": 65,
+            "height": 241,
+            "chars": ["\uE008"]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/frame4.png",
+            "ascent": 65,
+            "height": 256,
+            "chars": ["\uE009"]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/frame5.png",
+            "ascent": 65,
+            "height": 256,
+            "chars": ["\uE010"]
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/glitched.png",
+            "ascent": 2,
+            "height": 256,
+            "chars": ["\uE012"]
+        }
+
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/check.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE013"]
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/maintitle1.png",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["\uE014"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/maintitle2.png",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["\uE015"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhs.png",
+            "ascent": 64,
+            "height": 240,
+            "chars": ["\uE016"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhs2.png",
+            "ascent": 64,
+            "height": 240,
+            "chars": ["\uE017"]
+
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static1.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE018"]
+
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static2.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE019"]
+
+        }
+
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static3.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE020"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static4.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE021"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static5.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE022"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static6.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE023"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static7.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE024"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static8.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE025"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static9.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE026"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/static10.png",
+            "ascent": 66,
+            "height": 256,
+            "chars": ["\uE027"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/electromagnetic.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE028"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/spectating_text.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE029"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/jumpscare.png",
+            "ascent": 66,
+            "height": 152,
+            "chars": ["\uE030"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE031"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE032"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE033"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE034"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE035"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE036"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_7.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE037"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_8.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE038"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_9.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE039"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_10.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE040"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_11.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE041"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_12.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE042"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_1_13.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE043"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE044"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE045"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE046"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE047"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE048"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE049"]
+
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_2_7.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE050"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/blood.png",
+            "ascent": 100,
+            "height": 175,
+            "chars": ["\uE051"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE052"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE053"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE054"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE055"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE056"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE057"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_7.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE058"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_8.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE059"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_9.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE060"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_3_10.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE061"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE062"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE063"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE064"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE065"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE066"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE067"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_7.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE068"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_8.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE069"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_9.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE070"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_10.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE071"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_11.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE072"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_12.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE073"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_13.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE074"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_14.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE075"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_4_15.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE076"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE077"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE078"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE079"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE080"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE081"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE082"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_5_7.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE083"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhs_nosignal.png",
+            "ascent": 90,
+            "height": 195,
+            "chars": ["\uE084"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/france_flag.png",
+            "ascent":32,
+            "height": 32,
+            "chars": ["\uE085"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/en_flag.png",
+            "ascent":32,
+            "height": 32,
+            "chars": ["\uE086"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/es_flag.png",
+            "ascent":32,
+            "height": 32,
+            "chars": ["\uE087"]
+
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:titles/cl_flag.png",
+            "ascent":32,
+            "height": 32,
+            "chars": ["\uE088"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/spectating_text_sp.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["\uE089"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/newsmiler1.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE090"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/newsmiler2.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE091"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/idiot1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE092"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/idiot2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE093"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/creepyeye.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": ["\uE094"]
+
+        }
+        ,
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_1.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE095"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_2.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE096"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_3.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE097"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_4.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE098"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_5.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE099"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/vhscine_6_6.png",
+            "ascent": 65,
+            "height": 136,
+            "chars": ["\uE100"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/secret_entity.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": ["\uE101"]
+
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:titles/thething1.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE102"]
+
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0,
+                "\uF821": 1,
+                "\uF822": 2,
+                "\uF823": 3,
+                "\uF824": 4,
+                "\uF825": 5,
+                "\uF826": 6,
+                "\uF827": 7,
+                "\uF828": 8,
+                "\uF829": 16,
+                "\uF82A": 32,
+                "\uF82B": 64,
+                "\uF82C": 128,
+                "\uF82D": 256,
+                "\uF021": -1,
+                "\uF022": -2,
+                "\uF023": -3,
+                "\uF024": -4,
+                "\uF025": -5,
+                "\uF026": -6,
+                "\uF027": -7,
+                "\uF028": -8,
+                "\uF029": -16,
+                "\uF02A": -32,
+                "\uF02B": -64,
+                "\uF02C": -128,
+                "\uF02D": -256
+            }
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/no.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF001",
+                "\uF002",
+                "\uF003"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/red.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF011",
+                "\uF012",
+                "\uF013"
+            ]
+        },
+                        {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/white.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF171",
+                "\uF172",
+                "\uF173"
+            ]
+        },
+                        {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/yellow.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF031",
+                "\uF032",
+                "\uF033"
+            ]
+        },
+                        {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/dark_purple.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF041",
+                "\uF042",
+                "\uF043"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/dark_green.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF051",
+                "\uF052",
+                "\uF053"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/aqua.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF061",
+                "\uF062",
+                "\uF063"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/green.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF071",
+                "\uF072",
+                "\uF073"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/gray.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF081",
+                "\uF082",
+                "\uF083"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/gold.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF091",
+                "\uF092",
+                "\uF093"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/light_purple.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF101",
+                "\uF102",
+                "\uF103"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/dark_aqua.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF111",
+                "\uF112",
+                "\uF113"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/brown.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF121",
+                "\uF122",
+                "\uF123"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/black.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF131",
+                "\uF132",
+                "\uF133"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/blue.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF141",
+                "\uF142",
+                "\uF143"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/rainbow.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF151",
+                "\uF152",
+                "\uF153"
+            ]
+        },
+                                {
+            "type": "bitmap",
+            "file": "minecraft:font/sheep/dark_gray.png",
+            "ascent": 6,
+            "height": 18,
+            "chars": [
+                "\uF161",
+                "\uF162",
+                "\uF163"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/rainbow.png",
+            "ascent": 6,
+            "height": 6,
+            "chars": [
+                "\uE001"
+            ]
+        }
+    ]
+}
