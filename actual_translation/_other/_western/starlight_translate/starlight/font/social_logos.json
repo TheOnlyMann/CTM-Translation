@@ -1,0 +1,19 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "starlight:font/social_logos.png",
+			"height": 8,
+			"ascent": 7,
+			"chars": [
+				"DYM"
+			]
+		},
+		{
+			"type": "space",
+			"advances": {
+				" ": 1
+			}
+		}
+	]
+}

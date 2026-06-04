@@ -1,0 +1,41 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"starlight:font/dots_down.png",
+      "height":9,
+      "ascent":8,
+      "chars":[
+        "ACEG",
+        "BDFH",
+        "IKMO",
+        "JLNP",
+        "aceg",
+        "bdfh",
+        "ikmo",
+        "jlnp"
+      ]
+    },
+    {
+      "type":"space",
+      "advances": {
+        "Q": 10,
+        "q": 10
+      }
+    },
+    {
+      "type":"bitmap",
+      "file":"starlight:font/dots_signs.png",
+      "height":9,
+      "ascent":8,
+      "chars":[
+        "STUV",
+        "WXYZ",
+        "stuv",
+        "wxyz",
+        "1234",
+        "5678"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "starlight:font/tool_lvl.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "1","2","3","4","5","6"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "A": -20
+            }
+        }
+    ]
+}

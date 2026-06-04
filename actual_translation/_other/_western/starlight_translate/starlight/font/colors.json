@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "starlight:font/color_symbols.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": [
+                "NRGY",
+                "BMCW",
+                "nrgy",
+                "bmcw"
+            ]
+        },
+		{
+			"type": "space",
+			"advances": {
+				" ": 4
+			}
+		}
+    ]
+}

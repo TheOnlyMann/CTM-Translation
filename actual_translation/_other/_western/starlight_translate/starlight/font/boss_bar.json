@@ -1,0 +1,28 @@
+{
+    "providers":[
+      {
+        "type":"bitmap",
+        "file":"starlight:font/boss_bar_frame.png",
+        "height":32,
+        "ascent":9,
+        "chars":[
+          "A",
+          "B",
+          "C",
+		  "0",
+		  "1",
+		  "2",
+		  "3",
+		  "4"
+        ]
+      },
+	  {
+		"type": "space",
+		"advances": {
+			" ": -144,
+			"+": 44
+		}
+	  }
+    ]
+  }
+  

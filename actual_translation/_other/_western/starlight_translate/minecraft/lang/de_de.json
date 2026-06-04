@@ -1,0 +1,89 @@
+{
+
+	"menu.game": "\uEfa1\uEfaf\uEfa2\uEfaf\uEfa3\uEfaf\uEfa4",
+
+	"options.renderClouds": "§4Wolken",
+	"options.clouds.fancy": "§4Schön",
+	"options.clouds.fast": "§4Schnell",
+
+	"options.fov": "§aSichtfeld (90+)",
+
+	"options.gamma": "§aHelligkeit",
+	"options.gamma.min": "§aDüster",
+
+	"options.guiScale": "§eGUI-Größe",
+
+	"options.generic_value": "%s: %s",
+	"options.graphics": "§aGrafikmodus",
+	"options.graphics.fabulous": "§a§oFabelhaft!",
+	"options.graphics.fancy": "§7Schön",
+	"options.graphics.fast": "§7Schnell",
+	"options.particles": "§aPartikel",
+	"options.particles.all": "§aAlle",
+	"options.particles.decreased": "§7Verringert",
+	"options.particles.minimal": "§4Minimal",
+	"options.renderDistance": "§aSichtweite (10+)",
+	"options.simulationDistance": "§aSimulationsweite (10+)",
+
+	"soundCategory.ambient": "§4Atmosphäre/Umgebung",
+	"soundCategory.block": "§7Blöcke",
+	"soundCategory.hostile": "§7Feindliche Kreaturen",
+	"soundCategory.master": "Gesamtlautstärke",
+	"soundCategory.music": "§4Musik",
+	"soundCategory.neutral": "§7Freundliche Kreaturen",
+	"soundCategory.player": "§7Spieler",
+	"soundCategory.record": "§aSoundtrack",
+	"soundCategory.voice": "§aAndere Geräusche",
+	"soundCategory.weather": "§7Wetter",
+
+	"book.pageIndicator": "",
+
+	"effect.duration.infinite": "",
+	"effect.minecraft.blindness": "",
+	"effect.minecraft.haste": "",
+	"effect.minecraft.jump_boost": "",
+	"effect.minecraft.levitation": "",
+	"effect.minecraft.night_vision": "",
+	"effect.minecraft.resistance": "",
+	"effect.minecraft.saturation": "",
+	"effect.minecraft.slow_falling": "",
+	"effect.minecraft.slowness": "",
+	"effect.minecraft.darkness": "",
+	"enchantment.level.1": "",
+	"enchantment.level.2": "",
+	"enchantment.level.3": "",
+	"enchantment.level.4": "",
+	"enchantment.level.5": "",
+	"enchantment.level.6": "",
+	"enchantment.level.7": "",
+	"enchantment.level.8": "",
+	"enchantment.level.9": "",
+	"enchantment.level.10": "",
+
+	"advancements.toast.challenge": "§eFortschritt erzielt!",
+	"advancements.toast.goal": "§eFortschritt erzielt!",
+	"advancements.toast.task": "§eFortschritt erzielt!",
+	"chat.type.advancement.challenge": "§b\uEff0\uEff3§a💠\uEff4Du hast den Fortschritt %2$s §aerzielt!",
+	"chat.type.advancement.goal": "§b\uEff0\uEff3§a💠\uEff4Du hast den Fortschritt %2$s §aerzielt!",
+	"chat.type.advancement.task": "§b\uEff0\uEff3§a💠\uEff4Du hast den Fortschritt %2$s §aerzielt!",
+
+	"gui.recipebook.search_hint": "",
+
+	"container.crafting": "",
+	
+	"block.minecraft.sea_pickle": "Seegurke",
+	"block.minecraft.sandstone_wall": "Vertikale oxidierte Kupferstufe und -treppe",
+	"block.minecraft.red_sandstone_wall": "Vertikale Kupferstufe und -treppe",
+	
+	"mount.onboard": "",
+
+	"structure_block.detect_size": "Konstruktionsgröße/-position erkennen:",
+
+	"structure_block.button.detect_size": "ERKENNEN",
+	"structure_block.button.load": "LADEN",
+	"structure_block.button.save": "SPEICHERN",
+
+	"commands.trigger.failed.invalid": "",
+	"commands.trigger.failed.unprimed": "",
+	"arguments.objective.notFound": ""
+}

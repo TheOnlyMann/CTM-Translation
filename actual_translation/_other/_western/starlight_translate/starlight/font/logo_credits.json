@@ -1,0 +1,19 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uE000": -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "starlight:font/logo_credits.png",
+            "height": 32,
+            "ascent": 6,
+            "chars": [
+                "\uE045\uE046\uE047\uE048"
+            ]
+        }
+    ]
+}

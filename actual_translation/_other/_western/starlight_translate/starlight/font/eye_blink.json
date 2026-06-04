@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "starlight:font/eye_blink_frames.png",
+            "height": 256,
+            "ascent": 140,
+            "chars": [
+                "AaBbCcDd",
+                "EeFfGgHh",
+                "IiJjKkLl",
+                "MmNnOoPp",
+                "QqRrSsTt",
+                "UuVvWwXx",
+                "YyZz1234",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": -1
+            }
+        }
+    ]
+}

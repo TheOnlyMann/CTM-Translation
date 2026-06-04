@@ -1,0 +1,28 @@
+{
+    "providers": [
+        {
+            "type":"space",
+            "advances": {
+                " ": -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "starlight:font/black.png",
+            "height":256,
+            "ascent":140,
+            "chars": [
+                "X"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "starlight:font/white.png",
+            "height":256,
+            "ascent":140,
+            "chars": [
+                "W"
+            ]
+        }
+    ]
+}

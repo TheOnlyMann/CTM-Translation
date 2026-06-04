@@ -1,0 +1,86 @@
+{
+
+	"menu.game": "\uEfa1\uEfaf\uEfa2\uEfaf\uEfa3\uEfaf\uEfa4",
+
+	"options.renderClouds": "§4Clouds",
+	"options.clouds.fancy": "§4Fancy",
+	"options.clouds.fast": "§4Fast",
+
+	"options.fov": "§aFOV (90+)",
+
+	"options.gamma": "§aBrightness",
+	"options.gamma.min": "§aMoody",
+
+	"options.guiScale": "§eGUI Scale",
+
+	"options.generic_value": "%s: %s",
+	"options.graphics": "§aGraphics",
+	"options.graphics.fabulous": "§a§oFabulous!",
+	"options.graphics.fancy": "§7Fancy",
+	"options.graphics.fast": "§7Fast",
+	"options.particles": "§aParticles",
+	"options.particles.all": "§aAll",
+	"options.particles.decreased": "§7Decreased",
+	"options.particles.minimal": "§4Minimal",
+	"options.renderDistance": "§aRender Distance (10+)",
+	"options.simulationDistance": "§aSimulation Distance (10+)",
+
+	"soundCategory.ambient": "§4Ambient/Environment",
+	"soundCategory.block": "§7Blocks",
+	"soundCategory.hostile": "§7Hostile Creatures",
+	"soundCategory.master": "Master Volume",
+	"soundCategory.music": "§4Music",
+	"soundCategory.neutral": "§7Friendly Creatures",
+	"soundCategory.player": "§7Players",
+	"soundCategory.record": "§aSoundtrack",
+	"soundCategory.voice": "§aOther Sounds",
+	"soundCategory.weather": "§7Weather",
+
+	"book.pageIndicator": "",
+
+	"effect.duration.infinite": "",
+	"effect.minecraft.blindness": "",
+	"effect.minecraft.haste": "",
+	"effect.minecraft.jump_boost": "",
+	"effect.minecraft.levitation": "",
+	"effect.minecraft.night_vision": "",
+	"effect.minecraft.resistance": "",
+	"effect.minecraft.saturation": "",
+	"effect.minecraft.slow_falling": "",
+	"effect.minecraft.slowness": "",
+	"effect.minecraft.darkness": "",
+	"enchantment.level.1": "",
+	"enchantment.level.2": "",
+	"enchantment.level.3": "",
+	"enchantment.level.4": "",
+	"enchantment.level.5": "",
+	"enchantment.level.6": "",
+	"enchantment.level.7": "",
+	"enchantment.level.8": "",
+	"enchantment.level.9": "",
+	"enchantment.level.10": "",
+
+	"advancements.toast.challenge": "§eAdvancement Made!",
+	"advancements.toast.goal": "§eAdvancement Made!",
+	"advancements.toast.task": "§eAdvancement Made!",
+	"chat.type.advancement.challenge": "§b\uEff0\uEff3§a💠\uEff4You have made the advancement %2$s§a!",
+	"chat.type.advancement.goal": "§b\uEff0\uEff3§a💠\uEff4You have made the advancement %2$s§a!",
+	"chat.type.advancement.task": "§b\uEff0\uEff3§a💠\uEff4You have made the advancement %2$s§a!",
+	
+	"gui.recipebook.search_hint": "",
+
+	"container.crafting": "",
+	
+	"block.minecraft.sandstone_wall": "Vertical Oxidized Copper Slab and Stairs",
+	"block.minecraft.red_sandstone_wall": "Vertical Copper Slab and Stairs",
+	
+	"mount.onboard": "",
+
+	"key.mouse.left": "Left Click",
+	"key.mouse.middle": "Middle Click",
+	"key.mouse.right": "Right Click",
+	
+	"commands.trigger.failed.invalid": "",
+	"commands.trigger.failed.unprimed": "",
+	"arguments.objective.notFound": ""
+}

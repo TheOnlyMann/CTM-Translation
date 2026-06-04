@@ -1,0 +1,36 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uE000": -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "starlight:font/logo_loadingscreen.png",
+            "height": 32,
+            "ascent": 6,
+            "chars": [
+                "\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008",
+                "\uE011\uE012\uE013\uE014\uE015\uE016\uE017\uE018",
+                "\uE021\uE022\uE023\uE024\uE025\uE026\uE027\uE028",
+                "\uE031\uE032\uE033\uE034\uE035\uE036\uE037\uE038",
+                "\uE041\uE042\uE043\uE044\uE045\uE046\uE047\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "starlight:font/logo_matrix_loadingscreen.png",
+            "height": 32,
+            "ascent": 6,
+            "chars": [
+                "\uE101\uE102\uE103\uE104\uE105\uE106\uE107\uE108",
+                "\uE111\uE112\uE113\uE114\uE115\uE116\uE117\uE118",
+                "\uE121\uE122\uE123\uE124\uE125\uE126\uE127\uE128",
+                "\uE131\uE132\uE133\uE134\uE135\uE136\uE137\uE138",
+                "\uE141\uE142\uE143\uE144\uE145\uE146\uE147\uE148"
+            ]
+        }
+    ]
+}

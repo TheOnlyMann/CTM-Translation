@@ -1,0 +1,44 @@
+{
+  "providers":[
+    {
+      "type":"bitmap",
+      "file":"starlight:font/test.png",
+      "height":100,
+      "ascent":50,
+      "chars": [
+        "\uE001"
+      ]
+    },
+    {
+      "type":"space",
+      "advances": {
+        "\uE000": -1
+      }
+    },
+    {
+      "type":"bitmap",
+      "file":"starlight:font/screen_transition.png",
+      "height":256,
+      "ascent":140,
+      "chars": [
+        "\uE002\uE003\uE004\uE005\uE006\uE007",
+        "\uE008\uE009\uE00A\uE00B\uE00C\uE00D",
+        "\uE00E\uE00F\uE010\uE011\uE012\uE013",
+        "\uE014\uE015\uE016\uE017\uE018\uE019"
+      ]
+    },
+    {
+      "type":"bitmap",
+      "file":"starlight:font/starlight_title_matrix.png",
+      "height":32,
+      "ascent":16,
+      "chars": [
+        "\uE01A\uE01B",
+        "\uE01C\uE01D",
+        "\uE01E\uE01F",
+        "\uE020\uE021",
+        "\uE022\uE023"
+      ]
+    }
+  ]
+}

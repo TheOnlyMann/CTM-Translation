@@ -1,0 +1,27 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "starlight:font/health_bar.png",
+            "height": 16,
+            "ascent": -28,
+            "chars": [
+                "12345678",
+                "abcdefgh",
+                "ABCDEFGH",
+                "ijklmnop",
+                "IJKLMNOP",
+                "\uA001\uA002\uA003\uA004\uA005\uA006\uA007\uA008",
+                "\uA011\uA012\uA013\uA014\uA015\uA016\uA017\uA018",
+                "\uA021\uA022\uA023\uA024\uA025\uA026\uA027\uA028"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": -1,
+                "~": 0
+            }
+        }
+    ]
+}
