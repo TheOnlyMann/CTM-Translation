@@ -190,8 +190,8 @@
 		},        
 		{
             "type": "ttf",
-            "file": "minecraft:galmuri11.ttf",
- 			"shift": [-0.3, 0.5],
+            "file": "starlight:level_name/galmuri11.ttf",
+ 			"shift": [-0.3, 21.4],
             "size": 8.0,
             "oversample": 4.0,
 			"skip":"《》（）「」『』“”‘’【】；"
