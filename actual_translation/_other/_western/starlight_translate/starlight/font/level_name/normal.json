@@ -195,6 +195,14 @@
 				"\uE001": -185,
 				"\u000a": 4
 			}
-		}
+		},        
+		{
+            "type": "ttf",
+            "file": "minecraft:galmuri11.ttf",
+ 			"shift": [-0.3, 0.5],
+            "size": 8.0,
+            "oversample": 4.0,
+			"skip":"《》（）「」『』“”‘’【】；"
+        }
 	]
 }
