@@ -1,0 +1,761 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/rhythm_mining.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/game_over_screen.png",
+      "ascent": 1000,
+      "height": 2006,
+      "chars": ["\uE001"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/combo.png",
+      "ascent": 2,
+      "height": 3,
+      "chars": ["\uE002"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/score.png",
+      "ascent": -18,
+      "height": 4,
+      "chars": ["\uE003"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/perfect.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE004"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/great.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE005"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/good.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE006"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/miss.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE007"]
+    },
+
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/combo.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE008"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/score.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE009"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/perfect.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE010"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/great.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE011"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/good.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE012"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/miss.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE013"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/rhythm_mining_pickaxe.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE014"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/sasterisk24_icon.png",
+      "ascent": 17,
+      "height": 35,
+      "chars": ["\uE015"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE016"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE017"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE018"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE019"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE020"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE021"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE022"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE023"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ja_jp/lectern_page09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE024"]
+    },
+
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/rhythm_mining.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE025"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/game_over_screen.png",
+      "ascent": 1000,
+      "height": 2006,
+      "chars": ["\uE026"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/combo.png",
+      "ascent": 2,
+      "height": 3,
+      "chars": ["\uE027"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/score.png",
+      "ascent": -18,
+      "height": 4,
+      "chars": ["\uE028"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/perfect.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE029"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/great.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE030"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/good.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE031"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/miss.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE032"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/combo.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE033"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/score.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE034"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/perfect.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE035"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/great.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE036"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/good.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE037"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/miss.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE038"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/rhythm_mining_pickaxe.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE039"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/sasterisk24_icon.png",
+      "ascent": 17,
+      "height": 35,
+      "chars": ["\uE040"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE041"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE042"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE043"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE044"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE045"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE046"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE047"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE048"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/zh_cn/lectern_page09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE049"]
+    },
+
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/rhythm_mining.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE050"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/game_over_screen.png",
+      "ascent": 1000,
+      "height": 2006,
+      "chars": ["\uE051"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/combo.png",
+      "ascent": 2,
+      "height": 3,
+      "chars": ["\uE052"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/score.png",
+      "ascent": -18,
+      "height": 4,
+      "chars": ["\uE053"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/perfect.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE054"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/great.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE055"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/good.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE056"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/miss.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE057"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/combo.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE058"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/score.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE059"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/perfect.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE060"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/great.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE061"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/good.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE062"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/miss.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE063"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/rhythm_mining_pickaxe.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE064"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/sasterisk24_icon.png",
+      "ascent": 17,
+      "height": 35,
+      "chars": ["\uE065"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE066"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE067"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE068"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE069"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE070"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE071"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE072"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE073"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/en_us/lectern_page09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE074"]
+    },
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/rhythm_mining.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE075"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/game_over_screen.png",
+      "ascent": 1000,
+      "height": 2006,
+      "chars": ["\uE076"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/combo.png",
+      "ascent": 2,
+      "height": 3,
+      "chars": ["\uE077"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/score.png",
+      "ascent": -18,
+      "height": 4,
+      "chars": ["\uE078"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/perfect.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE079"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/great.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE080"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/good.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE081"]
+    },
+    {
+      "_comment":"play_screen",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/miss.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE082"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/combo.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE083"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/score.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\uE084"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/perfect.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE085"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/great.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE086"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/good.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE087"]
+    },
+    {
+      "_comment":"result",
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/miss.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE088"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/rhythm_mining_pickaxe.png",
+      "ascent": 10,
+      "height": 20,
+      "chars": ["\uE089"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/sasterisk24_icon.png",
+      "ascent": 17,
+      "height": 35,
+      "chars": ["\uE090"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE091"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE092"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE093"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE094"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE095"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE096"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE097"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE098"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ko_kr/lectern_page09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE099"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:number.ttf",
+      "shift": [-17.0, 32.0],
+      "size": 7.0,
+      "oversample": 1.0
+    }
+  ]
+}
