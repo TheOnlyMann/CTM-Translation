@@ -4,10 +4,10 @@
 
 - [X] Carto 2 번역
   - [ ] 1.21.11+ 번역 포맷 변경
-  - [ ] Mapwreck 8 번역
+  - [X] Mapwreck 8 번역
 - [ ] Enderhurricane 번역
 - [ ] Tales of Gradford 번역
-- [ ] Stranded 재번역
+- [X] Stranded 재번역
 - [X] The Sky Blessing 만우절 번역
 
 ## Other
