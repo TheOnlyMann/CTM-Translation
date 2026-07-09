@@ -1,0 +1,1060 @@
+draw.fail,더 이상 카드를 뽑을 수 없습니다!
+cards_left,덱 리필까지 남은 카드:
+before_fatigue,탈진 피해까지 남은 횟수:
+reshuffle,덱 리필
+fatigue_damage,덱 리필 시 받는 탈진 피해:
+fatigue_damage_take,탈진 피해:
+no_draw.hero_damage,이번 턴에 카드를 쓰지 않아 당신의 영웅이 피해를 입었습니다.
+lobby.info,정보
+lobby.workshop,워크샵
+lobby.play,플레이
+lobby.spectate,뛰어내려 관전
+input.right_click,[우클릭]
+sign.parkour.reward,보상
+sign.tutorial,튜토리얼
+sign.cheating.info,치트 정보
+sign.card_pack.purchase,구매 비용: 
+sign.practice,연습 보드
+sign.shop.booster,부스터 팩
+sign.shop.attack,공격 팩
+sign.shop.defense,방어 팩
+sign.shop.buffs,버프 팩
+sign.shop.nether,네더 팩
+sign.shop.ender,엔더 팩
+sign.shop.aquatic,수생 팩
+sign.shop.village,마을 팩
+sign.shop.cliffs,동굴과 절벽 팩
+sign.shop.deep_deck,깊은 어둠 팩
+sign.shop.tales,여행과 이야기 팩
+sign.shop.aggro,어그로 팩
+sign.deck_builder.exit,나가기
+sign.deck_builder.store_cards,카드 보관
+sign.deck_builder.save,저장 & 불러오기
+sign.deck_builder.code_book,코드 책
+sign.deck_builder.export,내보내기
+sign.deck_builder.import,가져오기
+deck_builder.manager,덱 관리자
+deck_builder.cosmetics,스킨
+villager.redstone,RedstoneBattery
+villager.redstone.0,나때는 돼지를 상대 스티브 앞에 소환하고 공격력을 버프하는 카드들을 써서 바로 데미지를 줬었지. 결국 밸붕 때문에 버프형 카드들이 너프를 받았어. 이제 어떤 전략을 써야 될까...
+villager.coffee.0,맵이 마음에 든다면 커피 한 잔 사주실래요?
+soundCategory.music,끄기
+soundCategory.record,음악
+fatigue.warn,다음 덱 리필에 탈진 피해를 받습니다!
+fatigue.fatigue,덱 리필로 인해 탈진 피해를 받았습니다. 다음에는 더 큰 피해를 받습니다!
+daily_reward,다음 5차례의 우승에서 2배의 돈을 얻습니다! (24시간 후 리셋됩니다)
+reset,당신의 세이브를 리셋하시겠습니까? \n채팅창에 /trigger reset set 10 을 입력하세요
+effects,튜토리얼 - 효과
+effects.des,여러가지 상태를 이해하기 위한 튜토리얼
+effects.buffs,버프
+effects.buffs.des,대상을 강화하거나 보호합니다
+effects.debuffs,디버프
+effects.debuffs.des,대상을 약화시키거나 피해를 입힙니다
+effects.fire,화염
+effects.fire.des,턴 종료시 1 피해를 입습니다
+effects.poison,독
+effects.poison.des,턴 종료시 갑옷을 무시하는 1 피해를 입습니다. 이 피해로는 사망하지 않습니다
+effects.wither,위더
+effects.wither.des,턴 종료시 갑옷을 무시하는 1 피해를 입습니다. 이 피해로는 사망 가능합니다
+effects.invis,투명화
+effects.invis.des,다른 몹에게 공격받지 않습니다. 다른 공격에는 여전히 피해를 받습니다
+effects.speed,신속
+effects.speed.des,속도 +2
+effects.slowness,감속
+effects.slowness.des,속도 -2
+effects.strength,힘
+effects.strength.des,공격력 +3
+effects.weakness,나약함
+effects.weakness.des,공격력 -4
+effects.fire_resistance,화염 저항
+effects.fire_resistance.des,화염에 면역이 됩니다
+effects.blindness,실명
+effects.blindness.des,"사거리 -2, 사거리가 0일 경우 공격을 할 수 없습니다"
+traits,튜토리얼 - 특성
+traits.des,특성은 카드 상단에 표시되는 아이콘입니다
+traits.ambush,기습
+traits.ambush.des,소환 직후 행동이 가능합니다
+traits.emerald,에메랄드
+traits.emerald.des,에메랄드를 사용해 특정 기능을 발동 가능합니다
+traits.fire,화염 면역
+traits.fire.des,화염 피해에 면역입니다
+traits.flying,비행
+traits.flying.des,함정을 발동시키지 않습니다
+traits.gold,황금
+traits.gold.des,피글린 물물교환의 대상입니다
+traits.teleport,엔더
+traits.teleport.des,피해를 입을 시 순간이동합니다
+traits.undead,언데드
+traits.undead.des,"치유/고통 물약에 반대로 반응하며, 강타에 약합니다"
+traits.water,수생
+traits.water.des,수생 버프를 받을 수 있습니다
+traits.wither,위더
+traits.wither.des,위더 피해에 면역입니다
+traits.passive,패시브
+traits.passive.des,아무 칸에나 소환 가능합니다
+traits.lunging,돌진
+traits.lunging.des,"유닛을 일직선으로 관통해 지나가며 피해를 주며, 건물을 무시합니다"
+traits.arthropod,벌레
+traits.arthropod.des,감속에 면역입니다
+traits.frozen,동결
+traits.frozen.des,추위에 면역입니다
+traits.evasive,회피
+traits.evasive.des,50%% 확률로 피해를 무시합니다
+traits.illager,우민
+traits.illager.des,우민 버프를 받을 수 있습니다
+selected,선택됨
+arena.moss,모스 스타디움
+arena.nether,네더
+arena.end,엔드
+arena.deep,깊디 깊은 어둠
+arena.cave,광산
+arena.sky,구름 안에서
+arena.sea,7번째 바다
+arena.amethyst,정동 안에서
+arena.redstone,레드스톤 공장
+arena.village,마을
+arena.jungle,사원
+arena.mansion,대저택
+arena.ocean,유적
+arena.mangrove,맹그로브
+arena.zen,젠
+arena.usea,창고
+arena.bee,벌과 함께
+arena.fort,요새
+arena.unlock,신규 아레나 해금:
+music.moss,무성한 동굴
+music.nether,네더
+music.end,엔드
+music.deep,깊은 어둠
+music.cave,게임
+music.sky,크리에이티브
+music.sea,바다
+music.amethyst,자수정
+music.redstone,음반
+music.relic,이야기의 노래
+music.unlock,신규 배경음악 해금:
+hero.steve,스티브
+hero.alex,알렉스
+hero.jerry,멋진 제리
+hero.barb,버블검 바브
+hero.memer,뜨듯한 미머
+hero.creeper,춤꾼
+hero.killer,슬레이어
+hero.trickster,트릭스터
+hero.deckmaster,덱마스터
+hero.unlock,신규 스킨 해금:
+set.gamemodes,게임모드
+set.gamemodes.classic,클래식
+set.gamemodes.classic.des,덱을 꾸리고 대결하는 기존 게임모드
+set.gamemodes.mirror,미러전
+set.gamemodes.mirror.des,양쪽 플레이어 모두 동일하게 만들어진 덱을 사용
+set.gamemodes.draft,드래프트
+set.gamemodes.draft.des,무작위의 카드들을 선택해 즉석에서 덱을 꾸리세요
+set.gamemodes.no_draw,무리필
+set.gamemodes.no_draw.des,"전체 덱을 즉시 지급받지만, 덱이 리필되지 않습니다"
+set.turn_time,턴 시간
+set.turn_time.30,30초
+set.turn_time.60,60초
+set.hand_size,손패 카드 수
+set.hand_size.3,3개 카드를 뽑을 수 있습니다(이벤트로 얻는 추가 카드에는 해당이 되지 않습니다.)
+set.hand_size.5,5개 카드를 뽑을 수 있습니다(이벤트로 얻는 추가 카드에는 해당이 되지 않습니다.)
+set.hand_size.8,8개 카드를 뽑을 수 있습니다(이벤트로 얻는 추가 카드에는 해당이 되지 않습니다.)
+set.fatigue,탈진
+set.fatigue.disabled,탈진 비활성화
+set.fatigue.1,1번 덱 리필 이후 탈진 피해
+set.fatigue.2,2번 덱 리필 이후 탈진 피해
+set.fatigue.3,3번 덱 리필 이후 탈진 피해
+set.hero_hp,영웅 HP
+set.hero_hp.10.des,최단 매치
+set.hero_hp.15.des,짧은 매치
+set.hero_hp.20.des,일반 매치
+duel.invite.settings.handsize,손패 최대 카드 수:
+duel.invite.settings.fatigue,탈진 시작:
+duel.invite.settings.hero_hp,영웅 HP:
+quests.deckmaster,덱마스터
+quests.deckmaster.des,덱마스터 스킨으로 누군가를 이기세요
+deck.version.old,"안타깝게도, 당신의 덱이 이전 버전에서 구성되었기에, 당신의 덱이 기본 덱으로 변경되었습니다. 가지고 있던 카드는 그대로이기에, 덱을 다시 구성하시면 됩니다."
+deck.version.incompatible,"안타깝게도, 마인크래프트의 데이터 포맷 변경으로 인해, 당신의 덱은 더이상 지원이 되지 않습니다."
+deck.code_book,덱 코드
+deck.code_book.des,안의 코드를 복사에 공유하세요!
+deck.import.fail,"덱 불러오기 실패, 코드가 유효하지 않습니다!"
+deck.export.fail,"덱 내보내기 실패, 유효한 덱을 들고 있어야 합니다!"
+cost,¢
+health,♥
+armor,🛡
+attack,🗡
+speed,🥾
+range,🏹
+explode,🧨
+fire,🔥
+poison,☣
+wither,💀
+card.discard,카드를 버립니다.
+card.phantom.dodge,팬텀이 공격을 피함!
+attack.normal,%s이(가) %s을(를) 공격
+attack.lunging,%s이(가) 돌진해 %s을(를) 꿰뚫음
+attack.damage.take,%s이(가) %s 피해를 입음
+attack.damage,피해
+attack.evade,%s이(가) 공격을 피함!
+attack.fail,%s이(가) 공격에 실패!
+cast.use,%s이(가) %s을(를) 사용
+cast.use.on,%s이(가) %s을(를) %s에게 사용
+move.trap_trigger,%s이(가) %s을(를) 발동
+entity.spawns,%s이(가) %s을(를) 소환
+deck_builder.fail_exit,"새 카드 팩을 개봉하였기 때문에, 카드 팩에서 나온 카드를 보관하거나 덱에다 넣어야 합니다."
+game.win,이(가) 이겼습니다!
+lobby.queue,"게임 대기열에 진입합니다. 둘 이상이 준비됐을 시, 게임을 시작합니다."
+lobby.queue.leave,게임 대기열에서 나갔습니다.
+cheater,플레이어가 치터가 되었습니다!
+shop.success,구매 완료!
+shop.fail,돈이 부족합니다!
+quick_play,게임 대기열 진입
+quick_deck_builder,덱 구성하기
+quick_spectate,주변 유저 관전
+cards,Relics from the Deck
+cards.des,덱 빌딩 전략 게임
+collection,카드 보관함 
+collection.left,이전 페이지
+collection.right,다음 페이지
+collection.search,검색 패턴
+collection.search.rarity,희귀도
+collection.search.cost,비용
+collection.search.name,알파벳순
+collection.search.type,타입
+decks,덱 관리자
+decks.grab,덱 가져오기
+decks.view,덱 보기
+decks.overwrite,덮어쓰기
+decks.overwrite.click,현재 덱을 인벤토리의 카드들로 덮어쓰기
+decks.selected,선택된 덱
+decks.change,지금 보이는 덱으로 바꾸기
+decks.fast_open,빠른 팩 개봉
+decks.fast_open.enabled,활성화됨
+decks.fast_open.disabled,비활성화됨
+saving.save.1,저장/로드 절차
+saving.save.2,"진행 과정을 저장하려면, 셜커 상자의 이름을 바꿔서 크리에이티브 모드의 핫바에 두세요"
+saving.save.3,이 기능을 쓰려면 단축키를 바꿔야합니다
+saving.save.4,덱을 불러오려면 핫바에서 셜커 상자를 가져오세요
+saving.save.5,"그 후에, 셜커 상자를 왼손으로 드세요"
+save.load,세이브 파일 로드됨!
+decks.white,하얀색 덱
+decks.red,빨간색 덱
+decks.orange,주황색 덱
+decks.yellow,노랑색 덱
+decks.green,추록색 덱
+decks.cyan,청록색 덱
+decks.blue,파란색 덱
+decks.purple,보라색 덱
+decks.black,검은색 덱
+card.poor,경험치가 부족합니다!
+move.too_far,해당 위치로 이동이 불가능합니다!
+place.fail,해당 위치에 그 카드를 사용할 수 없습니다!
+nothing.fail,해당 위치엔 선택가능한 몹이 없습니다!
+deck.save,덱을 성공적으로 저장했습니다
+card.store,카드 저장됨!
+card.sort,카드 분류됨!
+travel.fail,몹이 이동에 실패했습니다.
+too_slow,시간 초과로 내 턴이 종료됩니다.
+credits.map,🧭
+credits.brickmasons,제작: Brickmasons
+credits.team,맵 팀
+credits.testers,테스터
+credits.sounds,음악/효과음 제공: Zapsplat.com
+parkour,"이봐, 크리퍼가 있어야만 '폭발 팩'을 얻을수 있다 하던데? 좀 어떻게 해보는 게 어때?"
+item.minecraft.carrot_on_a_stick,선택
+forfeit,게임 포기
+duel,듀얼이다!
+duel.search,플레이어를 클릭해 듀얼하세요
+duel.invite.1,%s에게 듀얼을 신청했습니다
+duel.invite.2,에게 듀얼을 신청하였습니다
+duel.invite.3,%s이(가) 당신에게 듀얼을 신청했습니다
+duel.invite.settings,경기 세팅:
+duel.invite.settings.mode,모드:
+duel.invite.settings.preset,속도:
+duel.awaiting,상대를 기다리는 중입니다. 황금 마우스를 던져 취소하세요
+duel.pending,황금마우스 우클릭 = 수락 / 던지기 = 취소
+duel.deny,상대가 듀얼을 거절했습니다
+duel.end,시간 초과로 듀얼이 취소되었습니다
+duel.reset,듀얼 요청이 중단되었습니다
+villager.stephen,Stephen
+villager.stephen.0,"전에 해 본적 있나? 내가 가르쳐 주지, 아래쪽 튜토리얼을 눌러!"
+villager.legobro,LegoBro
+villager.legobro.0,10x10 보드는 망할 거 같은데...
+villager.gem,ThatGreenGem
+villager.gem.0,"난 Relics from the Deck 위키를 집대성했어! 보고 싶다면, 여길 클릭해!"
+villager.think,thinkrocks12
+villager.think.0,"만일 추후에 토너먼트에서 뛰고 싶다면, 여기를 클릭해 Brickmasons 디스코드에 들어가도록 해!"
+villager.j,J_Brimstone
+villager.j.0,치트 코드가 뭐였더라... 끌어당기는 블럭이었었나...
+coins,코인
+game.book,경기 세팅
+game.draft,카드를 선택하세요
+game.begin,게임 시작!
+game.turn.begin,당신의 턴
+game.turn.end,턴 종료
+dubloon.earn.1,코인 +%s$ 획득
+dubloon.earn.2,$
+dubloon.total.1,총액 %s$
+dubloon.total.2,$
+cheat_book,치트코드를 이 책에 입력하세요
+cheat_unlock,새로운 치트코드:
+quests,퀘스트
+quests.des,코인을 벌어 카드 팩을 구매하세요
+quests.tutorial,튜토리얼
+quests.tutorial.des,튜토리얼을 마무리하세요
+quests.stickypiston,Stickypiston
+quests.stickypiston.des,mgm.spmc.co
+quests.parkour,파쿠르
+quests.parkour.des,파쿠르를 완주하세요
+quests.loser,패배자
+quests.loser.des,너무 빡치지 않았기를 바랍니다
+quests.creeper,크리퍼
+quests.creeper.des,오 이런...
+quests.rich,XPCoin...
+quests.rich.des,...달을 향해서!
+quests.ambush,기습
+quests.ambush.des,경험치가 20이 되기 전에 승리하세요
+quests.defend,철벽
+quests.defend.des,영웅 HP가 15 이상인 상태로 승리하세요
+quests.killer,살인마
+quests.killer.des,몹 500마리를 죽이세요
+quests.sacrifice,희생
+quests.sacrifice.des,몹 500마리를 소모하세요
+quests.end,엔드
+quests.end.des,엔드 몹 50마리를 소환하세요
+quests.nether,네더
+quests.nether.des,네더 몹 100마리를 소환하세요
+quests.overworld,오버월드
+quests.overworld.des,오버월드 몹 250마리를 소환하세요
+quests.potion,물약
+quests.potion.des,물약을 50번 사용하세요
+quests.armor,갑옷
+quests.armor.des,갑옷을 50번 사용하세요
+quests.trap,함정
+quests.trap.des,함정을 50번 설치하세요
+quests.water,수생
+quests.water.des,수생 몹 50마리를 소환하세요
+quests.conversion,변형
+quests.conversion.des,몹 50마리를 변형시키세요
+quests.practice,연습
+quests.practice.des,연습 게임에서 승리하세요
+quests.unknown,미상
+quests.unknown.des,정체불명의 카드로 손을 전부 채우세요
+quests.mansion,대저택
+quests.mansion.des,"약탈자, 변명자, 소환사, 파괴수를 공존시키세요"
+quests.ocean,바다의 힘
+quests.ocean.des,수중 몹의 HP를 15로 만드세요
+quests.frog,개굴개굴
+quests.frog.des,개구리 15마리를 공존시키세요
+quests.zen,벚꽃 명소
+quests.zen.des,벚나무 2그루를 공존시키세요
+quests.piston,밀지마
+quests.piston.des,한 턴 내에 피스톤/끈끈이 피스톤을 3번 사용하세요
+quests.bee,땡벌땡벌
+quests.bee.des,꿀벌의 공격력을 20으로 만드세요
+quests.tnt,폭발적 방어수단
+quests.tnt.des,한 판에서 TNT로 10개의 몹 또는 구조물을 처치하세요
+quests.sherd,새로운 여정
+quests.sherd.des,5 이상의 피해를 받은 몹을 도자기 조각으로 포획하세요
+quests.critical,초치명타
+quests.critical.des,치명타 카드로 10 피해를 주세요
+quests.saddle,탑쌓기
+quests.saddle.des,안장을 사용해 5개 유닛을 쌓으세요
+quests.ethereal,너무 가벼워...
+quests.ethereal.des,2개의 허상 카드를 한번에 지니세요
+adv.0,구조물 팩
+adv.0.des,당신만의 기지를 만드세요
+adv.1,네더 요새 팩
+adv.1.des,주옥같은 요새네요
+adv.2,네더 황무지 팩
+adv.2.des,살기에는 지옥이네요
+adv.3,보루 잔해 팩
+adv.3.des,돼지들의 요새
+adv.4,갑옷 대장장이 팩
+adv.4.des,갑옷으로 무장...
+adv.5,광부 팩
+adv.5.des,지하의 투쟁
+adv.6,언데드 팩
+adv.6.des,*궁시렁대는 소리*
+adv.7,무리 팩
+adv.7.des,주변에 둥지를 틀게 냅두진 마
+adv.8,폭발적 팩
+adv.8.des,뿜쾅
+adv.9,엔드 팩
+adv.9.des,아니 아직 안 끝났어...
+adv.10,마을 방어 팩
+adv.10.des,습격 없는 마을
+adv.11,양조장 팩
+adv.11.des,보글보글
+adv.12,습격자 팩
+adv.12.des,어디 마을이 습격이 필요하던데
+adv.13,수중 업데이트 팩
+adv.13.des,바다와 강
+adv.14,오버월드 탐험 팩
+adv.14.des,자유롭게 여행
+adv.15,농장 문제 팩
+adv.15.des,동물농장
+adv.16,수성 팩
+adv.16.des,들어오지 못할거다
+adv.17,야생동물 팩
+adv.17.des,먹이 금지
+adv.18,빙하기 팩
+adv.18.des,꽁꽁꽁
+adv.19,마지막 기회 팩
+adv.19.des,막판 뒤집기
+adv.20,변형 팩
+adv.20.des,뭐가 바뀌었는데
+adv.21,쓰레기 상자
+adv.21.des,팩 찌끄레기
+tutorial,[튜토리얼]
+tutorial.fail,당신의 영웅 캐릭터가 사망하여 튜토리얼에서 패배했습니다. 당신은 천재일지도?
+tutorial.1,Relics from the Deck에 오신 걸 환영합니다!
+tutorial.2,이 게임의 목적은 상대의 영웅 캐릭터를 처치하는 겁니다.
+tutorial.3,"동시에, 당신의 영웅 캐릭터도 지켜야 하지요."
+tutorial.4,이를 위해 당신은 카드를 사용합니다.
+tutorial.5,황금 마우스를 들고 당신의 덱을 우클릭해 카드를 뽑으세요. 이 행동에는 경험치 2가 소모됩니다.
+tutorial.6,좀비 카드를 뽑으셨군요!
+tutorial.7,이 카드에는 6가지 스탯과 설명이 있습니다.
+tutorial.8,1번 스탯은 경헙치입니다.
+tutorial.9,경험치는 카드의 비용이죠.
+tutorial.10,2번 스탯은 체력입니다.
+tutorial.11,3번 스탯은 공격력이고요.
+tutorial.12,4번 스탯은 소환 시 지니고 있는 갑옷 수치입니다.
+tutorial.13,"갑옷은 체력과 비슷하지만, 갑옷이 다 부셔져야 체력을 깎을 수 있습니다."
+tutorial.14,5번 스탯은 속도입니다.
+tutorial.15,"몹의 속도가 빠를 수록, 한 번에 더 먼 거리를 이동 가능합니다."
+tutorial.16,"마지막으로, 사거리입니다."
+tutorial.17,"사거리는 속도와 비슷하지만, 몹이 얼마나 먼 곳에 피해를 줄 수 있는지를 나타냅니다."
+tutorial.18,설명을 읽는 것을 깜빡하지 마세요; 특정 카드들은 요긴하게 쓸 수 있는 보너스 특성들이 있습니다.
+tutorial.19,"이 카드를 쓰기엔 경험치가 부족하니, 마우스나 카드를 던져서 턴을 종료하세요."
+tutorial.20,"일반적으론 상대 턴이 시작되야 하지만, 이번에는 넘기도록 하겠습니다."
+tutorial.21,이제 카드를 쓸 경험치가 충분합니다.
+tutorial.22,보드에서 좀비를 소환할 칸에 클릭하세요.
+tutorial.23,"칸에 녹색이 뜬다면 소환이 가능하며, 적색이 뜬다면 불가능하다는 것을 의미합니다."
+tutorial.24,잘 했습니다! 보드 위의 몹을 본다면 스탯을 확인 가능합니다.
+tutorial.25,"황금 마우스를 든 채로 좀비를 본다면, 해당 칸이 적색인 것이 보일 겁니다."
+tutorial.26,이는 해당 칸의 몹이 이번 턴에 행동할 수 없음을 뜻합니다.
+tutorial.27,대부분의 몹은 소환 직후 행동이 불가능합니다.
+tutorial.28,"당신의 좀비를 움직이려면, 턴을 끝내야 합니다."
+tutorial.29,다시금 상대의 턴을 넘겼습니다. 이제 좀비를 움직이세요.
+tutorial.30,"마우스를 들고 좀비를 우클릭해 선택한 후, 파란 칸을 선택해 움직일 수 있습니다."
+tutorial.31,훌륭합니다! 이런 식으로 몹을 움직일 수 있습니다.
+tutorial.32,하지만 몹들은 이동 뿐만 아니라 공격도 가능합니다!
+tutorial.33,부디 턴을 끝내 주세요.
+tutorial.34,제가 닭을 소환했습니다.
+tutorial.35,"닭을 공격해 죽여보도록 하세요. 공격은 이동과 같은 방식으로 작동하지만, 상대 몹이 있는 칸을 선택해야 합니다."
+tutorial.36,"잘 했습니다! 이제 조약돌을 치우고, 다른 카드를 소개하도록 하겠습니다."
+tutorial.37,카드 더미에서 카드를 하나 더 뽑아보도록 하세요.
+tutorial.38,"좋아요, 신속의 물약을 뽑았습니다."
+tutorial.39,신속의 물약은 소비형 카드 카테고리에 속하는 카드 중 하나입니다.
+tutorial.40,"소비형 카드들은 유닛을 강화하거나, 구조물을 설치하거나, 공격을 가할 수 있습니다."
+tutorial.41,어떤 소비형 카드를 언제 사용할 지를 안다면 전략을 더 잘 꾸릴 수 있을 겁니다.
+tutorial.42,신속의 물약을 좀비에게 사용하세요.
+tutorial.43,신속의 물약이 적용된 좀비는 한 번에 1칸이 아니라 2칸을 이동 가능합니다.
+tutorial.44,"이것이 게임의 핵심이지만, 몇 가지 중요한 것들만 이야기하고 넘어가도록 하죠."
+tutorial.45,"먼저, 실전에선 당신의 덱이 꽤 제한되어 있습니다."
+tutorial.46,"당신의 덱에는 27장의 카드가 있고, 카드를 다 뽑을 시 새 덱이 리필되어 27장의 카드가 섞입니다."
+tutorial.47,당신의 손패에는 최대 8장의 카드만 가지고 있을 수 있습니다.
+tutorial.48,"눈치챘을 지도 모르겠지만, 매 턴이 시작될 때마다 이전 턴보다 경험치 획득량이 증가합니다."
+tutorial.49,"경험치 획득량은 매 턴당 1씩 증가하며, 최대 20까지 증가합니다."
+tutorial.50,"이제 게임의 기본은 습득했지만, 아직 배울 건 많을 겁니다."
+tutorial.51,"튜토리얼을 끝내기 전, 상대의 영웅 캐릭터를 처치해 보세요."
+tutorial.52,튜토리얼 상대는 턴을 계속 넘길 겁니다.
+tutorial.53,또한 반격도 불가능하죠.
+tutorial.54,행운을 빕니다!
+tutorial.55,잘 했습니다! 게임 방법을 전부 익힌 것 같군요. 로비로 돌려보내 드리죠.
+card.anvil,모루
+card.anvil.lore.0,선택한 개체에
+card.anvil.lore.1,피해를 4 줍니다
+card.arrow_storm,화살 폭풍
+card.arrow_storm.lore.0,선택한 개체를 중심으로
+card.arrow_storm.lore.1,십자 형태의 범위 내에
+card.arrow_storm.lore.2,피해를 1 줍니다
+card.blaze_strike,블레이즈 화염구
+card.blaze_strike.lore.0,선택한 개체와 좌우
+card.blaze_strike.lore.1,한 칸의 개체들에게
+card.blaze_strike.lore.2,3 화염 피해를 입힙니다
+card.chorus_fruit,후렴과
+card.chorus_fruit.lore.0,선택한 개체를
+card.chorus_fruit.lore.1,보드의 무작위 위치로
+card.chorus_fruit.lore.2,이동시킵니다
+card.critical_hit,치명타
+card.critical_hit.lore.0,선택한 개체가
+card.critical_hit.lore.1,지니고 있는 효과당
+card.critical_hit.lore.2,3 피해를 입힙니다
+card.dragons_breath,드래곤의 숨결
+card.dragons_breath.lore.0,선택한 개체를 중심으로
+card.dragons_breath.lore.1,"십자 범위에 2 독 피해,"
+card.dragons_breath.lore.2,2 위더 피해를 입힙니다
+card.ender_pearl,엔더 진주
+card.ender_pearl.lore.0,사용 후 선택한 개체는
+card.ender_pearl.lore.1,보드 위 어느 칸으로든
+card.ender_pearl.lore.2,이동 가능합니다
+card.flint_and_steel,부싯돌과 부시
+card.flint_and_steel.lore.0,적에게 불을 붙여
+card.flint_and_steel.lore.1,5 화염 피해를 입히거나
+card.flint_and_steel.lore.2,크리퍼를 즉시 터트립니다
+card.ghast_fireball,가스트 화염구
+card.ghast_fireball.lore.0,선택한 개체에 3 피해를
+card.ghast_fireball.lore.1,주고 인접한 개체에게 
+card.ghast_fireball.lore.2,2 피해를 줍니다
+card.ice_storm,얼음 폭풍
+card.ice_storm.lore.0,동결되지 않은 모든 개체를
+card.ice_storm.lore.1,얼어붙여 1 피해를 입히고
+card.ice_storm.lore.2,-1 속도를 부여합니다
+card.iron_pickaxe,철 곡괭이
+card.iron_pickaxe.lore.0,선택한 구조물에 
+card.iron_pickaxe.lore.1,5 피해를 입힙니다
+card.mace,철퇴
+card.mace.lore.0,선택한 개체에 3 피해를
+card.mace.lore.1,"줍니다. 대상을 처치 시,"
+card.mace.lore.2,허상 철퇴와 8xp를 얻습니다
+card.piston,피스톤
+card.piston.lore.0,개체 또는 구조물을
+card.piston.lore.1,상대에게 이동시킵니다
+card.splash_damage_potion,투척용 고통의 물약
+card.splash_damage_potion.lore.0,선택한 개체에 3 피해를 입히고
+card.splash_damage_potion.lore.1,인접한 개체에게 2 피해를 입힙니다
+card.splash_damage_potion.lore.2,대상이 언데드일 경우
+card.splash_damage_potion.lore.3,선택한 개체의 체력을 2 회복하고
+card.splash_damage_potion.lore.4,인접한 개체의 체력을 1 회복합니다
+card.splash_healing_potion,투척용 치유의 물약
+card.splash_healing_potion.lore.0,선택한 개체의 체력을 2 회복하고
+card.splash_healing_potion.lore.1,인접한 개체의 체력을 1 회복합니다
+card.splash_healing_potion.lore.2,대상이 언데드일 경우
+card.splash_healing_potion.lore.3,선택한 개체에 3 피해를 입히고
+card.splash_healing_potion.lore.4,인접한 개체에게 2 피해를 입힙니다
+card.splash_healing_potion.lore.5,
+card.splash_poison_potion,투척용 독 물약
+card.splash_poison_potion.lore.0,선택한 개체를 중심으로
+card.splash_poison_potion.lore.1,십자 범위에 6 독 피해를 입힙니다
+card.sticky_piston,끈끈이 피스톤
+card.sticky_piston.lore.0,개체 또는 구조물을
+card.sticky_piston.lore.1,내 영웅 쪽으로 이동시킵니다
+card.thunderstorm,폭풍우
+card.thunderstorm.lore.0,무작위 3개 개체에
+card.thunderstorm.lore.1,번개를 내리쳐 7 피해를 입히고
+card.thunderstorm.lore.2,3개 개체에 인접한 대상에게는
+card.thunderstorm.lore.3,3 피해를 입힙니다
+card.tnt_cannon,Tnt 대포
+card.tnt_cannon.lore.0,보드의 중앙 행에
+card.tnt_cannon.lore.1,대포로 TNT를
+card.tnt_cannon.lore.2,발사합니다
+card.torchflower,횃불꽃
+card.torchflower.lore.0,적 영웅을 대상으로
+card.torchflower.lore.1,4 화염 피해를 입힙니다
+card.trident,삼지창
+card.trident.lore.0,선택한 개체에 7 피해를 
+card.trident.lore.1,입히고 인접한 대상에게 
+card.trident.lore.2,3 피해를 입힙니다
+card.wind_charge,돌풍구
+card.wind_charge.lore.0,선택한 위치에 인접한
+card.wind_charge.lore.1,개체를 선택한 위치로부터
+card.wind_charge.lore.2,1칸 밀어냅니다
+card.aqua_affinity,친수성
+card.aqua_affinity.lore.0,선택한 개체에
+card.aqua_affinity.lore.1,수생 특성을 부여합니다
+card.armor_trim,갑옷 장식
+card.armor_trim.lore.0,내 영웅에게 1 갑옷을 부여합니다
+card.bread,빵
+card.bread.lore.0,사용시 +1xp
+card.curse_of_binding,귀속 저주
+card.curse_of_binding.lore.0,상대가 다음 
+card.curse_of_binding.lore.1,3턴 동안 카드를 
+card.curse_of_binding.lore.2,버릴 수 없습니다
+card.diamond_armor,다이아몬드 갑옷
+card.diamond_armor.lore.0,아군 개체에 
+card.diamond_armor.lore.1,6 갑옷을 부여합니다
+card.elytra,겉날개
+card.elytra.lore.0,선택한 개체에 +10 속도를 부여합니다
+card.elytra.lore.1,"추가적으로, 보드에 있는 모든 "
+card.elytra.lore.2,아군 개체에 +1 속도를 부여합니다
+card.emerald,에메랄드
+card.emerald.lore.0,주민/우민과 거래해
+card.emerald.lore.1,버프를 주고 특정한
+card.emerald.lore.2,기능을 발동합니다
+card.enchanted_golden_apple,마법이 부여된 황금 사과
+card.enchanted_golden_apple.lore.0,아군 개체의 체력을 10 회복하고 
+card.enchanted_golden_apple.lore.1,10 추가 체력을 부여합니다
+card.enchanted_golden_apple.lore.2,
+card.flame_aspect,발화
+card.flame_aspect.lore.0,원거리 개체에 +1 화염 피해를 
+card.flame_aspect.lore.1,"부여하거나, 근거리 개체에 "
+card.flame_aspect.lore.2,+2 화염 피해를 부여합니다
+card.frog_eggs,개구리 알
+card.frog_eggs.lore.0,3~5개 올챙이를
+card.frog_eggs.lore.1,얻습니다
+card.goat_horn,염소 뿔
+card.goat_horn.lore.0,"우민, 돌진 개체에"
+card.goat_horn.lore.1,"신속 효과를, 추가적으로"
+card.goat_horn.lore.2,돌진 개체에 힘 효과를
+card.goat_horn.lore.3,1턴간 부여합니다
+card.golden_apple,황금 사과
+card.golden_apple.lore.0,아군 개체에 사용해
+card.golden_apple.lore.1,체력을 4 회복합니다
+card.golden_apple.lore.2,이중 2 체력은 최대 체력을 
+card.golden_apple.lore.3,초과 가능합니다
+card.golden_armor,금 갑옷
+card.golden_armor.lore.0,아군 개체에
+card.golden_armor.lore.1,2 갑옷을 부여합니다
+card.golden_carrot,황금 당근
+card.golden_carrot.lore.0,황금 당근을 먹어
+card.golden_carrot.lore.1,+8xp를 얻습니다
+card.haste_potion,성급함 물약
+card.haste_potion.lore.0,이미 행동을 끝낸
+card.haste_potion.lore.1,"개체에게 사용 시,"
+card.haste_potion.lore.2,다시 행동 가능합니다
+card.honeycomb,벌집 조각
+card.honeycomb.lore.0,구조물에 3 갑옷을
+card.honeycomb.lore.1,부여하거나 개체의 최대 체력을
+card.honeycomb.lore.2,현재 체력과 동일하도록
+card.honeycomb.lore.3,낮춥니다
+card.invisibility_potion,투명화 물약
+card.invisibility_potion.lore.0,개체에 4턴 동안
+card.invisibility_potion.lore.1,투명화를 부여합니다
+card.invisibility_potion.lore.2,다른 몹들이
+card.invisibility_potion.lore.3,공격할 수 없습니다
+card.iron_armor,철 갑옷
+card.iron_armor.lore.0,아군 개체에
+card.iron_armor.lore.1,4 갑옷을 부여합니다
+card.iron_spear,철 창
+card.iron_spear.lore.0,근거리 개체의 사거리를
+card.iron_spear.lore.1,3턴 동안 1 증가시킵니다
+card.iron_sword,철 검
+card.iron_sword.lore.0,선택한 원거리 개체를 
+card.iron_sword.lore.1,근거리 개체로 변환시키고 
+card.iron_sword.lore.2,+3 공격력을 부여합니다
+card.leather_armor,가죽 갑옷
+card.leather_armor.lore.0,아군 개체에 
+card.leather_armor.lore.1,1 갑옷을 부여합니다
+card.looting,약탈
+card.looting.lore.0,이번 턴에 사망한 개체당
+card.looting.lore.1,카드 1개를 지급받습니다
+card.lunge,돌진
+card.lunge.lore.0,선택한 개체에 
+card.lunge.lore.1,돌진 특성을 부여합니다
+card.milk,우유
+card.milk.lore.0,선택한 개체의 모든
+card.milk.lore.1,물약 효과를 제거합니다
+card.minecart,광산 수레
+card.minecart.lore.0,선택한 개체는 턴을 소모하지 않고 
+card.minecart.lore.1,좌우 방향으로 이동 가능합니다.
+card.minecart.lore.2,앞뒤로 움직일 시
+card.minecart.lore.3,수레에서 내립니다
+card.miners_resilience,광부의 손길
+card.miners_resilience.lore.0,보드 위에 있는 모든 개체의
+card.miners_resilience.lore.1,"갑옷을 없애고, 선택한 개체에"
+card.miners_resilience.lore.2,그만큼의 갑옷을 부여합니다
+card.name_tag,이름표
+card.name_tag.lore.0,양의 이름을 jeb_(+5 공격력)으로 
+card.name_tag.lore.1,"바꾸거나, 토끼를 Toast(+5 체력),"
+card.name_tag.lore.2,변명자를 Johnny(+3 공격력)로 바꿉니다
+card.name_tag.lore.3,이외 개체의 이름을 Dinnerbone으로 
+card.name_tag.lore.4,"바꿉니다(개체의 공격력, 체력이"
+card.name_tag.lore.5,서로 교체됩니다)
+card.netherite_armor,네더라이트 갑옷
+card.netherite_armor.lore.0,아군 개체에
+card.netherite_armor.lore.1,10 갑옷을 부여합니다
+card.piercing,관통
+card.piercing.lore.0,원거리 개체가 갑옷을 무시하고
+card.piercing.lore.1,피해를 가하도록 변경합니다
+card.piglin_bartering,피글린 물물교환
+card.piglin_bartering.lore.0,보드 위의 피글린 한 마리당
+card.piglin_bartering.lore.1,카드 하나를 무작위로 얻습니다.
+card.piglin_bartering.lore.2,획득한 카드는 리필된 덱에서
+card.piglin_bartering.lore.3,다시 나오지 않습니다
+card.pottery_sherd,도자기 조각
+card.pottery_sherd.lore.0,아군 개체 하나를 
+card.pottery_sherd.lore.1,이야기 내에 포획해
+card.pottery_sherd.lore.2,손패로 돌려보냅니다
+card.repeater,리피터
+card.repeater.lore.0,즉시 구조물의 턴 종료
+card.repeater.lore.1,효과를 발동시킵니다
+card.rotten_flesh,썩은 살점
+card.rotten_flesh.lore.0,아군 언데드 개체에
+card.rotten_flesh.lore.1,영구적으로 +1 공격력을 
+card.rotten_flesh.lore.2,"부여하고, 추가적으로"
+card.rotten_flesh.lore.3,체력을 2 회복합니다
+card.saddle,안장
+card.saddle.lore.0,두 개체를 합성해
+card.saddle.lore.1,능력치를 조합합니다.
+card.saddle.lore.2,"탑승자의 공격력과 사거리,"
+card.saddle.lore.3,탑승물의 속도와 체력을
+card.saddle.lore.4,계승합니다
+card.sharpness,날카로움
+card.sharpness.lore.0,아군 근거리 개체에
+card.sharpness.lore.1,영구적으로 +1 공격력을
+card.sharpness.lore.2,부여합니다
+card.spectral_arrow,분광 화살
+card.spectral_arrow.lore.0,아군 원거리 개체에
+card.spectral_arrow.lore.1,+1 사거리를 부여합니다
+card.speed_potion,신속의 물약
+card.speed_potion.lore.0,아군 개체에 5턴간
+card.speed_potion.lore.1,+2 속도를 부여합니다
+card.splash_fire_resistance_potion,투척용 화염 저항의 물약
+card.splash_fire_resistance_potion.lore.0,선택한 개체를 중심으로
+card.splash_fire_resistance_potion.lore.1,십자 범위에 12턴 동안
+card.splash_fire_resistance_potion.lore.2,화염 저항을 부여합니다
+card.strength_potion,힘의 물약
+card.strength_potion.lore.0,아군 근거리 개체에
+card.strength_potion.lore.1,2턴 동안 +3 공격력을
+card.strength_potion.lore.2,부여합니다
+card.bee_hive,벌통
+card.bee_hive.lore.0,턴이 종료될 때마다
+card.bee_hive.lore.1,주변 칸에 벌을 소환합니다.
+card.bee_hive.lore.2,꿀벌이 소환될 때마다 
+card.bee_hive.lore.3,구조물이 1 피해를 입습니다
+card.bee_nest,벌집
+card.bee_nest.lore.0,설치시 꿀벌을 얻으며
+card.bee_nest.lore.1,새로운 꿀벌이 소환될 시 
+card.bee_nest.lore.2,보드 위에 있는 모든 꿀벌에
+card.bee_nest.lore.3,+1 공격력을 부여합니다
+card.cherry_sapling,벚나무 묘목
+card.cherry_sapling.lore.0,설치 후 8턴 경과 시
+card.cherry_sapling.lore.1,성체 벚나무로 자랍니다
+card.cherry_sapling.lore.2,벚나무는 매 턴마다
+card.cherry_sapling.lore.3,모든 아군 유닛의
+card.cherry_sapling.lore.4,체력을 1 회복시킵니다
+card.cobblestone,조약돌
+card.cobblestone.lore.0,보드 위 빈 칸 아무데나
+card.cobblestone.lore.1,조약돌을 설치합니다
+card.cobblestone.lore.2,
+card.cobweb_trap,거미줄 함정
+card.cobweb_trap.lore.0,발동 시 7턴 동안
+card.cobweb_trap.lore.1,감속 효과를 부여하는 
+card.cobweb_trap.lore.2,거미줄 함정을 설치합니다
+card.diorite,섬록암
+card.diorite.lore.0,섬록암을 설치합니다.
+card.diorite.lore.1,섬록암은 아주 못생겼기에
+card.diorite.lore.2,턴이 종료될 때마다 인접한 개체
+card.diorite.lore.3,중 하나에 실명을 부여합니다
+card.enchantment_table,마법 부여대
+card.enchantment_table.lore.0,마법 부여대를 설치합니다.
+card.enchantment_table.lore.1,마법이 부여된 책을 사용 시
+card.enchantment_table.lore.2,+2xp를 얻습니다
+card.farmland,농장
+card.farmland.lore.0,농장을 설치합니다.
+card.farmland.lore.1,턴이 시작할 때마다
+card.farmland.lore.2,+2xp를 얻습니다
+card.gilded_blackstone,황금이 박힌 흑암
+card.gilded_blackstone.lore.0,황금이 박힌 흑암을 
+card.gilded_blackstone.lore.1,설치합니다. 파괴 시
+card.gilded_blackstone.lore.2,황금 아이템을 얻습니다
+card.hay_bale,건초 더미
+card.hay_bale.lore.0,건초 더미를 설치합니다
+card.hay_bale.lore.1,모든 패시브 개채에게
+card.hay_bale.lore.2,힘 효과를 부여합니다
+card.jail,감옥
+card.jail.lore.0,선택한 개체를 즉시 처치합니다.
+card.jail.lore.1,감옥이 보드에 있는 동안 매 턴
+card.jail.lore.2,3xp를 소모합니다
+card.lava_pocket,용암 웅덩이
+card.lava_pocket.lore.0,발동 시 3 피해를 입히고
+card.lava_pocket.lore.1,추가적으로 5 화염 피해를
+card.lava_pocket.lore.2,입히는 함정을 설치합니다
+card.lava_pocket.lore.3,
+card.lightning_rod,피뢰침
+card.lightning_rod.lore.0,모든 번개를 흡수합니다
+card.lightning_rod.lore.1,4턴마다 번개가 내리쳐
+card.lightning_rod.lore.2,인접한 개체나 구조물에
+card.lightning_rod.lore.3,3 피해를 입힙니다
+card.outpost,전초기지
+card.outpost.lore.0,전초기지를 설치해
+card.outpost.lore.1,턴이 종료될 때마다
+card.outpost.lore.2,인접한 칸에 2 피해를
+card.outpost.lore.3,입힙니다
+card.pitcher_plant,벌레잡이풀
+card.pitcher_plant.lore.0,
+card.sculk_block,스컬크
+card.sculk_block.lore.0,스컬크를 설치합니다.
+card.sculk_block.lore.1,파괴 시 +3xp를 얻습니다
+card.sculk_catalyst,스컬크 촉매
+card.sculk_catalyst.lore.0,"개체가 사망할 시,"
+card.sculk_catalyst.lore.1,해당 위치에 스컬크를
+card.sculk_catalyst.lore.2,설치합니다.
+card.sculk_sensor,스컬크 감지체
+card.sculk_sensor.lore.0,발동 시 모든
+card.sculk_sensor.lore.1,스컬크 비명체를
+card.sculk_sensor.lore.2,활성화합니다
+card.sculk_shrieker,스컬크 비명체
+card.sculk_shrieker.lore.0,상대 개체가 인접한 칸에
+card.sculk_shrieker.lore.1,"도달할 시, 무작위 스컬크 "
+card.sculk_shrieker.lore.2,계열 카드를 얻습니다
+card.sculk_shrieker.lore.3,게임 동안 4번 활성화될 시
+card.sculk_shrieker.lore.4,워든을 얻습니다
+card.skeleton_trap,스켈레톤 함정
+card.skeleton_trap.lore.0,발동 시 해당 칸에
+card.skeleton_trap.lore.1,번개를 소환해 7 피해를 주고
+card.skeleton_trap.lore.2,무작위 위치에 스켈레톤 기수를
+card.skeleton_trap.lore.3,2마리 소환하는 함정을
+card.skeleton_trap.lore.4,설치합니다
+card.spawner,좀벌레 생성기
+card.spawner.lore.0,매 턴마다 좀벌레 1마리를
+card.spawner.lore.1,무작위 위치에 소환합니다.
+card.spawner.lore.2,보드에 좀벌레가 4마리
+card.spawner.lore.3,"이상 있을 경우, 더 이상 "
+card.spawner.lore.4,소환하지 않습니다
+card.suspicious_sand,수상한 모래
+card.suspicious_sand.lore.0,수상한 모래를 설치합니다.
+card.suspicious_sand.lore.1,파괴 시 무작위 아이템을
+card.suspicious_sand.lore.2,얻습니다
+card.targets,과녁
+card.targets.lore.0,과녁을 설치합니다.
+card.targets.lore.1,인접한 원거리 개체에 
+card.targets.lore.2,+1 공격력을 부여합니다
+card.vault,금고
+card.vault.lore.0,금고를 설치합니다. 4턴마다 
+card.vault.lore.1,"카드 하나를 생성해 저장하며, "
+card.vault.lore.2,파괴 시 이를 회수합니다
+card.water,물
+card.water.lore.0,물 양동이를 설치합니다.
+card.water.lore.1,인접한 수생 개체에 신속 효과를 
+card.water.lore.2,"부여하고, 인접한 블레이즈에 "
+card.water.lore.3,"피해를 주며, 인접한 개체의"
+card.water.lore.4,불을 꺼트립니다.
+card.well,우물
+card.well.lore.0,우물을 설치합니다.
+card.well.lore.1,매 턴마다 인접한 개체의
+card.well.lore.2,체력을 2 회복합니다
+card.witch_hut,마녀 오두막
+card.witch_hut.lore.0,마녀 오두막을 설치합니다.
+card.witch_hut.lore.1,"물약을 사용 시, +3xp를 얻습니다"
+card.wither_trap,위더 함정
+card.wither_trap.lore.0,발동 시 해당 개체에
+card.wither_trap.lore.1,6 위더 피해를 입힙니다
+card.wither_trap.lore.2,
+card.enderman,엔더맨
+card.enderman.lore.0,
+card.endermite,엔더마이트
+card.endermite.lore.0,
+card.ender_dragon,엔더 드래곤
+card.ender_dragon.lore.0,턴이 시작할 때마다
+card.ender_dragon.lore.1,보드 위의 엔드 수정마다
+card.ender_dragon.lore.2,체력을 2 회복합니다
+card.end_crystal,엔드 수정
+card.end_crystal.lore.0,파괴 시 폭발해
+card.end_crystal.lore.1,인접한 칸에
+card.end_crystal.lore.2,5 피해를 입힙니다
+card.phantom,팬텀
+card.phantom.lore.0,
+card.shulker,셜커
+card.shulker.lore.0,
+card.steve,스티브
+card.steve.lore.0,
+card.baby_magma_cube,작은 마그마 큐브
+card.baby_magma_cube.lore.0,
+card.blaze,블레이즈
+card.blaze.lore.0,대상에게 추가적으로 
+card.blaze.lore.1,3 화염 피해를 입힙니다.
+card.hoglin,호글린
+card.hoglin.lore.0,
+card.magma_cube,마그마 큐브
+card.magma_cube.lore.0,"사망 시, 작은 마그마 큐브"
+card.magma_cube.lore.1,여럿을 자신의 칸과
+card.magma_cube.lore.2,좌우 칸에 소환합니다.
+card.magma_cube.lore.3,
+card.piglin,피글린
+card.piglin.lore.0,
+card.piglin_brute,난폭한 피글린
+card.piglin_brute.lore.0,
+card.strider,스트라이더
+card.strider.lore.0,
+card.wither,위더
+card.wither.lore.0,턴이 종료될 때마다 
+card.wither.lore.1,체력을 1 회복합니다.
+card.wither_skeleton,위더 스켈레톤
+card.wither_skeleton.lore.0,대상에게 추가적으로 
+card.wither_skeleton.lore.1,4 위더 피해를 입힙니다.
+card.zoglin,조글린
+card.zoglin.lore.0,
+card.zombified_piglin,좀비화 피글린
+card.zombified_piglin.lore.0,
+card.armorsmith,갑옷 제작인
+card.armorsmith.lore.0,턴이 종료될 때마다
+card.armorsmith.lore.1,무작위 아군 개체에
+card.armorsmith.lore.2,1 갑옷을 부여합니다.
+card.armorsmith.lore.3,[에메랄드] 내 영웅에 1 갑옷을 부여합니다
+card.axolotl,아홀로틀
+card.axolotl.lore.0,"최대 체력이 아닐 경우,"
+card.axolotl.lore.1,죽은 척을 해 투명화 효과를
+card.axolotl.lore.2,얻고 체력을 회복합니다
+card.baby_slime,작은 슬라임
+card.baby_slime.lore.0,
+card.bee,꿀벌
+card.bee.lore.0,대상에게 추가적으로 
+card.bee.lore.1,3 독 피해를 입힙니다.
+card.bee.lore.2,
+card.bogged,보그드
+card.bogged.lore.0,대상에게 추가적으로 
+card.bogged.lore.1,2 독 피해를 입힙니다.
+card.butcher,도살업자
+card.butcher.lore.0,패시브 개체가 사망 시
+card.butcher.lore.1,에메랄드를 얻습니다
+card.butcher.lore.2,
+card.camel,낙타
+card.camel.lore.0,
+card.camel_husk,낙타 허스크
+card.camel_husk.lore.0,일정량 피해를 
+card.camel_husk.lore.1,입은 채로 소환됩니다
+card.cave_spider,동굴 거미
+card.cave_spider.lore.0,대상에게 추가적으로 
+card.cave_spider.lore.1,3 독 피해를 입힙니다.
+card.charged_creeper,충전된 크리퍼
+card.charged_creeper.lore.0,공격 시 점화해
+card.charged_creeper.lore.1,턴이 종료될 때 폭발하여
+card.charged_creeper.lore.2,2칸 범위 내의 대상에게
+card.charged_creeper.lore.3,대량의 피해를 입힙니다.
+card.chicken,닭
+card.chicken.lore.0,
+card.cleric,성직자
+card.cleric.lore.0,턴이 종료될 때마다
+card.cleric.lore.1,무작위 아군 개체의
+card.cleric.lore.2,체력을 5 회복합니다
+card.copper_golem,구리 골렘
+card.copper_golem.lore.0,대상을 구리 골렘의
+card.copper_golem.lore.1,반대편으로 이동시킵니다
+card.creeper,크리퍼
+card.creeper.lore.0,공격 시 점화해 턴이 
+card.creeper.lore.1,종료될 때 폭발하여 인접한 
+card.creeper.lore.2,대상에게 피해를 입힙니다
+card.cub,아기 북극곰
+card.cub.lore.0,
+card.dolphin,돌고래
+card.dolphin.lore.0,"소환 시, 모든 "
+card.dolphin.lore.1,수생 개체의 체력을 1 회복하고 
+card.dolphin.lore.2,최대 체력을 1 증가시킵니다
+card.drowned,드라운드
+card.drowned.lore.0,보드 위에 드라운드가 
+card.drowned.lore.1,"3마리 이상일 시, +2 사거리 및"
+card.drowned.lore.2,+3 공격력을 부여받습니다
+card.elder_guardian,엘더 가디언
+card.elder_guardian.lore.0,
+card.evoker,소환사
+card.evoker.lore.0,턴이 종료될 때마다
+card.evoker.lore.1,벡스를 소환합니다
+card.farmer,농부
+card.farmer.lore.0,[에메랄드] 빵을 얻습니다
+card.farmer.lore.1,
+card.fletcher,화살 제조인
+card.fletcher.lore.0,턴이 종료될 때마다
+card.fletcher.lore.1,인접한 상대 원거리 개체
+card.fletcher.lore.2,수만큼 에메랄드를 얻습니다
+card.fletcher.lore.3,
+card.fox,여우
+card.fox.lore.0,"소환 시, 카드를 "
+card.fox.lore.1,하나 얻습니다
+card.frog,개구리
+card.frog.lore.0,
+card.goat,염소
+card.goat.lore.0,
+card.guardian,가디언
+card.guardian.lore.0,
+card.horse,말
+card.horse.lore.0,
+card.husk,허스크
+card.husk.lore.0,최대 체력이 증가한 
+card.husk.lore.1,상태로 소환됩니다
+card.iron_golem,철 골렘
+card.iron_golem.lore.0,
+card.killer_rabbit,살인 토끼
+card.killer_rabbit.lore.0,
+card.librarian,사서
+card.librarian.lore.0,사용된 마법이 부여된 책의
+card.librarian.lore.1,수만큼 최대 체력이 증가합니다.
+card.librarian.lore.2,[에메랄드] 무작위 마법 부여를 얻고
+card.librarian.lore.3,+1 공격력을 부여받습니다
+card.llama,라마
+card.llama.lore.0,
+card.mooshroom,무시룸
+card.mooshroom.lore.0,턴이 시작할 때마다
+card.mooshroom.lore.1,음식을 일정 확률로
+card.mooshroom.lore.2,얻습니다
+card.parched,파치트
+card.parched.lore.0,대상에게 5턴간
+card.parched.lore.1,나약함 효과를 부여합니다
+card.parrot,앵무새
+card.parrot.lore.0,보드 위 무작위
+card.parrot.lore.1,"아군 개체의 공격력,"
+card.parrot.lore.2,"체력, 최대 체력을"
+card.parrot.lore.3,따라합니다
+card.pig,돼지
+card.pig.lore.0,
+card.pillager,약탈자
+card.pillager.lore.0,
+card.polar_bear,북극곰
+card.polar_bear.lore.0,턴이 종료될 때마다
+card.polar_bear.lore.1,인접한 아기 북극곰당
+card.polar_bear.lore.2,+1 공격력을 부여받습니다
+card.ravager,파괴수
+card.ravager.lore.0,
+card.sheep,양
+card.sheep.lore.0,"양모가 자라, 4턴마다 "
+card.sheep.lore.1,1 갑옷을 부여받습니다
+card.silverfish,좀벌레
+card.silverfish.lore.0,"사망 시, 모든 구조물에 "
+card.silverfish.lore.1,1 피해를 입힙니다.
+card.silverfish.lore.2,"이 피해로 구조물이 파괴될 시,"
+card.silverfish.lore.3,해당 자리에 좀벌레를
+card.silverfish.lore.4,소환합니다
+card.skeleton,스켈레톤
+card.skeleton.lore.0,
+card.skeleton_horse,스켈레톤 말
+card.skeleton_horse.lore.0,
+card.slime,슬라임
+card.slime.lore.0,"사망 시, 작은 슬라임"
+card.slime.lore.1,3마리를 소환합니다
+card.sniffer,스니퍼
+card.sniffer.lore.0,"이동 시, 고대 작물"
+card.sniffer.lore.1,카드를 얻습니다
+card.sniffer.lore.2,
+card.snow_golem,눈 골렘
+card.snow_golem.lore.0,대상에게 7턴간
+card.snow_golem.lore.1,감속 효과를 
+card.snow_golem.lore.2,부여합니다
+card.spider,거미
+card.spider.lore.0,
+card.squid,오징어
+card.squid.lore.0,대상에게 5턴간
+card.squid.lore.1,실명 효과를 
+card.squid.lore.2,부여합니다
+card.stray,스트레이
+card.stray.lore.0,대상에게 4턴간
+card.stray.lore.1,감속 효과를 
+card.stray.lore.2,부여합니다
+card.tadpole,올챙이
+card.tadpole.lore.0,3턴 후에
+card.tadpole.lore.1,개구리가 됩니다
+card.tnt,Tnt
+card.tnt.lore.0,체력을 다 잃거나
+card.tnt.lore.1,설치 후 3턴이 지나면
+card.tnt.lore.2,인접한 칸에 5 피해를 주는
+card.tnt.lore.3,TNT를 설치합니다
+card.turtle,거북이
+card.turtle.lore.0,
+card.turtle_egg,거북 알
+card.turtle_egg.lore.0,6턴 후에
+card.turtle_egg.lore.1,거북이가 됩니다
+card.vex,벡스
+card.vex.lore.0,
+card.vindicator,변명자
+card.vindicator.lore.0,
+card.wandering_trader,떠돌이 상인
+card.wandering_trader.lore.0,턴이 시작할 때마다
+card.wandering_trader.lore.1,"무작위 위치로 이동하며,"
+card.wandering_trader.lore.2,사망 시 라마를 소환합니다
+card.wandering_trader.lore.3,[에메랄드] 무작위 위치에 라마를 소환합니다
+card.warden,워든
+card.warden.lore.0,이전 턴에 행동을 한
+card.warden.lore.1,개체만을 공격할
+card.warden.lore.2,수 있습니다.
+card.witch,마녀
+card.witch.lore.0,상대 개체에 디버프를
+card.witch.lore.1,부여합니다. 내 턴이 
+card.witch.lore.2,종료될 때마다 무작위 
+card.witch.lore.3,아군 개체에 버프를 부여합니다
+card.wolf,늑대
+card.wolf.lore.0,
+card.zombie,좀비
+card.zombie.lore.0,
+card.zombie_villager,좀비 주민
+card.zombie_villager.lore.0,
