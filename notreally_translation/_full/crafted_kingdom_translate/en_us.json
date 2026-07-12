@@ -1,6 +1,7 @@
 {
   "entity.minecraft.tnt": "Primed POW Block",
   "entity.minecraft.tnt_minecart": "Minecart with POW Block",
+
   "item.minecraft.music_disc_11.desc": "Break Free (Lead the Way) - Super Mario Odyssey",
   "item.minecraft.music_disc_13.desc": "Rosalina in the Observatory 3 - Super Mario Galaxy",
   "item.minecraft.music_disc_5.desc": "Stage 1 - Luigi's Ghost Mansion - Nintendo Land'",
@@ -17,6 +18,7 @@
   "item.minecraft.music_disc_wait.desc": "Peach's Castle - Mario + Rabbids Kingdom Battle",
   "item.minecraft.music_disc_ward.desc": "Theme of Super Mario Galaxy 2 - Super Mario Galaxy 2",
   "item.minecraft.music_disc_relic.desc": "Sillyfish Chuck Challenge - Mario + Rabbids Sparks of Hope",
+  
   "item.minecraft.tnt":"POW Block",
   "item.minecraft.flint_and_steel":"Fire Flower",
   "item.minecraft.tnt_minecart": "Minecart with POW Block"
