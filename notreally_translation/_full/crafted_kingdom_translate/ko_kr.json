@@ -1,0 +1,23 @@
+{
+  "entity.minecraft.tnt": "점화된 POW블록",
+  "entity.minecraft.tnt_minecart": "POW블록이 실린 광산 수레",
+  "item.minecraft.music_disc_11.desc": "Break Free (Lead the Way) - 슈퍼 마리오 오디세이",
+  "item.minecraft.music_disc_13.desc": "Rosalina in the Observatory 3 - 슈퍼 마리오 갤럭시",
+  "item.minecraft.music_disc_5.desc": "Stage 1 - Luigi's Ghost Mansion - 닌텐도 랜드",
+  "item.minecraft.music_disc_blocks.desc": "Jump Up, Super Star! - 슈퍼 마리오 오디세이",
+  "item.minecraft.music_disc_cat.desc": "Secret Course - 슈퍼 마리오 선샤인",
+  "item.minecraft.music_disc_chirp.desc": "Super Mario Galaxy - 슈퍼 마리오 갤럭시",
+  "item.minecraft.music_disc_far.desc": "Piranha Plant's Lullaby (Piano) - 슈퍼 마리오 64",
+  "item.minecraft.music_disc_mall.desc": "Gusty Garden Galaxy - 슈퍼 마리오 갤럭시",
+  "item.minecraft.music_disc_mellohi.desc": "Credits - 마리오 카트 8 디럭스",
+  "item.minecraft.music_disc_otherside.desc": "Yoshi's Island - 마리오 카트 8 디럭스",
+  "item.minecraft.music_disc_pigstep.desc": "Bowser's Castle - 마리오 카트 8 디럭스",
+  "item.minecraft.music_disc_stal.desc": "The Grand Finale - 마리오 & 루이지: 쿠파 몸속 대모험 + 쿠파주니어의 여행",
+  "item.minecraft.music_disc_strad.desc": "World Star - 슈퍼 마리오 3D 월드",
+  "item.minecraft.music_disc_wait.desc": "Peach's Castle - 마리오 + 래비드 킹덤 배틀",
+  "item.minecraft.music_disc_ward.desc": "Theme of Super Mario Galaxy 2 - 슈퍼 마리오 갤럭시 2",
+  "item.minecraft.music_disc_relic.desc": "Sillyfish Chuck Challenge - 마리오 + 래비드 반짝이는 희망",
+  "item.minecraft.tnt":"POW블록",
+  "item.minecraft.flint_and_steel":"파이어플라워",
+  "item.minecraft.tnt_minecart": "POW블록이 실린 광산 수레"
+}
