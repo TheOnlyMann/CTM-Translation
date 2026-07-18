@@ -1619,13 +1619,13 @@
 
     "lexica.cartographer.enchantment.decontaminate.desc.1": "%1$s: 사용자가 새로운 디버프에",
     "lexica.cartographer.enchantment.decontaminate.desc.2": "걸렸을 경우, %2$s 확률로",
-    "lexica.cartographer.enchantment.decontaminate.desc.3": "%3$s %4$s 효과를 받습니다.",
+    "lexica.cartographer.enchantment.decontaminate.desc.3": "%3$s 효과를 %4$s간 받습니다.",
     "lexica.cartographer.enchantment.decontaminate.desc.4": "",
 
     "lexica.cartographer.enchantment.decontaminate.with.1": "랜덤",
     "lexica.cartographer.enchantment.decontaminate.with.2": "[레벨당 5%]",
     "lexica.cartographer.enchantment.decontaminate.with.3": "정화",
-    "lexica.cartographer.enchantment.decontaminate.with.4": "(00:02)",
+    "lexica.cartographer.enchantment.decontaminate.with.4": "2초",
 
 
     "lexica.cartographer.enchantment.evasion.desc.1": "%1$s: %2$s %3$s 효과를 받습니다.",
@@ -1675,7 +1675,7 @@
 
 
     "lexica.cartographer.enchantment.regeneration.desc.1": "%1$s: %3$s 간격으로",
-    "lexica.cartographer.enchantment.regeneration.desc.2": "%2$를 회복합니다.",
+    "lexica.cartographer.enchantment.regeneration.desc.2": "%2$s를 회복합니다.",
     "lexica.cartographer.enchantment.regeneration.desc.3": "레벨당 치유 사이 간격이",
     "lexica.cartographer.enchantment.regeneration.desc.4": "%4$s 감소합니다.",
 
@@ -2131,16 +2131,16 @@
     "lexica.cartographer.enchantment.concentration.with.2": "+[2 × 레벨]",
 
 
-    "lexica.cartographer.enchantment.duelist.desc.1": "%1$s: 대상이 %2$s 유형일 경우",
-    "lexica.cartographer.enchantment.duelist.desc.2": "%3$s 추가 피해를 입힙니다.",
+    "lexica.cartographer.enchantment.duelist.desc.1": "%1$s: 대상이 %3$s 유형일 경우",
+    "lexica.cartographer.enchantment.duelist.desc.2": "%2$s 추가 피해를 입힙니다.",
 
     "lexica.cartographer.enchantment.duelist.with.1": "공격 시",
     "lexica.cartographer.enchantment.duelist.with.2": "+[2 × 레벨]",
     "lexica.cartographer.enchantment.duelist.with.3": "인간형",
 
 
-    "lexica.cartographer.enchantment.hunter.desc.1": "%1$s: 대상이 %2$s 유형일 경우",
-    "lexica.cartographer.enchantment.hunter.desc.2": "%3$s 추가 피해를 입힙니다.",
+    "lexica.cartographer.enchantment.hunter.desc.1": "%1$s: 대상이 %3$s 유형일 경우",
+    "lexica.cartographer.enchantment.hunter.desc.2": "%2$s 추가 피해를 입힙니다.",
 
     "lexica.cartographer.enchantment.hunter.with.1": "공격 시",
     "lexica.cartographer.enchantment.hunter.with.2": "+[2 × 레벨]",
@@ -2532,13 +2532,13 @@
 
     "lexica.cartographer.enchantment_curse.annulling.desc.1": "%1$s: 사용자가 새로운 버프에",
     "lexica.cartographer.enchantment_curse.annulling.desc.2": "걸렸을 경우, %2$s 확률로",
-    "lexica.cartographer.enchantment_curse.annulling.desc.3": "%3$s %4$s 효과를 받습니다.",
+    "lexica.cartographer.enchantment_curse.annulling.desc.3": "%3$s 효과를 %4$s간 받습니다.",
     "lexica.cartographer.enchantment_curse.annulling.desc.4": "",
 
     "lexica.cartographer.enchantment_curse.annulling.with.1": "랜덤",
     "lexica.cartographer.enchantment_curse.annulling.with.2": "[레벨당 5%]",
     "lexica.cartographer.enchantment_curse.annulling.with.3": "저해",
-    "lexica.cartographer.enchantment_curse.annulling.with.4": "(00:02)",
+    "lexica.cartographer.enchantment_curse.annulling.with.4": "2초",
 
     
     "lexica.cartographer.enchantment_curse.clumsiness.desc.1": "%1$s: 사용자는 낙하 피해를 입을 시",
@@ -2563,8 +2563,8 @@
     "lexica.cartographer.enchantment_curse.crippling.with.2": "4초",
 
 
-    "lexica.cartographer.enchantment_curse.crumbling.desc.1": "%1$s: 확률적으로",
-    "lexica.cartographer.enchantment_curse.crumbling.desc.2": "%2$s마다 내구도 1을 잃습니다.",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.1": "%1$s: %2$s 확률로",
+    "lexica.cartographer.enchantment_curse.crumbling.desc.2": "%3$s마다 내구도 1을 잃습니다.",
     "lexica.cartographer.enchantment_curse.crumbling.desc.3": "이 저주는 아이템의 내구도를",
     "lexica.cartographer.enchantment_curse.crumbling.desc.4": "최대 내구도의 10%% 미만으로",
     "lexica.cartographer.enchantment_curse.crumbling.desc.5": "떨어트릴 수 없습니다.",
