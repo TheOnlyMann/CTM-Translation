@@ -1,10 +1,7 @@
 {
-  "language.name": "English",
-  "language.region": "United States",
-  "language.code": "en_us",
-  
-  #Lobby Sign
-  
+
+  //Lobby_Sign
+
   "ctt_Lobby_Sign_1":"Command",   
   "ctt_Lobby_Sign_2":"Guide",
   
@@ -185,7 +182,7 @@
   "ctt_Lobby_Sign_121":"Training",
   "ctt_Lobby_Sign_122":"Grounds",
 
-  "ctt_Lobby_Sign_123":"Cemetery",
+  "ctt_Lobby_Sign_123":"Graveyard",
 
   "ctt_Lobby_Sign_124":"Mini Games",
   
@@ -242,7 +239,13 @@
   "ctt_Lobby_Sign_163":"recommended",
   "ctt_Lobby_Sign_164":"for Towers",
 
-  #Lobby Command Block
+  "ctt_Lobby_Sign_165":"Western",
+  "ctt_Lobby_Sign_166":"Lake",
+
+  "ctt_Lobby_Sign_167":"Press this button",
+  "ctt_Lobby_Sign_168":"if you are stuck",
+
+  //Lobby_Command_Block
 
   "ctt_Lobby_Command_Block_1":"If for any reason the game glitches out and",
   "ctt_Lobby_Command_Block_2":"\nyou are stuck in a level with no way of escaping,",
@@ -300,7 +303,7 @@
   "ctt_Lobby_Command_Block_51":"   [Max Stamina]",
   "ctt_Lobby_Command_Block_52":"This is how much Stamina you have\n\nStamina is used for various special abilities that Melee Weapons have",
   "ctt_Lobby_Command_Block_53":"\n[Archery]",
-  "ctt_Lobby_Command_Block_54":"Archery boosts the damage of ranged weapons.\n\nArchery also provides Arrows OR Bullets every break room. and Soul Arrows/Bullets too Press shift with the soul ammo to change which one you get",
+  "ctt_Lobby_Command_Block_54":"Archery boosts the damage of ranged weapons.\n\nArchery also provides Arrows OR Bullets every break room. and Soul Arrows/Bullets too Type /trigger ToggleSoulAmmo to change which one you get",
   "ctt_Lobby_Command_Block_55":"   [Defence]",
   "ctt_Lobby_Command_Block_56":"Defence decreases the amount of damage you take\n\n20 Defence is the Maximum, any additional Defence is True Armor Instead",
   "ctt_Lobby_Command_Block_57":"   [True Armor]",
@@ -318,9 +321,9 @@
   "ctt_Lobby_Command_Block_69":"   [Water Armor]",
   "ctt_Lobby_Command_Block_70":"Behaves like Defence but only for Water Attacks\n\nAlso allows you to hold your breath underwater longer",
   "ctt_Lobby_Command_Block_71":"\n[Electric Armor]",
-  "ctt_Lobby_Command_Block_72":"Behaves like Defence but only for Electric Attacks",
+  "ctt_Lobby_Command_Block_72":"Behaves like Defence but only for Electric Attacks\n\nChance to Electricute nearby enemies when you take damage",
   "ctt_Lobby_Command_Block_73":"   [Ice Armor]",
-  "ctt_Lobby_Command_Block_74":"Behaves like Defence but only for Ice Attacks\n\nChance to freeze enemies when you take damage\n\nChance to Electricute nearby enemies when you take damage",
+  "ctt_Lobby_Command_Block_74":"Behaves like Defence but only for Ice Attacks\n\nChance to freeze enemies when you take damage",
   "ctt_Lobby_Command_Block_75":"   [Dark Armor]",
   "ctt_Lobby_Command_Block_76":"Behaves like Defence but only for Dark Attacks\n\nGain 2 Black Hearts per Dark Armor every Break Room",
   "ctt_Lobby_Command_Block_77":"\n[Light Armor]",
@@ -376,17 +379,23 @@
   "ctt_Lobby_Command_Block_124":"GuideRealm",
   "ctt_Lobby_Command_Block_125":"Click Here",
 
-  #Lobby_Book
+  "ctt_Lobby_Command_Block_126":"   [ Cracked Hearts ]",
+  "ctt_Lobby_Command_Block_127":"When your total health is below the number of Cracked Hearts you have, you will die",
 
-  "ctt_Lobby_Book_1":"Horriculture Growth Stimulatior Experiemnt\n==================\nSpecimen 1:\n\nRosa Ignus\n\"§cFire Rose§0\"\n\n==================\n\nStart date:\nSeptember 21st 2023\n\n==================\n",
-  "ctt_Lobby_Book_2":"Day 1:\n\nSpecimen has been injected with artifical grown stimulant\n\ncurrently being kept in medical tent\n\nno notable results so far\n",
-  "ctt_Lobby_Book_3":"Day 3:\n\nSubject is growing faster than typical, but has not gotten larger than any recorded instances\n\nSubject moved to experimental flower garden so roots can spread\n",
-  "ctt_Lobby_Book_4":"Day 4:\n\nSubject seems to be producing more heat that others of it's species\n\nNearby flowers also seem to be growing larger\n",
-  "ctt_Lobby_Book_5":"Day 7\n\nFlower has grown to about 7 meters tall, about 6 1/2 meters taller than the larges recorded specimen\n\nHeat produced by specimen is starting to become detrimemtal to nearby vegetation and uncomfortable to humans\n",
-  "ctt_Lobby_Book_6":"Day 9\n\nLarge explosion heard from site of specimen at apoxamately 2:23 AM\n\nCurrently investigating along with group doctor\n",
-  "ctt_Lobby_Book_7":"Day 10\n\nFlower appears to have ignited the area surounding it, along with nearby Clematis Fragor growths causing small explosion\n\nno damage to reasearch tent, flames under control\n",
-  "ctt_Lobby_Book_8":"Day 11\n\nFalmes have stopped spreading, but have yet to disipate without outside intervention\n\nForcasted rain will likely extenguish flames\n\nSpecimen has stunted growth\n",
-  "ctt_Lobby_Book_9":"Day 13\n\nFlame rekindled day after rainstorm, cause currently unknown\n\nall experimentiation with specimen 1 shall be halted for the time being, growth serum to be further developed and experimented with\n",
+  "ctt_Lobby_Command_Block_128":"   [ Pink Hearts ]",
+  "ctt_Lobby_Command_Block_129":"Because your cracked Hearts are in the negatives, they have become Pink Hearts and will heal you when you're low",
+
+  //Lobby_Book
+
+  "ctt_Lobby_Book_1":"Horriculture Growth\nStimulant Experimant\n===================\nSpecimen 1:\n\nRosa Ignus\n\"Fire Rose\"\n\n===================\n\nStart Date:\nSeptember 21st 2022\n\n===================",
+  "ctt_Lobby_Book_2":"Day 1\n\nSpecimen has been injected with artificial growth stimulant\n\nSpecimen being kept in medical tent\n\nNo observable results so far",
+  "ctt_Lobby_Book_3":"Day 3\n\nSubject has grown significantly quicker, size has not exceeded the largest recorded instance\n\nSubject moved to newly constructed Experimental Flower Garden so roots can spread",
+  "ctt_Lobby_Book_4":"Day 4\n\nSubject is producing more heat than typical of its genus\n\nNearby flora seem to have to be maturing quicker",
+  "ctt_Lobby_Book_5":"Day 7\n\nSubject has grown near 4 meters tall.\n 3.4 meters larger than typical\n\nHeat produced by subject has increased to a degree that it is harming nearby vegitation and deemed uncomfortable for humans",
+  "ctt_Lobby_Book_6":"Day 9\n\nLarge explosion heard from sight of experiment at approximately 3:23 AM\n\nCurrently investigating alongside group doctor",
+  "ctt_Lobby_Book_7":"Day 10\n\nSubject has grown to  over 7 meters tall, nearby earth has been scorched and several Clematis Fragor specimens were damage, resulting in large audible explosion\npreviously recorded\n\n",
+  "ctt_Lobby_Book_8":"Day 11\n\nSmall flames have appeared surrounding the specimen. they do not extenguish without outside intervention\n\nForecasted Rain likely to extenguish all flames\n\nSpecimen\'s growth has\nseemingly stunted",
+  "ctt_Lobby_Book_9":"Day 13\n\nFlames reignited shortly after end of rainstorm\n\nExperiment has been halted for the time being in order to prevent damages\n\ngrowth stimulant sill being tweaked",
 
   "ctt_Lobby_Book_10":"Horriculture Growth\nStimulant Experiment\n===================\nSpecimen 7:\n\nTulipa Gelus\n\"Ice Tulip\"\n\n===================\n\nStart date:\nJuly 7th 2024\n\n==================",
   "ctt_Lobby_Book_11":"Day 0\n\nSpecimen selected and experimination of growth stimulant resumed at request of associate\n\nassociate wishes for easy accses to snow and ice year round in temperant eviroment\n(lack of frezer also given as reason)",
@@ -422,9 +431,15 @@
   "ctt_Lobby_Book_32":"Step 3 Still not working.\n\nIf your item textures and models are still not working after following the previous steps. You can ask for help on the discord\n\ntype /trigger Discord for the link, me, and some others can help!",
   "ctt_Lobby_Book_33":"Hello there ;)",
 
-  #Difficulty_Sign
+  "ctt_Lobby_Book_34":"Main Developer\n\n- Swanlet\n\nCo-Developers\n\n- blahblahben\n- Super1026\n\nSprite Artists\n\n- Swanlet\n- blahblahben\n- MadiBerry\n",
+  "ctt_Lobby_Book_35":"Sprite Artists cont.\n\n- deadmallsara\n- silly_squirrel\n- DqyNqght\n- Nikkow27\n- Fishvi\n- Kyrie_Gamin\n\nMap Makers\n- Swanlet\n- blahblahben\n- Super1026\n- silly_squirrel",
+  "ctt_Lobby_Book_36":"Map Makers cont.\n\n- VisionOH\n- Hunter_CX129\n- _Traz\n- TheIdiotGamer\n- KaeltenCraft\n- Fishvi\n- MCHolyLord\n- Crescendon\'t\n- Kyrie_Gamin",
 
-  "ctt_Difficulty_Sign_1":"Difficulty",
+  "ctt_Lobby_Book_37":"",
+
+  //Difficulty_Sign
+
+  "ctt_Difficulty_Sign_1":"Difficulty", 
 
   "ctt_Difficulty_Sign_2":"Story",
   "ctt_Difficulty_Sign_3":"(-5 Skulls)",
@@ -517,5 +532,2057 @@
   "ctt_Difficulty_Sign_66":"Chapter 2",
 
   "ctt_Difficulty_Sign_67":"Class",
-  "ctt_Difficulty_Sign_68":"Select"
+  "ctt_Difficulty_Sign_68":"Select",
+
+  "ctt_Difficulty_Sign_69":"Modifiers",
+
+  "ctt_Difficulty_Sign_70":"MODIFIERS OF",
+  "ctt_Difficulty_Sign_71":"THE WEEK",
+
+  "ctt_Difficulty_Sign_72":"Hardcore Mode",
+  "ctt_Difficulty_Sign_73":"(+2 Skulls)",
+
+  "ctt_Difficulty_Sign_74":"No extra lives,",
+  "ctt_Difficulty_Sign_75":"drop items on",
+  "ctt_Difficulty_Sign_76":"death, no using",
+  "ctt_Difficulty_Sign_77":"continues",
+
+  "ctt_Difficulty_Sign_78":"Glass Bones",
+  "ctt_Difficulty_Sign_79":"Mode",
+  "ctt_Difficulty_Sign_80":"(+2 Skulls)",
+
+  "ctt_Difficulty_Sign_81":"Taking damage",
+  "ctt_Difficulty_Sign_82":"has a chance to",
+  "ctt_Difficulty_Sign_83":"give you",
+  "ctt_Difficulty_Sign_84":"broken bones",
+
+  "ctt_Difficulty_Sign_85":"Bloodless Mode",
+  "ctt_Difficulty_Sign_86":"(+2 Skulls)",
+
+  "ctt_Difficulty_Sign_87":"Red Heart healing",
+  "ctt_Difficulty_Sign_88":"and gaining Soul",
+  "ctt_Difficulty_Sign_89":"or Black Hearts",
+  "ctt_Difficulty_Sign_90":"are halved",
+
+  "ctt_Difficulty_Sign_91":"Cursed Blade",
+  "ctt_Difficulty_Sign_92":"Mode",
+  "ctt_Difficulty_Sign_93":"(+1 Skull)",
+
+  "ctt_Difficulty_Sign_94":"Start the run with",
+  "ctt_Difficulty_Sign_95":"a powerful sword;",
+  "ctt_Difficulty_Sign_96":"however, any",
+  "ctt_Difficulty_Sign_97":"damage kills you",
+
+  "ctt_Difficulty_Sign_98":"Haunted Mode",
+  "ctt_Difficulty_Sign_99":"(+3 Skulls)",
+
+  "ctt_Difficulty_Sign_100":"A ghost is always",
+  "ctt_Difficulty_Sign_101":"chasing you; if he",
+  "ctt_Difficulty_Sign_102":"catches you,",
+  "ctt_Difficulty_Sign_103":"you die instantly",
+
+  "ctt_Difficulty_Sign_104":"Healthy Mode",
+  "ctt_Difficulty_Sign_105":"(+1 Skull)",
+
+  "ctt_Difficulty_Sign_106":"All enemies have",
+  "ctt_Difficulty_Sign_107":"30% more health",
+  "ctt_Difficulty_Sign_108":"(Bosses only get",
+  "ctt_Difficulty_Sign_109":"20% more)",
+
+  "ctt_Difficulty_Sign_110":"Festive Mode",
+  "ctt_Difficulty_Sign_111":"(-1 Skull)",
+
+  "ctt_Difficulty_Sign_112":"Start the run",
+  "ctt_Difficulty_Sign_113":"with a Present",
+
+  "ctt_Difficulty_Sign_114":"Buddy System",
+  "ctt_Difficulty_Sign_115":"Mode",
+  "ctt_Difficulty_Sign_116":"(+1 Skulls)",
+
+  "ctt_Difficulty_Sign_117":"Stay near your",
+  "ctt_Difficulty_Sign_118":"teammates, or",
+  "ctt_Difficulty_Sign_119":"you\'ll start",
+  "ctt_Difficulty_Sign_120":"taking damage",
+
+  "ctt_Difficulty_Sign_121":"Elemental Mode",
+  "ctt_Difficulty_Sign_122":"(+1 Skulls)",
+
+  "ctt_Difficulty_Sign_123":"All enemies",
+  "ctt_Difficulty_Sign_124":" get random",
+  "ctt_Difficulty_Sign_125":"elemental armor",
+  "ctt_Difficulty_Sign_126":"and damage",
+
+  "ctt_Difficulty_Sign_127":"Greed Mode",
+  "ctt_Difficulty_Sign_128":"(-1 Skull)",
+
+  "ctt_Difficulty_Sign_129":"Shop items are",
+  "ctt_Difficulty_Sign_130":"cheaper, but",
+  "ctt_Difficulty_Sign_131":"enemies deal",
+  "ctt_Difficulty_Sign_132":"more damage",
+
+  "ctt_Difficulty_Sign_133":"Speedrunner",
+  "ctt_Difficulty_Sign_134":"Mode",
+  "ctt_Difficulty_Sign_135":"(+2 Skulls)",
+
+  "ctt_Difficulty_Sign_136":"Start with +5",
+  "ctt_Difficulty_Sign_137":"Speed but the",
+  "ctt_Difficulty_Sign_138":"game runs",
+  "ctt_Difficulty_Sign_139":"faster",
+
+  "ctt_Difficulty_Sign_140":"Glass Cannon",
+  "ctt_Difficulty_Sign_141":"Mode",
+  "ctt_Difficulty_Sign_142":"(-3 Skulls)",
+
+  "ctt_Difficulty_Sign_143":"All damage",
+  "ctt_Difficulty_Sign_144":"(Players and",
+  "ctt_Difficulty_Sign_145":"enemies)",
+  "ctt_Difficulty_Sign_146":"is doubled",
+
+  "ctt_Difficulty_Sign_147":"Choices Mode",
+  "ctt_Difficulty_Sign_148":"(-1 Skull)",
+
+  "ctt_Difficulty_Sign_149":"One extra",
+  "ctt_Difficulty_Sign_150":"dungeon choice",
+  "ctt_Difficulty_Sign_151":"in the Break Room",
+
+  "ctt_Difficulty_Sign_152":"Jelly Trials",
+
+  "ctt_Difficulty_Sign_153":"WARNING:",
+  "ctt_Difficulty_Sign_154":"Once activated,",
+  "ctt_Difficulty_Sign_155":"gamemode will",
+  "ctt_Difficulty_Sign_156":"instantly start",
+
+  "ctt_Difficulty_Sign_157":"Complete parkour",
+  "ctt_Difficulty_Sign_158":"challenges, using",
+  "ctt_Difficulty_Sign_159":"Swan Jelly\'s",
+  "ctt_Difficulty_Sign_160":"movement abilities",
+
+  "ctt_Difficulty_Sign_161":"The Race",
+
+  "ctt_Difficulty_Sign_162":"Play The Race",
+  "ctt_Difficulty_Sign_163":"on loop, and",
+  "ctt_Difficulty_Sign_164":"compete for the",
+  "ctt_Difficulty_Sign_165":"fastest time",
+
+  "ctt_Difficulty_Sign_166":"Snowball",
+  "ctt_Difficulty_Sign_167":"Civilization",
+
+  "ctt_Difficulty_Sign_168":"A PvP",
+  "ctt_Difficulty_Sign_169":"Snowball Fight",
+  "ctt_Difficulty_Sign_170":"(Requires",
+  "ctt_Difficulty_Sign_171":"2+ Players)",
+
+  "ctt_Difficulty_Sign_172":"Magum",
+  "ctt_Difficulty_Sign_173":"Trials",
+
+  "ctt_Difficulty_Sign_174":"Endure Magum\'s",
+  "ctt_Difficulty_Sign_175":"training to",
+  "ctt_Difficulty_Sign_176":"become stronger",
+  "ctt_Difficulty_Sign_177":"in this roguelite",
+
+  "ctt_Difficulty_Sign_178":"Muck Survivor",
+
+  "ctt_Difficulty_Sign_179":"Join Cpt. Blossom",
+  "ctt_Difficulty_Sign_180":"and his crew to",
+  "ctt_Difficulty_Sign_181":"fight enemies on",
+  "ctt_Difficulty_Sign_182":"Muck Island",
+
+  "ctt_Difficulty_Sign_183":"The Heart of",
+  "ctt_Difficulty_Sign_184":"Otherside Mission",
+
+  "ctt_Difficulty_Sign_185":"Cake Team\'s first",
+  "ctt_Difficulty_Sign_186":"story-driven",
+  "ctt_Difficulty_Sign_187":"mission outside",
+  "ctt_Difficulty_Sign_188":"of the Tower",
+
+  "ctt_Difficulty_Sign_189":"Return",
+
+  "ctt_Difficulty_Sign_190":"Load Profile",
+
+  "ctt_Difficulty_Sign_191":"Load a",
+  "ctt_Difficulty_Sign_192":"previous run,",
+  "ctt_Difficulty_Sign_193":"if you\'ve saved",
+  "ctt_Difficulty_Sign_194":"a game before",
+
+  "ctt_Difficulty_Sign_195":"(TIP:",
+  "ctt_Difficulty_Sign_196":"Use /trigger",
+  "ctt_Difficulty_Sign_197":"SaveAndQuit to",
+  "ctt_Difficulty_Sign_198":"save a game)",
+
+  "ctt_Difficulty_Sign_199":"Default Mode",
+
+  "ctt_Difficulty_Sign_200":"Reach the top",
+  "ctt_Difficulty_Sign_201":"of the Tower",
+
+  //Difficulty_Command_Block
+
+  "ctt_Difficulty_Command_Block_1":"The Difficulty has been set to ",
+  "ctt_Difficulty_Command_Block_2":"☀ECLIPSE☽",
+  "ctt_Difficulty_Command_Block_3":"NIGHTMARE",
+  "ctt_Difficulty_Command_Block_4":"Hard",
+  "ctt_Difficulty_Command_Block_5":"Normal",
+  "ctt_Difficulty_Command_Block_6":"Story",
+
+  "ctt_Difficulty_Command_Block_7":"50 Floors Mode",
+  "ctt_Difficulty_Command_Block_8":" Selected",
+  "ctt_Difficulty_Command_Block_9":"30 Floors Mode",
+  "ctt_Difficulty_Command_Block_10":"15 Floors Mode",
+  "ctt_Difficulty_Command_Block_11":"Boss Rush #1",
+  "ctt_Difficulty_Command_Block_12":"Boss Rush #2",
+  "ctt_Difficulty_Command_Block_13":"Default Mode",
+
+  //Class_Book
+
+  "ctt_Class_Book_1":"Swan\nThe Knight\n\nThe original discoverer of the Tower, Swan is a swordsman who was cursed with frightning ambition and is excellent for beginers or advanced players!",
+  "ctt_Class_Book_2":"Laozi\nThe Tank\n\nLaozi was found unconcious at the top of the Tower, after being helped he decided to help climb the Tower.\n\nLaozi has a Defensive playstyle, he has great armor and high attack speed.",
+  "ctt_Class_Book_3":"Little Timmy \nThe Weakling\n\nLittle Timmy is a small child who ran a little too far from home when playing tag.\n\nHe stumbled upon the Tower and decided to enter it.",
+  "ctt_Class_Book_4":"Little Timmy is very fragile and cannot regenerate health.\n\nHe is the worst character in the game so it\'s not recommended to play as him unless you\'re up for a challenge.",
+  "ctt_Class_Book_5":"Joey \nThe Vampire\n\nJoey is a Variant of Super. After breaking out of the White Cake Lab with his friends, Joey decided to join Cake Team and climb the Tower. His appetite for blood grows stronger everyday.",
+  "ctt_Class_Book_6":"He acts pretty sophisticated but at times he will let out a few jokes here and there.",
+  "ctt_Class_Book_7":"B\'\nThe Brawler\n\nB\' was created by The Summoner at Henry\'s demand in order to create a version of Ben that didn\'t like bees, so that Henry could still be friends with Ben if he had to kill the original",
+  "ctt_Class_Book_8":"B\' now climbs the Tower to get revenge on the two for how he was treated in the lab, using a variety of boxing gloves to fight.\n\nHowever, problems in his genetics prevent him from using active items or magic.",
+  "ctt_Class_Book_9":"Lazy\nThe Archer\n\nA mediocre marksman- er, marksduck? Anyways, he specializes in archery, taking on enemies from a distance while his pet dog deals with enemies who come close. \n\n",
+  "ctt_Class_Book_10":"He\'s pretty cocky, thinking he can take on just about anybody in a fight. Unfortunately, he often fails miserably on account of being...not the brightest.",
+  "ctt_Class_Book_11":"Thew\nThe Gunslinger\n\nThew is a firearms expert who brings a variety of ballistic weapons to the Tower. \nThey are here on a recon mission to figure out what secrets the Tower actually contains.",
+  "ctt_Class_Book_12":"Their training on the field allows them to retrieve ammunition from fallen enemies, while also being decently quick on their feet.",
+  "ctt_Class_Book_13":"Wazy\nThe Time Ninja\n\nWazy is an Assassin hired by ??? to find someone in the Tower, he only helps Cake Team because their goals are alined at the moment",
+  "ctt_Class_Book_14":"He is a ninja that has the ability to control the hands of a clock.\nHe uses them as throwing knives, and even has special abilities related to time.\n\nHis name starts with a W, because W stands for winning, and he always Wins",
+  "ctt_Class_Book_15":"Henry\nThe Ant Leader\n\nHenry is the leader of the Ants, he has helped lead their kind to the state that they are in now.\n\nHe uses his army of Ants to help reach the top of the Tower.\n",
+  "ctt_Class_Book_16":"Henry and Ben were friends in their childhood, until the incident that gave Ben control over bees caused Henry to grow distant out of jealousy. \n\nYears later, Henry arrived at the Tower with an army of ants and tried to kill the bees himself. ",
+  "ctt_Class_Book_17":"However, he was stopped by the Tower explorers, and now has decided to join them in climbing the Tower.",
+  "ctt_Class_Book_18":"Super\nThe Mage\n\nA powerful mage who harnesses nature magic to conjure up elemental flowers from their world to fight his enemies. He\'s quite the expressive jokester, but knows just how to get the job done.",
+  "ctt_Class_Book_19":"Nelfin\nThe Protector\n\nA crystal variant Moose who traveled from a different timeline to help climb the Tower.\n\nHe is a mage that uses the energy from Otherside to fight with Magic Crystals",
+  "ctt_Class_Book_20":"Dark Swan\nThe Dark Warlock\n\nDark Swan is a variant of Swanlet... His soul substitute was a Badge of Darkness...\n\nUnlike Swan, Dark Swan is very pessimistic and edgy. He is a master of Dark Magic.",
+  "ctt_Class_Book_21":"Moose\nThe Doctor\n\nAn expert in the field of medicine and flamboyant comedy machine. He may be weak physically, but his healing is unmatched.",
+  "ctt_Class_Book_22":"Ben\nThe Beekeeper\n\nA reluctant beekeeper who stumbled upon the Tower. He somehow gained a deep connection with the bees here and can use their honey to boost his allies\' health.\nThere seems to be a war brewing though..",
+  "ctt_Class_Book_23":"Swan Jelly\nThe Jelly Man\n\nSwan Jelly is a variant of Swanlet. He is made of a jelly-like substance. This allows him to slide on walls, giving him a notable speed boost.",
+  "ctt_Class_Book_24":"His healing is focused on slow, gradual healing over time. Swan Jelly takes a lot of damage from attacks, but can regenerate it back quickly.\n\nSwan Jelly is the most laid back of all the Swans",
+  "ctt_Class_Book_25":"JJ\nThe Fisherman\n\nJJ is an aspiring fisherman who uses the Tower\'s population of fish to help keep his health high. He always seems to have a plan, but it never quite works out.\nJJ fights using large hooks and his trusty pet dog, Super Jay.",
+  "ctt_Class_Book_26":"Smash the Wildcard\n\n\nSmash is a local bread baker that decided to climb the Tower...\n\nHowever he is completly random.\n\nEvery game as him he has different items and stats",
+  "ctt_Class_Book_27":"Nut\nThe ???\n\nNobody knows who he, she, or it is",
+
+  //Class_Sign
+
+  "ctt_Class_Sign_1":"Return Back",
+  
+  //Break_Room_Sign
+
+  "ctt_Break_Room_Sign_1":"Type",
+  "ctt_Break_Room_Sign_2":"/trigger",
+  "ctt_Break_Room_Sign_3":"SaveAndQuit",
+  "ctt_Break_Room_Sign_4":"To save your",
+  "ctt_Break_Room_Sign_5":"game",
+  "ctt_Break_Room_Sign_6":"Help",
+  "ctt_Break_Room_Sign_7":"to view all",
+  "ctt_Break_Room_Sign_8":"the commands",
+  "ctt_Break_Room_Sign_9":"WarpLobby",
+  "ctt_Break_Room_Sign_10":"to return",
+  "ctt_Break_Room_Sign_11":"to the lobby",
+  "ctt_Break_Room_Sign_12":"CraftingGuide",
+  "ctt_Break_Room_Sign_13":"Shows all",
+  "ctt_Break_Room_Sign_14":"crafting recipes",
+  "ctt_Break_Room_Sign_15":"in towers",
+
+  "ctt_Break_Room_Sign_16":"Decoration Chest",
+  "ctt_Break_Room_Sign_17":"Decorations",
+  "ctt_Break_Room_Sign_18":"bought will",
+  "ctt_Break_Room_Sign_19":"appear here!",
+
+  "ctt_Break_Room_Sign_20":"WARNING",
+  "ctt_Break_Room_Sign_21":"Once you go here",
+  "ctt_Break_Room_Sign_22":"you will be sent",
+  "ctt_Break_Room_Sign_23":"back to lobby",
+
+  "ctt_Break_Room_Sign_24":"I always",
+  "ctt_Break_Room_Sign_25":"come back.",
+
+  //Break_Room_Book
+
+  "ctt_Break_Room_Book_1":"Day #3\n\nSeems whenever I enter the tower its completly different. Infact, some dungeons are outdoors. This tower must be magical or something. But what is powering it?",
+  "ctt_Break_Room_Book_2":"How are you reading this?\nIf you\'re a developer working on this area, why? This place hasn\'t changed for months. I assume you have some reason, though, so don\'t let me stop you.\n\n...Heh, who am I kidding?\nYou\'re just a dirty cheater, aren\'t you?",
+
+  "ctt_Break_Room_Book_3":"Day #255\n\nDon\'t let these enemies hit you!\n\nThey like to steal your items, and worse—when you finally think they\'re defeated, they get right back up.\n\n",
+
+  "ctt_Break_Room_Book_4":"Hello its me Swanlet.\n\n\nWelcome to the hall of fame.\n\nThis is where everyone who completed this ending can write their name down to become perminate to the tower",
+  "ctt_Break_Room_Book_5":"This room must have been taken from my memories because it used to be from this cavern my friends and I used to explore, but now its in this tower ;)",
+  "ctt_Break_Room_Book_6":"Hey all, Ben here\n\n",
+
+  "ctt_Break_Room_Book_7":"Glatiatus\'s Journal:\n\n\nTheres a mysterious gateway at the bottom of the tower... I have to make sure nobody enters it... as far as I know only David and I know the horrors ahead",
+  "ctt_Break_Room_Book_8":"I know a Noble Knight should never question his orders but...\n\nI\'m starting to wonder if the creater of the tower is the person they say they are...",
+
+  "ctt_Break_Room_Book_9":"Hello and thank you for playing Cake Team Towers, if you\'ve made it this far that must mean you really like the game so I\'m glad I was able to make something you enjoy\n\n:D\n\nIf your hungry for more content, don\'t worry",
+  "ctt_Break_Room_Book_10":"Keep on playing and you\'ll find\n\n Cake Team Towers\n     Chapter 2\n\n  ~World War Bee~",
+
+  //Proson_Book
+
+  "ctt_Proson_Book_1":"I hate being the Janitor here, the ceiling keeps leaking... Its almost as if this entire prison is underwater. I QUIT\n\nI\'m going to work at Charleston chungus",
+  "ctt_Proson_Book_2":"Mysterious Fishers Log.\n\nAfter years of traveling through the sea I\'ve finally found it...\n\nThe Oculus Sea...\n\nLegends have it a powerful sea monster roams around those parts of the Ocean",
+  "ctt_Proson_Book_3":"The Oculus Sea is also where Muck Island is...\n\nI was warned never to go to Muck Island, but I must find the Sea Monster...\n\nToday I will enter the heart of the Oculus Sea... Where the sea monster guards his treasure...",
+  "ctt_Proson_Book_4":"The Jaintor QUIT!?!\n\nNow the entire dungeon is eroding\n\nsooner or later this whole place will flood!",
+
+  //Proson_Sign
+
+  "ctt_Proson_Sign_1":"WARNING",
+  "ctt_Proson_Sign_2":"SWIM GEAR",
+  "ctt_Proson_Sign_3":"REQUIRED",
+
+  //Necroville_Sign
+
+  "ctt_Necroville_Sign_1":"You found the",
+  "ctt_Necroville_Sign_2":"Hidden Imposter",
+  "ctt_Necroville_Sign_3":"#5",
+
+  "ctt_Necroville_Sign_6":"Map designed",
+  "ctt_Necroville_Sign_7":"by KaeltenCraft",
+
+  "ctt_Necroville_Sign_8":"R.I.P.",
+  "ctt_Necroville_Sign_9":"Fan Dorcha",
+
+  "ctt_Necroville_Sign_10":"Here lies Clarque",
+  "ctt_Necroville_Sign_11":"He was cruel.",
+
+  "ctt_Necroville_Sign_12":"Here lies Dutchen",
+  "ctt_Necroville_Sign_13":"King of Kings",
+
+  "ctt_Necroville_Sign_14":"Here lies",
+  "ctt_Necroville_Sign_15":"Danny",
+  "ctt_Necroville_Sign_16":"May heaven smile",
+  "ctt_Necroville_Sign_17":"upon you.",
+
+  "ctt_Necroville_Sign_4":"Necroville",
+  "ctt_Necroville_Sign_5":"Cemetery",
+  "ctt_Necroville_Sign_18":"Library",
+  "ctt_Necroville_Sign_19":"Sewers",
+  "ctt_Necroville_Sign_20":"Bakery",
+  "ctt_Necroville_Sign_21":"Brewhouse",
+
+  //Necroville_Book
+
+  "ctt_Necroville_Book_1":"1:1 In the beginning God created the heaven and the earth.  ",
+  "ctt_Necroville_Book_2":"1:2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.  ",
+  "ctt_Necroville_Book_3":"1:3 And God said, Let there be light: and there was light.  ",
+  "ctt_Necroville_Book_4":"1:4 And God saw the light, that it was good: and God divided the light from the darkness.  ",
+  "ctt_Necroville_Book_5":"1:5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.  ",
+  "ctt_Necroville_Book_6":"1:6 And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.  ",
+  "ctt_Necroville_Book_7":"1:7 And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.  ",
+  "ctt_Necroville_Book_8":"1:8 And God called the firmament Heaven. And the evening and the morning were the second day.  ",
+  "ctt_Necroville_Book_9":"1:9 And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.  ",
+  "ctt_Necroville_Book_10":"1:10 And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.  ",
+  "ctt_Necroville_Book_11":"1:11 And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.  ",
+  "ctt_Necroville_Book_12":"1:12 And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.  ",
+  "ctt_Necroville_Book_13":"1:13 And the evening and the morning were the third day.  ",
+  "ctt_Necroville_Book_14":"1:14 And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years: ",
+  "ctt_Necroville_Book_15":"1:15 And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.  ",
+  "ctt_Necroville_Book_16":"1:16 And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.  ",
+  "ctt_Necroville_Book_17":"1:17 And God set them in the firmament of the heaven to give light upon the earth, ",
+  "ctt_Necroville_Book_18":"1:18 And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.  ",
+  "ctt_Necroville_Book_19":"1:19 And the evening and the morning were the fourth day.  ",
+  "ctt_Necroville_Book_20":"1:20 And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.  ",
+  "ctt_Necroville_Book_21":"1:21 And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.  ",
+  "ctt_Necroville_Book_22":"1:22 And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.  ",
+  "ctt_Necroville_Book_23":"1:23 And the evening and the morning were the fifth day.  ",
+  "ctt_Necroville_Book_24":"1:24 And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.  ",
+  "ctt_Necroville_Book_25":"1:25 And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.  ",
+  "ctt_Necroville_Book_26":"1:26 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.  ",
+  "ctt_Necroville_Book_27":"1:27 So God created man in his own image, in the image of God created he him; male and female created he them.  ",
+  "ctt_Necroville_Book_28":"1:28 And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.  ",
+  "ctt_Necroville_Book_29":"1:29 And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.  ",
+  "ctt_Necroville_Book_30":"1:30 And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.  ",
+  "ctt_Necroville_Book_31":"1:31 And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.  ",
+  "ctt_Necroville_Book_32":"2:1 Thus the heavens and the earth were finished, and all the host of them.  ",
+  "ctt_Necroville_Book_33":"2:2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.  ",
+  "ctt_Necroville_Book_34":"2:3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.  ",
+  "ctt_Necroville_Book_35":"2:4 These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens, ",
+  "ctt_Necroville_Book_36":"2:5 And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground.  ",
+  "ctt_Necroville_Book_37":"2:6 But there went up a mist from the earth, and watered the whole face of the ground.  ",
+  "ctt_Necroville_Book_38":"2:7 And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.  ",
+  "ctt_Necroville_Book_39":"2:8 And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.  ",
+  "ctt_Necroville_Book_40":"2:9 And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.  ",
+  "ctt_Necroville_Book_41":"2:10 And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.  ",
+  "ctt_Necroville_Book_42":"2:11 The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold; ",
+  "ctt_Necroville_Book_43":"2:12 And the gold of that land is good: there is bdellium and the onyx stone.  ",
+  "ctt_Necroville_Book_44":"2:13 And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.  ",
+  "ctt_Necroville_Book_45":"2:14 And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.  ",
+  "ctt_Necroville_Book_46":"2:15 And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.  ",
+  "ctt_Necroville_Book_47":"2:16 And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: ",
+  "ctt_Necroville_Book_48":"2:17 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.  ",
+  "ctt_Necroville_Book_49":"2:18 And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.  ",
+  "ctt_Necroville_Book_50":"2:19 And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.  ",
+  "ctt_Necroville_Book_51":"2:20 And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.  ",
+  "ctt_Necroville_Book_52":"2:21 And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; ",
+  "ctt_Necroville_Book_53":"2:22 And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.  ",
+  "ctt_Necroville_Book_54":"2:23 And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.  ",
+  "ctt_Necroville_Book_55":"2:24 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.  ",
+  "ctt_Necroville_Book_56":"2:25 And they were both naked, the man and his wife, and were not ashamed.  ",
+  "ctt_Necroville_Book_57":"3:1 Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?  ",
+  "ctt_Necroville_Book_58":"3:2 And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: ",
+  "ctt_Necroville_Book_59":"3:3 But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.  ",
+  "ctt_Necroville_Book_60":"3:4 And the serpent said unto the woman, Ye shall not surely die: ",
+  "ctt_Necroville_Book_61":"3:5 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.  ",
+  "ctt_Necroville_Book_62":"3:6 And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.  ",
+  "ctt_Necroville_Book_63":"3:7 And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.  ",
+  "ctt_Necroville_Book_64":"3:8 And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.  ",
+  "ctt_Necroville_Book_65":"3:9 And the LORD God called unto Adam, and said unto him, Where art thou?  ",
+  "ctt_Necroville_Book_66":"3:10 And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.  ",
+  "ctt_Necroville_Book_67":"3:11 And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? ",
+  "ctt_Necroville_Book_68":"3:12 And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.  ",
+  "ctt_Necroville_Book_69":"3:13 And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.  ",
+  "ctt_Necroville_Book_70":"3:14 And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life: ",
+  "ctt_Necroville_Book_71":"3:15 And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.  ",
+  "ctt_Necroville_Book_72":"3:16 Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.  ",
+  "ctt_Necroville_Book_73":"3:17 And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life; ",
+  "ctt_Necroville_Book_74":"3:18 Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field; ",
+  "ctt_Necroville_Book_75":"3:19 In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.  ",
+  "ctt_Necroville_Book_76":"3:20 And Adam called his wife\'s name Eve; because she was the mother of all living.  ",
+  "ctt_Necroville_Book_77":"3:21 Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.  ",
+  "ctt_Necroville_Book_78":"3:22 And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: ",
+  "ctt_Necroville_Book_79":"3:23 Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.  ",
+  "ctt_Necroville_Book_80":"3:24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.  ",
+  "ctt_Necroville_Book_81":"4:1 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.  ",
+  "ctt_Necroville_Book_82":"4:2 And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.  ",
+  "ctt_Necroville_Book_83":"4:3 And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.  ",
+  "ctt_Necroville_Book_84":"4:4 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: ",
+  "ctt_Necroville_Book_85":"4:5 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.  ",
+  "ctt_Necroville_Book_86":"4:6 And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?  ",
+  "ctt_Necroville_Book_87":"4:7 If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.  ",
+  "ctt_Necroville_Book_88":"4:8 And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.  ",
+  "ctt_Necroville_Book_89":"4:9 And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother\'s keeper?  ",
+  "ctt_Necroville_Book_90":"4:10 And he said, What hast thou done? the voice of thy brother\'s blood crieth unto me from the ground.  ",
+  "ctt_Necroville_Book_91":"4:11 And now art thou cursed from the earth, which hath opened her mouth to receive thy brother\'s blood from thy hand; ",
+  "ctt_Necroville_Book_92":"4:12 When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.  ",
+  "ctt_Necroville_Book_93":"4:13 And Cain said unto the LORD, My punishment is greater than I can bear.  ",
+  "ctt_Necroville_Book_94":"4:14 Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.  ",
+  "ctt_Necroville_Book_95":"4:15 And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.  ",
+  "ctt_Necroville_Book_96":"4:16 And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.  ",
+  "ctt_Necroville_Book_97":"4:17 And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.  ",
+  "ctt_Necroville_Book_98":"4:18 And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.  ",
+  "ctt_Necroville_Book_99":"4:19 And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.  ",
+  "ctt_Necroville_Book_100":"4:20 And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.  ",
+
+  //Downpoor_Sign
+
+  "ctt_Downpoor_Sign_1":"Id:",
+  "ctt_Downpoor_Sign_2":"471828",
+  "ctt_Downpoor_Sign_3":"Subject #",
+  "ctt_Downpoor_Sign_4":"49736",
+
+  //Nether_Sign
+
+  "ctt_Nether_Sign_1":"Map Designed",
+  "ctt_Nether_Sign_2":"By",
+  "ctt_Nether_Sign_3":"TheIdiotGamer",
+
+  //Nether_Fortress_Book
+
+  "ctt_Nether_Fortress_Book_1":"Dear Diary: This dungeon always freaks me out, I almost always catch on fire, I think I recall theres an item up one of the lava streams, but i\'ll need some sort of fire resistance.",
+
+  //Assault_Book
+
+  "ctt_Assault_Book_1":"The White Cake keeps showing up here...\n\nApparently the Summoner needs our blood for experiements. None of us gave it to him so now hes going to take it from children in the Charleston Chungus. WTF!",
+
+  //Sunken_Sea_Sign
+
+  "ctt_Sunken_Sea_Sign_1":"ඞ You Found A",
+  "ctt_Sunken_Sea_Sign_2":"Hidden Imposter",
+  "ctt_Sunken_Sea_Sign_3":"#2",
+
+  //The_Lab_Book
+
+  "ctt_The_Lab_Book_1":"Proffesor G Log Book\n------------------\n\nToday might be the most important day of my life...\n\nThe White Cake has hired me with an important task.\n\nThey need a scientist on their team",
+  "ctt_The_Lab_Book_2":"Apparently there were 4 huge explosions around the land, and they want me to investigate them... the first one was in Otherside... some strange stuff has been happening there. Im excited to check that out",
+
+  //Sky_Scraper_Book
+
+  "ctt_Sky_Scraper_Book_1":"Day #35\n\nThe windows of this building gives me the creeps, its almost as if its starting into my soul",
+  "ctt_Sky_Scraper_Book_2":"Day #104\n\nI\'ve been trying to figure out how this tower came to be, but I just can\'t figure out a proper theory. My original theory was that Kamacete created this tower but I don\'t have enough evidence...",
+  "ctt_Sky_Scraper_Book_3":"Maybe when I reach the top all my answers will be solved",
+  "ctt_Sky_Scraper_Book_4":"if you\'re reading this, send all complaints about Cake Team Towers to caketeamimpersonator@gmail.com",
+  "ctt_Sky_Scraper_Book_5":"HA, I bet you thought\nthis was gonna be some intese lore.\n\nNOPE!\n\nyou just wasted like 3 seconds of your life",
+  "ctt_Sky_Scraper_Book_6":"Maria\'s Journal\n\nI can\'t seem to get my Medical license\n\nApparently some of my methods were \"controversal\"\n\nLuckily for me the White Cake decided to hire me, despite me not having a REAL PHD",
+  "ctt_Sky_Scraper_Book_7":"I can\'t wait to join the Medical team. I heard Doctor Wormhole is there, it\'ll be nice to have someone I know. I wonder what they want me to do <3",
+
+  //Overgrown_Sign
+  "ctt_Overgrown_Sign_1":"Rip",
+  "ctt_Overgrown_Sign_2":"Big Brother",
+
+  "ctt_Overgrown_Sign_3":"Nelfin must be",
+  "ctt_Overgrown_Sign_4":"protected",
+
+  "ctt_Overgrown_Sign_5":"Tip",
+  "ctt_Overgrown_Sign_6":"Use Vines to",
+  "ctt_Overgrown_Sign_7":"craft vine",
+  "ctt_Overgrown_Sign_8":"Armor",
+
+  "ctt_Overgrown_Sign_9":"WARNING",
+  "ctt_Overgrown_Sign_10":"TOXIC WATERS",
+  "ctt_Overgrown_Sign_11":"DO NOT ENTER",
+
+  "ctt_Overgrown_Sign_12":"TOXIC WATERS",
+  "ctt_Overgrown_Sign_13":"HAVE BEEN",
+  "ctt_Overgrown_Sign_14":"CLEANED",
+  "ctt_Overgrown_Sign_15":"take a dip ;)",
+
+  "ctt_Overgrown_Sign_16":"Try the Christmas",
+  "ctt_Overgrown_Sign_17":"Penguin Slide",
+  "ctt_Overgrown_Sign_18":"Only in",
+  "ctt_Overgrown_Sign_19":"Overgrown Winter!",
+
+  "ctt_Overgrown_Sign_20":"Just head east",
+  "ctt_Overgrown_Sign_21":"and take a right",
+  "ctt_Overgrown_Sign_22":"into a cave!",
+
+  //Overgrown_Book
+
+  "ctt_Overgrown_Book_1":"Overgrown has been dangerous to adventure in... seems that the goddess of Otherside view humans as a threat, I blame the white cake",
+  "ctt_Overgrown_Book_2":"Seems that this area\nhas alot of cracked rocks... maybe if I hit it with an explosion it will open it up!",
+  "ctt_Overgrown_Book_3":"Day #200\nThis dungeon seems to be a different season depending on the season outside of the tower... interesting",
+  "ctt_Overgrown_Book_4":"As fall arrives Folia prepairs for hybernation...\n\nWhen spring comes we attack!",
+  "ctt_Overgrown_Book_5":"Day #1\n\nWoah What the heck, this place is way to big to fit inside the tower, its like that tent from Harry Potter?!\n\nThis tower must be cursed, or blessed...\n\nIs it teleporting me?\nAm I in a new dimention?",
+  "ctt_Overgrown_Book_6":"I have to get to the bottom of this....\n\n\n\nor- I guess the Top of this ;)",
+  "ctt_Overgrown_Book_7":"These humans keep on visiting our land and destroying it...\n\nFloria will use the power of mother nature to defeat those greedy beings",
+  "ctt_Overgrown_Book_8":"Aid is being transported, but it seems as if we\'ve hit an iceberg. I guess White Cake won\'t be getting their medical supplies as of right now. Speaking of which, this might be my last log. If you are reading this, continue forth and get in-contact with White Cake A.S.A.P.",
+  "ctt_Overgrown_Book_9":"Merry Chirstmas from Cake Team!\n",
+  "ctt_Overgrown_Book_10":"Spring is soon, I can\'t wait\n\nFloria will kill all those Humans!!!",
+
+  //Charleston_Chungus_Sign
+
+  "ctt_Charleston_Chungus_Sign_1":"Running",
+  "ctt_Charleston_Chungus_Sign_2":"Track",
+
+  "ctt_Charleston_Chungus_Sign_3":"Classroom",
+
+  "ctt_Charleston_Chungus_Sign_4":"Nurse\'s",
+  "ctt_Charleston_Chungus_Sign_5":"Office",
+
+  "ctt_Charleston_Chungus_Sign_6":"Wash",
+  "ctt_Charleston_Chungus_Sign_7":"Rooms",
+
+  "ctt_Charleston_Chungus_Sign_8":"Men\'s",
+  "ctt_Charleston_Chungus_Sign_9":"Women\'s",
+
+  "ctt_Charleston_Chungus_Sign_10":"Gym Entrance",
+
+  "ctt_Charleston_Chungus_Sign_11":"The",
+  "ctt_Charleston_Chungus_Sign_12":"Library",
+
+  "ctt_Charleston_Chungus_Sign_13":"Computer",
+  "ctt_Charleston_Chungus_Sign_14":"Lab",
+
+  "ctt_Charleston_Chungus_Sign_15":"Janitor\'s",
+  "ctt_Charleston_Chungus_Sign_16":"Closet",
+
+  "ctt_Charleston_Chungus_Sign_17":"Closed,",
+  "ctt_Charleston_Chungus_Sign_18":"On Holidays",
+  "ctt_Charleston_Chungus_Sign_19":"-Wormhole",
+
+  //Charleston_Chungus_Book
+
+  "ctt_Charleston_Chungus_Book_1":"My name is Doctor Wormhole.\n\nI am one of the first people in the world who will study the recently-discovered Elementium.\n\nBut, to be honest, the real reason I wanted to become a scientist was...",
+  "ctt_Charleston_Chungus_Book_2":"...because I believed there was more to this world.\n\nThe Nether always fascinated me - a foreign realm, connected to our own by a simple portal.\n\nIt got me thinking, \'there had to be more\'...",
+  "ctt_Charleston_Chungus_Book_3":"...surely, the Nether cannot be the only dimension to be discovered?",
+  "ctt_Charleston_Chungus_Book_4":"My name is Doctor Wormhole,\n\nI am one of the first people who will study elementium.\n\nBut to be honest, the real reason I wanted to become a scientist is because I believed there was more to this world.",
+  "ctt_Charleston_Chungus_Book_5":"The nether fascinated me... A portal that takes us to a realm different than ours.\n\nIt got me thinking, there had to be more... the nether cannot be the only one",
+
+  //Haunted_Mansion_Sign
+
+  "ctt_Haunted_Mansion_Sign_1":"OUT OF ORDER",
+
+  "ctt_Haunted_Mansion_Sign_2":"ඞ",
+  "ctt_Haunted_Mansion_Sign_3":"You found the",
+  "ctt_Haunted_Mansion_Sign_4":"Hidden Imposter",
+  "ctt_Haunted_Mansion_Sign_5":"#4",
+
+  //Haunted_Mansion_Book
+
+  "ctt_Haunted_Mansion_Book_1":"Once per year, every halloween... I possess the power to awaken",
+  "ctt_Haunted_Mansion_Book_2":"Hello my name is Chuckster, I was hired here to help take care of the mansion.\n\nOnce the Mansion became haunted I retired.\n\nI\'m leaving this note for the Mansion Owner.\nSorry I quit, but you got a ghost problem",
+
+  //Trick_or_Treat_Sign
+
+  "ctt_Trick_or_Treat_Sign_1":"R.I.P",
+  "ctt_Trick_or_Treat_Sign_2":"Pumpkin King",
+
+  //Lost_World_Sign
+
+  "ctt_Lost_World_Sign_1":"Gregory",
+
+  //Lost_World_Book
+
+  "ctt_Lost_World_Book_1":"Dear Brother.\n\nIts been a year now since you\'ve past away...\n\nIts hard to keep going on, but we hired a doctor... maybe she can bring you back from the dead... I will not stop until I can fix you\n-Magum",
+  "ctt_Lost_World_Book_2":"Day #250-something\n\nAfter an attempt at reaching the top, I saw someone else enter the tower. They were bleeding down their face and didn\'t talk to me...\nI thought I was the only one climbing this thing.",
+  "ctt_Lost_World_Book_3":"Day 251\n\nWhen I reached the top of the tower, instead of it being empty, there was a huge tunnel. I decided to jump down it and found myself in a whole new world...",
+  "ctt_Lost_World_Book_4":"How have I never found this place before? It must have been recently created.\\n\\nI think I finally figured out how these dungeons keep getting created and why new ones appear.",
+  "ctt_Lost_World_Book_5":"*The rest of the pages seem to be torn.*",
+
+  //Parties_World_Sign
+
+  "ctt_Parties_World_Sign_1":"START MINIGAME",
+
+  //Parties_World_Book
+
+  "ctt_Parties_World_Book_1":"Coaster Chaos is a Mario Party Minigame in which players must race across a rollar coaster and dodge obstacles.\n\nNow this minigame exists in the bottom of the Tower",
+
+  //Davids_Pinball_Machine_Book
+
+  "ctt_Davids_Pinball_Machine_Book_1":"Day #252\n\nI have finally discovered the secret to how this tower has so many unique worlds.",
+  "ctt_Davids_Pinball_Machine_Book_2":"The worlds seem to be constantly created, theres no way a tower alone is able to create such complex worlds. Theres only one explaination.",
+  "ctt_Davids_Pinball_Machine_Book_3":"The tower accesses the visitors brains and uses past memories of places as blue prints.\n\nThat explains why theres some areas that look so fimiliar.\n\nAnd why some levels have video game or cartoon characters like a big rabbit.",
+  "ctt_Davids_Pinball_Machine_Book_4":"Glatiatus, Badgey, and the others are trapped in this tower on an endless loop, are they memories or the real people?",
+  "ctt_Davids_Pinball_Machine_Book_5":"Day #252\n\nI think the tower is going through people\'s brains... I wonder if that is affecting us mentally?\n\nThis is why nobody should enter the tower.\n\n",
+  "ctt_Davids_Pinball_Machine_Book_6":"Day #252\n\nAnd finally, the Arced Void.\n\nI swear this was never here before. It\'s a brand-new area.\n\nWhich means there\'s someone in the tower that\'s causing all these new levels to be created.",
+  "ctt_Davids_Pinball_Machine_Book_7":"If I go further down, I\'ll find the source of these new levels...\n\n",
+  "ctt_Davids_Pinball_Machine_Book_8":"Arced Void?\n\nWhat does that mean, though? My theory is that it\'s an anagram for something else.\n\nBut what...",
+
+  //Anthill_Thrill_Book
+
+  "ctt_Anthill_Thrill_Book_1":"Only those who drink the ant juice are worthy of meeting our saviour...",
+  "ctt_Anthill_Thrill_Book_2":"Only those who drink from the elixir are worthy of meeting our goddess...",
+
+  //Dojo_of_Glory_Book
+
+  "ctt_Dojo_of_Glory_Book_1":"The heads above represent our best Students, who have become a true Ninja.\n\n\nThey show potential...",
+  "ctt_Dojo_of_Glory_Book_2":"Gladiatus Journal:\n\nI was told to form a team\n\nThe idea was a small group of elite warriors.\n\nThey would be called the White Cake\n\nThey would gather resources to buil...",
+  "ctt_Dojo_of_Glory_Book_3":"*The rest of the pages seem to be torn*",
+  "ctt_Dojo_of_Glory_Book_4":"Gladiatus Notes\n\nI remember back when I was a kid training in this dojo, those were simplier times...\n\nBack before all the fighting, don\'t people understand that the White Cake is only trying to help... Hope nobody finds my secret room",
+  "ctt_Dojo_of_Glory_Book_5":"Its pretty cleverly hidden",
+  "ctt_Dojo_of_Glory_Book_6":"We failed",
+  "ctt_Dojo_of_Glory_Book_7":"*The rest of the pages seem to be torn*",
+
+  //Dojo_of_Glory_Sign
+
+  "ctt_Dojo_of_Glory_Sign_1":"8 Cakes Required",
+  "ctt_Dojo_of_Glory_Sign_2":"5 Cakes Required",
+  "ctt_Dojo_of_Glory_Sign_3":"10 Cakes",
+  "ctt_Dojo_of_Glory_Sign_4":"Required",
+
+  //Coaster_Chaos_Elite_Sign
+
+  "ctt_Coaster_Chaos_Elite_Sign_1":"TIP:",
+  "ctt_Coaster_Chaos_Elite_Sign_2":"Using Third",
+  "ctt_Coaster_Chaos_Elite_Sign_3":"Person is",
+  "ctt_Coaster_Chaos_Elite_Sign_4":"preferred",
+
+  "ctt_Coaster_Chaos_Elite_Sign_5":"Press F5 to",
+  "ctt_Coaster_Chaos_Elite_Sign_6":"Enter Third",
+  "ctt_Coaster_Chaos_Elite_Sign_7":"Person",
+
+  //Treasure_Trove_Cove_Sign
+
+  "ctt_Treasure_Trove_Cove_Sign_1":"Fly through",
+  "ctt_Treasure_Trove_Cove_Sign_2":"all hoops",
+  "ctt_Treasure_Trove_Cove_Sign_3":" and earn a",
+  "ctt_Treasure_Trove_Cove_Sign_4":"Cake!",
+
+  "ctt_Treasure_Trove_Cove_Sign_5":"His child",
+
+  "ctt_Treasure_Trove_Cove_Sign_6":"My job is so",
+  "ctt_Treasure_Trove_Cove_Sign_7":"BORNING, I wish",
+  "ctt_Treasure_Trove_Cove_Sign_8":"I could visit",
+  "ctt_Treasure_Trove_Cove_Sign_9":"the resort...",
+
+  "ctt_Treasure_Trove_Cove_Sign_10":"Captain makes a",
+  "ctt_Treasure_Trove_Cove_Sign_11":"Diamond I make",
+  "ctt_Treasure_Trove_Cove_Sign_12":"a dime",
+
+  "ctt_Treasure_Trove_Cove_Sign_13":"Thats why",
+  "ctt_Treasure_Trove_Cove_Sign_14":"I steal gold",
+  "ctt_Treasure_Trove_Cove_Sign_15":"on company",
+  "ctt_Treasure_Trove_Cove_Sign_16":"time",
+
+  "ctt_Treasure_Trove_Cove_Sign_17":"I messed up the",
+  "ctt_Treasure_Trove_Cove_Sign_18":"Cobble Stone",
+  "ctt_Treasure_Trove_Cove_Sign_19":"Generator..",
+  "ctt_Treasure_Trove_Cove_Sign_20":"sorry",
+
+  "ctt_Treasure_Trove_Cove_Sign_21":"God Damnit",
+
+  "ctt_Treasure_Trove_Cove_Sign_22":"BEWARE OF",
+  "ctt_Treasure_Trove_Cove_Sign_23":"SHARKS",
+
+  "ctt_Treasure_Trove_Cove_Sign_24":"Break Room",
+  "ctt_Treasure_Trove_Cove_Sign_25":"10 Minutes",
+  "ctt_Treasure_Trove_Cove_Sign_26":"ONLY",
+
+  "ctt_Treasure_Trove_Cove_Sign_27":"God damnit,",
+  "ctt_Treasure_Trove_Cove_Sign_28":"its just a Cake",
+
+  "ctt_Treasure_Trove_Cove_Sign_29":"You might be",
+  "ctt_Treasure_Trove_Cove_Sign_30":"wondering why",
+  "ctt_Treasure_Trove_Cove_Sign_31":"we\'re not just",
+  "ctt_Treasure_Trove_Cove_Sign_32":"armor stands",
+
+  "ctt_Treasure_Trove_Cove_Sign_33":"Well thats",
+  "ctt_Treasure_Trove_Cove_Sign_34":"because too",
+  "ctt_Treasure_Trove_Cove_Sign_35":"many armor",
+  "ctt_Treasure_Trove_Cove_Sign_36":"stands",
+
+  "ctt_Treasure_Trove_Cove_Sign_37":"Lag the server",
+
+  "ctt_Treasure_Trove_Cove_Sign_38":"East?",
+  "ctt_Treasure_Trove_Cove_Sign_39":"I thought you",
+  "ctt_Treasure_Trove_Cove_Sign_40":"said West!",
+
+  "ctt_Treasure_Trove_Cove_Sign_41":"The",
+  "ctt_Treasure_Trove_Cove_Sign_42":"X is supposed",
+  "ctt_Treasure_Trove_Cove_Sign_43":"to be here",
+  "ctt_Treasure_Trove_Cove_Sign_44":"\"50 block East\"",
+
+  "ctt_Treasure_Trove_Cove_Sign_45":"Anyone gonna ",
+  "ctt_Treasure_Trove_Cove_Sign_46":"tell me",
+  "ctt_Treasure_Trove_Cove_Sign_47":"why theres",
+  "ctt_Treasure_Trove_Cove_Sign_48":"EXPOLOSIVES",
+
+  "ctt_Treasure_Trove_Cove_Sign_49":"I found a",
+  "ctt_Treasure_Trove_Cove_Sign_50":"Badge of Bees",
+  "ctt_Treasure_Trove_Cove_Sign_51":"in a Goodie Bag",
+  "ctt_Treasure_Trove_Cove_Sign_52":"one day",
+
+  "ctt_Treasure_Trove_Cove_Sign_53":"You must be this",
+  "ctt_Treasure_Trove_Cove_Sign_54":"tall to swim",
+
+  "ctt_Treasure_Trove_Cove_Sign_55":"GET OUT OF MY",
+  "ctt_Treasure_Trove_Cove_Sign_56":"HEAD",
+  "ctt_Treasure_Trove_Cove_Sign_57":"GET OUT OF MY",
+  "ctt_Treasure_Trove_Cove_Sign_58":"HEAD",
+
+  "ctt_Treasure_Trove_Cove_Sign_59":"DA BABY",
+
+  "ctt_Treasure_Trove_Cove_Sign_60":"Sure the",
+  "ctt_Treasure_Trove_Cove_Sign_61":"squid next to",
+  "ctt_Treasure_Trove_Cove_Sign_62":"me is cute but",
+  "ctt_Treasure_Trove_Cove_Sign_63":"is nobody",
+
+  "ctt_Treasure_Trove_Cove_Sign_64":"going to point",
+  "ctt_Treasure_Trove_Cove_Sign_65":"out the giant",
+  "ctt_Treasure_Trove_Cove_Sign_66":"tenticals",
+  "ctt_Treasure_Trove_Cove_Sign_67":"surrounding us",
+
+  "ctt_Treasure_Trove_Cove_Sign_68":"This Resort is",
+  "ctt_Treasure_Trove_Cove_Sign_69":"a blast, its too",
+  "ctt_Treasure_Trove_Cove_Sign_70":"bad the Captain",
+  "ctt_Treasure_Trove_Cove_Sign_71":"only gives us",
+
+  "ctt_Treasure_Trove_Cove_Sign_72":"1 Day off a year",
+
+  "ctt_Treasure_Trove_Cove_Sign_73":"DO NOT FEED",
+  "ctt_Treasure_Trove_Cove_Sign_74":"THE KRAKEN",
+
+  "ctt_Treasure_Trove_Cove_Sign_75":"A Ocean you can",
+  "ctt_Treasure_Trove_Cove_Sign_76":"breathe in?",
+  "ctt_Treasure_Trove_Cove_Sign_77":"Thats just not",
+  "ctt_Treasure_Trove_Cove_Sign_78":"possible",
+
+  "ctt_Treasure_Trove_Cove_Sign_79":"Welcome to",
+  "ctt_Treasure_Trove_Cove_Sign_80":"Treasure Trove",
+  "ctt_Treasure_Trove_Cove_Sign_81":"Cove!",
+
+  "ctt_Treasure_Trove_Cove_Sign_82":"Pillar Peaks",
+  "ctt_Treasure_Trove_Cove_Sign_83":"Shipwreck",
+
+  "ctt_Treasure_Trove_Cove_Sign_84":"The Sun Feels",
+  "ctt_Treasure_Trove_Cove_Sign_85":"Great in the",
+  "ctt_Treasure_Trove_Cove_Sign_86":"morning",
+
+  "ctt_Treasure_Trove_Cove_Sign_87":"Reality is often",
+  "ctt_Treasure_Trove_Cove_Sign_88":"a dissapointment",
+
+  "ctt_Treasure_Trove_Cove_Sign_89":"I made an",
+  "ctt_Treasure_Trove_Cove_Sign_90":"among us joke",
+  "ctt_Treasure_Trove_Cove_Sign_91":"to my friends",
+
+  "ctt_Treasure_Trove_Cove_Sign_92":"They took",
+  "ctt_Treasure_Trove_Cove_Sign_93":"all my stuff",
+
+  "ctt_Treasure_Trove_Cove_Sign_94":"Cosmo, Wanda",
+  "ctt_Treasure_Trove_Cove_Sign_95":"I wish anime",
+  "ctt_Treasure_Trove_Cove_Sign_96":"was real",
+
+  "ctt_Treasure_Trove_Cove_Sign_97":"My parents",
+  "ctt_Treasure_Trove_Cove_Sign_98":"are fighting",
+  "ctt_Treasure_Trove_Cove_Sign_99":"again",
+
+  "ctt_Treasure_Trove_Cove_Sign_100":"I hate our",
+  "ctt_Treasure_Trove_Cove_Sign_101":"Captain... That",
+  "ctt_Treasure_Trove_Cove_Sign_102":"greedy one eyed",
+  "ctt_Treasure_Trove_Cove_Sign_103":"freak is too much",
+
+  "ctt_Treasure_Trove_Cove_Sign_104":"Giant Green",
+  "ctt_Treasure_Trove_Cove_Sign_105":"Toads",
+
+  //Treasure_Trove_Cove_Book
+
+  "ctt_Treasure_Trove_Cove_Book_1":"They say the Oculus Sea is between Treasure Trove Cove and Muck Island...\n\nBut Muck Island is a myth!\n\nLegends have it, in the heart of the Oculus sea, There is a magic gem that lets you breathe underwater.",
+  "ctt_Treasure_Trove_Cove_Book_2":"I used to own everything, I found out this island was a gold mine and had 100 employees mining it and I was rich.\nBut then this guy at the casino said I could be a big shot..\n\nNow all I have is this Sea Pickle...",
+  "ctt_Treasure_Trove_Cove_Book_3":"Captain E\'s Log.\n\nToday has been a succesful day, hiring Shy guys was a great idea since their minimum wage is so low.",
+  "ctt_Treasure_Trove_Cove_Book_4":"The shyguys have made me alot of weapons out of the gold we mined, which we sold to the Bees and the Ants...\n\nAs long as their war continues I will keep making money. I hope they\'ll stay enemies.",
+  "ctt_Treasure_Trove_Cove_Book_5":"I am leaving this island for now to get back to the Circus. We\'re having a big event that\'ll make me LOTS of money.\n\nI just hope those two Skeletons bring me a Gorilla... They sure like to take their time",
+  "ctt_Treasure_Trove_Cove_Book_6":"Spell out the letters \"CAKE\" to win!",
+  "ctt_Treasure_Trove_Cove_Book_7":"Sometimes I feel like i\'ve been inside of this hotel my whole life... almost like im just decoration or something for someone else to look at... are we all even real, what is reality, I can\'t escape these thoughts-\nuh I mean, The sun feels great in the morning",
+
+  //Lonely_Cabin_Book
+
+  "ctt_Lonely_Cabin_Book_1":"Journal Entry #58 -\n11/3/??\n\nIt has been years since I have even seen another person. This isolation has been slowly deteriorating my sanity. I have seen the same dull sunset every dawn. I wander these halls, ever-waiting for my",
+  "ctt_Lonely_Cabin_Book_2":"resolve. I grow wearier of insanity every day. Now, nothing can satiate my everlasting hunger for something to do... anything to do. It is as if my only friend is this cabin, this place I call home. But even my only friend mocks me. It\'s as if these very walls laugh at my",
+  "ctt_Lonely_Cabin_Book_3":"expense, taunting me as I woefully walk down these halls. I am alone.\n\nThis isn\'t a cry for help, rather, me giving up. I\'m \"throwing in the towel\", I believe the expression goes. I am unsure for it has been ages since I\'ve had a conversation other than",
+  "ctt_Lonely_Cabin_Book_4":"with the man in the mirror. This life of solitude and isolation is insufferable. I thought I had to leave everything... everyone to reach the happiness I sought. Yet, all I have found is misery. My mind is beginning to implode, caving into the silence... the echoed",
+  "ctt_Lonely_Cabin_Book_5":"footsteps... the loneliness. I am going insane, there is no denying that but can I control it? Can I contain this decay? Honestly, I do not think I have the energy, nor the will, to attempt such a feat. I have given up. You\'re already aware of this notion. It is easier to just let this corruption",
+  "ctt_Lonely_Cabin_Book_6":"consume me. Let me spiral into madness. I am alone.\n\nThere is only one concern... what will I become? Isolation can turn a man into a monster and I fear that this situation will result in the same consequence. Due to this, I am going to end it.",
+  "ctt_Lonely_Cabin_Book_7":"Please do not be mistaken, I do not wish to end my life. ",
+  "ctt_Lonely_Cabin_Book_8":"I don\'t have blue hair lol.",
+  "ctt_Lonely_Cabin_Book_9":" No, not end it, rather preserve it. My time alone, although brought many hardships, has been fruitful in regard to my scientific ventures. I have produced a substance that can make my body",
+  "ctt_Lonely_Cabin_Book_10":"idle, yet sustain it. It is a combination of my own biological achievements and material I unearthed in the \"otherside\". My body shall lay dormant in the crypt underneath this property. It shall remain alongside my fortune deep within the sewers. I have",
+  "ctt_Lonely_Cabin_Book_11":"concealed the entrance under my well to prevent anyone from uncovering it, not for many years at least. There is only one way to unlock the passage. A button which rests on the balcony of my cabin will reveal the sewers to you, dear reader. Hopefully, you are not",
+  "ctt_Lonely_Cabin_Book_12":"traped within its walls and spend eternity alone. Believe me when I say it is one of the most humbling experiences anyone can undergo. Before I depart, I must warn you that the substance in which I am preserving my body in has... unwelcoming repercussions.",
+  "ctt_Lonely_Cabin_Book_13":"There is a minor chance that the compounds within the substance can alter me. Whether it deforms my appearance or shapes me into a Lovecraftian creature, I could not tell you. But hopefully my body is never unveiled... Thus concluding my final journal entry.",
+  "ctt_Lonely_Cabin_Book_14":"I am alone.\n\n~ ",
+  "ctt_Lonely_Cabin_Book_15":"Colin",
+
+  "ctt_Lonely_Cabin_Book_16":"I\'ve heard of this legend... a blind beast who lives underground... he can\'t see you... but he can hear you...\n\nhe hears everything...\n\n\nhe destroys everything...\n\nHe is the guardian of..",
+  "ctt_Lonely_Cabin_Book_17":"Trolled :)",
+
+  //Lonely_Cabin_Sign
+
+  "ctt_Lonely_Cabin_Sign_1":"Sorry!",
+  "ctt_Lonely_Cabin_Sign_2":"This will be in",
+  "ctt_Lonely_Cabin_Sign_3":"a later update",
+
+  "ctt_Lonely_Cabin_Sign_4":"CAUTION",
+  "ctt_Lonely_Cabin_Sign_5":"Toxic Acid",
+
+  //Otherside_Sign
+
+  "ctt_Otherside_Sign_1":"Let luck",
+  "ctt_Otherside_Sign_2":"decide your fate",
+
+  //Electro_Circus_Sign
+
+  "ctt_Electro_Circus_Sign_1":"NO REFUNDS",
+  "ctt_Electro_Circus_Sign_2":"No outside",
+  "ctt_Electro_Circus_Sign_3":"food or drinks",
+
+  "ctt_Electro_Circus_Sign_4":"Welcome To",
+  "ctt_Electro_Circus_Sign_5":"Electro Circus",
+
+  "ctt_Electro_Circus_Sign_6":"Please sign our",
+  "ctt_Electro_Circus_Sign_7":"waiver before",
+  "ctt_Electro_Circus_Sign_8":"enjoying any",
+  "ctt_Electro_Circus_Sign_9":"attractions",
+
+  "ctt_Electro_Circus_Sign_10":"Only ask for",
+  "ctt_Electro_Circus_Sign_11":"staff\'s help",
+  "ctt_Electro_Circus_Sign_12":"in case of an",
+  "ctt_Electro_Circus_Sign_13":"emergency",
+
+  "ctt_Electro_Circus_Sign_14":"Crying is not an",
+  "ctt_Electro_Circus_Sign_15":"emergency",
+
+  "ctt_Electro_Circus_Sign_16":"Please do not",
+  "ctt_Electro_Circus_Sign_17":"steal the ducks",
+  "ctt_Electro_Circus_Sign_18":"(You will be shot",
+  "ctt_Electro_Circus_Sign_19":"on sight)",
+
+  "ctt_Electro_Circus_Sign_20":"Are you glorious",
+  "ctt_Electro_Circus_Sign_21":"enough to ring",
+  "ctt_Electro_Circus_Sign_22":"the Bell of",
+  "ctt_Electro_Circus_Sign_23":"Justice?",
+
+  "ctt_Electro_Circus_Sign_24":"Ring the bell and",
+  "ctt_Electro_Circus_Sign_25":"win a SIGNED",
+  "ctt_Electro_Circus_Sign_26":"AUTOGRAPH from",
+  "ctt_Electro_Circus_Sign_27":"Gladiatus!",
+
+  "ctt_Electro_Circus_Sign_28":"Game Closed",
+  "ctt_Electro_Circus_Sign_29":"due to a sweaty",
+  "ctt_Electro_Circus_Sign_30":"kid winning all of",
+  "ctt_Electro_Circus_Sign_31":"the prizes.",
+
+  "ctt_Electro_Circus_Sign_32":"Any customers",
+  "ctt_Electro_Circus_Sign_33":"who get food",
+  "ctt_Electro_Circus_Sign_34":"poisoning must",
+  "ctt_Electro_Circus_Sign_35":"cope",
+
+  "ctt_Electro_Circus_Sign_36":"Hit the targets",
+  "ctt_Electro_Circus_Sign_37":"and win a prize",
+
+  "ctt_Electro_Circus_Sign_38":"Magum Plushies",
+  "ctt_Electro_Circus_Sign_39":"are now in",
+  "ctt_Electro_Circus_Sign_40":"stock!",
+
+  "ctt_Electro_Circus_Sign_41":"Please do not",
+  "ctt_Electro_Circus_Sign_42":"steal a balloon",
+  "ctt_Electro_Circus_Sign_43":"(Unless its free",
+  "ctt_Electro_Circus_Sign_44":"balloon day)",
+
+  "ctt_Electro_Circus_Sign_45":"Fortune Teller",
+
+  "ctt_Electro_Circus_Sign_46":"THE",
+  "ctt_Electro_Circus_Sign_47":"DIP",
+  "ctt_Electro_Circus_Sign_48":"OF",
+  "ctt_Electro_Circus_Sign_49":"DOOM",
+
+  "ctt_Electro_Circus_Sign_50":"(If you drown,",
+  "ctt_Electro_Circus_Sign_51":"that\'s on you)",
+
+  "ctt_Electro_Circus_Sign_52":"King of the Cake",
+
+  "ctt_Electro_Circus_Sign_53":"Creators of",
+  "ctt_Electro_Circus_Sign_54":"Mario party",
+  "ctt_Electro_Circus_Sign_55":"please do not",
+  "ctt_Electro_Circus_Sign_56":"sue us",
+
+  "ctt_Electro_Circus_Sign_57":"Children Only",
+
+  "ctt_Electro_Circus_Sign_58":"Bumper cars",
+  "ctt_Electro_Circus_Sign_59":"(Powered by",
+  "ctt_Electro_Circus_Sign_60":"electricity)",
+
+  "ctt_Electro_Circus_Sign_61":"Bumper cars is",
+  "ctt_Electro_Circus_Sign_62":"shut down so",
+  "ctt_Electro_Circus_Sign_63":"I could afford my",
+  "ctt_Electro_Circus_Sign_64":"rent",
+
+  "ctt_Electro_Circus_Sign_65":"You must be this",
+  "ctt_Electro_Circus_Sign_66":"tall to ride",
+
+  "ctt_Electro_Circus_Sign_67":"Sorry Vision",
+
+  "ctt_Electro_Circus_Sign_68":"Start Ride",
+
+  "ctt_Electro_Circus_Sign_69":"We are not at",
+  "ctt_Electro_Circus_Sign_70":"fault for any",
+  "ctt_Electro_Circus_Sign_71":"obstacles on the",
+  "ctt_Electro_Circus_Sign_72":"roller coaster",
+
+  "ctt_Electro_Circus_Sign_73":"Do not feed the",
+  "ctt_Electro_Circus_Sign_74":"circus freaks",
+
+  "ctt_Electro_Circus_Sign_75":"Suspicious",
+  "ctt_Electro_Circus_Sign_76":"Spaceman of",
+  "ctt_Electro_Circus_Sign_77":"doom",
+
+  "ctt_Electro_Circus_Sign_78":"The hounds of",
+  "ctt_Electro_Circus_Sign_79":"mass destruction",
+
+  "ctt_Electro_Circus_Sign_80":"Creepy-crawly",
+  "ctt_Electro_Circus_Sign_81":"of dread",
+
+  "ctt_Electro_Circus_Sign_82":"Please leave",
+  "ctt_Electro_Circus_Sign_83":"funhouse after",
+  "ctt_Electro_Circus_Sign_84":"closing or you",
+  "ctt_Electro_Circus_Sign_85":"will be trapped",
+
+  "ctt_Electro_Circus_Sign_86":"Only pee in pool",
+  "ctt_Electro_Circus_Sign_87":"when the health",
+  "ctt_Electro_Circus_Sign_88":"inspecter isn\'t",
+  "ctt_Electro_Circus_Sign_89":"looking",
+
+  "ctt_Electro_Circus_Sign_90":"The Femmy",
+  "ctt_Electro_Circus_Sign_91":"& Pelv",
+  "ctt_Electro_Circus_Sign_92":"preformance",
+  "ctt_Electro_Circus_Sign_93":"(Tickets needed)",
+
+  "ctt_Electro_Circus_Sign_94":"Thank you for",
+  "ctt_Electro_Circus_Sign_95":"visiting Electro",
+  "ctt_Electro_Circus_Sign_96":"Circus",
+
+  "ctt_Electro_Circus_Sign_97":"Any items left",
+  "ctt_Electro_Circus_Sign_98":"here will become",
+  "ctt_Electro_Circus_Sign_99":"ours and you",
+  "ctt_Electro_Circus_Sign_100":"wont get it back",
+
+  //Oculus_Sea_Sign
+
+  "ctt_Oculus_Sea_Sign_1":"Exit",
+  "ctt_Oculus_Sea_Sign_2":"Treasure Room",
+
+  //Oculus_Sea_Book
+
+  "ctt_Oculus_Sea_Book_1":"Every life is created with a purpose. My purpose was simple; to guard the rare materials hidden in the Oculus Sea. That is the reason I was created.\n\nMy brother however failed to understand his purpose. His thirst for power consumed his morals...\n",
+  "ctt_Oculus_Sea_Book_2":"I will destroy anyone with that mindset.",
+
+  //Bee_Hive_Sign
+
+  "ctt_Bee_Hive_Sign_1":"Buford\'s Hive",
+  "ctt_Bee_Hive_Sign_2":"Barry\'s Hive",
+  "ctt_Bee_Hive_Sign_3":"Buck\'s Honey Bar",
+
+  "ctt_Bee_Hive_Sign_4":"NO",
+  "ctt_Bee_Hive_Sign_5":"DIRT-EATERS",
+
+  "ctt_Bee_Hive_Sign_6":"Bella\'s Hive",
+  "ctt_Bee_Hive_Sign_7":"Bailey\'s Hive",
+  "ctt_Bee_Hive_Sign_8":"Beatrice\'s Hive",
+  "ctt_Bee_Hive_Sign_9":"Bob\'s Hive",
+  "ctt_Bee_Hive_Sign_10":"Clyde\'s Hive",
+  "ctt_Bee_Hive_Sign_11":"Baljeet\'s Hive",
+  "ctt_Bee_Hive_Sign_12":"Bonnie\'s Hive",
+  "ctt_Bee_Hive_Sign_13":"Britney\'s House",
+  "ctt_Bee_Hive_Sign_14":"Blake\'s Hive",
+  "ctt_Bee_Hive_Sign_15":"Buzz\'s Hive",
+  "ctt_Bee_Hive_Sign_16":"Brooklyn\'s Hive",
+  "ctt_Bee_Hive_Sign_17":"Brians Hive",
+  "ctt_Bee_Hive_Sign_18":"barrys hive",
+  "ctt_Bee_Hive_Sign_19":"Magum\'s Lava Bar",
+
+  "ctt_Bee_Hive_Sign_20":"there\'s nothing",
+  "ctt_Bee_Hive_Sign_21":"here",
+
+  "ctt_Bee_Hive_Sign_22":"told you so",
+
+  "ctt_Bee_Hive_Sign_23":"BEES",
+  "ctt_Bee_Hive_Sign_24":"LOVE",
+  "ctt_Bee_Hive_Sign_25":"HOUSE",
+
+  "ctt_Bee_Hive_Sign_26":"Who tf made",
+  "ctt_Bee_Hive_Sign_27":"this.",
+
+  //Bee_Hive_Book
+
+  "ctt_Bee_Hive_Book_1":"Buford Diary...\n\n\nAlright today is the day, todays the day I tell Bella I love her.\n\n\nI really hope she feels the same way.",
+  "ctt_Bee_Hive_Book_2":"These god damn Dirt eaters are really getting out of hand. What are we gonna do without Bettys honey?\n\nNow what excuse am I supposed to use when I\'m late for work, can\'t tell them that I just had a bunch of Honey and woke up stungover",
+  "ctt_Bee_Hive_Book_3":"If someone wants to Bee my boyfriend. They better give me every flower in the WORLD.\n\nAnd no way are they getting my honey if they come to my house with no peaceful rose~",
+  "ctt_Bee_Hive_Book_4":"A dirt eater went to my school.\n\nWe became friends, but then my parents told me that we don\'t communicate with those bugs.\n\nIts a shame because I really liked him.\n\nHe probably drinks ant juice- Gross",
+  "ctt_Bee_Hive_Book_5":"Back in my day Ants and Bees lived together in peace and harmoney.\n\nI think its those blah blah phones thats getting them all buzzed up.\n\nAnts can be sweet too. Kids these days need to stop cancling everyone\n",
+  "ctt_Bee_Hive_Book_6":"When my crew and I went out to the Oculus sea to grab some Elementium... We found this weird island, its called Muck Island.\n\n\nIt is now my religion. sorry Ben",
+  "ctt_Bee_Hive_Book_7":"This is bad this is BAD!\n\nBuford is gonna ask Bella OUT.\n\nApoligises for using the name of god in vain but BLAH BLAH BLOODY HELL.\n\nNobody wants a guy that can make Honey... Maybe I should learn to bake a cake...",
+  "ctt_Bee_Hive_Book_8":"Wanna hear some tea! I heard both Baljeet AND Buford like Bella.\n\nWho is gonna win her over, Bufords got a bigger stinger but Baljeet knows how to make some good honey! ",
+  "ctt_Bee_Hive_Book_9":"Buzz and I have our Honeymoon soon, I can\'t wait its gonna be so sweet.\n\nI just hope no Ants bug us, they broke into our hive recently and killed Betty. I feel so bad for Buck- But don\'t worry the second coming of Ben is soon... he will save us",
+  "ctt_Bee_Hive_Book_10":"Yooo whats poppin\' Bee nation and welcome to BUZZfeeeed!!! In this video I am going to ask people about the Bee Ant Conflict!!!\n\nIf this video gets 100 stings I will drink Ant Juice LIVE ON TWITCHTB\nThis videos sponsered by Honey",
+  "ctt_Bee_Hive_Book_11":"My girlfriend Brittney wants us to call eachother cute nicknames. But I don\'t know what one to use...\nBaby? Babe? Sugar? Love? Darling? Hot Stuff? My Beloved?\n\nIf only there was a nickname couples used that was sweet, and reminded us of something tastey...",
+  "ctt_Bee_Hive_Book_12":"My parents left me home alone to fight the Ants.\n\nI can\'t wait until I turn 18 so I can start teaching those dirt eaters a lesson!",
+  "ctt_Bee_Hive_Book_13":"Buford Diary...\n\nI used to not believe in Global Warming, but its been pretty hot here lately, the honey is melting way more than its supposed to!",
+  "ctt_Bee_Hive_Book_14":"Day 2\n\nA giant river of lava just melted our statue of Ben WTF!!!\n\nNow theres Piglins and crap in here, thats it im moving to Antopolis",
+  "ctt_Bee_Hive_Book_15":"Barrys Diary\n\nJust got fired from my job. Those blaze rods really did a number on me last night, couldn\'t focus on work",
+  "ctt_Bee_Hive_Book_16":"Bettys Diary\n\nThese piglins give me the ick!\n\nI\'m leaving this place",
+  "ctt_Bee_Hive_Book_17":"I am trapped in my hive forever...\n\nEternal Solitude",
+  "ctt_Bee_Hive_Book_18":"I only have two words\n",
+  "ctt_Bee_Hive_Book_19":"global warming",
+  "ctt_Bee_Hive_Book_20":"I tried giving the Piglins my honey... they didn\'t like it. However, they do like gold... I\'ve given them all my gold, all they give me in return is gravel and sticks... would be nice for them to give me some enderpearls so I could teleport outta here",
+  "ctt_Bee_Hive_Book_21":"Wow all this drama with our home being invaded by Piglins is HYPE! I made 3 videos about cancelling Magum, our views are off the roof!",
+  "ctt_Bee_Hive_Book_22":"It happened just like that... Brittney and I were out for a morning stroll... a Piglin brute struck her in the head... she never woke up.\n\nI will get my revenge",
+  "ctt_Bee_Hive_Book_23":"I can\'t BEElieve im saying this but. I liked it better when we were being invaded by Ants... the Piglins have burned our home!",
+
+  //Antopolis_Sign
+
+  "ctt_Antopolis_Sign_1":"LOOT-G08N",
+  "ctt_Antopolis_Sign_2":"Cataglyphis",
+  "ctt_Antopolis_Sign_3":"Desert",
+
+  "ctt_Antopolis_Sign_4":"ANT-317",
+
+  "ctt_Antopolis_Sign_5":"BUG-653",
+  "ctt_Antopolis_Sign_6":"Cake Fields",
+
+  "ctt_Antopolis_Sign_7":"BEN-666",
+
+  "ctt_Antopolis_Sign_8":"B1G-CHU8",
+  "ctt_Antopolis_Sign_9":"Charleston",
+  "ctt_Antopolis_Sign_10":"Chungus",
+
+  "ctt_Antopolis_Sign_11":"KAT-7777",
+
+  "ctt_Antopolis_Sign_12":"N3RF-JJ77",
+  "ctt_Antopolis_Sign_13":"Treasure",
+  "ctt_Antopolis_Sign_14":"Trove Cove",
+
+  "ctt_Antopolis_Sign_15":"T47U-S02",
+  "ctt_Antopolis_Sign_16":"Overgrown",
+
+  "ctt_Antopolis_Sign_17":"B1G-CHU8",
+
+  "ctt_Antopolis_Sign_18":"HUNC-X129",
+
+  "ctt_Antopolis_Sign_19":"HUSH-1717",
+
+  "ctt_Antopolis_Sign_20":"Austins Hive",
+  "ctt_Antopolis_Sign_21":"Akiria\'s Hill",
+  "ctt_Antopolis_Sign_22":"Alex\'s Hill",
+
+  "ctt_Antopolis_Sign_23":"Antdrew Tate\'s",
+  "ctt_Antopolis_Sign_24":"Hill",
+
+  "ctt_Antopolis_Sign_25":"Alyssa\'s Hill",
+
+  "ctt_Antopolis_Sign_26":"Aiden\'s Ant Juice",
+
+  "ctt_Antopolis_Sign_27":"NO",
+  "ctt_Antopolis_Sign_28":"FLOWER-SNIFFERS",
+
+  "ctt_Antopolis_Sign_29":"And i\'ll do it",
+  "ctt_Antopolis_Sign_30":"again",
+
+  "ctt_Antopolis_Sign_31":"You know me too",
+  "ctt_Antopolis_Sign_32":"well, ofc I\'d write",
+  "ctt_Antopolis_Sign_33":"something on one",
+  "ctt_Antopolis_Sign_34":"of the signs ;)",
+
+  "ctt_Antopolis_Sign_35":"Annabelles Hill",
+  "ctt_Antopolis_Sign_36":"Ashleys Hill",
+  "ctt_Antopolis_Sign_37":"Aarons Hill",
+  "ctt_Antopolis_Sign_38":"Adams Hill",
+  "ctt_Antopolis_Sign_39":"Adrians Hill",
+  "ctt_Antopolis_Sign_40":"Avas Hill",
+
+  "ctt_Antopolis_Sign_41":"XQCL-7777",
+
+  "ctt_Antopolis_Sign_42":"Axels Hill",
+  "ctt_Antopolis_Sign_43":"Amirs Hill",
+
+  "ctt_Antopolis_Sign_44":"ANDY-T0Y",
+
+  "ctt_Antopolis_Sign_45":"Andys Auto",
+  "ctt_Antopolis_Sign_46":"repairs",
+
+  "ctt_Antopolis_Sign_47":"Aces Hill",
+
+  "ctt_Antopolis_Sign_48":"SWAN-1428",
+
+  "ctt_Antopolis_Sign_49":"Anasuis Hill",
+
+  "ctt_Antopolis_Sign_50":"FEM-PELV",
+  "ctt_Antopolis_Sign_51":"Electro Circus",
+
+  "ctt_Antopolis_Sign_52":"Elementium",
+  "ctt_Antopolis_Sign_53":"Testing Facility",
+
+  "ctt_Antopolis_Sign_54":"Professor G\'s",
+  "ctt_Antopolis_Sign_55":"Office",
+
+  "ctt_Antopolis_Sign_56":"Cloning Room",
+
+  "ctt_Antopolis_Sign_57":"Bens Dormitory",
+
+  "ctt_Antopolis_Sign_58":"DREW-TATE",
+
+  //Antopolis_Book
+
+  "ctt_Antopolis_Book_1":"Aidens ant juice is closed to depression\n\n\n\nMy family was killed by bees, I have no more hope...\n\n\nWhich is why I joined Henry, I want to be the one to kill Ben",
+  "ctt_Antopolis_Book_2":"I saw a Flower Sniffer today.\n\nIt looked at me kinda funny...but it was kinda cute~\n\nBut...I like Ants. I can\'t like a Bee...\n\nWhat do I do?",
+  "ctt_Antopolis_Book_3":"Whats up, its the Top A Antdrew Tate.\n\nIf you wanna be a real Alpha Ant, stop drinking that nerdy Ant juice and get some Sparkling Ant Juice!\n\nAlso what color is your \"bug\"atti",
+  "ctt_Antopolis_Book_4":"The Bees took my father, atleast we make prisons, but the bees throw them into the honey pit... He\'ll never survive!\n\nI am joining Henry tonight for the war, bees will be squished!\nFor my father...",
+  "ctt_Antopolis_Book_5":"Back in the day we used to live with the Bees, but our homes were too crouded, Henry found us and gave us this home.\n\nBut I think the Bees got jealos because they started saying that we were stealing our honey even tho we don\'t even like honey.",
+  "ctt_Antopolis_Book_6":"Eventually they destroyed one of the buildings here, once that happened bees and ants would often fight with eachother- things just got worse and worse.\n\nIf it wasn\'t for the Bees blaming us for stealing their honey, none of this war would happen.",
+  "ctt_Antopolis_Book_7":"What? the bees and ants are at war?\n\nI didn\'t know that... i\'ve been in my room watching Dragon Ball, Dragon Ball Z, and Dragon Ball Super for the last year...",
+  "ctt_Antopolis_Book_8":"What is GOING ON ANT TRIBE!!!\nIn this video, I will be playing Ant Team Towers! we are going to try and beat Nightmare Bloodless against the hardest boss in the game... The FURY ANT EATER!\nMake sure to tune in on Saturday for the Aaron Vs Blake Boxing Match",
+  "ctt_Antopolis_Book_9":"I always thought all this \"Bees are evil\" was just propaganda... that was until the \"great death spiral\"\n\nWhere the bees killed over 50 ants from my colony...\n\nYou see when us Ants march together we follow the person infront of us...",
+  "ctt_Antopolis_Book_10":"The leader takes us to the destination... only this time the Bees made us go off track and run in a circle- the leader ant found the last ant in the line and started following him, forgetting he was the leader... All of the Ants were marching 1 by 1 in a circle... blindlessly following the one infront",
+  "ctt_Antopolis_Book_11":"Eventually, the ants grew tired- and died...",
+  "ctt_Antopolis_Book_12":"Ever since we got that Elementium our city has been booming, the entire citys powered by Elementium, I can play Pocket Ants all day with no power bill!\n\nWe are now way more technologically advanced than the bees, they stand no chance even if Ben helps them!!!!",
+  "ctt_Antopolis_Book_13":"Henry made eye contect with me once...\n\n\nI am henrys biggest fan...\n\nI love him....\n\nI want to be him...\n\nSorry- sometimes I c\"ant\" control myself",
+  "ctt_Antopolis_Book_14":"I finally found out how to make Ant Juice\n\n-1 tbs Soul Sand\n\n-2 Grapes\n\n-1 Cup of salt water\n\n-Stir with 2 tbs of jelly\n\nAnd hurrah! hurrah!\nyou made ant juice",
+  "ctt_Antopolis_Book_15":"Ashley makes the best Ant Juice, its so sour! Way better than that gross \"Honey\" the flower sniffers tried to sell me.\n\nBut I was nice enough to eat it infront of them.\n\nMy mother always taught me not to be a red ant am I right",
+  "ctt_Antopolis_Book_16":"I love Henry and all, but Mother of all anthills WHY did he think it was a good idea to have the highway drive through my house...",
+  "ctt_Antopolis_Book_17":"Ever since we found Elementium and became technologicaly advanced kids these days just fly around on their planes...\n\nBack in my day we exercised by marching one by one\n\nOh well, atleast we can 1-up the bees",
+  "ctt_Antopolis_Book_18":"Hey its me Ace!\n\nI invented the planes that the Ants use.\n\nWith the power of elementium we strived enough for us Ants to have much more free time- So I could quit my dead end job at Apple Ants to start my passion of building planes!",
+  "ctt_Antopolis_Book_19":"I respect Anabelle for going to war against the Bees.\n\nShe\'s quite admirable to say the very least.\n\nIf I keep her safe through this, then I plan on making her my bride.",
+  "ctt_Antopolis_Book_20":"I love Henry so much.\n\nI hope he comes back, ever since he climbed the tower I haven\'t seen him\n\n\n\n\nI love henry",
+  "ctt_Antopolis_Book_21":"You know... I can\'t believe im saying this but I think I liked the Bee war more than this",
+  "ctt_Antopolis_Book_22":"What is GOING ON ANT TRIBE!!!\nIn this video, I will be playing Ant Team Towers! we are going to try and beat THE ANT TRIALS. this next dugeon has a hellstone piglin, karma challenge, AND it has the heatwave curse... but there a Buck Ally space ahead!!!",
+  "ctt_Antopolis_Book_23":"Wow that grape elixer tastes so good!\n\nBut this pink haired pirate stole it all from me... damn pirates!",
+  "ctt_Antopolis_Book_24":"I knew this would happen",
+  "ctt_Antopolis_Book_25":"Why would Floria do this to us!?",
+  "ctt_Antopolis_Book_26":"Aidens ant juice is closed to depression\n\n\n\nMy family was killed by bees, but it was actually not the bees and that was a lie\n\nBut now our home is without power..",
+  "ctt_Antopolis_Book_27":"My mom always told me I should pay for home insurance... But I always told her\n\n\"Why would I spend so much money! its not like my house will randomly be destroyed from erosion\"\n\nBuy home insurace.... don\'t take risks",
+  "ctt_Antopolis_Book_28":"What? My house is destroyed?\n\nI have been writing Dragon Ball DAIMA",
+  "ctt_Antopolis_Book_29":"Not only is there a HIGHWAY IN MY HOUSE... now there is a tree and a GOOP FLORIE...\n\n\nI think its time for me to move out",
+  "ctt_Antopolis_Book_30":"Its a shame, now that we aren\'t in an alliance with Electrium we ran out of Elementium. Henry had only a few pieces left but he lended them to Cake Team so they could use it to build something...",
+  "ctt_Antopolis_Book_31":"Heh, Magums making our life pretty challenging...\n\nBut us Ants will always march on one by one",
+  "ctt_Antopolis_Book_32":"Anabelle will become my bride. we will face the end of the world together",
+
+  //Henrys_Lab_Book
+
+  "ctt_Henrys_Lab_Book_1":"\n\n\n\n\n(The pages have been torn to shreds...)",
+
+  //Henrys_Lab_Sign
+
+  "ctt_Henrys_Lab_Sign_1":"Cloning Room",
+  "ctt_Henrys_Lab_Sign_2":"Electriums Office",
+
+  //Halloween_Town_Sign
+
+  "ctt_Halloween_Town_Sign_1":"WARNING",
+  "ctt_Halloween_Town_Sign_2":"TOXIC WATER",
+  "ctt_Halloween_Town_Sign_3":"Oogies Basement",
+
+  //Garden_of_Hope_Book
+
+  "ctt_Garden_of_Hope_Book_1":"Phonebook\n\nPsy\n-2012\n\nNorm\n-80085\n\nDevi\n-69\n\n???\n-142\n\n",
+
+  //Oculus_Ruins_Sign
+
+  "ctt_Oculus_Ruins_Sign_1":"The Swanlet",
+  "ctt_Oculus_Ruins_Sign_2":"Supreme has",
+  "ctt_Oculus_Ruins_Sign_3":"seen the end",
+
+  "ctt_Oculus_Ruins_Sign_4":"Obtain Cakes",
+  "ctt_Oculus_Ruins_Sign_5":"to turn this",
+  "ctt_Oculus_Ruins_Sign_6":"to Diamonds",
+
+  //Enchanted_Observatory_Book
+
+  "ctt_Enchanted_Observatory_Book_1":"This place must have been built by my ancestors. It seems completely abandoned—only the lifeless golems remain, designed to protect this place from threats. Kind of sad, though… these golems are still trying to protect people who left long ago.\n- Quartz",
+  "ctt_Enchanted_Observatory_Book_2":"The End.\n\nAn alternate dimension that winds together with the nether and the dimension we are in now.\n\nThe end was only a conspiracy theory. personalily I don\'t belive it exists\n\n-Professor Greg\n",
+  "ctt_Enchanted_Observatory_Book_3":"But these \"end portal frames\" get me thinking...\n\nAncient technology far greater than anything humanity has created.\n\nIt looks like something must be placed inside to power it up... I\'m not\nsure what\n",
+  "ctt_Enchanted_Observatory_Book_4":"Of course he had to send me here. Its only a matter of time before the occurances start.\n\nMy ancestors left this place centuries ago. Damnit I should have paid more attention in history class, they\'re probably in the end.\n\n-Quartz",
+
+  //Devi_Castle_Book
+
+  "ctt_Devi_Castle_Book_1":"You know, Neglected Wraiths just want a hug...\n\n...they just happen to kill you in the process.",
+  "ctt_Devi_Castle_Book_2":"I have been alone for what has felt like years now...\n\nThere have been a few encounters with people finding my castle, but most days, we are alone.\n\nAt least here, I can\'t hurt anyone or myself.\n\n",
+  "ctt_Devi_Castle_Book_3":"Gladiatus keeps texting me. I don\'t want anything to do with him. He just brings back bad memories...\n\n\n\n\n\n\n\n-Devis Diary",
+  "ctt_Devi_Castle_Book_4":"Universe A22\n\nIn this timeline, Nelfin was killed during the mission to Otherside. After her brother\'s death, Floria used Elementium in a fight of rage. ",
+  "ctt_Devi_Castle_Book_5":"This surge in power caused Overgrown to spread as far as Devi’s Castle, eroding it down and morphing Devi to Floria’s will.",
+  "ctt_Devi_Castle_Book_6":"When Floria\'s infection began taking over my body, the Demon Queen sacrificed herself to keep it from attacking my heart.\n\nI\'m saved from my curse…but at what cost?",
+
+  //Devi_Castle_Sign
+
+  "ctt_Devi_Castle_Sign_1":"stop trying to",
+  "ctt_Devi_Castle_Sign_2":"fish here...",
+
+  "ctt_Devi_Castle_Sign_3":"You still",
+  "ctt_Devi_Castle_Sign_4":"fell for this",
+  "ctt_Devi_Castle_Sign_5":"?",
+  "ctt_Devi_Castle_Sign_6":"Tower",
+  "ctt_Devi_Castle_Sign_7":"Tokens",
+  "ctt_Devi_Castle_Sign_8":"Ahead ;)",
+
+  "ctt_Devi_Castle_Sign_9":"Map Built by",
+  "ctt_Devi_Castle_Sign_10":"Fishvi",
+
+  "ctt_Devi_Castle_Sign_11":"jk lol",
+  "ctt_Devi_Castle_Sign_12":">:)",
+
+  "ctt_Devi_Castle_Sign_13":"Why did you",
+  "ctt_Devi_Castle_Sign_14":"break this",
+  "ctt_Devi_Castle_Sign_15":"painting :(",
+  "ctt_Devi_Castle_Sign_16":"why?",
+
+  //Horse_Race_Sign
+
+  "ctt_Horse_Race_Sign_1":"JJ\'s FISHING",
+  "ctt_Horse_Race_Sign_2":"SPOT DO NOT",
+  "ctt_Horse_Race_Sign_3":"STEAL",
+
+  "ctt_Horse_Race_Sign_4":"1st Place",
+  "ctt_Horse_Race_Sign_5":"Prize",
+
+  "ctt_Horse_Race_Sign_6":"2nd Place",
+  "ctt_Horse_Race_Sign_7":"3rd Place",
+  "ctt_Horse_Race_Sign_8":"4th Place",
+
+  //Hollow_wood_Sign
+
+  "ctt_Hollow_wood_Sign_1":"Rip",
+  "ctt_Hollow_wood_Sign_2":"Little Thomas",
+
+  "ctt_Hollow_wood_Sign_3":"There JJ mains",
+  "ctt_Hollow_wood_Sign_4":"you happy",
+
+  "ctt_Hollow_wood_Sign_5":"Take",
+  "ctt_Hollow_wood_Sign_6":"One",
+
+  //Hollow_wood_Book
+
+  "ctt_Hollow_wood_Book_1":"Died too young...\n\nThey say his ghost still rooms around, taking over bodies and attacking people...\n\nEvery Friday the 13th he visits this grave",
+  "ctt_Hollow_wood_Book_2":"Ever heard that this place is haunted...\n\n\nYears ago, a man was killed, his blood sucked dry...\n\n",
+  "ctt_Hollow_wood_Book_3":"Its said he is searching for a higher power\n\nThey call him...\n\n\nThe Vampire",
+  "ctt_Hollow_wood_Book_4":"Ever heard that this place is haunted?\n\n\nYears ago, people would hear scrapping outside... and suddenly, it would become night during the day... people would have trouble breathing... ",
+  "ctt_Hollow_wood_Book_5":"They would wake up and there would be claw scrapes all over the village...\n\nThey call him..\n\n\nThe Dark Duck",
+  "ctt_Hollow_wood_Book_6":"Ever heard that this place is haunted...\n\n\nYears ago, at night, the children would hear sounds in the forest. Swishing, and squishing, something slimey, creeping by...",
+  "ctt_Hollow_wood_Book_7":"Its said that any candy that hasnt been eaten would be eaten by this monster\n\nThey call him...\n\n\nThe Jelly Man",
+
+  //Floating_Glaciers_Sign
+
+  "ctt_Floating_Glaciers_Sign_1":"The Traz",
+  "ctt_Floating_Glaciers_Sign_2":"Tavern",
+
+  "ctt_Floating_Glaciers_Sign_3":"The Abas",
+  "ctt_Floating_Glaciers_Sign_4":"Abode",
+
+  "ctt_Floating_Glaciers_Sign_5":"RIP Glacium",
+  "ctt_Floating_Glaciers_Sign_6":"2009-2011",
+  "ctt_Floating_Glaciers_Sign_7":"Died from",
+  "ctt_Floating_Glaciers_Sign_8":"Unknown Sickness",
+
+  "ctt_Floating_Glaciers_Sign_9":"its not about",
+  "ctt_Floating_Glaciers_Sign_10":"the money batman",
+
+  "ctt_Floating_Glaciers_Sign_11":"Glacium\'s",
+  "ctt_Floating_Glaciers_Sign_12":"Humble Abode",
+
+  "ctt_Floating_Glaciers_Sign_13":"Wall",
+  "ctt_Floating_Glaciers_Sign_14":"Window",
+  "ctt_Floating_Glaciers_Sign_15":"Bed",
+  "ctt_Floating_Glaciers_Sign_16":"Roof",
+  "ctt_Floating_Glaciers_Sign_17":"Night Desk",
+  "ctt_Floating_Glaciers_Sign_18":"Table",
+  "ctt_Floating_Glaciers_Sign_19":"Frozen Chest",
+  "ctt_Floating_Glaciers_Sign_20":"Refrigerator",
+  "ctt_Floating_Glaciers_Sign_21":"Freezer",
+  "ctt_Floating_Glaciers_Sign_22":"Counter",
+
+  "ctt_Floating_Glaciers_Sign_23":"Potentially a",
+  "ctt_Floating_Glaciers_Sign_24":"Stove",
+
+  "ctt_Floating_Glaciers_Sign_25":"Hot Spring",
+  "ctt_Floating_Glaciers_Sign_26":"For Magum",
+
+  //Floating_Glaciers_Book
+
+  "ctt_Floating_Glaciers_Book_1":"Because Glacium\'s\nENTIRE house was made out of ice, everything must be labled as he doesn\'t know what is what...",
+
+  //Bobsled_Run_Sign
+
+  "ctt_Bobsled_Run_Sign_1":"Get a score",
+  "ctt_Bobsled_Run_Sign_2":"better than",
+  "ctt_Bobsled_Run_Sign_3":"1000 to unlock!",
+  "ctt_Bobsled_Run_Sign_4":"600 to unlock!",
+  "ctt_Bobsled_Run_Sign_5":"700 to unlock!",
+
+  //The_Blossom_Pirates_Book
+
+  "ctt_The_Blossom_Pirates_Book_1":"Hey Mom\n\nI\'m sorry I haven\'t been able to write back to you; it\'s been really busy.\n\nI understand that you\'re still upset with my decision, but I couldn\'t stay at home anymore...",
+  "ctt_The_Blossom_Pirates_Book_2":"Our home was just not the same; I still think about the night it happened.\n\nBut my friends in the Dojo, they were broken, homes destroyed, loved ones dead.",
+  "ctt_The_Blossom_Pirates_Book_3":"At least with us sailing the sea, sometimes we can just forget about all that and truly feel free again.\n\nI know you want me to return home, but I can\'t. My crew needs me more than anything.\n\n-Captain Blossom",
+
+  //Kai_Treetops_Sign
+
+  "ctt_Kai_Treetops_Sign_1":"No",
+  "ctt_Kai_Treetops_Sign_2":"Humans",
+  "ctt_Kai_Treetops_Sign_3":"Bees",
+  "ctt_Kai_Treetops_Sign_4":"Or Ants",
+
+  //Kai_Treetops_Book
+
+  "ctt_Kai_Treetops_Book_1":"\nDay 1\n\nI don\'t know where we are, all I know is that there are some freaky people here! Half birds... half people? All I know is they can fly.",
+  "ctt_Kai_Treetops_Book_2":"\nDay 2\n\nAbas went to get some fire word for tonight. We had an interaction with one of the people, they are quite aggressive.",
+  "ctt_Kai_Treetops_Book_3":"\nDay 3\n\nI\'ve started on some walls while Abas sets up fish catchers. We ended up taking some wheat from them while they were asleep, now we can make beds.",
+  "ctt_Kai_Treetops_Book_4":"\nDay 4\n\nA lone explorer of their kind wandered close to our camp, we took them and hid them in a small spot we dug underground, hopefully we get some intell on what\'s going on this island.",
+  "ctt_Kai_Treetops_Book_5":"\nDay 5\n\nAbas here, Traz is getting more fire word cuz we ran out again :p. Hope he doesn\'t realize I\'m using his journal!",
+  "ctt_Kai_Treetops_Book_6":"\nDay 6\n\nDuring the night I\'ve seen some eyes in the trees, I\'m not sure if I\'m hallucinating or if they\'re actually real.",
+  "ctt_Kai_Treetops_Book_7":"\nDay 7\n\nThere has been some distant talk in the trees, I\'m not sure how much longer we can stay here for.",
+  "ctt_Kai_Treetops_Book_8":"\nDay 8\n\nArrows were raided on us from above during the night. Me and Abas held them off for the entirety of it, we\'re exhausted.\n\nWe must leave.",
+  "ctt_Kai_Treetops_Book_9":"\nDay 9\n\nWhile packing up in the early morning, we were attacked again, this time a bigger fleet came in. Blowing up our walls, throwing their spears at us, we took out most of them but left as there were too many to handle.",
+
+  "ctt_Kai_Treetops_Book_10":"\nThe Kai Journal\n+=---=+=---=+",
+  "ctt_Kai_Treetops_Book_11":"\nIt\'s been quite some time, but we\'ve finally settled in the trees.\nKleem said he saw a fire in the distance.",
+  "ctt_Kai_Treetops_Book_12":"\nWe had thought nothing of it, but we were a bit skepticle of who else might be on this island.",
+  "ctt_Kai_Treetops_Book_13":"\nWe woke up and noticed some of our hay supply was gone. Kyree was on night duty and reported two people going in and out.",
+  "ctt_Kai_Treetops_Book_14":"\nKleem figured it must have been the people who started the fire on the beach, commanding one of the others to visit the camp and get intel.\n\nHe did not come back.",
+  "ctt_Kai_Treetops_Book_15":"\nThe day after they went missing after exploring the camp, we sent a small militia to spy on them.\n\nDuring that night we took action and fired shots onto the camp, unfortunately we lost many of our own to whoever these people were.",
+  "ctt_Kai_Treetops_Book_16":"\nEnough was enough. We took advantage while they were caught off-guard, sending an even bigger militia to drive them out. We lost many more, but it seemed to work...",
+
+  "ctt_Kai_Treetops_Book_17":"\nWe have a sense for despising other kinds.\nIf you\'re not a bird like us, don\'t think we\'ll be friendly to you.\n\nYou are a threat.",
+
+  //Seized_Town_Book
+
+  "ctt_Seized_Town_Book_1":"+=---=+=---=+\nThe year was 1813.\n\nI walked around like usual. Tending to the garden, greeting my neighbors, paying respects to the people who died to save this town. However, that was short-lived.",
+  "ctt_Seized_Town_Book_2":"+=---=+=---=+\nA group of... people..? crossed the bridge, but they were holding guns and ammunition.\n\nShots echoed throughout the town, each house being invaded as I watched through my window, seeing my neighbors get slaughtered.",
+  "ctt_Seized_Town_Book_3":"+=---=+=---=+\nAlthough, I was not going down for no purpose... I picked up what I had and began to fight, but it was useless.\n\nOne shot fired from the other side of the street, pinning me right in my heart...\n\n...",
+  "ctt_Seized_Town_Book_4":"+=---=+=---=+\nI awoke on the ground, town abandoned, buildings on fire. I got up, but there was no blood, no wound, nothing... It almost seemed as if the bullet passed through me. I took my cat from my house as I wandered to the forest. ",
+  "ctt_Seized_Town_Book_5":"\n\n\n\n-------------------\nI see a Tower in the distance, I wonder what it\'s there for.\n-------------------",
+  "ctt_Seized_Town_Book_6":"+=---=+=---=+\nI\'ve been exploring for quite some time, finding some people along the way. A Green Knight, an Armored Explorer, and many more.\n\nIn my travels, I\'ve forged a Scythe thats helped me clear out some of the entities",
+  "ctt_Seized_Town_Book_7":"+=---=+=---=+\nthat happen to reside here.\n\nI don\'t see an end anytime soon, but I\'m never willing to give up either.",
+
+  "ctt_Seized_Town_Book_8":"\nI\'m just as surprised as you are to how I\'m still alive. I thought it was just my mind playing games, but when I realized my body didn\'t age, I figured this is how it was meant to play out.",
+
+  //End_City_Book
+
+  "ctt_End_City_Book_1":"This book will have stuff later",
+
+  "ctt_End_City_Book_2":"\na wormhole has opened up inside of my mind\n\na wormhole has opened up inside of my mind\n\na wormhole has opened up inside of my mind\n\n",
+  "ctt_End_City_Book_3":"\na wormhole has opened up inside of my mind\n\na wormhole has opened up inside of my mind\n\na wormhole has opened up inside of our mind\n\n",
+
+  //The_Deep_Dark_Book
+
+  "ctt_The_Deep_Dark_Book_1":"White Cake Log:\n\nWe are nearing the conclusion in obtaining enough Elementium; a process fraught with fatigue and tension. The monsters in these caves are quite hostile, especially the Wardens.",
+  "ctt_The_Deep_Dark_Book_2":"It seems some monsters even started causing chaos in a nearby village. The public seems to hold us accountable, for that. Frankly, there may be some truth to their accusations. However, the benefits these resources afford the kingdom far surpass the drawbacks.",
+  "ctt_The_Deep_Dark_Book_3":"-Professor Gregory\nAKA The Summoner",
+
+  //The_Deep_Dark_Sign
+
+  "ctt_The_Deep_Dark_Sign_1":"WARNING",
+  "ctt_The_Deep_Dark_Sign_2":"MONSTERS AHEAD",
+
+  "ctt_The_Deep_Dark_Sign_3":"DO NOT MAKE",
+  "ctt_The_Deep_Dark_Sign_4":"NOISE",
+
+  //Joeys_Manor_Sign
+
+  "ctt_Joeys_Manor_Sign_1":"R.I.P.",
+  "ctt_Joeys_Manor_Sign_2":"Joey\'s 7th run",
+
+  "ctt_Joeys_Manor_Sign_3":"Rip Swan\'s",
+  "ctt_Joeys_Manor_Sign_4":"1095th",
+  "ctt_Joeys_Manor_Sign_5":"Run",
+
+  "ctt_Joeys_Manor_Sign_6":"Rip Wazy\'s",
+  "ctt_Joeys_Manor_Sign_7":"0th run",
+  "ctt_Joeys_Manor_Sign_8":"(he always wins)",
+
+  "ctt_Joeys_Manor_Sign_9":"Rip",
+  "ctt_Joeys_Manor_Sign_10":"Swan Jelly\'s",
+  "ctt_Joeys_Manor_Sign_11":"96th run",
+
+  "ctt_Joeys_Manor_Sign_12":"Mario Kart 8",
+  "ctt_Joeys_Manor_Sign_13":"Battle mode sucks",
+
+  "ctt_Joeys_Manor_Sign_14":"Sorry, I thought",
+  "ctt_Joeys_Manor_Sign_15":"this was the",
+  "ctt_Joeys_Manor_Sign_16":"\"Whine\"",
+  "ctt_Joeys_Manor_Sign_17":"Cellar",
+
+  //Joeys_Manor_Book
+
+  "ctt_Joeys_Manor_Book_1":"Joeys Diary.\n\nOctober 2017\n\nThis was my quiet place. But one day Swan Jelly found me coming here.\n\nNow him and Dark Swan play video games in my living room...",
+
+  //Sweet_Canyon_1_Sign
+
+  "ctt_Sweet_Canyon_1_Sign_1":"why theres",
+  "ctt_Sweet_Canyon_1_Sign_2":"no",
+  "ctt_Sweet_Canyon_1_Sign_3":"sweet berries..",
+
+  "ctt_Sweet_Canyon_1_Sign_4":"FREE",
+  "ctt_Sweet_Canyon_1_Sign_5":"APPLE",
+
+  "ctt_Sweet_Canyon_1_Sign_6":"Not Open",
+  "ctt_Sweet_Canyon_1_Sign_7":"for Business Yet",
+
+  "ctt_Sweet_Canyon_1_Sign_8":"Gift",
+  "ctt_Sweet_Canyon_1_Sign_9":"Vending",
+  "ctt_Sweet_Canyon_1_Sign_10":"Station",
+
+  "ctt_Sweet_Canyon_1_Sign_11":"DO NOT",
+  "ctt_Sweet_Canyon_1_Sign_12":"LET HIM OUT",
+
+  //Sweet_Canyon_1_Book
+
+  "ctt_Sweet_Canyon_1_Book_1":"Dear Diary,\n\nAs Christmas draws ever closer, we are gearing up to prepare a special cake for the festive occasion!\n\nwe need some sweet berries for make the cake!\n\nbut mine have just run out recently...",
+  "ctt_Sweet_Canyon_1_Book_2":"Gingerbread men can be eaten... Now I\'m curious how they reproduce.",
+
+  //Death_Mountain_Sign
+
+  "ctt_Death_Mountain_Sign_1":"MAGUM\'S",
+  "ctt_Death_Mountain_Sign_2":"CHILI DOGS",
+
+  //Tower_of_Glory_Sign
+
+  "ctt_Tower_of_Glory_Sign_1":"It\'s just a body",
+
+  "ctt_Tower_of_Glory_Sign_2":"uh no",
+  "ctt_Tower_of_Glory_Sign_3":"here is nothing",
+
+  "ctt_Tower_of_Glory_Sign_4":"always",
+  "ctt_Tower_of_Glory_Sign_5":"watching u",
+
+  //Tower_of_Glory_Book
+
+  "ctt_Tower_of_Glory_Book_1":"Day 1\n\n1 Second in Lightning\n\n40 Pushups",
+  "ctt_Tower_of_Glory_Book_2":"Day 2\n\n1 Second in Lightning\n\n35 Pushups",
+  "ctt_Tower_of_Glory_Book_3":"Day 3\n\n1.3 Seconds in Lighting\n\n37 Pushups",
+  "ctt_Tower_of_Glory_Book_4":"Day 4\n\n3 Seconds in Lightning\n\n36 Pushups",
+  "ctt_Tower_of_Glory_Book_5":"Day 5\n\n2 Seconds in Lightning\n\n45 Pushups",
+  "ctt_Tower_of_Glory_Book_6":"Day 6\n\n2.2 Seconds in Lightning\n\n40 Pushups",
+  "ctt_Tower_of_Glory_Book_7":"Day 7\n\n4 Seconds in Lightning\n\n55 Pushups",
+  "ctt_Tower_of_Glory_Book_8":"Day 8\n\n8 Seconds in Lightning\n\n56 Pushups",
+  "ctt_Tower_of_Glory_Book_9":"Day 9\n\n12 Seconds in Lightning\n\n53 Pushups\n\n\nI finally hit the armorer once in our sparing match",
+  "ctt_Tower_of_Glory_Book_10":"Day 10\n\nRest Day\n\n\nRead Berserk\n\n\nGriffith is a pretty good guy",
+  "ctt_Tower_of_Glory_Book_11":"Day 11\n\n24 Seconds in Lightning\n\n60 Pushups\n\n",
+  "ctt_Tower_of_Glory_Book_12":"Day 12\n\n\n5 Seconds in Lightning\n\n10 Pushups\n\nArmorer hit me pretty hard with his sword.\n\nHeard a strange sound, like someone hitting an anvil",
+  "ctt_Tower_of_Glory_Book_13":"Day 13\n\n20 Seconds in Lightning\n\n30 Pushups\n\nStill recovering from a broken ribcage",
+  "ctt_Tower_of_Glory_Book_14":"*Some Pages seem to be torn*",
+  "ctt_Tower_of_Glory_Book_15":"Day 35\n\n18 Minutes in Lightning\n\n159 Pushups\n\n\nGot pretty close to knocking down Armorer in our sparing match",
+  "ctt_Tower_of_Glory_Book_16":"Day 40\n\nRest Day\n\n\n\nRead more Beserk\n\nGriffith did what.\n\n",
+  "ctt_Tower_of_Glory_Book_17":"Day 55\n\n76 Minutes in Lightning\n\n50 Weighted Pushups\n\n\nTurns out Armorer was holding back",
+  "ctt_Tower_of_Glory_Book_18":"Day 70\n\n4 Hours in Lightning\n\n200 Weighted Pushups\n\n\n\n\nI beat the Armorer in a duel",
+  "ctt_Tower_of_Glory_Book_19":"Day 150\n\n24 Hours in Lightning\n\n\nLost count of push ups",
+  "ctt_Tower_of_Glory_Book_20":"Day 151\n\n\nI\'m not good enough.",
+
+  //2XXX_Sign
+
+  "ctt_2XXX_Sign_1":"Statues built",
+  "ctt_2XXX_Sign_2":"by Nikko&Fishvi",
+
+  //The_Scrapyard_Concert_Sign
+
+  "ctt_The_Scrapyard_Concert_Sign_1":"Looters will",
+  "ctt_The_Scrapyard_Concert_Sign_2":"be Eliminated",
+
+  //Sweet_Canyon_2_Book
+
+  "ctt_Sweet_Canyon_2_Book_1":"I was getting ready for Christmas when a voice out of nowhere told me to head through a door. After stepping through it, I arrived in an entirely new place, and the voice instructed me to bake a giant cake right here",
+  "ctt_Sweet_Canyon_2_Book_2":"It said I\'d be sent back to celebrate Christmas once I finished it. That\'s when I realized I could no longer leave through that same door",
+  "ctt_Sweet_Canyon_2_Book_3":"I had no other choice — I had to get this task done. Every so often, new living gingerbread men would wander into this place, trapped here just like me",
+  "ctt_Sweet_Canyon_2_Book_4":"A gingerbread man once tried to force his way out of this place, and he ended up dead. We were all terrified, so we assigned one of us to guard the door. We turn anyone away by claiming Christmas is not yet ready, and only unlock the door at the proper time",
+  "ctt_Sweet_Canyon_2_Book_5":"This makes them believe the lie and wait quietly for the day to come. I hope this will bring down our death rate",
+  "ctt_Sweet_Canyon_2_Book_6":"Terrible things keep happening. Every time we near finishing the cake, someone comes to stop us. We stand no chance against them. After our entire group is wiped out, we wake up again only to find the cake gone. Yet we have no choice but to keep going if we ever want to leave",
+  "ctt_Sweet_Canyon_2_Book_7":"I’ve hidden this book here so the voice\'s owner won\'t find our plea for help. If anyone reads this, please save us",
+
+  "ctt_Sweet_Canyon_2_Book_8":"We\'re about to start the final push, but why do my employees always insist on clocking out right on time?\n\nLately, a gang of cake thieves has been getting in our way too—let\'s hope they don\'t try to stop us when we move into that last phase",
+
+  //Sweet_Canyon_2_Sign
+
+  "ctt_Sweet_Canyon_2_Sign_1":"Gingerbread",
+  "ctt_Sweet_Canyon_2_Sign_2":"Men\'s Tomb",
+
+  //Main_Shop_Sign
+
+  "ctt_Main_Shop_Sign_1":"You found the",
+  "ctt_Main_Shop_Sign_2":"Hidden Imposter",
+  "ctt_Main_Shop_Sign_3":"#3",
+
+  "ctt_Main_Shop_Sign_4":"The",
+  "ctt_Main_Shop_Sign_5":"Summon Shack",
+
+  //Main_Shop_Book
+
+  "ctt_Main_Shop_Book_1":"Some of the villagers don\'t believe in Kamaceta they have decided to put their faith into someone more promising.\n\nSome Warriors have given blood or even a part of their soul for\npowerful items",
+  "ctt_Main_Shop_Book_2":"With the power of 100 Dark Karma you can visit the Arced Void",
+
+  "ctt_Main_Shop_Book_3":"Dear Diary:\n\nMay Kamacete save us all, they are our only hope to eliminate all evil\n\nI\'ve heard stories of worthy warriors getting\ngifts from the angels",
+  "ctt_Main_Shop_Book_4":"With the power of 100 Light Karma, you can visit Kamacete",
+
+  //Badge_Shop_Book
+
+  "ctt_Badge_Shop_Book_1":"Rest in peace Badgey.\n\n\nHe was a brave soul that sarificed his life to help the Bees and Ants make peace.\n\nHis shop has always brought us love. And now he will live peacefully in the afterlife.",
+
+  //Classic_Shop_Sign
+
+  "ctt_Classic_Shop_Sign_1":"The Backrooms",
+  "ctt_Classic_Shop_Sign_2":"Beware...",
+
+  "ctt_Classic_Shop_Sign_3":"Extra Trade",
+
+  "ctt_Classic_Shop_Sign_4":"Heal Pool",
+
+  "ctt_Classic_Shop_Sign_5":"Anvil",
+
+  "ctt_Classic_Shop_Sign_6":"Challenge",
+
+  "ctt_Classic_Shop_Sign_7":"Devil Room",
+
+  "ctt_Classic_Shop_Sign_8":"Angel Room",
+
+  "ctt_Classic_Shop_Sign_9":"Recycle Room",
+
+  "ctt_Classic_Shop_Sign_10":"Enchanting",
+  "ctt_Classic_Shop_Sign_11":"Room",
+
+  "ctt_Classic_Shop_Sign_12":"Leave",
+  "ctt_Classic_Shop_Sign_13":"Shop",
+
+  //Grim_Reaper_Shop_Book
+
+  "ctt_Grim_Reaper_Shop_Book_1":"Grim Reapers Diary:\n\nNo one truely dies in the towers, it is my job to return souls outside of the tower if someone manages to pass away...\n",
+  "ctt_Grim_Reaper_Shop_Book_2":"So many souls from bumble rumble I have to retrive...",
+
+  //Casino_Sign
+
+  "ctt_Casino_Sign_1":"completely legal",
+  "ctt_Casino_Sign_2":"storefront",
+
+  //Shiftys_Shack_Book
+
+  "ctt_Shiftys_Shack_Book_1":"Phonebook\n\nShifty\n-1997\n\nGladiatus\n-45679\n\nDavid\n-666\n\n???\n-142\n\n",
+
+  //Petal_Park_Sign
+
+  "ctt_Petal_Park_Sign_1":"Le Grande Hare",
+  "ctt_Petal_Park_Sign_2":"Open",
+  "ctt_Petal_Park_Sign_3":"Wednesday",
+  "ctt_Petal_Park_Sign_4":"To Thursday",
+
+  "ctt_Petal_Park_Sign_5":"Bob\'s Fishing",
+  "ctt_Petal_Park_Sign_6":"Needs",
+  "ctt_Petal_Park_Sign_7":"Open",
+  "ctt_Petal_Park_Sign_8":"Friday-Saturday",
+
+  "ctt_Petal_Park_Sign_9":"CLOSED",
+  "ctt_Petal_Park_Sign_10":"Open",
+  "ctt_Petal_Park_Sign_11":"Sunday-Tuesday",
+
+  "ctt_Petal_Park_Sign_12":"Warning",
+  "ctt_Petal_Park_Sign_13":"Starting the",
+  "ctt_Petal_Park_Sign_14":"Flower Festival",
+  "ctt_Petal_Park_Sign_15":"Closes All Shops",
+
+  "ctt_Petal_Park_Sign_16":"Its recommended",
+  "ctt_Petal_Park_Sign_17":"to do this after",
+  "ctt_Petal_Park_Sign_18":"you\'ve shopped",
+
+  //Petal_Park_Book
+
+  "ctt_Petal_Park_Book_1":"All items in this shop were ideas from our fans that got put into the game!\n\n\nIf you would like your item idea to be added to the game, you can \n\nDonate to the Patreon, type /trigger Patreon for the link\n",
+  "ctt_Petal_Park_Book_2":"\n<3\n\n-Swanlet",
+
+  //Neko_Island_Sign
+
+  "ctt_Neko_Island_Sign_1":"← Up",
+  "ctt_Neko_Island_Sign_2":"Up →",
+
+  "ctt_Neko_Island_Sign_3":"Do not",
+  "ctt_Neko_Island_Sign_4":" look at me.",
+  "ctt_Neko_Island_Sign_5":"Otherwise,",
+  "ctt_Neko_Island_Sign_6":"your cat……",
+
+  "ctt_Neko_Island_Sign_7":"Shop",
+
+  //Christmas_Shop_Sign
+
+  "ctt_Christmas_Shop_Sign_1":"Bank",
+  "ctt_Christmas_Shop_Sign_2":"Transfer",
+
+  //Floria_Garden_Sign
+
+  "ctt_Floria_Garden_Sign_1":"Map Built by",
+  "ctt_Floria_Garden_Sign_2":"Fishvi",
+
+  //Summoner_Book
+
+  "ctt_Summoner_Book_1":"The White Cake has given me a task…They want me to create life again, lets hope I do better this time-\n\nI have finally acquired enough elementium from Otherside to begin the cloning process- to start, I will fabricate a clone of myself",
+  "ctt_Summoner_Book_2":"After I am successful, I will begin cloning people that ascend the tower…Let\'s hope this goes better than my last attempt at creating life…",
+  "ctt_Summoner_Book_3":"The human body is easy to recreate; however, there is one thing that\'s impossible to make…A soul.\n\nEach variant I make needs a soul substitute; something I mix with Elementium to create something that mimics a soul. Its affect depends on the item used.",
+
+  "ctt_Summoner_Book_4":"Test Subject S.2\n\nSoul Substitute:\nJelly Sandwich\n\nAge: 100 Days Old\n\n\nS.2 has finally decided on a name... SwanJelly\n\nSwanJelly is very underdeveloped.",
+  "ctt_Summoner_Book_5":"After the incident I was scared to go full power; so with SwanJelly I used a weak soul substitute and was very careful with him... which means he is developing at an extremely slow rate...\n\nHis skin is made entirely out of Jelly- almost like a red slime.",
+  "ctt_Summoner_Book_6":"I made him so I could study Swan some more. Turns out Swan is Canadian, although not sure if that will really help us...\n\nJoey bullies SwanJelly a lot- even tried to suck his blood; but Jelly didn\'t have any...",
+  "ctt_Summoner_Book_7":"SwanJelly is extremely annoying; he never shuts up. I\'m considering letting him free since he doesn\'t seem very dangerous. The only danger I could see is if he eats too many Chungus Burgers and dies of a heart attack.\n",
+  "ctt_Summoner_Book_8":"I\'ve decided to clone another Swan- this time with a little more juice. It\'s dangerous, but they don\'t call me the Summoner for nothing.",
+
+  "ctt_Summoner_Book_9":"Soul Substitute:\nDark Ring\n\nAge: 10 Days Old\n\n\nS.3 has finally decided on a name... Dark Swan. This is the fastest a variant has ever decided on a name...\n",
+  "ctt_Summoner_Book_10":"It has been 5 years since the incident. Gladiatus warned me to not make another Swan; but after Swan Jelly, I think it\'s safe to make another as long as I keep an eye on it...",
+  "ctt_Summoner_Book_11":"We decided to keep Dark Swan inside. It\'s risky to let him out during field time...\n\nHe\'s quiet, and sounds sad a lot. The complete opposite of most Swans\'; usually they never shut up.",
+  "ctt_Summoner_Book_12":"One day he looked me in the eyes and said\n\n\"I\'m not the original am I\"\n\nI- I didn\'t know what to say, so I just told him no...\n\nI think hes plotting an escape- I always catch him talking with Joey",
+  "ctt_Summoner_Book_13":"I better keep an eye on him.",
+
+  "ctt_Summoner_Book_14":"Dark Swan has escaped",
+
+  "ctt_Summoner_Book_15":"Test Subject SU\n\nSoul Substitute:\nVampire Fangs\n\nAge: 50 Days Old\n\n\nSU has finally decided on a name- he decided his name will be Joey.",
+  "ctt_Summoner_Book_16":"Unlike his original copy, Joey has grown vampire fangs. There was an incident where he tried to suck Gregory\'s blood. Luckily, Devi and Gladiatus were able to break it up.\n\nI should bring cows and pigs for Joey to suck now so that he won\'t want to eat us.",
+  "ctt_Summoner_Book_17":"He has also been obsessed with this anime JoJo\'s bizarre adventure, which keeps him quite busy throughout the day. He plays this weird JoJo game too.\nI never know what he means when he talks about them; but as long as he\'s happy, whatever.\n",
+  "ctt_Summoner_Book_18":"Dark Swan and Joey seem to get along; however, I think they are plotting something…An escape?\n\nNo... Dark Swans too underdeveloped to plan things like that…But I should be careful.",
+
+  "ctt_Summoner_Book_19":"Test Subject G\n\nSoul Substitute: \nLab Rat\n\nAge #140 Days Old\nTest Subject G has finally decided on a name for himself... Gregory.\n\nGregory hasn\'t shown any red signs that the last batch has shown",
+  "ctt_Summoner_Book_20":"Gregory has been regaining memories at a rapid pace. However, I am afraid he might start asking when he can leave. I cannot let him roam around; a variant is too dangerous unwatched. I must be very careful, even though I am certain Gregory will not have any incidents.",
+
+  "ctt_Summoner_Book_21":"Test Subject S\n\nSoul Substitute:\n\n???\n\nAge: 132 Days Old",
+  "ctt_Summoner_Book_22":"It has been 132 days, and Test Subject S has yet to speak or do anything. He\'ll eat his meals... That\'s about it.\n\nI think using the ??? as a soul substitute was a little much... That item is far too powerful.",
+  "ctt_Summoner_Book_23":"It has now been 142 days, and Test Subject S has begun talking. He hasn\'t figured out a name yet; the first thing he said to me was:\n\n\"Tower\"\n\nHow does he know about the Tower? It\'s not even built yet?",
+  "ctt_Summoner_Book_24":"He opened his eyes and spoke again.\n\n\"I must reach the top.\"\n\nHe\'s freaking me out. The original Swan doesn\'t know about the Tower; perhaps the soul substitute gave him the knowledge.",
+  "ctt_Summoner_Book_25":"He then kept asking me questions.\n\n\"What\'s at the top?\"\n\n\"Where is the Tower?\"\n\n\"Can I climb it?\"\n\nHe has to be connected to the Tower in some way?",
+  "ctt_Summoner_Book_26":"At least he\'s talking now... I am worried, though.\n\nIt\'s a big day tomorrow; the Tower will be built.\n\nI\'ll have to leave Test Subject S alone for a bit.\n\nHopefully, nothing goes wrong.",
+  "ctt_Summoner_Book_27":"OH NO, THIS IS BAD!",
+  "ctt_Summoner_Book_28":"Everyone is dead — he killed them all!! Oh God, this was a horrible idea... I knew creating a life without a soul would have consequences! How did he escape!? The only way to break it is from the outside!",
+
+  //Psy_Sign
+
+  "ctt_Psy_Sign_1":"Basement will be",
+  "ctt_Psy_Sign_2":"unlocked after",
+  "ctt_Psy_Sign_3":"Completing",
+  "ctt_Psy_Sign_4":"Chapter 2",
+
+  //Magum_Sign
+
+  "ctt_Magum_Sign_1":"built by",
+  "ctt_Magum_Sign_2":"Fishvi <3",
+
+  //ivy_Book
+
+  "ctt_ivy_Book_1":"Maria Ivy | 2011\n\nLogs\n\nGlacium\'s condition seems to be getting worse. The virus spread from his arm to his entire body. It\'s starting to spread to his heart.",
+  "ctt_ivy_Book_2":"Glacium has passed away.",
+  "ctt_ivy_Book_3":"His eye was the only area that wasn\'t affected by the virus. In fact, it\'s still cold to the touch...\n\nMaybe there\'s still hope to bring him back.",
+
+  //Dracula_Sign
+
+  "ctt_Dracula_Sign_1":"R.I.P.",
+  "ctt_Dracula_Sign_2":"Laozi",
+  "ctt_Dracula_Sign_3":"Ben",
+  "ctt_Dracula_Sign_4":"Thew",
+  "ctt_Dracula_Sign_5":"Smash",
+  "ctt_Dracula_Sign_6":"Moose",
+  "ctt_Dracula_Sign_7":"Super",
+  "ctt_Dracula_Sign_8":"BRB DOG",
+  "ctt_Dracula_Sign_9":"Swan",
+  "ctt_Dracula_Sign_10":"Lazy",
+
+  "ctt_Dracula_Sign_11":"Deez Nuts",
+  "ctt_Dracula_Sign_12":"balls",
+
+  //Floria_Sign
+
+  "ctt_Floria_Sign_1":"WARNING",
+  "ctt_Floria_Sign_2":"PIRANHAS IN",
+  "ctt_Floria_Sign_3":"WATER",
+  "ctt_Floria_Sign_4":"DO NOT ENTER",
+
+  "ctt_Floria_Sign_5":"Land at the",
+  "ctt_Floria_Sign_6":"bottom or take",
+  "ctt_Floria_Sign_7":"damage",
+
+  "ctt_Floria_Sign_8":"DO NOT STEP ON",
+
+  "ctt_Floria_Sign_9":"Land in Water",
+  "ctt_Floria_Sign_10":"or take damage",
+
+  "ctt_Floria_Sign_11":"MONEY",
+  "ctt_Floria_Sign_12":"AAHAHGH",
+
+  //Token_Shop_Sign
+
+  "ctt_Token_Shop_Sign_1":"Cosmetics",
+  "ctt_Token_Shop_Sign_2":"/Trigger",
+  "ctt_Token_Shop_Sign_3":"Cosmetics to",
+  "ctt_Token_Shop_Sign_4":"edit them",
+
+  "ctt_Token_Shop_Sign_5":"Dungeons",
+  "ctt_Token_Shop_Sign_6":"and Modifiers",
+
+  "ctt_Token_Shop_Sign_7":"Items",
+
+  "ctt_Token_Shop_Sign_8":"Starting Items",
+
+  "ctt_Token_Shop_Sign_9":"Design & Build",
+  "ctt_Token_Shop_Sign_10":"By _Traz",
+
+  "ctt_Token_Shop_Sign_11":"Return",
+  "ctt_Token_Shop_Sign_12":"Back",
+
+  "ctt_Token_Shop_Sign_13":"Quest #1",
+  "ctt_Token_Shop_Sign_14":"Time Keeper",
+
+  "ctt_Token_Shop_Sign_15":"Quest #2",
+  "ctt_Token_Shop_Sign_16":"Otherside",
+  "ctt_Token_Shop_Sign_17":"Protectors",
+
+  "ctt_Token_Shop_Sign_18":"2026",
+  "ctt_Token_Shop_Sign_19":"Valentines Event",
+
+  "ctt_Token_Shop_Sign_20":"Coming Soon",
+
+  "ctt_Token_Shop_Sign_21":"Leave",
+
+  "ctt_Token_Shop_Sign_22":"Premium Cosmetics",
+  "ctt_Token_Shop_Sign_23":"=Refresh Daily=",
+  "ctt_Token_Shop_Sign_24":"=Or after a run=",
+
+  "ctt_Token_Shop_Sign_25":"Chapter 3",
+  "ctt_Token_Shop_Sign_26":"Update #4.5 Shop",
+  "ctt_Token_Shop_Sign_27":"Popstar Quartzs",
+  "ctt_Token_Shop_Sign_28":"Band",
+
+  "ctt_Token_Shop_Sign_29":"EXIT",
+
+  //Token_Shop_Book
+
+  "ctt_Token_Shop_Book_1":"Welcome to the Cake\nTeam Towers 2026\nValentine\'s Event.\n\nEvery item in this\nlocation can be\nobtained with\nValentine\'s Command\nBoxes.",
+  "ctt_Token_Shop_Book_2":"Every 100 Chocolate\nHearts collected will\ngive you a Valentine\'s\nCommand Box, two if\nyou are a Patreon\nsupporter. All\nValentine\'s Command\nBoxes have a chance\nto give these items\nand come with a pity\nmechanic where you\nare guaranteed to get cosmetics after failing enough times",
+  "ctt_Token_Shop_Book_3":"You can earn up to\n100 Chocolate Hearts\na day this February\njust by climbing the\nTower. But you can\nalso get Chocolate\nHearts from various\nValentine\'s\nadvancements. Check\nthe Holiday\nAdvancements tab for\nmore info.",
+
+  "ctt_Token_Shop_Book_4":"Like this is ever gonna happen",
+
+  //Muck_Book
+
+  "ctt_Muck_Book_1":"To anyone reading this.\n\nLeave the island now!!!\n\nThis island should never be sailed to its cursed, get out of here while you still have the chance!\n\n\n-Bob",
+
+  //Muck_Sign
+
+  "ctt_Muck_Sign_1":"Requires Key",
+
+  "ctt_Muck_Sign_2":"Rip Pumpkin King",
+  "ctt_Muck_Sign_3":"AKA Headless",
+  "ctt_Muck_Sign_4":"Horseman",
+
+  "ctt_Muck_Sign_5":"AKA Necro King",
+
+  "ctt_Muck_Sign_6":"Killed by",
+  "ctt_Muck_Sign_7":"Batteleth",
+
+  "ctt_Muck_Sign_8":"Rip Vision",
+  "ctt_Muck_Sign_9":"Was supposed to",
+  "ctt_Muck_Sign_10":"be playable in",
+  "ctt_Muck_Sign_11":"this mode",
+
+  "ctt_Muck_Sign_12":"But was scrapped",
+  "ctt_Muck_Sign_13":"due to not",
+  "ctt_Muck_Sign_14":"enough time",
+
+  "ctt_Muck_Sign_15":"Rip Captain",
+  "ctt_Muck_Sign_16":"Blossoms dream",
+
+  "ctt_Muck_Sign_17":"He will never",
+  "ctt_Muck_Sign_18":"be a real pirate",
+
+  "ctt_Muck_Sign_19":"Rip Bob",
+  "ctt_Muck_Sign_20":"tried to take",
+  "ctt_Muck_Sign_21":"over Muck Iisland",
+  "ctt_Muck_Sign_22":"but failed",
+
+  "ctt_Muck_Sign_23":"All players",
+  "ctt_Muck_Sign_24":"must stand",
+  "ctt_Muck_Sign_25":"here to",
+  "ctt_Muck_Sign_26":"return",
+
+  "ctt_Muck_Sign_27":"Nightmare",
+  "ctt_Muck_Sign_28":"Normal",
+
+  //Heart_of_Otherside_Sign
+
+  "ctt_Heart_of_Otherside_Sign_1":"Remember",
+
+  "ctt_Heart_of_Otherside_Sign_2":"Choose Your",
+  "ctt_Heart_of_Otherside_Sign_3":"Character",
+
+  "ctt_Heart_of_Otherside_Sign_4":"With 5+ players,",
+  "ctt_Heart_of_Otherside_Sign_5":"Extra players",
+  "ctt_Heart_of_Otherside_Sign_6":"become Norm",
+
+  "ctt_Heart_of_Otherside_Sign_7":"Waiting for",
+  "ctt_Heart_of_Otherside_Sign_8":"All Players",
+
+  "ctt_Heart_of_Otherside_Sign_9":"Reselect",
+  "ctt_Heart_of_Otherside_Sign_10":"Character",
+
+  "ctt_Heart_of_Otherside_Sign_11":"Settings",
+  "ctt_Heart_of_Otherside_Sign_12":"&",
+  "ctt_Heart_of_Otherside_Sign_13":"Difficulty",
+
+  "ctt_Heart_of_Otherside_Sign_14":"Normal",
+  "ctt_Heart_of_Otherside_Sign_15":"Default Mode",
+
+  "ctt_Heart_of_Otherside_Sign_16":"Nightmare",
+  "ctt_Heart_of_Otherside_Sign_17":"For a Challenge...",
+
+  "ctt_Heart_of_Otherside_Sign_18":"☀ECLIPSE☽",
+  "ctt_Heart_of_Otherside_Sign_19":"If you enjoy",
+  "ctt_Heart_of_Otherside_Sign_20":"losing more than",
+  "ctt_Heart_of_Otherside_Sign_21":"winning, pick this",
+
+  "ctt_Heart_of_Otherside_Sign_22":"Quick Play",
+  "ctt_Heart_of_Otherside_Sign_23":"Mode",
+
+  "ctt_Heart_of_Otherside_Sign_24":"Unlocked",
+  "ctt_Heart_of_Otherside_Sign_25":"after completing",
+  "ctt_Heart_of_Otherside_Sign_26":"The Mission",
+  "ctt_Heart_of_Otherside_Sign_27":"Once",
+
+  "ctt_Heart_of_Otherside_Sign_28":"Will skip/speed",
+  "ctt_Heart_of_Otherside_Sign_29":"up most dialogue",
+  "ctt_Heart_of_Otherside_Sign_30":"in this mission",
+
+  "ctt_Heart_of_Otherside_Sign_31":"It is recommended",
+  "ctt_Heart_of_Otherside_Sign_32":"to only do this",
+  "ctt_Heart_of_Otherside_Sign_33":"after everyone",
+  "ctt_Heart_of_Otherside_Sign_34":"has seen all",
+
+  "ctt_Heart_of_Otherside_Sign_35":"the cutscenes",
+  "ctt_Heart_of_Otherside_Sign_36":"(Will not skip",
+  "ctt_Heart_of_Otherside_Sign_37":"ending",
+  "ctt_Heart_of_Otherside_Sign_38":"cutscenes)",
+
+  "ctt_Heart_of_Otherside_Sign_39":"More Info",
+  "ctt_Heart_of_Otherside_Sign_40":"on Difficulties",
+
+  "ctt_Heart_of_Otherside_Sign_41":"WARNING!",
+  "ctt_Heart_of_Otherside_Sign_42":"SHEER CLIFF",
+  "ctt_Heart_of_Otherside_Sign_43":"DO NOT JUMP!",
+  "ctt_Heart_of_Otherside_Sign_44":"shop is ahead :D",
+
+  "ctt_Heart_of_Otherside_Sign_45":"B  dg  \'",
+  "ctt_Heart_of_Otherside_Sign_46":" a e  Sh   !",
+
+  "ctt_Heart_of_Otherside_Sign_47":"THIS DUMMY",
+  "ctt_Heart_of_Otherside_Sign_48":"IS FOR DISPLAY",
+  "ctt_Heart_of_Otherside_Sign_49":"PURPOSES!",
+  "ctt_Heart_of_Otherside_Sign_50":"DO NOT ATTACK",
+
+  "ctt_Heart_of_Otherside_Sign_51":"Bread",
+
+  "ctt_Heart_of_Otherside_Sign_52":"Main Shop",
+  "ctt_Heart_of_Otherside_Sign_53":"Cake Fields",
+  "ctt_Heart_of_Otherside_Sign_54":"Overgrown",
+
+  "ctt_Heart_of_Otherside_Sign_55":"WARNING!",
+  "ctt_Heart_of_Otherside_Sign_56":"MINING OPERATION",
+
+  "ctt_Heart_of_Otherside_Sign_57":"Walk up to the",
+  "ctt_Heart_of_Otherside_Sign_58":"barrel and",
+  "ctt_Heart_of_Otherside_Sign_59":"press SHIFT",
+
+  "ctt_Heart_of_Otherside_Sign_60":"RESET",
+  "ctt_Heart_of_Otherside_Sign_61":"BOULDERS",
+
+  "ctt_Heart_of_Otherside_Sign_62":"Press button",
+  "ctt_Heart_of_Otherside_Sign_63":"to give",
+  "ctt_Heart_of_Otherside_Sign_64":"to recive",
+
+  "ctt_Heart_of_Otherside_Sign_65":"BREAK ROOM",
+  "ctt_Heart_of_Otherside_Sign_66":"5 MIN MAX",
+
+  "ctt_Heart_of_Otherside_Sign_67":"BREAK ROOM",
+  "ctt_Heart_of_Otherside_Sign_68":"CLOSED",
+
+  "ctt_Heart_of_Otherside_Sign_69":"ELEMENTIUM NODE",
+  "ctt_Heart_of_Otherside_Sign_70":"DO NOT STEAL",
+
+  "ctt_Heart_of_Otherside_Sign_71":"ORDANANCE",
+  "ctt_Heart_of_Otherside_Sign_72":"STORAGE",
+
+  "ctt_Heart_of_Otherside_Sign_73":"MINECART AND",
+  "ctt_Heart_of_Otherside_Sign_74":"RAIL STORAGE",
+
+  "ctt_Heart_of_Otherside_Sign_75":"forgot the key in",
+  "ctt_Heart_of_Otherside_Sign_76":"the break room,",
+  "ctt_Heart_of_Otherside_Sign_77":"getting it now",
+  "ctt_Heart_of_Otherside_Sign_78":"-Dave",
+
+  "ctt_Heart_of_Otherside_Sign_79":"ELEVATOR",
+  "ctt_Heart_of_Otherside_Sign_80":"OUT OF ORDER",
+
+  "ctt_Heart_of_Otherside_Sign_81":"CLOSED",
+
+  "ctt_Heart_of_Otherside_Sign_82":"WARNING",
+  "ctt_Heart_of_Otherside_Sign_83":"Platform",
+  "ctt_Heart_of_Otherside_Sign_84":"Rigged with",
+  "ctt_Heart_of_Otherside_Sign_85":"Explosives",
+
+  "ctt_Heart_of_Otherside_Sign_86":"Detonator",
+  "ctt_Heart_of_Otherside_Sign_87":"on Platform",
+  "ctt_Heart_of_Otherside_Sign_88":"above",
+
+  "ctt_Heart_of_Otherside_Sign_89":"Opening this door",
+  "ctt_Heart_of_Otherside_Sign_90":"will prevent you",
+  "ctt_Heart_of_Otherside_Sign_91":"from",
+  "ctt_Heart_of_Otherside_Sign_92":"backtracking.",
+
+  "ctt_Heart_of_Otherside_Sign_93":"Elevator",
+  "ctt_Heart_of_Otherside_Sign_94":"To White Cake",
+
+  //Heart_of_Otherside_Book
+
+  "ctt_Heart_of_Otherside_Book_1":"Getting a game over will continuously lower the total amount of XP and Tower Tokens obtained when completing this mission.\n\nIt will also set you back one difficulty Eclipse>Nightmare>Normal (Game over on Normal will not lower the difficulty)",
+  "ctt_Heart_of_Otherside_Book_2":"There are some special advancements for playing certain characters or on higher difficulties, check the Advancement tab for more info",
+  "ctt_Heart_of_Otherside_Book_3":"Sometimes, the thing you\'re looking for is right\nabove your head.",
+  "ctt_Heart_of_Otherside_Book_4":"I can\'t really remember what I saw when I used Elementium, but it was terrifying. There were... flashes of future events — some I hope I can prevent.\n\nBut I remember one thing:",
+  "ctt_Heart_of_Otherside_Book_5":"Those eyes.\n\nI will never forget those eyes.",
+
+  "ctt_Heart_of_Otherside_Book_6":"I don\'t exactly understand why we have to do all this, but I won\'t question my friends.\n\nWe\'re almost done. I can\'t wait to finish this work so I can sit back and watch anime at the top of the Tower!",
+  "ctt_Heart_of_Otherside_Book_7":"-Magum",
+
+  "ctt_Heart_of_Otherside_Book_8":"I think Devi is mad at me again.\n\nNo idea what I did this time...\n\nBut I don\'t have time to think about women. The Tower is so close to being completed.",
+  "ctt_Heart_of_Otherside_Book_9":"-Gladiatus",
+
+  "ctt_Heart_of_Otherside_Book_10":"I can\'t wait for this shit to be over.",
+  "ctt_Heart_of_Otherside_Book_11":"-Devi",
+
+  "ctt_Heart_of_Otherside_Book_12":"White Cake Log:\n\nWe are nearing the conclusion in obtaining enough Elementium; a process fraught with fatigue and tension. The monsters in these caves are quite hostile, especially the Wardens.",
+  "ctt_Heart_of_Otherside_Book_13":"It seems some monsters even started causing chaos in a nearby village. The public seems to hold us accountable, for that. Frankly, there may be some truth to their accusations. However, the benefits these resources afford the kingdom far surpass the drawbacks.",
+  "ctt_Heart_of_Otherside_Book_14":"-Professor Gregory\nAKA The Summoner",
+
+  "ctt_Heart_of_Otherside_Book_15":"Once a rotation, their vision expands.\n\nOnly through the four children may the stars be reborn.\n\nUnseal the gates, and reveal their blessings.\n\nOnly then may ascent beyond the heavens begin.",
+
+  //The_Black_Room_Book
+
+  "ctt_The_Black_Room_Book_1":"To choose a human over our people... she has become too soft...\n\n\n\n\n\n\n\n\nThat is why I must step in.",
+
+  //The_Top_Book
+
+  "ctt_The_Top_Book_1":"Old Explorer:\n\nI have finally reached the top of the tower.\n\nBut to my surprise, theres nothing up here... no gold, no hot babes, its empty...",
+  "ctt_The_Top_Book_2":"No no no!\n\nI must have did something incorrectly there HAS to be something here...\n\nI\'ll just have to redo it, i\'ll just try again",
+  "ctt_The_Top_Book_3":"and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again ",
+
+  //only_up_Sign
+
+  "ctt_only_up_Sign_1":"The 3",
+  "ctt_only_up_Sign_2":"Block",
+  "ctt_only_up_Sign_3":"NUT",
+
+  "ctt_only_up_Sign_4":"Its time for the",
+  "ctt_only_up_Sign_5":"last jump...",
+
+  "ctt_only_up_Sign_6":"Dont mess it up",
+
+  "ctt_only_up_Sign_7":"The last",
+  "ctt_only_up_Sign_8":"jump...",
+
+  "ctt_only_up_Sign_9":"Imagine if you",
+  "ctt_only_up_Sign_10":"failed this...",
+
+  "ctt_only_up_Sign_11":"Last JUMP!",
+
+  "ctt_only_up_Sign_12":"No Pressure",
+
+  "ctt_only_up_Sign_13":"Are you ready?",
+
+  "ctt_only_up_Sign_14":"You\'ve Reached",
+  "ctt_only_up_Sign_15":"The Top :D",
+
+  "ctt_only_up_Sign_16":"Play a game",
+  "ctt_only_up_Sign_17":"to progress...",
+
+  "ctt_only_up_Sign_18":"L you fell",
+
+  "ctt_only_up_Sign_19":"Giving up",
+  "ctt_only_up_Sign_20":"Already",
+
+  "ctt_only_up_Sign_21":"Already...",
+
+  //JELLY
+
+  "ctt_JELLY_1":"Leave Game",
+
+  "ctt_JELLY_2":"Start Course",
+  "ctt_JELLY_3":"(Stand Here)",
+
+  "ctt_JELLY_4":"Hey Jellies!\n\nIts me, Swan Jelly.\n\nI built this obstical course to help improve my abilities... But feel free to use them\n\nTheres 4 levels, each that get harder, but im sure if you keep on climbing you\'ll reach",
+  "ctt_JELLY_5":"The top!!!\n\n\n\nOh and, there are alot of advancements in this game that will earn me more class items to make me even stronger.\n",
+  "ctt_JELLY_6":"I may be the weakest Swan\n\nBut I am still a Swan, my drive to become stronger, is in my blood.\n\nJelly, Out!",
+
+  //Snowball
+
+  "ctt_Snowball_1":"Item Frequency",
+
+  "ctt_Snowball_2":"Lower",
+
+  "ctt_Snowball_3":"Higher",
+
+  "ctt_Snowball_4":"Aztec",
+
+  "ctt_Snowball_5":"Ice Cave",
+
+  "ctt_Snowball_6":"Don\'t Tell Swan",
+  "ctt_Snowball_7":"I\'m Hiding",
+
+  "ctt_Snowball_8":"Elmo Is Gonna",
+  "ctt_Snowball_9":"Ruin The Economy",
+
+  //MT
+
+  "ctt_MT_1":"Easier",
+  "ctt_MT_2":"Harder",
+
+  "ctt_MT_3":"Soon your true power will awaken.\n\nOnly then will you understand.",
+
+  "ctt_MT_4":"Complete more total levels than the number listed on the door.\n\nAnd it shall open",
+
+  "ctt_MT_5":"BUY",
+  "ctt_MT_6":"SELL",
+
+  "ctt_MT_7":"Brothers leave a",
+  "ctt_MT_8":"heavy weight in",
+  "ctt_MT_9":"our hearts",
+
+  "ctt_MT_10":"Go to -1 Floor",
+
+  "ctt_MT_11":"Go to",
+  "ctt_MT_12":"1 floor",
+
+  "ctt_MT_13":"Default",
+  "ctt_MT_14":"Class Select",
+  "ctt_MT_15":"Room",
+
+  "ctt_MT_16":"Loading map...",
+
+  "ctt_MT_17":"To view the full",
+  "ctt_MT_18":"map look straight",
+  "ctt_MT_19":"up"
 }
