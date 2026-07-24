@@ -1,0 +1,13 @@
+{
+    "chat.link.confirm": "Click the link below to share your feedback:",
+    "chat.link.warning": "",
+
+
+    "subtitles.entity.iron_golem.attack": "Door sliding",
+    "subtitles.entity.iron_golem.hurt": "Door stopped",
+    "subtitles.block.chest.open": "Eye heart beats",
+    "subtitles.block.conduit.ambient": "Orb heart beats",
+    "subtitles.item.trident.thunder": "Eye attacks",
+    "subtitles.item.trident.return": "Thunder crackles",
+    "subtitles.item.trident.riptide": "Electricity hums"
+}

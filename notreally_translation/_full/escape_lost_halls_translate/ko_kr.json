@@ -1,0 +1,13 @@
+{
+    "chat.link.confirm": "아래 링크를 클릭해 피드백을 남겨주세요:",
+    "chat.link.warning": "",
+
+
+    "subtitles.entity.iron_golem.attack": "문이 미끄러짐",
+    "subtitles.entity.iron_golem.hurt": "문이 멈춤",
+    "subtitles.block.chest.open": "눈 심장이 박동",
+    "subtitles.block.conduit.ambient": "구체 심장이 박동",
+    "subtitles.item.trident.thunder": "눈이 공격함",
+    "subtitles.item.trident.return": "천둥이 침",
+    "subtitles.item.trident.riptide": "전기가 파지직거림"
+}
