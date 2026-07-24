@@ -1,0 +1,34 @@
+{
+  "soundCategory.ambient": "Ambient/Environment",
+  "soundCategory.block": "Blocks",
+  "soundCategory.hostile": "Hostile Creatures",
+  "soundCategory.master": "Master Volume",
+  "soundCategory.music": "§cVanilla Music",
+  "soundCategory.neutral": "Friendly Creatures",
+  "soundCategory.player": "Players",
+  "soundCategory.record": "§aCustom Music",
+  "soundCategory.voice": "Voice/Speech",
+  "soundCategory.weather": "Weather",
+
+
+  "options.sounds": "§aMusic & Sounds...",
+  "menu.options": "§aOptions...",
+
+  "key.mouse.left": "Left Click",
+  "key.mouse.middle": "Middle Click",
+  "key.mouse.right": "Right Click",
+
+  "mount.onboard": "",
+  "container.crafting": "",
+
+
+  "title.multiplayer.lan": "Witch Doesn't Belong!!",
+  "title.multiplayer.other": "Witch Doesn't Belong!!",
+  "title.multiplayer.realms": "Witch Doesn't Belong!!",
+  "title.singleplayer": "Witch Doesn't Belong!!"
+
+
+
+
+
+}

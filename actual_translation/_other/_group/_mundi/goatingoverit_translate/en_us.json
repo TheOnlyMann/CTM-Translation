@@ -1,0 +1,35 @@
+{
+  "soundCategory.ambient": "Ambient/Environment",
+  "soundCategory.block": "Blocks",
+  "soundCategory.hostile": "Hostile Creatures",
+  "soundCategory.master": "Master Volume",
+  "soundCategory.music": "§cVanilla Music",
+  "soundCategory.neutral": "Friendly Creatures",
+  "soundCategory.player": "Players",
+  "soundCategory.record": "§aCustom Music",
+  "soundCategory.voice": "Voice/Speech",
+  "soundCategory.weather": "Weather",
+
+  "menu.singleplayer": "§cSingleplayer",
+  "menu.multiplayer": "§aMultiplayer",
+  "options.sounds": "§aMusic & Sounds...",
+  "menu.options": "§aOptions...",
+
+  "key.mouse.left": "Left Click",
+  "key.mouse.middle": "Middle Click",
+  "key.mouse.right": "Right Click",
+
+  "mount.onboard": "",
+  "container.crafting": "",
+
+
+  "title.multiplayer.lan": "Goating Over It!",
+  "title.multiplayer.other": "Goating Over It!",
+  "title.multiplayer.realms": "Goating Over It!",
+  "title.singleplayer": "Goating Over It!"
+
+
+
+
+
+}

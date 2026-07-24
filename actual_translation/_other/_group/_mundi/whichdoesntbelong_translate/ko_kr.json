@@ -1,0 +1,34 @@
+{
+  "soundCategory.ambient": "분위기/환경",
+  "soundCategory.block": "블록",
+  "soundCategory.hostile": "적대적 생명체",
+  "soundCategory.master": "전체 음량",
+  "soundCategory.music": "§c바닐라 음악",
+  "soundCategory.neutral": "친화적 생명체",
+  "soundCategory.player": "플레이어",
+  "soundCategory.record": "§a커스텀 음악",
+  "soundCategory.voice": "음성",
+  "soundCategory.weather": "날씨",
+
+
+  "options.sounds": "§a음악 및 소리...",
+  "menu.options": "§a설정...",
+
+  "key.mouse.left": "왼쪽 버튼",
+  "key.mouse.middle": "가운데 버튼",
+  "key.mouse.right": "오른쪽 버튼",
+
+  "mount.onboard": "",
+  "container.crafting": "",
+
+
+  "title.multiplayer.lan": "Witch Doesn't Belong!!",
+  "title.multiplayer.other": "Witch Doesn't Belong!!",
+  "title.multiplayer.realms": "Witch Doesn't Belong!!",
+  "title.singleplayer": "Witch Doesn't Belong!!"
+
+
+
+
+
+}

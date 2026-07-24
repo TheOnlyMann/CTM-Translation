@@ -1,0 +1,35 @@
+{
+  "soundCategory.ambient": "분위기/환경",
+  "soundCategory.block": "블록",
+  "soundCategory.hostile": "적대적 생명체",
+  "soundCategory.master": "전체 음량",
+  "soundCategory.music": "§c바닐라 음악",
+  "soundCategory.neutral": "친화적 생명체",
+  "soundCategory.player": "플레이어",
+  "soundCategory.record": "§a커스텀 음악",
+  "soundCategory.voice": "음성",
+  "soundCategory.weather": "날씨",
+
+  "menu.singleplayer": "§c싱글플레이어",
+  "menu.multiplayer": "§a멀티플레이어",
+  "options.sounds": "§a음악 및 소리...",
+  "menu.options": "§a설정...",
+
+  "key.mouse.left": "왼쪽 버튼",
+  "key.mouse.middle": "가운데 버튼",
+  "key.mouse.right": "오른쪽 버튼",
+
+  "mount.onboard": "",
+  "container.crafting": "",
+
+
+  "title.multiplayer.lan": "Goating Over It!",
+  "title.multiplayer.other": "Goating Over It!",
+  "title.multiplayer.realms": "Goating Over It!",
+  "title.singleplayer": "Goating Over It!"
+
+
+
+
+
+}
