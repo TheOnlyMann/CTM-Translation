@@ -13,7 +13,7 @@ snippet_dir=[
     "actual_translation/_CTM/_RPG_CTM/theskyblessing_translate/lang/en_us_mod/death_msg_kr.json",
     "actual_translation/_CTM/_RPG_CTM/theskyblessing_translate/lang/en_us_mod/mob_boss_kr.json"
 ]
-mergejson_dir="translation_tools/mergejson.py"
+mergejson_dir="translation_tools/python/mergejson.py"
 base_dir="actual_translation/_CTM/_RPG_CTM/theskyblessing_translate/lang/assembly/base/ko_kr.json"
 save_dir_base="actual_translation/_CTM/_RPG_CTM/theskyblessing_translate/lang/assembly/"
 import importlib.util
