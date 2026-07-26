@@ -10,7 +10,7 @@ This guide shows each book page image and provides a line for the translated tex
 
 **Translation:**  
 5쪽중 1쪽
-룬 제련소는 무기와 도구를 개조하는 데 사용됩니다.
+룬 제련소는 무기와 도구를 개선하는 데 사용됩니다.
 다양한 아이템과 재료와 호환이 됩니다. 시행착오를 통해 좋은 무구를 만드세요!
 
 ---
@@ -35,7 +35,7 @@ This guide shows each book page image and provides a line for the translated tex
 **Translation:**  
 5쪽중 3쪽
 해당하는 종류의 룬이 이미 적용된 경우, 해당 슬롯이 잠깁니다.
-개조 순서는 상관없습니다.
+개선 순서는 상관없습니다.
 
 ---
 
