@@ -510,125 +510,262 @@
     },
 
 
+
+    
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/placement_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB31"]
+      "file": "rc4:font/books_ko_kr/crafting/bg_crafting_r.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB30"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/placement_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB32"]
+      "file": "rc4:font/books_ko_kr/crafting/base_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB31"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/base_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB33"]
+      "file": "rc4:font/books_ko_kr/crafting/base_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB32"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/base_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB34"]
+      "file": "rc4:font/books_ko_kr/crafting/base_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB33"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/materials_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB35"]
+      "file": "rc4:font/books_ko_kr/crafting/base_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB34"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/materials_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB36"]
+      "file": "rc4:font/books_ko_kr/crafting/placement_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB36"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/order_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB37"]
+      "file": "rc4:font/books_ko_kr/crafting/placement_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB37"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/order_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB38"]
+      "file": "rc4:font/books_ko_kr/crafting/placement_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB38"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/power_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB39"]
+      "file": "rc4:font/books_ko_kr/crafting/placement_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB39"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/crafting/power_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB40"]
+      "file": "rc4:font/books_ko_kr/crafting/order_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB41"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/repair_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB41"]
+      "file": "rc4:font/books_ko_kr/crafting/order_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB42"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/repair_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB42"]
+      "file": "rc4:font/books_ko_kr/crafting/order_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB43"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/cost_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB43"]
+      "file": "rc4:font/books_ko_kr/crafting/order_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB44"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/cost_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB44"]
+      "file": "rc4:font/books_ko_kr/crafting/materials_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB46"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/xp_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB45"]
+      "file": "rc4:font/books_ko_kr/crafting/materials_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB47"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/repairing/xp_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB46"]
+      "file": "rc4:font/books_ko_kr/crafting/materials_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB48"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/title_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB47"]
+      "file": "rc4:font/books_ko_kr/crafting/materials_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB49"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/title_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB48"]
+      "file": "rc4:font/books_ko_kr/crafting/power_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB51"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/settings_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB49"]
+      "file": "rc4:font/books_ko_kr/crafting/power_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB52"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/settings_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB50"]
+      "file": "rc4:font/books_ko_kr/crafting/power_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB53"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/mods_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB51"]
+      "file": "rc4:font/books_ko_kr/crafting/power_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB54"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/mods_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB52"]
+      "file": "rc4:font/books_ko_kr/repairing/bg_repairing_r.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB60"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/packs_l.png",
-      "ascent": 36, "height": 180, "chars": ["\uEB53"]
+      "file": "rc4:font/books_ko_kr/repairing/repair_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB61"]
     },
     {
       "type": "bitmap",
-      "file": "rc4:font/books_ko_kr/rules/packs_r.png",
-      "ascent": 45, "height": 180, "chars": ["\uEB54"]
+      "file": "rc4:font/books_ko_kr/repairing/repair_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB62"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/repair_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB63"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/repair_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB64"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB66"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB67"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB68"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/cost_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB69"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB71"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB72"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB73"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/repairing/xp_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB74"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/bg_rules_r.png",
+      "ascent": 36, "height": 180, "chars": ["\uEB80"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB81"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB82"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB83"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/title_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB84"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB86"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB87"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB88"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/settings_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB89"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB91"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB92"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB93"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/mods_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB94"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_ul.png",
+      "ascent": 36, "height": 90, "chars": ["\uEB96"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_ur.png",
+      "ascent": 45, "height": 90, "chars": ["\uEB97"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_dl.png",
+      "ascent": -36, "height": 90, "chars": ["\uEB98"]
+    },
+    {
+      "type": "bitmap",
+      "file": "rc4:font/books_ko_kr/rules/packs_dr.png",
+      "ascent": -27, "height": 90, "chars": ["\uEB99"]
     }
   ]
 }
