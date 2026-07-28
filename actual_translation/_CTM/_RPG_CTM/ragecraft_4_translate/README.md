@@ -5,3 +5,4 @@
 
 자동번역기: kunho-park  
 수동번역: TheOnlyMann  
+이미지 식질: Langgsa
