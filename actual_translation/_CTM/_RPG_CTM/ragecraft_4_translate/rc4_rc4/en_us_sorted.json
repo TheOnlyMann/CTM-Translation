@@ -1605,7 +1605,7 @@
     "events.functions.riddle_4.countdown_0.1": "Go!",
     "events.functions.riddle_4.fail.1": "Wrong target",
     "events.functions.riddle_4.fail.2": "Time is up",
-    "events.functions.riddle_4.nogo_area.2": "You cannot go here!",
+    "events.functions.riddle_4.nogo_area.2": "You cannot go here!",``
     "events.functions.riddle_5.victory.2": "Diary of Horror",
     "events.functions.teleport.n_black_unlock.1": "Checkpoint",
     "events.functions.teleport.n_black_unlock.4": "You have unlocked the checkpoint to: ",
