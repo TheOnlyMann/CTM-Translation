@@ -9,6 +9,7 @@
 - [X] Tales of Gradford 번역
 - [X] Stranded 재번역
 - [X] The Sky Blessing 만우절 번역
+- [X] Ragecraft 4 재번역
 
 ## Other
 
