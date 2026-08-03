@@ -1,0 +1,18 @@
+{
+    
+  "block.minecraft.cut_copper": "황금화염 벽돌",
+  "block.minecraft.cut_copper_slab": "황금화염 벽돌 반 블록",
+  "block.minecraft.cut_copper_stairs": "황금화염 벽돌 계단",
+  
+  "block.minecraft.end_stone_brick_slab": "썩은 벽돌 반 블록",
+  "block.minecraft.end_stone_brick_stairs": "썩은 벽돌 계단",
+  "block.minecraft.end_stone_brick_wall": "썩은 벽돌 담장",
+  "block.minecraft.end_stone_bricks": "썩은 벽돌",
+  
+  "item.minecraft.emerald": "루비",
+  
+  "item.minecraft.heart_of_the_sea": "번개 주괴",
+  
+  "item.minecraft.pitcher_pod": "플라즈마 브레스",
+  "item.minecraft.torchflower_seeds": "셜커 정수"
+}

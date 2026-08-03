@@ -1,0 +1,18 @@
+{
+    
+  "block.minecraft.cut_copper": "Goldfire Bricks",
+  "block.minecraft.cut_copper_slab": "Goldfire Brick Slab",
+  "block.minecraft.cut_copper_stairs": "Goldfire Brick Stairs",
+  
+  "block.minecraft.end_stone_brick_slab": "Rotten Brick Slab",
+  "block.minecraft.end_stone_brick_stairs": "Rotten Brick Stairs",
+  "block.minecraft.end_stone_brick_wall": "Rotten Brick Wall",
+  "block.minecraft.end_stone_bricks": "Rotten Bricks",
+  
+  "item.minecraft.emerald": "Ruby",
+  
+  "item.minecraft.heart_of_the_sea": "Lightning Ingot",
+  
+  "item.minecraft.pitcher_pod": "Plasma Breath",
+  "item.minecraft.torchflower_seeds": "Shulker Essence"
+}
