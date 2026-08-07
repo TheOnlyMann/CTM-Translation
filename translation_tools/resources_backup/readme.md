@@ -16,3 +16,4 @@ https://www.planetminecraft.com/texture-pack/subtle-infested-blocks/
 
 https://modrinth.com/resourcepack/subtle-powder-snow-outline
 
+https://modrinth.com/resourcepack/redstone-tweaks
