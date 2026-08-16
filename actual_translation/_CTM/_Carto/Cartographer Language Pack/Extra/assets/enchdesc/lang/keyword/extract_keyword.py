@@ -25,7 +25,21 @@ for keyword in keyword_list:
         unique_enchant[keyword] = list
 
 with open(current_directory + "/keyword.json","w",encoding="utf-8") as f:
+    f.write("{\n")
     for keyword in broad_enchant:
-        f.write(str(keyword)+ " : " + str(broad_enchant[keyword]) +",\n")
+        f.write("   \""+str(keyword)+ "\" : " + str(broad_enchant[keyword]).replace('\'','\"') +",\n")
+    f.write("\n")
     for keyword in unique_enchant:
-        f.write(str(keyword)+ " : " + str(unique_enchant[keyword]) +",\n")
+        f.write("   \""+str(keyword)+ "\" : " + str(unique_enchant[keyword]).replace('\'','\"') +",\n")
+        
+    f.write("}")
+    
+with open(current_directory + "/keyword_match_list.json","w",encoding="utf-8") as f:
+    f.write("{\n")
+    for keyword in broad_enchant:
+        f.write("   \""+str(keyword)+ "\" :\"\" ,\n")
+    f.write("\n")
+    for keyword in unique_enchant:
+        f.write("   \""+str(keyword)+ "\" :\"\" ,\n")
+        
+    f.write("}")
