@@ -1,0 +1,44 @@
+{
+    "aqua_affinity" : "Increases mining speed while underwater.",
+    "bane_of_arthropods" : "Increases damage against arthropods such as Spiders and Silverfish.",
+    "binding_curse" : "Prevents the cursed item from being removed from an armor slot.",
+    
+    "breach" : "Increases the effectiveness of attacks against armored targets.",
+    "channeling" : "Allows the trident to summon lightning bolts during thunderstorms.",
+    "density" : "Increases attack damage based on your fall distance.",
+    "depth_strider" : "Increases movement speed while underwater.",
+    "efficiency" : "Increases mining speed of the tool.",
+    "feather_falling" : "Reduces fall damage and ender pearl teleportation damage.",
+    "fire_aspect" : "Causes additional fire damage when used to attack a mob.",
+    
+    "flame" : "Arrows fired from the bow will deal additional fire damage.",
+    "fortune" : "Some blocks like coal and diamond ore may drop additional items.",
+    "frost_walker" : "Water under the user will freeze into frosted ice.",
+    "impaling" : "Increases damage to aquatic mobs.",
+    
+    "knockback" : "Increases the knockback strength of the weapon.",
+    "looting" : "Mobs will drop more loot when killed.",
+    "loyalty" : "Allows the trident to automatically return after being thrown.",
+    "luck_of_the_sea" : "Increases the chance of getting good loot while fishing.",
+    "lunge" : "The user lunges forward when using the spear.",
+    "lure" : "Decreases the amount of time it takes for a fish to bite the hook.",
+    "mending" : "Repairs the durability of armor and tools with XP.",
+    "multishot" : "Fires additional arrows in similar directions.",
+    "piercing" : "Allows projectiles to pierce through mobs.",
+    "power" : "Increases the damage of arrows fired from the bow.",
+    
+    "punch" : "Increases the knockback strength of arrows fired by the bow.",
+    "quick_charge" : "Increases the reload speed of crossbows.",
+    "respiration" : "Allows the user to breathe longer underwater.",
+    "riptide" : "Using the trident while in rain or water will launch the user forward.",
+    "sharpness" : "Increases the damage of the item.",
+    "silk_touch" : "Allows fragile blocks such as glass to be collected.",
+    "smite" : "Increases damage against undead mobs such as Zombies and Skeletons.",
+    "soul_speed" : "Increases movement speed on soul blocks.",
+    "sweeping_edge" : "Increases the damage of sweeping attacks.",
+    "swift_sneak" : "Increases movement speed while sneaking.",
+    
+    
+    "vanishing_curse" : "Destroys the cursed item if you die with it in your inventory.",
+    "wind_burst" : "Smash attacks will launch the user back into the air."
+}
