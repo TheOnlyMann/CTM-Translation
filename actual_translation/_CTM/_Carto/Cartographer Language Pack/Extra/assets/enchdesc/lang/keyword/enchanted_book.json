@@ -1,0 +1,1999 @@
+{
+    "type": "minecraft:composite",
+    "models": [
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "enchantments": [
+                        "minecraft:thorns",
+                        "cartographer_enchantment_rework:hazard_protection",
+                        "cartographer_enchantment_rework:melee_protection",
+                        "cartographer_enchantment_rework:ranged_protection",
+                        "minecraft:protection",
+                        "minecraft:blast_protection",
+                        "minecraft:fire_protection",
+                        "minecraft:projectile_protection",
+                        "minecraft:aqua_affinity",
+                        "minecraft:depth_strider",
+                        "minecraft:feather_falling",
+                        "minecraft:frost_walker",
+                        "minecraft:respiration",
+                        "minecraft:soul_speed",
+                        "minecraft:swift_sneak"
+                    ]
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": ""
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "enchantments": [
+                            "minecraft:unbreaking",
+                            "minecraft:infinity",
+                            "cartographer_custom_statuses:kill/bracing",
+                            "cartographer_custom_statuses:passive/decontaminate",
+                            "cartographer_custom_statuses:passive/evasion",
+                            "cartographer_custom_statuses:kill/hastiness",
+                            "cartographer_custom_statuses:kill/lifeblood",
+                            "cartographer_custom_statuses:kill/mightiness",
+                            "cartographer_custom_statuses:passive/nullifying",
+                            "cartographer_custom_statuses:passive/regeneration",
+                            "cartographer_custom_statuses:kill/sapper",
+                            "cartographer_custom_statuses:passive/shielding",
+                            "cartographer_custom_statuses:kill/stealthiness",
+                            "cartographer_custom_statuses:kill/swiftness",
+                            "cartographer_custom_statuses:coating",
+                            "cartographer_custom_enchantments:passive/reconstruction",
+                            "cartographer_custom_enchantments:passive/soulbound",
+                            "cartographer_custom_enchantments:passive/spurs",
+                            "minecraft:mending",
+                            "cartographer_custom_enchantments:weapon/unique/other/auto_charge",
+                            "infinity",
+                            "cartographer_custom_enchantments:weapon/unique/other/repeating",
+                            "cartographer_custom_enchantments:weapon/unique/other/scavenger"
+                        ]
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": ""
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "enchantments": [
+                                "cartographer_custom_attributes:vanilla/agility",
+                                "cartographer_custom_attributes:custom/amplitude",
+                                "cartographer_custom_attributes:vanilla/celerity",
+                                "cartographer_custom_attributes:custom/cloudstep",
+                                "cartographer_custom_attributes:vanilla/dexterity",
+                                "cartographer_custom_attributes:custom/echo",
+                                "cartographer_custom_attributes:vanilla/extended",
+                                "cartographer_custom_attributes:vanilla/finesse",
+                                "cartographer_custom_attributes:vanilla/handling",
+                                "cartographer_custom_attributes:vanilla/immovable",
+                                "cartographer_custom_attributes:custom/invigorated",
+                                "cartographer_custom_attributes:custom/lifesteal",
+                                "cartographer_custom_attributes:custom/lucky",
+                                "cartographer_custom_attributes:custom/precision",
+                                "cartographer_custom_attributes:custom/resonance",
+                                "cartographer_custom_attributes:custom/reverb",
+                                "cartographer_custom_attributes:custom/technique",
+                                "cartographer_custom_attributes:vanilla/traveling",
+                                "cartographer_custom_attributes:vanilla/vitality",
+                                "cartographer_custom_attributes:custom/windborn"
+                            ]
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": ""
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "enchantments": [
+                                    "cartographer_custom_enchantments:passive/adrenaline",
+                                    "cartographer_custom_enchantments:passive/bulwark",
+                                    "cartographer_custom_enchantments:passive/courageous",
+                                    "cartographer_custom_enchantments:passive/diversion",
+                                    "cartographer_custom_enchantments:passive/ethereal",
+                                    "cartographer_custom_enchantments:passive/frenzy",
+                                    "cartographer_custom_enchantments:passive/hardened",
+                                    "cartographer_custom_enchantments:passive/inertia",
+                                    "cartographer_custom_enchantments:passive/poise",
+                                    "cartographer_custom_enchantments:passive/sidestep",
+                                    "cartographer_custom_enchantments:passive/steadfast",
+                                    "cartographer_custom_enchantments:passive/tenacity",
+                                    "cartographer_custom_enchantments:passive/unseen"
+                                ]
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": ""
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "enchantments": [
+                                        "cartographer_custom_enchantments:passive/aberration",
+                                        "cartographer_custom_enchantments:passive/deadeye",
+                                        "cartographer_custom_enchantments:passive/eruption",
+                                        "cartographer_custom_enchantments:passive/gravity",
+                                        "cartographer_custom_enchantments:passive/induction",
+                                        "cartographer_custom_enchantments:passive/momentum",
+                                        "cartographer_custom_enchantments:passive/orbit",
+                                        "cartographer_custom_enchantments:passive/quake",
+                                        "cartographer_custom_enchantments:passive/soulfire",
+                                        "cartographer_custom_enchantments:passive/starfall",
+                                        "cartographer_custom_enchantments:passive/storm",
+                                        "cartographer_custom_enchantments:passive/surge",
+                                        "cartographer_custom_enchantments:passive/trailblazer",
+                                        "cartographer_custom_enchantments:passive/vengeance",
+                                        "minecraft:looting"
+                                    ]
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": ""
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "enchantments": [
+                                            "cartographer_custom_enchantments:tool/drilling",
+                                            "cartographer_custom_enchantments:tool/excavator",
+                                            "cartographer_custom_enchantments:tool/lightborn",
+                                            "cartographer_custom_enchantments:tool/multitool",
+                                            "minecraft:efficiency",
+                                            "minecraft:fortune",
+                                            "minecraft:silk_touch",
+                                            "minecraft:luck_of_the_sea",
+                                            "minecraft:lure"
+                                        ]
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": ""
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "enchantments": [
+                                                "cartographer_custom_enchantments:weapon/damage/general/chaotic",
+                                                "cartographer_custom_enchantments:weapon/damage/general/concentration",
+                                                "cartographer_custom_enchantments:weapon/damage/general/duelist",
+                                                "cartographer_custom_enchantments:weapon/damage/general/first_strike",
+                                                "cartographer_custom_enchantments:weapon/damage/general/focus",
+                                                "cartographer_custom_enchantments:weapon/damage/general/follow_up",
+                                                "cartographer_custom_enchantments:weapon/damage/general/hex_eater",
+                                                "cartographer_custom_enchantments:weapon/damage/general/hunter",
+                                                "cartographer_custom_enchantments:weapon/damage/melee/leverage",
+                                                "cartographer_custom_enchantments:weapon/damage/melee/rushdown",
+                                                "minecraft:bane_of_arthropods",
+                                                "minecraft:sharpness",
+                                                "minecraft:smite",
+                                                "minecraft:impaling",
+                                                "minecraft:density",
+                                                "cartographer_custom_enchantments:weapon/damage/ranged/overcharge",
+                                                "cartographer_custom_enchantments:weapon/damage/ranged/point_blank",
+                                                "cartographer_custom_enchantments:weapon/damage/ranged/sharpshot",
+                                                "minecraft:power"
+                                            ]
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": ""
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:condition",
+                                        "property": "minecraft:component",
+                                        "predicate": "stored_enchantments",
+                                        "value": [
+                                            {
+                                                "enchantments": [
+                                                    "cartographer_custom_enchantments:weapon/unique/general/explosive",
+                                                    "cartographer_custom_enchantments:weapon/unique/general/pulling",
+                                                    "cartographer_custom_enchantments:weapon/unique/general/recoil",
+                                                    "cartographer_custom_enchantments:weapon/unique/general/repulsion",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/ambushing",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/cleaving",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/lunging",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/quick_strike",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/riposte",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/slamming",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/throwable",
+                                                    "cartographer_custom_enchantments:weapon/unique/melee/thrusting",
+                                                    "minecraft:fire_aspect",
+                                                    "minecraft:knockback",
+                                                    "minecraft:lunge",
+                                                    "minecraft:riptide",
+                                                    "minecraft:breach",
+                                                    "minecraft:wind_burst",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/barbed",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/barrage",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/collapse",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/correction",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/fleetfoot",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/grappling",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/ricochet",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/ripper",
+                                                    "cartographer_custom_enchantments:weapon/unique/ranged/shrapnel",
+                                                    "minecraft:flame",
+                                                    "minecraft:channeling",
+                                                    "minecraft:loyalty",
+                                                    "minecraft:multishot",
+                                                    "minecraft:piercing",
+                                                    "minecraft:punch",
+                                                    "minecraft:quick_charge"
+                                                ]
+                                            }
+                                        ],
+                                        "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": ""
+                                        },
+                                        "on_false": {
+                                            "type": "minecraft:condition",
+                                            "property": "minecraft:component",
+                                            "predicate": "stored_enchantments",
+                                            "value": [
+                                                {
+                                                    "enchantments": [
+                                                        "cartographer_custom_enchantments:curse/annulling",
+                                                        "cartographer_custom_enchantments:curse/clumsiness",
+                                                        "cartographer_custom_enchantments:curse/corruption",
+                                                        "cartographer_custom_enchantments:curse/crippling",
+                                                        "cartographer_custom_enchantments:curse/crumbling",
+                                                        "cartographer_custom_enchantments:curse/encumbering",
+                                                        "cartographer_custom_enchantments:curse/gluttony",
+                                                        "cartographer_custom_enchantments:curse/haunting",
+                                                        "cartographer_custom_enchantments:curse/heaviness",
+                                                        "cartographer_custom_enchantments:curse/instability",
+                                                        "cartographer_custom_enchantments:curse/irreparability",
+                                                        "cartographer_custom_enchantments:curse/jamming",
+                                                        "cartographer_custom_enchantments:curse/locked",
+                                                        "cartographer_custom_enchantments:curse/melee_fragility",
+                                                        "cartographer_custom_enchantments:curse/pride",
+                                                        "cartographer_custom_enchantments:curse/projectile_fragility",
+                                                        "cartographer_custom_enchantments:curse/regret",
+                                                        "cartographer_custom_enchantments:curse/shattering",
+                                                        "cartographer_custom_enchantments:curse/two_handed",
+                                                        "minecraft:binding_curse",
+                                                        "minecraft:vanishing_curse"
+                                                    ]
+                                                }
+                                            ],
+                                            "on_true": {
+                                                "type": "minecraft:model",
+                                                "model": ""
+                                            },
+                                            "on_false": {
+                                                "type": "minecraft:model",
+                                                "model": "minecraft:item/enchanted_book"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "enchantments": [
+                        "cartographer_custom_statuses:kill/lifeblood",
+                        "cartographer_custom_statuses:passive/shielding"
+                    ]
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": ""
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "enchantments": "cartographer_custom_attributes:custom/windborn"
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": ""
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "enchantments": [
+                                "minecraft:density",
+                                "cartographer_custom_enchantments:curse/irreparability"
+                            ]
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": ""
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "enchantments": "cartographer_custom_enchantments:weapon/damage/general/concentration"
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": ""
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "enchantments": [
+                                        "cartographer_custom_enchantments:passive/gravity",
+                                        "cartographer_custom_enchantments:weapon/unique/melee/slamming",
+                                        "cartographer_custom_enchantments:curse/encumbering"
+                                    ]
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": ""
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "enchantments": "cartographer_custom_attributes:custom/cloudstep"
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": ""
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "enchantments": "cartographer_custom_attributes:vanilla/handling"
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": ""
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:condition",
+                                        "property": "minecraft:component",
+                                        "predicate": "stored_enchantments",
+                                        "value": [
+                                            {
+                                                "enchantments": "cartographer_custom_enchantments:weapon/damage/general/hunter"
+                                            }
+                                        ],
+                                        "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": ""
+                                        },
+                                        "on_false": {
+                                            "type": "minecraft:condition",
+                                            "property": "minecraft:component",
+                                            "predicate": "stored_enchantments",
+                                            "value": [
+                                                {
+                                                    "enchantments": [
+                                                        "minecraft:feather_falling",
+                                                        "cartographer_custom_enchantments:curse/clumsiness"
+                                                    ]
+                                                }
+                                            ],
+                                            "on_true": {
+                                                "type": "minecraft:model",
+                                                "model": ""
+                                            },
+                                            "on_false": {
+                                                "type": "minecraft:condition",
+                                                "property": "minecraft:component",
+                                                "predicate": "stored_enchantments",
+                                                "value": [
+                                                    {
+                                                        "enchantments": "cartographer_custom_enchantments:curse/gluttony"
+                                                    }
+                                                ],
+                                                "on_true": {
+                                                    "type": "minecraft:model",
+                                                    "model": ""
+                                                },
+                                                "on_false": {
+                                                    "type": "minecraft:condition",
+                                                    "property": "minecraft:component",
+                                                    "predicate": "stored_enchantments",
+                                                    "value": [
+                                                        {
+                                                            "enchantments": "minecraft:frost_walker"
+                                                        }
+                                                    ],
+                                                    "on_true": {
+                                                        "type": "minecraft:model",
+                                                        "model": ""
+                                                    },
+                                                    "on_false": {
+                                                        "type": "minecraft:condition",
+                                                        "property": "minecraft:component",
+                                                        "predicate": "stored_enchantments",
+                                                        "value": [
+                                                            {
+                                                                "enchantments": [
+                                                                    "cartographer_custom_attributes:vanilla/dexterity",
+                                                                    "cartographer_custom_statuses:kill/hastiness",
+                                                                    "cartographer_custom_enchantments:weapon/unique/melee/quick_strike"
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "on_true": {
+                                                            "type": "minecraft:model",
+                                                            "model": ""
+                                                        },
+                                                        "on_false": {
+                                                            "type": "minecraft:condition",
+                                                            "property": "minecraft:component",
+                                                            "predicate": "stored_enchantments",
+                                                            "value": [
+                                                                {
+                                                                    "enchantments": "cartographer_custom_attributes:vanilla/vitality"
+                                                                }
+                                                            ],
+                                                            "on_true": {
+                                                                "type": "minecraft:model",
+                                                                "model": ""
+                                                            },
+                                                            "on_false": {
+                                                                "type": "minecraft:condition",
+                                                                "property": "minecraft:component",
+                                                                "predicate": "stored_enchantments",
+                                                                "value": [
+                                                                    {
+                                                                        "enchantments": "cartographer_custom_enchantments:passive/ethereal"
+                                                                    }
+                                                                ],
+                                                                "on_true": {
+                                                                    "type": "minecraft:model",
+                                                                    "model": ""
+                                                                },
+                                                                "on_false": {
+                                                                    "type": "minecraft:condition",
+                                                                    "property": "minecraft:component",
+                                                                    "predicate": "stored_enchantments",
+                                                                    "value": [
+                                                                        {
+                                                                            "enchantments": "cartographer_custom_enchantments:weapon/damage/general/duelist"
+                                                                        }
+                                                                    ],
+                                                                    "on_true": {
+                                                                        "type": "minecraft:model",
+                                                                        "model": ""
+                                                                    },
+                                                                    "on_false": {
+                                                                        "type": "minecraft:condition",
+                                                                        "property": "minecraft:component",
+                                                                        "predicate": "stored_enchantments",
+                                                                        "value": [
+                                                                            {
+                                                                                "enchantments": [
+                                                                                    "minecraft:infinity",
+                                                                                    "infinity"
+                                                                                ]
+                                                                            }
+                                                                        ],
+                                                                        "on_true": {
+                                                                            "type": "minecraft:model",
+                                                                            "model": ""
+                                                                        },
+                                                                        "on_false": {
+                                                                            "type": "minecraft:condition",
+                                                                            "property": "minecraft:component",
+                                                                            "predicate": "stored_enchantments",
+                                                                            "value": [
+                                                                                {
+                                                                                    "enchantments": [
+                                                                                        "cartographer_custom_attributes:vanilla/agility",
+                                                                                        "cartographer_custom_enchantments:weapon/damage/melee/leverage"
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "on_true": {
+                                                                                "type": "minecraft:model",
+                                                                                "model": ""
+                                                                            },
+                                                                            "on_false": {
+                                                                                "type": "minecraft:condition",
+                                                                                "property": "minecraft:component",
+                                                                                "predicate": "stored_enchantments",
+                                                                                "value": [
+                                                                                    {
+                                                                                        "enchantments": "cartographer_custom_attributes:custom/lifesteal"
+                                                                                    }
+                                                                                ],
+                                                                                "on_true": {
+                                                                                    "type": "minecraft:model",
+                                                                                    "model": ""
+                                                                                },
+                                                                                "on_false": {
+                                                                                    "type": "minecraft:condition",
+                                                                                    "property": "minecraft:component",
+                                                                                    "predicate": "stored_enchantments",
+                                                                                    "value": [
+                                                                                        {
+                                                                                            "enchantments": [
+                                                                                                "cartographer_custom_enchantments:passive/induction",
+                                                                                                "cartographer_custom_enchantments:passive/storm",
+                                                                                                "minecraft:channeling"
+                                                                                            ]
+                                                                                        }
+                                                                                    ],
+                                                                                    "on_true": {
+                                                                                        "type": "minecraft:model",
+                                                                                        "model": ""
+                                                                                    },
+                                                                                    "on_false": {
+                                                                                        "type": "minecraft:condition",
+                                                                                        "property": "minecraft:component",
+                                                                                        "predicate": "stored_enchantments",
+                                                                                        "value": [
+                                                                                            {
+                                                                                                "enchantments": [
+                                                                                                    "cartographer_custom_attributes:custom/lucky",
+                                                                                                    "cartographer_custom_statuses:passive/decontaminate",
+                                                                                                    "cartographer_custom_statuses:passive/evasion",
+                                                                                                    "cartographer_custom_enchantments:passive/diversion",
+                                                                                                    "cartographer_custom_enchantments:passive/orbit",
+                                                                                                    "cartographer_custom_enchantments:passive/starfall",
+                                                                                                    "minecraft:looting",
+                                                                                                    "cartographer_custom_enchantments:tool/drilling",
+                                                                                                    "minecraft:fortune",
+                                                                                                    "minecraft:luck_of_the_sea",
+                                                                                                    "cartographer_custom_enchantments:weapon/damage/general/chaotic"
+                                                                                                ]
+                                                                                            }
+                                                                                        ],
+                                                                                        "on_true": {
+                                                                                            "type": "minecraft:model",
+                                                                                            "model": ""
+                                                                                        },
+                                                                                        "on_false": {
+                                                                                            "type": "minecraft:condition",
+                                                                                            "property": "minecraft:component",
+                                                                                            "predicate": "stored_enchantments",
+                                                                                            "value": [
+                                                                                                {
+                                                                                                    "enchantments": "cartographer_custom_attributes:custom/technique"
+                                                                                                }
+                                                                                            ],
+                                                                                            "on_true": {
+                                                                                                "type": "minecraft:model",
+                                                                                                "model": ""
+                                                                                            },
+                                                                                            "on_false": {
+                                                                                                "type": "minecraft:condition",
+                                                                                                "property": "minecraft:component",
+                                                                                                "predicate": "stored_enchantments",
+                                                                                                "value": [
+                                                                                                    {
+                                                                                                        "enchantments": [
+                                                                                                            "cartographer_custom_enchantments:weapon/unique/ranged/barbed",
+                                                                                                            "cartographer_custom_enchantments:weapon/unique/ranged/ripper"
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ],
+                                                                                                "on_true": {
+                                                                                                    "type": "minecraft:model",
+                                                                                                    "model": ""
+                                                                                                },
+                                                                                                "on_false": {
+                                                                                                    "type": "minecraft:condition",
+                                                                                                    "property": "minecraft:component",
+                                                                                                    "predicate": "stored_enchantments",
+                                                                                                    "value": [
+                                                                                                        {
+                                                                                                            "enchantments": [
+                                                                                                                "cartographer_custom_enchantments:weapon/unique/ranged/shrapnel",
+                                                                                                                "minecraft:multishot"
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "on_true": {
+                                                                                                        "type": "minecraft:model",
+                                                                                                        "model": ""
+                                                                                                    },
+                                                                                                    "on_false": {
+                                                                                                        "type": "minecraft:condition",
+                                                                                                        "property": "minecraft:component",
+                                                                                                        "predicate": "stored_enchantments",
+                                                                                                        "value": [
+                                                                                                            {
+                                                                                                                "enchantments": "cartographer_custom_enchantments:tool/multitool"
+                                                                                                            }
+                                                                                                        ],
+                                                                                                        "on_true": {
+                                                                                                            "type": "minecraft:model",
+                                                                                                            "model": ""
+                                                                                                        },
+                                                                                                        "on_false": {
+                                                                                                            "type": "minecraft:condition",
+                                                                                                            "property": "minecraft:component",
+                                                                                                            "predicate": "stored_enchantments",
+                                                                                                            "value": [
+                                                                                                                {
+                                                                                                                    "enchantments": "minecraft:piercing"
+                                                                                                                }
+                                                                                                            ],
+                                                                                                            "on_true": {
+                                                                                                                "type": "minecraft:model",
+                                                                                                                "model": ""
+                                                                                                            },
+                                                                                                            "on_false": {
+                                                                                                                "type": "minecraft:condition",
+                                                                                                                "property": "minecraft:component",
+                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                "value": [
+                                                                                                                    {
+                                                                                                                        "enchantments": [
+                                                                                                                            "cartographer_enchantment_rework:hazard_protection",
+                                                                                                                            "cartographer_enchantment_rework:melee_protection",
+                                                                                                                            "cartographer_enchantment_rework:ranged_protection",
+                                                                                                                            "minecraft:protection",
+                                                                                                                            "minecraft:blast_protection",
+                                                                                                                            "minecraft:fire_protection",
+                                                                                                                            "minecraft:projectile_protection",
+                                                                                                                            "cartographer_custom_attributes:vanilla/immovable",
+                                                                                                                            "cartographer_custom_enchantments:passive/bulwark",
+                                                                                                                            "cartographer_custom_enchantments:passive/courageous",
+                                                                                                                            "cartographer_custom_enchantments:passive/hardened",
+                                                                                                                            "cartographer_custom_enchantments:passive/inertia",
+                                                                                                                            "cartographer_custom_enchantments:passive/poise",
+                                                                                                                            "cartographer_custom_enchantments:passive/sidestep",
+                                                                                                                            "cartographer_custom_enchantments:passive/steadfast",
+                                                                                                                            "cartographer_custom_enchantments:passive/tenacity",
+                                                                                                                            "cartographer_custom_enchantments:passive/unseen",
+                                                                                                                            "cartographer_custom_enchantments:weapon/unique/melee/riposte",
+                                                                                                                            "minecraft:breach",
+                                                                                                                            "cartographer_custom_enchantments:curse/instability",
+                                                                                                                            "cartographer_custom_enchantments:curse/melee_fragility",
+                                                                                                                            "cartographer_custom_enchantments:curse/projectile_fragility",
+                                                                                                                            "minecraft:binding_curse"
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "on_true": {
+                                                                                                                    "type": "minecraft:model",
+                                                                                                                    "model": ""
+                                                                                                                },
+                                                                                                                "on_false": {
+                                                                                                                    "type": "minecraft:condition",
+                                                                                                                    "property": "minecraft:component",
+                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                    "value": [
+                                                                                                                        {
+                                                                                                                            "enchantments": [
+                                                                                                                                "cartographer_custom_enchantments:weapon/unique/general/pulling",
+                                                                                                                                "cartographer_custom_enchantments:weapon/unique/ranged/grappling"
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                                    "on_true": {
+                                                                                                                        "type": "minecraft:model",
+                                                                                                                        "model": ""
+                                                                                                                    },
+                                                                                                                    "on_false": {
+                                                                                                                        "type": "minecraft:condition",
+                                                                                                                        "property": "minecraft:component",
+                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                        "value": [
+                                                                                                                            {
+                                                                                                                                "enchantments": [
+                                                                                                                                    "minecraft:quick_charge",
+                                                                                                                                    "cartographer_custom_enchantments:curse/heaviness",
+                                                                                                                                    "cartographer_custom_enchantments:curse/jamming"
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "on_true": {
+                                                                                                                            "type": "minecraft:model",
+                                                                                                                            "model": ""
+                                                                                                                        },
+                                                                                                                        "on_false": {
+                                                                                                                            "type": "minecraft:condition",
+                                                                                                                            "property": "minecraft:component",
+                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                            "value": [
+                                                                                                                                {
+                                                                                                                                    "enchantments": "cartographer_custom_enchantments:weapon/damage/ranged/point_blank"
+                                                                                                                                }
+                                                                                                                            ],
+                                                                                                                            "on_true": {
+                                                                                                                                "type": "minecraft:model",
+                                                                                                                                "model": ""
+                                                                                                                            },
+                                                                                                                            "on_false": {
+                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                "property": "minecraft:component",
+                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                "value": [
+                                                                                                                                    {
+                                                                                                                                        "enchantments": "cartographer_custom_enchantments:weapon/damage/ranged/sharpshot"
+                                                                                                                                    }
+                                                                                                                                ],
+                                                                                                                                "on_true": {
+                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                    "model": ""
+                                                                                                                                },
+                                                                                                                                "on_false": {
+                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                    "value": [
+                                                                                                                                        {
+                                                                                                                                            "enchantments": "cartographer_custom_attributes:vanilla/extended"
+                                                                                                                                        }
+                                                                                                                                    ],
+                                                                                                                                    "on_true": {
+                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                        "model": ""
+                                                                                                                                    },
+                                                                                                                                    "on_false": {
+                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                        "value": [
+                                                                                                                                            {
+                                                                                                                                                "enchantments": [
+                                                                                                                                                    "cartographer_custom_enchantments:passive/reconstruction",
+                                                                                                                                                    "minecraft:mending",
+                                                                                                                                                    "cartographer_custom_enchantments:curse/crumbling",
+                                                                                                                                                    "cartographer_custom_enchantments:curse/shattering"
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ],
+                                                                                                                                        "on_true": {
+                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                            "model": ""
+                                                                                                                                        },
+                                                                                                                                        "on_false": {
+                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                            "value": [
+                                                                                                                                                {
+                                                                                                                                                    "enchantments": "cartographer_custom_attributes:custom/echo"
+                                                                                                                                                }
+                                                                                                                                            ],
+                                                                                                                                            "on_true": {
+                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                "model": ""
+                                                                                                                                            },
+                                                                                                                                            "on_false": {
+                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                "value": [
+                                                                                                                                                    {
+                                                                                                                                                        "enchantments": "cartographer_custom_enchantments:weapon/unique/ranged/ricochet"
+                                                                                                                                                    }
+                                                                                                                                                ],
+                                                                                                                                                "on_true": {
+                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                    "model": ""
+                                                                                                                                                },
+                                                                                                                                                "on_false": {
+                                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                                    "value": [
+                                                                                                                                                        {
+                                                                                                                                                            "enchantments": "cartographer_custom_enchantments:weapon/unique/general/recoil"
+                                                                                                                                                        }
+                                                                                                                                                    ],
+                                                                                                                                                    "on_true": {
+                                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                                        "model": ""
+                                                                                                                                                    },
+                                                                                                                                                    "on_false": {
+                                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                                        "value": [
+                                                                                                                                                            {
+                                                                                                                                                                "enchantments": [
+                                                                                                                                                                    "cartographer_custom_statuses:kill/bracing",
+                                                                                                                                                                    "cartographer_custom_statuses:passive/nullifying"
+                                                                                                                                                                ]
+                                                                                                                                                            }
+                                                                                                                                                        ],
+                                                                                                                                                        "on_true": {
+                                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                                            "model": ""
+                                                                                                                                                        },
+                                                                                                                                                        "on_false": {
+                                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                                            "value": [
+                                                                                                                                                                {
+                                                                                                                                                                    "enchantments": "minecraft:silk_touch"
+                                                                                                                                                                }
+                                                                                                                                                            ],
+                                                                                                                                                            "on_true": {
+                                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                                "model": ""
+                                                                                                                                                            },
+                                                                                                                                                            "on_false": {
+                                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                                "value": [
+                                                                                                                                                                    {
+                                                                                                                                                                        "enchantments": "cartographer_custom_enchantments:passive/aberration"
+                                                                                                                                                                    }
+                                                                                                                                                                ],
+                                                                                                                                                                "on_true": {
+                                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                                    "model": ""
+                                                                                                                                                                },
+                                                                                                                                                                "on_false": {
+                                                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                                                    "value": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "enchantments": "minecraft:soul_speed"
+                                                                                                                                                                        }
+                                                                                                                                                                    ],
+                                                                                                                                                                    "on_true": {
+                                                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                                                        "model": ""
+                                                                                                                                                                    },
+                                                                                                                                                                    "on_false": {
+                                                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                                                        "value": [
+                                                                                                                                                                            {
+                                                                                                                                                                                "enchantments": "cartographer_custom_enchantments:passive/soulbound"
+                                                                                                                                                                            }
+                                                                                                                                                                        ],
+                                                                                                                                                                        "on_true": {
+                                                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                                                            "model": ""
+                                                                                                                                                                        },
+                                                                                                                                                                        "on_false": {
+                                                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                                                            "value": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "enchantments": [
+                                                                                                                                                                                        "cartographer_custom_attributes:vanilla/celerity",
+                                                                                                                                                                                        "cartographer_custom_statuses:kill/swiftness",
+                                                                                                                                                                                        "cartographer_custom_enchantments:passive/adrenaline",
+                                                                                                                                                                                        "cartographer_custom_enchantments:passive/deadeye",
+                                                                                                                                                                                        "cartographer_custom_enchantments:passive/surge",
+                                                                                                                                                                                        "cartographer_custom_enchantments:passive/trailblazer",
+                                                                                                                                                                                        "cartographer_custom_enchantments:weapon/damage/melee/rushdown",
+                                                                                                                                                                                        "cartographer_custom_enchantments:weapon/unique/melee/thrusting",
+                                                                                                                                                                                        "cartographer_custom_enchantments:weapon/unique/ranged/fleetfoot"
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ],
+                                                                                                                                                                            "on_true": {
+                                                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                                                "model": ""
+                                                                                                                                                                            },
+                                                                                                                                                                            "on_false": {
+                                                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                                                "value": [
+                                                                                                                                                                                    {
+                                                                                                                                                                                        "enchantments": "minecraft:bane_of_arthropods"
+                                                                                                                                                                                    }
+                                                                                                                                                                                ],
+                                                                                                                                                                                "on_true": {
+                                                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                                                    "model": ""
+                                                                                                                                                                                },
+                                                                                                                                                                                "on_false": {
+                                                                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                                                                    "value": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "enchantments": "cartographer_custom_enchantments:passive/spurs"
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ],
+                                                                                                                                                                                    "on_true": {
+                                                                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                                                                        "model": ""
+                                                                                                                                                                                    },
+                                                                                                                                                                                    "on_false": {
+                                                                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                                                                        "value": [
+                                                                                                                                                                                            {
+                                                                                                                                                                                                "enchantments": "cartographer_custom_attributes:vanilla/traveling"
+                                                                                                                                                                                            }
+                                                                                                                                                                                        ],
+                                                                                                                                                                                        "on_true": {
+                                                                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                                                                            "model": ""
+                                                                                                                                                                                        },
+                                                                                                                                                                                        "on_false": {
+                                                                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                                                                            "value": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "enchantments": "cartographer_custom_enchantments:weapon/unique/melee/cleaving"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ],
+                                                                                                                                                                                            "on_true": {
+                                                                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                                                                "model": ""
+                                                                                                                                                                                            },
+                                                                                                                                                                                            "on_false": {
+                                                                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                                                                "value": [
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                        "enchantments": "minecraft:swift_sneak"
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                ],
+                                                                                                                                                                                                "on_true": {
+                                                                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                                                                    "model": ""
+                                                                                                                                                                                                },
+                                                                                                                                                                                                "on_false": {
+                                                                                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                                                                                    "value": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "enchantments": "cartographer_custom_enchantments:weapon/unique/melee/ambushing"
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ],
+                                                                                                                                                                                                    "on_true": {
+                                                                                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                                                                                        "model": ""
+                                                                                                                                                                                                    },
+                                                                                                                                                                                                    "on_false": {
+                                                                                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                                                                                        "value": [
+                                                                                                                                                                                                            {
+                                                                                                                                                                                                                "enchantments": [
+                                                                                                                                                                                                                    "cartographer_custom_enchantments:weapon/damage/general/focus",
+                                                                                                                                                                                                                    "cartographer_custom_enchantments:weapon/unique/other/auto_charge",
+                                                                                                                                                                                                                    "cartographer_custom_enchantments:weapon/unique/other/repeating",
+                                                                                                                                                                                                                    "cartographer_custom_enchantments:weapon/unique/other/scavenger"
+                                                                                                                                                                                                                ]
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                        ],
+                                                                                                                                                                                                        "on_true": {
+                                                                                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                                                                                            "model": ""
+                                                                                                                                                                                                        },
+                                                                                                                                                                                                        "on_false": {
+                                                                                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                                                                                            "value": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "enchantments": "cartographer_custom_enchantments:tool/lightborn"
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ],
+                                                                                                                                                                                                            "on_true": {
+                                                                                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                                                                                "model": ""
+                                                                                                                                                                                                            },
+                                                                                                                                                                                                            "on_false": {
+                                                                                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                                                                                "value": [
+                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                        "enchantments": "cartographer_custom_enchantments:curse/two_handed"
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                ],
+                                                                                                                                                                                                                "on_true": {
+                                                                                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                                                                                    "model": ""
+                                                                                                                                                                                                                },
+                                                                                                                                                                                                                "on_false": {
+                                                                                                                                                                                                                    "type": "minecraft:condition",
+                                                                                                                                                                                                                    "property": "minecraft:component",
+                                                                                                                                                                                                                    "predicate": "stored_enchantments",
+                                                                                                                                                                                                                    "value": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "enchantments": "minecraft:unbreaking"
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ],
+                                                                                                                                                                                                                    "on_true": {
+                                                                                                                                                                                                                        "type": "minecraft:model",
+                                                                                                                                                                                                                        "model": ""
+                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                    "on_false": {
+                                                                                                                                                                                                                        "type": "minecraft:condition",
+                                                                                                                                                                                                                        "property": "minecraft:component",
+                                                                                                                                                                                                                        "predicate": "stored_enchantments",
+                                                                                                                                                                                                                        "value": [
+                                                                                                                                                                                                                            {
+                                                                                                                                                                                                                                "enchantments": [
+                                                                                                                                                                                                                                    "minecraft:aqua_affinity",
+                                                                                                                                                                                                                                    "minecraft:depth_strider",
+                                                                                                                                                                                                                                    "minecraft:respiration",
+                                                                                                                                                                                                                                    "minecraft:impaling",
+                                                                                                                                                                                                                                    "minecraft:riptide"
+                                                                                                                                                                                                                                ]
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                        ],
+                                                                                                                                                                                                                        "on_true": {
+                                                                                                                                                                                                                            "type": "minecraft:model",
+                                                                                                                                                                                                                            "model": ""
+                                                                                                                                                                                                                        },
+                                                                                                                                                                                                                        "on_false": {
+                                                                                                                                                                                                                            "type": "minecraft:condition",
+                                                                                                                                                                                                                            "property": "minecraft:component",
+                                                                                                                                                                                                                            "predicate": "stored_enchantments",
+                                                                                                                                                                                                                            "value": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "enchantments": "minecraft:wind_burst"
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ],
+                                                                                                                                                                                                                            "on_true": {
+                                                                                                                                                                                                                                "type": "minecraft:model",
+                                                                                                                                                                                                                                "model": ""
+                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                            "on_false": {
+                                                                                                                                                                                                                                "type": "minecraft:condition",
+                                                                                                                                                                                                                                "property": "minecraft:component",
+                                                                                                                                                                                                                                "predicate": "stored_enchantments",
+                                                                                                                                                                                                                                "value": [
+                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                        "enchantments": [
+                                                                                                                                                                                                                                            "minecraft:smite",
+                                                                                                                                                                                                                                            "cartographer_custom_enchantments:curse/haunting"
+                                                                                                                                                                                                                                        ]
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                ],
+                                                                                                                                                                                                                                "on_true": {
+                                                                                                                                                                                                                                    "type": "minecraft:model",
+                                                                                                                                                                                                                                    "model": ""
+                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                "on_false": {
+                                                                                                                                                                                                                                    "type": "minecraft:empty"
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                }
+                                                                                                                                                                                            }
+                                                                                                                                                                                        }
+                                                                                                                                                                                    }
+                                                                                                                                                                                }
+                                                                                                                                                                            }
+                                                                                                                                                                        }
+                                                                                                                                                                    }
+                                                                                                                                                                }
+                                                                                                                                                            }
+                                                                                                                                                        }
+                                                                                                                                                    }
+                                                                                                                                                }
+                                                                                                                                            }
+                                                                                                                                        }
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "enchantments": [
+                        "cartographer_custom_enchantments:weapon/unique/general/repulsion",
+                        "cartographer_custom_enchantments:weapon/unique/melee/ambushing",
+                        "cartographer_custom_enchantments:weapon/unique/melee/cleaving",
+                        "cartographer_custom_enchantments:weapon/unique/melee/lunging",
+                        "cartographer_custom_enchantments:weapon/unique/melee/riposte",
+                        "cartographer_custom_enchantments:weapon/unique/melee/throwable",
+                        "cartographer_custom_enchantments:weapon/unique/ranged/fleetfoot"
+                    ]
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": ""
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "enchantments": [
+                            "minecraft:luck_of_the_sea",
+                            "minecraft:lure"
+                        ]
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": ""
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "enchantments": [
+                                "cartographer_custom_enchantments:passive/inertia",
+                                "cartographer_custom_enchantments:passive/induction",
+                                "cartographer_custom_enchantments:passive/momentum",
+                                "cartographer_custom_enchantments:passive/storm"
+                            ]
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": ""
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "enchantments": "minecraft:depth_strider"
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": ""
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "enchantments": "cartographer_custom_statuses:passive/evasion"
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": ""
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "enchantments": [
+                                            "minecraft:fire_protection",
+                                            "cartographer_custom_enchantments:passive/soulfire",
+                                            "cartographer_custom_enchantments:passive/trailblazer",
+                                            "minecraft:fire_aspect",
+                                            "minecraft:flame"
+                                        ]
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": ""
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "enchantments": "cartographer_custom_enchantments:passive/poise"
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": ""
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:condition",
+                                        "property": "minecraft:component",
+                                        "predicate": "stored_enchantments",
+                                        "value": [
+                                            {
+                                                "enchantments": "cartographer_custom_enchantments:passive/steadfast"
+                                            }
+                                        ],
+                                        "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": ""
+                                        },
+                                        "on_false": {
+                                            "type": "minecraft:condition",
+                                            "property": "minecraft:component",
+                                            "predicate": "stored_enchantments",
+                                            "value": [
+                                                {
+                                                    "enchantments": [
+                                                        "cartographer_custom_enchantments:passive/adrenaline",
+                                                        "cartographer_custom_enchantments:passive/bulwark",
+                                                        "cartographer_custom_enchantments:passive/diversion",
+                                                        "cartographer_custom_enchantments:passive/frenzy",
+                                                        "cartographer_custom_enchantments:passive/sidestep",
+                                                        "cartographer_custom_enchantments:passive/vengeance",
+                                                        "cartographer_custom_enchantments:curse/crippling"
+                                                    ]
+                                                }
+                                            ],
+                                            "on_true": {
+                                                "type": "minecraft:model",
+                                                "model": ""
+                                            },
+                                            "on_false": {
+                                                "type": "minecraft:condition",
+                                                "property": "minecraft:component",
+                                                "predicate": "stored_enchantments",
+                                                "value": [
+                                                    {
+                                                        "enchantments": [
+                                                            "cartographer_custom_statuses:kill/bracing",
+                                                            "cartographer_custom_statuses:kill/hastiness",
+                                                            "cartographer_custom_statuses:kill/lifeblood",
+                                                            "cartographer_custom_statuses:kill/mightiness",
+                                                            "cartographer_custom_statuses:kill/sapper",
+                                                            "cartographer_custom_statuses:kill/stealthiness",
+                                                            "cartographer_custom_statuses:kill/swiftness",
+                                                            "cartographer_custom_enchantments:passive/aberration",
+                                                            "cartographer_custom_enchantments:passive/quake",
+                                                            "cartographer_custom_enchantments:weapon/unique/other/scavenger",
+                                                            "cartographer_custom_enchantments:curse/haunting",
+                                                            "cartographer_custom_enchantments:curse/shattering",
+                                                            "minecraft:vanishing_curse"
+                                                        ]
+                                                    }
+                                                ],
+                                                "on_true": {
+                                                    "type": "minecraft:model",
+                                                    "model": ""
+                                                },
+                                                "on_false": {
+                                                    "type": "minecraft:condition",
+                                                    "property": "minecraft:component",
+                                                    "predicate": "stored_enchantments",
+                                                    "value": [
+                                                        {
+                                                            "enchantments": "cartographer_custom_enchantments:passive/orbit"
+                                                        }
+                                                    ],
+                                                    "on_true": {
+                                                        "type": "minecraft:model",
+                                                        "model": ""
+                                                    },
+                                                    "on_false": {
+                                                        "type": "minecraft:condition",
+                                                        "property": "minecraft:component",
+                                                        "predicate": "stored_enchantments",
+                                                        "value": [
+                                                            {
+                                                                "enchantments": [
+                                                                    "cartographer_custom_statuses:passive/decontaminate",
+                                                                    "cartographer_custom_statuses:coating",
+                                                                    "cartographer_custom_enchantments:weapon/damage/general/hex_eater",
+                                                                    "cartographer_custom_enchantments:curse/annulling",
+                                                                    "cartographer_custom_enchantments:curse/corruption"
+                                                                ]
+                                                            }
+                                                        ],
+                                                        "on_true": {
+                                                            "type": "minecraft:model",
+                                                            "model": ""
+                                                        },
+                                                        "on_false": {
+                                                            "type": "minecraft:condition",
+                                                            "property": "minecraft:component",
+                                                            "predicate": "stored_enchantments",
+                                                            "value": [
+                                                                {
+                                                                    "enchantments": "minecraft:projectile_protection"
+                                                                }
+                                                            ],
+                                                            "on_true": {
+                                                                "type": "minecraft:model",
+                                                                "model": ""
+                                                            },
+                                                            "on_false": {
+                                                                "type": "minecraft:condition",
+                                                                "property": "minecraft:component",
+                                                                "predicate": "stored_enchantments",
+                                                                "value": [
+                                                                    {
+                                                                        "enchantments": [
+                                                                            "cartographer_custom_enchantments:passive/hardened",
+                                                                            "cartographer_custom_enchantments:weapon/damage/general/follow_up",
+                                                                            "cartographer_custom_enchantments:weapon/unique/ranged/barrage",
+                                                                            "minecraft:loyalty",
+                                                                            "cartographer_custom_enchantments:weapon/unique/other/repeating",
+                                                                            "cartographer_custom_enchantments:curse/instability"
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "on_true": {
+                                                                    "type": "minecraft:model",
+                                                                    "model": ""
+                                                                },
+                                                                "on_false": {
+                                                                    "type": "minecraft:condition",
+                                                                    "property": "minecraft:component",
+                                                                    "predicate": "stored_enchantments",
+                                                                    "value": [
+                                                                        {
+                                                                            "enchantments": [
+                                                                                "cartographer_custom_enchantments:passive/courageous",
+                                                                                "cartographer_custom_enchantments:weapon/unique/ranged/correction"
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "on_true": {
+                                                                        "type": "minecraft:model",
+                                                                        "model": ""
+                                                                    },
+                                                                    "on_false": {
+                                                                        "type": "minecraft:condition",
+                                                                        "property": "minecraft:component",
+                                                                        "predicate": "stored_enchantments",
+                                                                        "value": [
+                                                                            {
+                                                                                "enchantments": [
+                                                                                    "minecraft:thorns",
+                                                                                    "cartographer_enchantment_rework:hazard_protection",
+                                                                                    "cartographer_custom_enchantments:weapon/unique/ranged/barbed",
+                                                                                    "cartographer_custom_enchantments:curse/regret"
+                                                                                ]
+                                                                            }
+                                                                        ],
+                                                                        "on_true": {
+                                                                            "type": "minecraft:model",
+                                                                            "model": ""
+                                                                        },
+                                                                        "on_false": {
+                                                                            "type": "minecraft:condition",
+                                                                            "property": "minecraft:component",
+                                                                            "predicate": "stored_enchantments",
+                                                                            "value": [
+                                                                                {
+                                                                                    "enchantments": [
+                                                                                        "cartographer_custom_statuses:passive/nullifying",
+                                                                                        "cartographer_custom_statuses:passive/regeneration",
+                                                                                        "cartographer_custom_statuses:passive/shielding",
+                                                                                        "cartographer_custom_enchantments:passive/reconstruction",
+                                                                                        "cartographer_custom_enchantments:weapon/damage/ranged/overcharge",
+                                                                                        "cartographer_custom_enchantments:weapon/unique/melee/quick_strike",
+                                                                                        "cartographer_custom_enchantments:weapon/unique/other/auto_charge",
+                                                                                        "cartographer_custom_enchantments:curse/crumbling"
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "on_true": {
+                                                                                "type": "minecraft:model",
+                                                                                "model": ""
+                                                                            },
+                                                                            "on_false": {
+                                                                                "type": "minecraft:condition",
+                                                                                "property": "minecraft:component",
+                                                                                "predicate": "stored_enchantments",
+                                                                                "value": [
+                                                                                    {
+                                                                                        "enchantments": [
+                                                                                            "minecraft:aqua_affinity",
+                                                                                            "cartographer_custom_enchantments:tool/drilling",
+                                                                                            "cartographer_custom_enchantments:tool/excavator",
+                                                                                            "minecraft:efficiency",
+                                                                                            "minecraft:fortune",
+                                                                                            "minecraft:silk_touch",
+                                                                                            "cartographer_custom_enchantments:weapon/unique/ranged/collapse"
+                                                                                        ]
+                                                                                    }
+                                                                                ],
+                                                                                "on_true": {
+                                                                                    "type": "minecraft:model",
+                                                                                    "model": ""
+                                                                                },
+                                                                                "on_false": {
+                                                                                    "type": "minecraft:empty"
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "enchantments": [
+                        "cartographer_custom_attributes:custom/amplitude",
+                        "cartographer_custom_attributes:custom/resonance",
+                        "cartographer_custom_enchantments:passive/quake",
+                        "cartographer_custom_enchantments:passive/starfall",
+                        "cartographer_custom_enchantments:passive/storm",
+                        "cartographer_custom_enchantments:passive/surge",
+                        "cartographer_custom_enchantments:weapon/unique/melee/slamming"
+                    ]
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": ""
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "enchantments": [
+                            "cartographer_custom_attributes:custom/reverb",
+                            "cartographer_custom_enchantments:passive/induction",
+                            "cartographer_custom_enchantments:tool/excavator"
+                        ]
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": ""
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "enchantments": "cartographer_custom_enchantments:passive/diversion"
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": ""
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "enchantments": [
+                                    "cartographer_custom_attributes:custom/invigorated",
+                                    "cartographer_custom_statuses:passive/regeneration",
+                                    "cartographer_custom_statuses:kill/sapper",
+                                    "cartographer_custom_enchantments:passive/tenacity"
+                                ]
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": ""
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "enchantments": [
+                                        "cartographer_custom_enchantments:passive/sidestep",
+                                        "cartographer_custom_enchantments:passive/eruption",
+                                        "cartographer_custom_enchantments:passive/soulfire",
+                                        "cartographer_custom_enchantments:passive/vengeance",
+                                        "cartographer_custom_enchantments:weapon/damage/general/first_strike",
+                                        "cartographer_custom_enchantments:curse/pride"
+                                    ]
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": ""
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "enchantments": [
+                                            "cartographer_custom_attributes:vanilla/immovable",
+                                            "cartographer_custom_enchantments:passive/gravity",
+                                            "cartographer_custom_enchantments:passive/momentum",
+                                            "minecraft:knockback",
+                                            "minecraft:punch"
+                                        ]
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": ""
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "enchantments": [
+                                                "cartographer_custom_enchantments:curse/corruption",
+                                                "cartographer_custom_enchantments:curse/crippling",
+                                                "cartographer_custom_enchantments:curse/jamming",
+                                                "cartographer_custom_enchantments:curse/locked",
+                                                "minecraft:binding_curse"
+                                            ]
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": ""
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:condition",
+                                        "property": "minecraft:component",
+                                        "predicate": "stored_enchantments",
+                                        "value": [
+                                            {
+                                                "enchantments": [
+                                                    "cartographer_custom_statuses:kill/stealthiness",
+                                                    "cartographer_custom_enchantments:passive/unseen"
+                                                ]
+                                            }
+                                        ],
+                                        "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": ""
+                                        },
+                                        "on_false": {
+                                            "type": "minecraft:condition",
+                                            "property": "minecraft:component",
+                                            "predicate": "stored_enchantments",
+                                            "value": [
+                                                {
+                                                    "enchantments": [
+                                                        "minecraft:riptide",
+                                                        "minecraft:channeling",
+                                                        "minecraft:loyalty"
+                                                    ]
+                                                }
+                                            ],
+                                            "on_true": {
+                                                "type": "minecraft:model",
+                                                "model": ""
+                                            },
+                                            "on_false": {
+                                                "type": "minecraft:empty"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "enchantments": [
+                        "minecraft:blast_protection",
+                        "cartographer_custom_enchantments:passive/eruption",
+                        "cartographer_custom_enchantments:weapon/unique/general/explosive",
+                        "cartographer_custom_enchantments:weapon/unique/general/repulsion",
+                        "cartographer_custom_enchantments:weapon/unique/ranged/shrapnel"
+                    ]
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": ""
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "enchantments": [
+                            "cartographer_custom_enchantments:weapon/unique/melee/lunging",
+                            "minecraft:lunge",
+                            "minecraft:riptide"
+                        ]
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": ""
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "enchantments": [
+                                "cartographer_enchantment_rework:melee_protection",
+                                "cartographer_custom_attributes:vanilla/finesse",
+                                "minecraft:looting",
+                                "cartographer_custom_enchantments:weapon/unique/melee/riposte",
+                                "cartographer_custom_enchantments:weapon/unique/melee/thrusting",
+                                "minecraft:fire_aspect",
+                                "minecraft:knockback",
+                                "minecraft:wind_burst",
+                                "cartographer_custom_enchantments:curse/melee_fragility"
+                            ]
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": ""
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "enchantments": [
+                                    "cartographer_custom_enchantments:weapon/damage/ranged/overcharge",
+                                    "cartographer_custom_enchantments:weapon/damage/ranged/point_blank",
+                                    "cartographer_custom_enchantments:weapon/damage/ranged/sharpshot",
+                                    "minecraft:power"
+                                ]
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": ""
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "enchantments": [
+                                        "cartographer_enchantment_rework:ranged_protection",
+                                        "cartographer_custom_attributes:custom/precision",
+                                        "cartographer_custom_enchantments:weapon/unique/melee/throwable",
+                                        "cartographer_custom_enchantments:weapon/unique/ranged/barrage",
+                                        "cartographer_custom_enchantments:weapon/unique/ranged/collapse",
+                                        "cartographer_custom_enchantments:weapon/unique/ranged/correction",
+                                        "cartographer_custom_enchantments:weapon/unique/ranged/grappling",
+                                        "cartographer_custom_enchantments:weapon/unique/ranged/ricochet",
+                                        "minecraft:flame",
+                                        "minecraft:piercing",
+                                        "minecraft:punch",
+                                        "cartographer_custom_enchantments:curse/projectile_fragility"
+                                    ]
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": ""
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "enchantments": [
+                                            "cartographer_custom_attributes:custom/resonance",
+                                            "cartographer_custom_statuses:kill/mightiness",
+                                            "cartographer_custom_enchantments:passive/frenzy",
+                                            "cartographer_custom_enchantments:passive/gravity",
+                                            "cartographer_custom_enchantments:passive/momentum",
+                                            "cartographer_custom_enchantments:passive/vengeance",
+                                            "cartographer_custom_enchantments:weapon/damage/general/chaotic",
+                                            "cartographer_custom_enchantments:weapon/damage/general/concentration",
+                                            "cartographer_custom_enchantments:weapon/damage/general/duelist",
+                                            "cartographer_custom_enchantments:weapon/damage/general/first_strike",
+                                            "cartographer_custom_enchantments:weapon/damage/general/focus",
+                                            "cartographer_custom_enchantments:weapon/damage/general/follow_up",
+                                            "cartographer_custom_enchantments:weapon/damage/general/hex_eater",
+                                            "cartographer_custom_enchantments:weapon/damage/general/hunter",
+                                            "cartographer_custom_enchantments:weapon/damage/melee/leverage",
+                                            "cartographer_custom_enchantments:weapon/damage/melee/rushdown",
+                                            "minecraft:bane_of_arthropods",
+                                            "minecraft:sharpness",
+                                            "minecraft:smite",
+                                            "minecraft:impaling",
+                                            "minecraft:density",
+                                            "minecraft:breach",
+                                            "cartographer_custom_enchantments:weapon/unique/ranged/ripper"
+                                        ]
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": ""
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "enchantments": [
+                                                "cartographer_custom_enchantments:passive/deadeye",
+                                                "cartographer_custom_enchantments:passive/soulfire"
+                                            ]
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": ""
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:empty"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "type": "minecraft:condition",
+            "property": "minecraft:component",
+            "predicate": "stored_enchantments",
+            "value": [
+                {
+                    "levels": 10
+                }
+            ],
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "sophie:item/numlays/ten"
+            },
+            "on_false": {
+                "type": "minecraft:condition",
+                "property": "minecraft:component",
+                "predicate": "stored_enchantments",
+                "value": [
+                    {
+                        "levels": 9
+                    }
+                ],
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": "sophie:item/numlays/nine"
+                },
+                "on_false": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:component",
+                    "predicate": "stored_enchantments",
+                    "value": [
+                        {
+                            "levels": 8
+                        }
+                    ],
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "sophie:item/numlays/eight"
+                    },
+                    "on_false": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:component",
+                        "predicate": "stored_enchantments",
+                        "value": [
+                            {
+                                "levels": 7
+                            }
+                        ],
+                        "on_true": {
+                            "type": "minecraft:model",
+                            "model": "sophie:item/numlays/seven"
+                        },
+                        "on_false": {
+                            "type": "minecraft:condition",
+                            "property": "minecraft:component",
+                            "predicate": "stored_enchantments",
+                            "value": [
+                                {
+                                    "levels": 6
+                                }
+                            ],
+                            "on_true": {
+                                "type": "minecraft:model",
+                                "model": "sophie:item/numlays/six"
+                            },
+                            "on_false": {
+                                "type": "minecraft:condition",
+                                "property": "minecraft:component",
+                                "predicate": "stored_enchantments",
+                                "value": [
+                                    {
+                                        "levels": 5
+                                    }
+                                ],
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": "sophie:item/numlays/five"
+                                },
+                                "on_false": {
+                                    "type": "minecraft:condition",
+                                    "property": "minecraft:component",
+                                    "predicate": "stored_enchantments",
+                                    "value": [
+                                        {
+                                            "levels": 4
+                                        }
+                                    ],
+                                    "on_true": {
+                                        "type": "minecraft:model",
+                                        "model": "sophie:item/numlays/four"
+                                    },
+                                    "on_false": {
+                                        "type": "minecraft:condition",
+                                        "property": "minecraft:component",
+                                        "predicate": "stored_enchantments",
+                                        "value": [
+                                            {
+                                                "levels": 3
+                                            }
+                                        ],
+                                        "on_true": {
+                                            "type": "minecraft:model",
+                                            "model": "sophie:item/numlays/three"
+                                        },
+                                        "on_false": {
+                                            "type": "minecraft:condition",
+                                            "property": "minecraft:component",
+                                            "predicate": "stored_enchantments",
+                                            "value": [
+                                                {
+                                                    "levels": 2
+                                                }
+                                            ],
+                                            "on_true": {
+                                                "type": "minecraft:model",
+                                                "model": "sophie:item/numlays/two"
+                                            },
+                                            "on_false": {
+                                                "type": "minecraft:condition",
+                                                "property": "minecraft:component",
+                                                "predicate": "stored_enchantments",
+                                                "value": [
+                                                    {
+                                                        "levels": 1
+                                                    }
+                                                ],
+                                                "on_true": {
+                                                    "type": "minecraft:model",
+                                                    "model": "sophie:item/numlays/one"
+                                                },
+                                                "on_false": {
+                                                    "type": "minecraft:model",
+                                                    "model": "sophie:item/numlays/empty"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

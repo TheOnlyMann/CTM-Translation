@@ -43,3 +43,10 @@ with open(current_directory + "/keyword_match_list.json","w",encoding="utf-8") a
         f.write("   \""+str(keyword)+ "\" :\"\" ,\n")
         
     f.write("}")
+
+with open(current_directory + "/keyword_match_count.json","w",encoding="utf-8") as f:
+    f.write("{\n")
+    for keyword in broad_enchant:
+        f.write("   \""+str(keyword)+ "\" :"+str(len(broad_enchant[keyword]))+" ,\n")
+        
+    f.write("}")
