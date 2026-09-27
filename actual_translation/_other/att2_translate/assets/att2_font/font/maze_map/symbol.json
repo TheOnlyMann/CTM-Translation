@@ -1,0 +1,376 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "a": -127.5,
+        "b": -0.75,
+        "c": -2,
+        "d": -3,
+        "e": -4,
+        "f": -5,
+        "g": -6,
+        "h": -7,
+        "l": -8,
+        "j": -9
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/1.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/2.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/3.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/4.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/5.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/6.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/7.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/8.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/9.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/10.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/11.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/12.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/13.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/14.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/15.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u000F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/16.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0010"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/17.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0011"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/18.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0012"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/19.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0013"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/20.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0014"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/21.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0015"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/22.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0016"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/23.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0017"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/24.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0018"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/25.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0019"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/26.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/27.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/28.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/29.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/30.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/31.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u001F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/32.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0020"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/33.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0021"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/34.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0022"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/35.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0023"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/36.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0024"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/37.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0025"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/38.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0026"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/39.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0027"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/40.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0028"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/41.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0029"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/42.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/43.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/44.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/45.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/46.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/47.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u002F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/48.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0030"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/49.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0031"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/50.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0032"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol/51.png",
+      "ascent": 32,
+      "height": 64,
+      "chars": ["\u0033"]
+    }
+  ]
+}

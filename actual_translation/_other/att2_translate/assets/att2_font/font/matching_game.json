@@ -1,0 +1,85 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/meleeweapon.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/rangeweapon.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/armor.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/spell.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/currency.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/food.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/potion.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/rune.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/matching_game/lock.png",
+      "ascent": 18,
+      "height": 18,
+      "chars": [
+        "l"
+      ]
+    }
+  ]
+}

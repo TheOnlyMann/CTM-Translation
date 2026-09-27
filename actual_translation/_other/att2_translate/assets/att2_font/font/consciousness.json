@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/str.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/res.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/has.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/spd.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/her.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/dar.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/luc.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/hun.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/bookui.png",
+      "ascent": 25,
+      "height": 56,
+      "chars": [
+        "l"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/crt.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "j"
+      ]
+    }
+  ]
+}

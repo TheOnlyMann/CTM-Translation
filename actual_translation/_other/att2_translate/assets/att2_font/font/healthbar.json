@@ -1,0 +1,76 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/hp_icon.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/atk_damage_icon.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon1.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon2.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon3.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon4.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon5.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/healthbar/classlevel_icon6.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "h"
+      ]
+    }
+  ]
+}

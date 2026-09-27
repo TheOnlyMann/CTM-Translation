@@ -1,0 +1,8 @@
+{
+  "_comment": "Vanilla names that clash with the setting. Only the overridden keys belong here - everything else falls back to the built-in French. en_us.json carries the same renames for English.",
+
+  "block.minecraft.beetroots": "Jorïns",
+  "item.minecraft.beetroot": "Jorïn",
+  "item.minecraft.beetroot_seeds": "Graines de jorïn",
+  "item.minecraft.beetroot_soup": "Soupe de jorïn"
+}

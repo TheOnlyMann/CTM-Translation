@@ -1,0 +1,85 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/fb_melee.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/fb_arrow.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/fb_dahal.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/max_health.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/speed.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/strength.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/heal.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/mob_enhance.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/special_elite/ne_effect.png",
+      "ascent": 10,
+      "height": 13,
+      "chars": [
+        "l"
+      ]
+    }
+  ]
+}

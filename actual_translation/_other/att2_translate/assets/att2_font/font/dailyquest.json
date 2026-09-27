@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/dailyquest/quest_board_background.png",
+      "ascent": 24,
+      "height": 55,
+      "chars": [
+        "a"
+      ]
+    }
+  ]
+}
