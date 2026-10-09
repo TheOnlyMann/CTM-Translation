@@ -1155,7 +1155,7 @@
     "block.sign.63.text3.1": "우물",
     "block.sign.64.text2.1": "우로보로스",
     "block.sign.65.text2.1": "핵",
-    "block.sign.65.text3.1": "실험실",
+    "block.sign.65.text3.1": "연구소",
     "entity.villager.5.name.1": "<알크-먀>",
     "item.gunpowder.1.name.1": "§l§o• 삼도천 잔재 •",
     "item.gunpowder.1.lore.1.1": "§9고통받는 형태의 마법입니다. §b아타크롬§9의",
@@ -3997,7 +3997,7 @@
     "luisb1202.functions.forja.atacrom.items.match_receta.122": "§9또한 화살이 적을 맞출 때 확률적으로",
     "luisb1202.functions.forja.atacrom.items.match_receta.123": "§9벼락이 떨어질 확률이 있습니다.",
     "luisb1202.functions.forja.atacrom.items.match_receta.124": "§9이는 맞은 적의 위치에",
-    "luisb1202.functions.forja.atacrom.items.match_receta.125": "§9§b§o테슬라 코어 §9를 소환합니다.",
+    "luisb1202.functions.forja.atacrom.items.match_receta.125": "§9§b§o테슬라 코어§9를 소환합니다.",
     "luisb1202.functions.forja.atacrom.items.match_receta.126": "§6- ★ §6§l§o가시 기사의 이지스§6 ★ -",
     "luisb1202.functions.forja.atacrom.items.match_receta.127": "§9피해를 받으면 일정 확률로",
     "luisb1202.functions.forja.atacrom.items.match_receta.128": "§9칼날폭풍을 생성할 확률이 있습니다.",
@@ -5658,13 +5658,13 @@
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.39": "\n\n§61º§f 순간이동할 때마다 항상 공격하지는 않습니다. 그의 동작을 주의 깊게 관찰하십시오.\n",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.40": "   §e▶ §c연쇄의 검 (☠ 치명적)",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.41": "연쇄의 검",
-    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.42": "\n\n여러 개의 검이 하늘에서 떨어져 바닥에 꽂힙니다.\n잠시 후 모든 플레이어와",
+    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.42": "\n\n여러 개의 검이 하늘에서 떨어져 바닥에 꽂힙니다.\n잠시 후 모든 플레이어와 ",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.43": "는 각각 하나의 검에 연결되어 끌려갑니다.\n\n검은 시간이 지날수록 점점 더 강하게",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.44": " 플레이어를 끌어당기며, ",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.45": "끌려가기 전에",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.46": " 파괴해야 합니다",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.47": ". 플레이어나 ",
-    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.48": "가 끌려가면",
+    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.48": "가 끌려가면 ",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.49": "심각한 지속적인 피해 ☠",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.50": " 를 받습니다.\n\n검 하나가 파괴될 때마다, 나머지 모든 검은 ",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.51": "체력이 전부 회복됩니다",
@@ -5675,7 +5675,7 @@
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.56": " 활을 §f사용하세요",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.57": ".\n\n§62º§f 검 하나를 파괴하면 나머지가 모두 회복되므로,",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.58": " 파괴 순서를 정해",
-    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.59": " 같은 검을 집중 공격하는 것이 좋습니다. §7§o(예: 1º 코로스의 검, 2º 당신의 검, 3º 파트너의 검...)§r\n\n§63º§f y가능하다면 항상 먼저 구출하세요: ",
+    "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.59": " 같은 검을 집중 공격하는 것이 좋습니다. §7§o(예: 1º 코로스의 검, 2º 당신의 검, 3º 파트너의 검...)§r\n\n§63º§f 가능하다면 항상 먼저 구출하세요: ",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.60": "   §e▶ §r어둠의 소용돌이 (§l!§r 위험함)",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.61": "어둠의 소용돌이",
     "luisb1202.functions.talentos.minikoros.dialogos.b4.d2.62": "\n\n타르 크루는 모습을 감추고 플레이어 한 명을 ",
@@ -5979,5 +5979,9 @@
     "luisb1202.loot_tables.blocks.mimic.1": "§9피해",
     "luisb1202.loot_tables.entities.gari3.1": "• 버크셔의 머리 •",
     "luisb1202.functions.bossfight.b9.h5.gen_eco.2": " •",
-    "minecraft.advancements.adventure.root.1": "공허"
+    "minecraft.advancements.adventure.root.1": "공허",
+
+        "luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_16.1": "",
+      
+        "score.DeathCount.name.1": " 사망 횟수 "
 }
