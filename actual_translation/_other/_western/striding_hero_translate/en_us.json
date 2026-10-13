@@ -1,0 +1,383 @@
+{
+"***COMMENT***":"CUTSCENES",
+"terra.cutscenes.click_here_skip_scene":"Click here to skip the scene",
+
+
+
+"***COMMENT***":"DEATHS",
+"terra.deaths.icicle":"had a chill run through them",
+"terra.deaths.tnt":"blew up",
+"terra.deaths.water":"became a frozen iceberg",
+"terra.deaths.wither":"withered away",
+
+
+
+"***COMMENT***":"ENCOUNTERS",
+"terra.encounters.won_subtitle1":"You won in",
+"terra.encounters.won_subtitle2":"seconds",
+"terra.encounters.won_title":"Congratulations!",
+"terra.encounters.lost_subtitle1":"You lasted",
+"terra.encounters.lost_subtitle2":"seconds",
+"terra.encounters.lost_title":"Defeat!",
+
+
+
+"***COMMENT***":"ENTITIES",
+"terra.entity.info":"Info",
+"terra.entity.rocky":"Rocky",
+"terra.entity.piglin":"Piglin",
+"terra.entity.snowfeather":"Snowfeather",
+"terra.entity.spawnpoint":"Spawnpoint",
+"terra.entity.stray_king":"Stray King",
+"terra.entity.villager":"Villager",
+"terra.entity.wither_skeleton_twin":"Wither Skeleton Twin",
+
+
+
+"***COMMENT***":"EXPERIENCE",
+"terra.experience.on_level1":"[Congrats]",
+"terra.experience.on_level2":"You reached level",
+"terra.experience.on_level3":"!",
+
+
+
+"***COMMENT***":"ITEMS",
+"***COMMENT***":"ITEMS - GENERAL",
+"terra.items.obtained":"obtained!",
+"terra.items.equipped":"equipped!",
+
+"terra.items.rarity.common":"Common Item",
+"terra.items.rarity.uncommon":"Uncommon Item",
+"terra.items.rarity.rare":"Rare Item",
+
+"terra.items.on_new_geara1":"Obtained new",
+"terra.items.on_new_geara2.weapon":"weapon",
+"terra.items.on_new_geara2.armor":"armor",
+
+
+
+"***COMMENT***":"ITEMS - ARMOR",
+"terra.items.helmet_barrel":"Barrel Helmet",
+"terra.items.helmet_barrel.lore1":"Barrels of Fun",
+"terra.items.helmet_bee_nest":"Bee Nest Helmet",
+"terra.items.helmet_bee_nest.lore1":"Buzzing protection",
+"terra.items.helmet_crown":"Crown",
+"terra.items.helmet_crown.lore1":"Made for royalty",
+
+
+
+"***COMMENT***":"ITEMS - MISC",
+"terra.items.gold":"Gold",
+"terra.items.honey_climbing":"Honey Climbing",
+"terra.items.main_menu":"Main Menu",
+"terra.items.main_menu.lore1":"Right click to open main menu",
+"terra.items.potion_of_rejuvenation":"Potion of Rejuvenation",
+"terra.items.potion_of_rejuvenation_3_charges":"Potion of Rejuvenation - 3 Charges",
+"terra.items.potion_of_rejuvenation_2_charges":"Potion of Rejuvenation - 2 Charges",
+"terra.items.potion_of_rejuvenation_1_charge":"Potion of Rejuvenation - 1 Charge",
+"terra.items.potion_of_rejuvenation_empty":"Empty Potion of Rejuvenation",
+"terra.items.potion_of_rejuvenation.lore1":"A tasty potion that often",
+"terra.items.potion_of_rejuvenation.lore2":"magically refills itself",
+"terra.items.netherite_crystal":"Netherite Crystal",
+"terra.items.torch":"Torch",
+"terra.items.torch.lore1":"Your light in the darkness",
+"terra.items.turn":"Turn",
+"terra.items.turn_left":"Turn Left",
+"terra.items.turn_left.lore1":"Hold right click while striding on",
+"terra.items.turn_left.lore2":"lava or water to turn left",
+"terra.items.turn_right":"Turn Right",
+"terra.items.turn_right.lore1":"Hold right click while striding on",
+"terra.items.turn_right.lore2":"lava or water to turn right",
+"terra.items.stop_resume":"Stop/Resume",
+"terra.items.stop_resume.lore1":"Right click while striding on",
+"terra.items.stop_resume.lore2":"lava or water to toggle between",
+"terra.items.stop_resume.lore3":"stopping and moving forward",
+
+
+
+"***COMMENT***":"ITEMS - PICKAXE",
+"terra.items.small_stone_pickaxe":"Small Stone Pickaxe",
+"terra.items.small_stone_pickaxe.lore1":"The right size for the job",
+
+
+
+"***COMMENT***":"ITEMS - WEAPONS",
+"terra.items.falchion":"Falchion",
+"terra.items.stinger":"Stinger",
+"terra.items.spirit_greatsword":"Spirit Greatsword",
+
+
+
+"***COMMENT***":"MENU",
+"terra.menu....":"...",
+
+"terra.menu.music":"Music",
+"terra.menu.difficulty":"Difficulty",
+"terra.menu.infinite_lives":"Infinite Lives",
+
+"terra.menu.enable":"Enable",
+"terra.menu.disable":"Disable",
+
+"terra.menu.easy":"Easy",
+"terra.menu.normal":"Normal",
+"terra.menu.hard":"Hard",
+
+"terra.menu.in_encounter":"You can't use the menu during an encounter!",
+
+
+
+"***COMMENT***":"MISC",
+"terra.misc.gate.more_buttons":"You hear a faint click in the distance. You sense that there are more buttons to find.",
+"terra.misc.honey_climbing_unlocked":"You can now climb honey block walls with your striding ability!",
+"terra.misc.map_end1":"You reached the end of the map! I hope you've enjoyed it!",
+"terra.misc.map_end2":"-Mithey",
+"terra.misc.map_end3":"Special thanks to Littletessy and Mojang/Microsoft!",
+"terra.misc.map_end4":"Mithey's YouTube Channel Link",
+"terra.misc.map_end5":"The End...",
+
+
+
+"terra.misc.nearby_gate_opened":"A nearby gate has opened up!",
+"terra.misc.potion_increase":"Your amount of potion charges has increased by 1!",
+"terra.misc.stamina_increase":"Your stamina has increased slightly!",
+
+
+
+"***COMMENT***":"MUSIC",
+"terra.music.can_click_links":"You can click links (blue words) in chat",
+"terra.music":"Music",
+
+
+
+"***COMMENT***":"SETUP",
+"***COMMENT***":"NOTE: Slightly different format here for those who don't have the resource pack installed yet",
+"REQUIRED MINECRAFT SETTINGS":"REQUIRED MINECRAFT SETTINGS",
+"Minecraft Version 1.16.4 is required":"Minecraft Version 1.16.4 is required",
+"Recommended: 8+ render distance. To set go to Video settings -> Render Distance":"Recommended: 8+ render distance. To set go to Video settings -> Render Distance",
+"Turn off the \"Music\" volume control":"Turn off the \"Music\" volume control",
+"Optional: Don't want to read chat? Turn on Options -> Chat Settings -> Narrator!":"Optional: Don't want to read chat? Turn on Options -> Chat Settings -> Narrator!",
+
+"REQUIRED OPTIFINE MOD SETTINGS":"REQUIRED OPTIFINE MOD SETTINGS",
+"The Optifine mod is not required, but if you do have it, then use these settings.":"The Optifine mod is not required, but if you do have it, then use these settings.",
+"Video Settings -> Animations -> ALL ON":"Video Settings -> Animations -> ALL ON",
+"Video Settings -> Performance -> Lazy Chunk Loading OFF":"Video Settings -> Performance -> Lazy Chunk Loading OFF",
+"Optional: Install a shaderpack for more immersion":"Optional: Install a shaderpack for more immersion",
+
+"REQUIRED SERVER SETTINGS":"REQUIRED SERVER SETTINGS",
+"Recommended: 8+ server view distance. On Minecraft Realms or server JAR this should be already set. On LAN the player who hosts the map has to set their render distance to it.":"Recommended: 8+ server view distance. On Minecraft Realms or server JAR this should be already set. On LAN the player who hosts the map has to set their render distance to it.",
+"Only use the normal Minecraft server JAR, LAN, or Minecraft Realms for the server!":"Only use the normal Minecraft server JAR, LAN, or Minecraft Realms for the server!",
+"Other server software like Spigot WILL break the map!":"Other server software like Spigot WILL break the map!",
+"If using the JAR you may want to allocate more memory to avoid lag":"If using the JAR you may want to allocate more memory to avoid lag",
+
+"RESOURCE PACK INFO":"RESOURCE PACK INFO",
+"The resource pack is required":"The resource pack is required",
+"If on singleplayer it is automatically installed":"If on singleplayer it is automatically installed",
+"If downloaded from & using map via Realms it is automatically installed":"If downloaded from & using map via Realms it is automatically installed",
+"Otherwise, you will have to install it manually":"Otherwise, you will have to install it manually",
+"The resource pack is called resources.zip in the world folder":"The resource pack is called resources.zip in the world folder",
+"The music is under a":"The music is under a",
+"CC BY 4.0 license":"CC BY 4.0 license",
+"The music is only adjustable by the \"Master Volume\" control":"The music is only adjustable by the \"Master Volume\" control",
+
+"WARNING: YOU ARE NOT ON THE CORRECT MINECRAFT VERSION! PLEASE REINSTALL THE MAP AND USE THE CORRECT MINECRAFT VERSION OR EXPECT BUGS!":"WARNING: YOU ARE NOT ON THE CORRECT MINECRAFT VERSION! PLEASE REINSTALL THE MAP AND USE THE CORRECT MINECRAFT VERSION OR EXPECT BUGS!",
+
+
+
+"***COMMENT***":"OPTIONS",
+"terra.options":"Options",
+"terra.options.difficulty_easy":"Difficulty has been set to easy!",
+"terra.options.difficulty_normal":"Difficulty has been set to normal!",
+"terra.options.difficulty_hard":"Difficulty has been set to hard!",
+"terra.options.infinite_lives_enable":"Infinite lives has been enabled!",
+"terra.options.infinite_lives_disable":"Infinite lives has been disabled!",
+"terra.options.music_enable":"Music has been enabled!",
+"terra.options.music_disable":"Music has been disabled!",
+
+
+
+"***COMMENT***":"POTIONS",
+"terra.potions.charges_left1":"You have",
+"terra.potions.charges_left2":"potion charges left!",
+"terra.potions.refilled":"Your potion has been refilled!",
+
+
+
+"***COMMENT***":"SHOP",
+"terra.shop.gold_for":"gold for",
+"terra.shop.not_enough_gold":"You don't have enough gold for that!",
+"terra.shop.out_of_stock":"The shop doesn't have any of those left for sale!",
+
+
+
+"***COMMENT***":"SIDEBAR",
+"terra.sidebar":"Stats",
+
+
+
+"***COMMENT***":"STATS",
+"terra.stats.health":"Health",
+"terra.stats.stamina":"Stamina",
+"terra.stats.offense":"Offense",
+"terra.stats.defense":"Defense",
+"terra.stats.melee_damage":"Melee Damage",
+"terra.stats.you_gained":"you gained",
+
+
+
+"***COMMENT***":"SYSTEM",
+"terra.system.loading_chunks":"Loading chunks...",
+"terra.system.key_obtained":"You put the key safely on your keychain",
+"terra.system.key_not_found":"You don't have the key for that",
+"terra.system.on_damage_taken1":"You took",
+"terra.system.on_damage_taken2":"damage",
+"terra.system.on_damage_taken2health":"health damage",
+"terra.system.on_death3":"has died",
+"terra.system.on_login1":"Welcome to",
+"terra.system.on_login2":"Striding",
+"terra.system.on_login3":"Hero!",
+"terra.system.on_login4":"You're currently on v1.0.3 for Minecraft version 1.16.4",
+"terra.system.spawnpoint_clicked":"Spawnpoint set for all players",
+
+
+
+
+
+
+
+
+
+
+"***COMMENT***":"AREAS",
+"terra.areas.list_treasure1":"Treasures:",
+"terra.areas.list_treasure2":"out of",
+
+
+
+"***COMMENT***":"LOBBY",
+"terra.lobby":"Lobby",
+
+
+
+"***COMMENT***":"CHAPTER 1",
+"terra.chapter1":"Chapter 1",
+"terra.chapter1.subtitle":"Alone",
+
+"terra.chapter1.cutscene.area_intro1":"All alone...",
+"terra.chapter1.cutscene.area_intro2":"Where even am I?",
+"terra.chapter1.cutscene.area_intro3":"What was I doing?",
+"terra.chapter1.cutscene.area_intro4":"I must get back to the warmth of the Nether",
+"terra.chapter1.cutscene.area_intro5":"To home~",
+
+"terra.chapter1.cutscene.area_outro1":"You drift off to sleep in your new shelter~",
+"terra.chapter1.cutscene.area_outro2":"What do we have here? The so-called strider hanging out with our sworn enemy, the Piglins?",
+"terra.chapter1.cutscene.area_outro3":"Boss, you know what must be done!",
+"terra.chapter1.cutscene.area_outro4":"Indeed, when the time is right, we will teach the strider a lesson they will never forget!",
+"terra.chapter1.cutscene.area_outro5":"A villager?! Here?!",
+"terra.chapter1.cutscene.area_outro6":"A new day approaches.",
+"terra.chapter1.cutscene.area_outro7":"Time to continue onwards into the caves.",
+
+"terra.chapter1.cutscene.nether_bully_scene1":"Flashbacks start to fill your mind~",
+"terra.chapter1.cutscene.nether_bully_scene2":"What kind of strider is that?!",
+"terra.chapter1.cutscene.nether_bully_scene3":"What a shock, they can't even walk three steps without falling into the lava!",
+"terra.chapter1.cutscene.nether_bully_scene4":"What a massive collider, if you know what I mean!",
+"terra.chapter1.cutscene.nether_bully_scene5":"Haha, good one! Hey Strider outsider, get out of our pool. If you can't be a provider, then you don't belong here, fool.",
+
+"terra.chapter1.cutscene.weapon_scene1":"A bone to pick.",
+
+"terra.chapter1.encounter.mines_title":"Survive",
+"terra.chapter1.encounter.mines_subtitle":"Last 120 seconds",
+
+"terra.chapter1.info1":"You can toggle between seeing yourself or not by hitting F5.",
+"terra.chapter1.info2":"Using the shift key (sneak) while above water or lava activates the striding ability. The striding ability allows you to walk on water or lava until you run out of stamina. Note: Once the ability is active, you will automatically move forward, and you won't be able to turn.",
+"terra.chapter1.info3":"Lava doesn't hurt you. However, it still often hurts enemies. It also gives you a regeneration effect.",
+"terra.chapter1.info4":"You can use your pickaxe to break spawners.",
+"terra.chapter1.info5":"In this map, you don't need to time weapon swings. Click as fast as you want!",
+"terra.chapter1.info6":"You can use your pickaxe to mine gilded blackstone for gold.",
+"terra.chapter1.info7":"Water is freezing cold and very dangerous.",
+
+"terra.chapter1.piglin1":"I'm afraid you can't stay here, friend. It's late so you should head back to your home soon.",
+
+"terra.chapter1.sign.pig_deals1":"",
+"terra.chapter1.sign.pig_deals2":"-------",
+"terra.chapter1.sign.pig_deals3":"PIG DEALS",
+"terra.chapter1.sign.pig_deals4":"-----",
+
+
+
+"***COMMENT***":"CHAPTER 2",
+"terra.chapter2":"Chapter 2",
+"terra.chapter2.subtitle":"Home",
+
+"terra.chapter2.cutscene.escape_nether1":"Quickly, we must flee like a breeze through the portal!",
+"terra.chapter2.cutscene.escape_nether2":"I will take you to my village. The chief will listen to me and allow you a place to live among us. Just stay close.",
+"terra.chapter2.cutscene.escape_nether3":"A beast from the Nether with Snowfeather? Keep an eye on that one, Rocky.",
+
+"terra.chapter2.cutscene.area_outro1":"They are finally back. We were so worried! Wait, where is Snowfeather at?",
+"terra.chapter2.cutscene.area_outro2":"What if the strider did something to Snowfeather?!",
+"terra.chapter2.cutscene.area_outro3":"Little one never do such thing. They have heart of iron. I watched. I observed. Kind one.",
+"terra.chapter2.cutscene.area_outro4":"It is true that a lot of villagers have been vanishing lately...",
+"terra.chapter2.cutscene.area_outro5":"But what can we do? This storm isn't going to go away any time soon.",
+"terra.chapter2.cutscene.area_outro6":"What are you kids doing?! That is dangerous!",
+"terra.chapter2.cutscene.area_outro7":"Just keep at it, and you will improve in no time!",
+"terra.chapter2.cutscene.area_outro8":"We are running low on resources, and we need you two to go out and search for some supplies.",
+"terra.chapter2.cutscene.area_outro9":"Stay safe out there. I sense a storm is coming.",
+"terra.chapter2.cutscene.area_outro10":"As always, we got this. We will be back before you know it.",
+"terra.chapter2.cutscene.area_outro11":"Even if time is against us, we can't go out until the storm passes.",
+
+"terra.chapter2.cutscene.boss_intro1":"We were waiting for you.",
+"terra.chapter2.cutscene.boss_intro2":"You don't have your villager friend with you to save you this time!",
+
+"terra.chapter2.encounter.wither_skeleton_twins_title":"Wither Skeleton Twins",
+"terra.chapter2.encounter.wither_skeleton_twins_subtitle":"",
+"terra.chapter2.encounter.wither_skeleton_twins1":"Boss, I'll take over for now!",
+"terra.chapter2.encounter.wither_skeleton_twins2":"We must do this together.",
+
+"terra.chapter2.info1":"Striding on water/lava can get you into one block tall locations.",
+
+"terra.chapter2.sign.beezy_beesiness1":"-------",
+"terra.chapter2.sign.beezy_beesiness2":"BEEZY",
+"terra.chapter2.sign.beezy_beesiness3":"BEEZNESS",
+"terra.chapter2.sign.beezy_beesiness4":"-----",
+
+
+
+"***COMMENT***":"CHAPTER 3",
+"terra.chapter3":"Chapter 3",
+"terra.chapter3.subtitle":"Hero",
+
+"terra.chapter3.cutscene.boss_intro1":"With this sacrifice, I shall open up a portal to the Spirit Dimension!",
+"terra.chapter3.cutscene.boss_intro2":"Wait, who goes there?! You would foolishly dare interfere with our work?",
+"terra.chapter3.cutscene.boss_intro3":"I suppose I wouldn't mind adding another ice sculpture to my collection.",
+
+"terra.chapter3.encounter.stray_title":"Stray King",
+"terra.chapter3.encounter.stray_subtitle":"Spirit Wizard",
+
+"terra.chapter3.sign.drowsy_department1":"-------",
+"terra.chapter3.sign.drowsy_department2":"DROWSY",
+"terra.chapter3.sign.drowsy_department3":"DEPARTMENT",
+"terra.chapter3.sign.drowsy_department4":"-----",
+
+
+
+
+
+
+
+
+
+"***COMMENT***":"GENERIC MINECRAFT OVERRIDE TEXT",
+"container.isLocked": "The %s is empty!",
+
+
+
+
+
+
+
+
+
+"***COMMENT***":"DON'T CHANGE BELOW",
+"WARNING: THE MAP'S RESOURCE PACK ISN'T INSTALLED WHICH IS REQUIRED TO PLAY!":"",
+"WARNING: RESOURCE PACK NOT INSTALLED!":"",
+"":""
+}
