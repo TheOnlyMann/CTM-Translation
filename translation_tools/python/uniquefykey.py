@@ -1,7 +1,6 @@
 import json
 import re
 import sys
-from collections import OrderedDict
 
 '''
 If there is a same key in the given json file A(input), it will write it in the output file B as a unique key, with the same value.
@@ -25,29 +24,48 @@ def encode_real_pua_in_json_text(data):
     fixed_text = re.sub(r'(?<=")([^"\\]+)(?=")', escape_pua_characters, json_text)
 
     return fixed_text
-# Uniquefy keys in JSON dicts
-def uniquefy_json_keys(input_file):
-    seen = set()
+
+def uniquefy_pairs(pairs):
+    """
+    JSON 객체의 중복 키에 _1, _2, ... 접미사를 붙인다.
+    기존 키와 충돌하는 경우에도 중복되지 않도록 처리한다.
+    """
     result = {}
-    with open(input_file, "r", encoding="utf-8") as file:
-        #instead of using json.load we will read the file line by line and parse it to avoid loading duplicate keys and losing data
-        for line in file:
-            f_line = line.strip()
-            if f_line.startswith('"'):
-                k,v = f_line.split(":",1)
-                k = k.strip().strip('"')
-                v = v.strip().rstrip(",")
-                v = v.strip().strip('"')
-            else:
-                continue
-            new_key = k
-            index = 1
-            while new_key in seen:
-                new_key = f"{k}_{index}"
+    seen = set()
+
+    # 원본에 이미 존재하는 키를 확인
+    original_keys = {key for key, value in pairs}
+
+    for key, value in pairs:
+        new_key = key
+        index = 1
+
+        while new_key in seen:
+            new_key = f"{key}_{index}"
+            index += 1
+
+            # 다른 원본 키와 충돌하지 않도록 확인
+            while new_key in original_keys and new_key != key:
+                new_key = f"{key}_{index}"
                 index += 1
-            seen.add(new_key)
-            result[new_key] = v
+
+        seen.add(new_key)
+        result[new_key] = value
+
     return result
+
+
+
+# Uniquefy keys in JSON dicts
+
+def uniquefy_json_keys(input_file):
+    with open(input_file, "r", encoding="utf-8-sig") as file:
+        data = json.load(
+            file,
+            object_pairs_hook=uniquefy_pairs
+        )
+
+    return data
 
 # JSON dump with safe UTF-8 characters (preserves emojis, Korean, etc.)
 def save_json(data, output_file):
