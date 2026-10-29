@@ -1,109 +1,306 @@
+
+import argparse
 import json
-import re
-import sys
-
-'''
-If there is a same key in the given json file A(input), it will write it in the output file B as a unique key, with the same value.
-key name changes will follow this format: [original_key]_[index]. it will also check if the new key name is unique, if not, it will increase the index until it finds a unique key name.
-'''
+from pathlib import Path
 
 
-# --- JSON serialization with ONLY PUA character escaping ---
-def encode_real_pua_in_json_text(data):
-    # Use normal JSON dump to preserve emojis and other characters
-    json_text = json.dumps(data, indent=4, ensure_ascii=False)
-
-    # Replace actual Unicode PUA characters in string values with \uXXXX
-    def escape_pua_characters(match):
-        return ''.join(
-            f'\\u{ord(c):04X}' if 0xE000 <= ord(c) <= 0xF8FF else c
-            for c in match.group(0)
-        )
-
-    # Apply only to string contents (leave quotes and keys untouched)
-    fixed_text = re.sub(r'(?<=")([^"\\]+)(?=")', escape_pua_characters, json_text)
-
-    return fixed_text
-
-def uniquefy_pairs(pairs):
+def read_json_string(text, start):
     """
-    JSON 객체의 중복 키에 _1, _2, ... 접미사를 붙인다.
-    기존 키와 충돌하는 경우에도 중복되지 않도록 처리한다.
+    Read a quoted JSON-style string without decoding or modifying it.
+    Returns (raw_string, next_position).
     """
-    result = {}
-    seen = set()
+    if start >= len(text) or text[start] != '"':
+        raise ValueError(f"Expected a string at position {start}")
 
-    # 원본에 이미 존재하는 키를 확인
-    original_keys = {key for key, value in pairs}
+    i = start + 1
 
-    for key, value in pairs:
-        new_key = key
+    while i < len(text):
+        if text[i] == "\\":
+            i += 2
+            continue
+
+        if text[i] == '"':
+            return text[start:i + 1], i + 1
+
+        i += 1
+
+    raise ValueError("Unterminated string")
+
+
+def decode_key(raw):
+    """
+    Decode a key for comparison.
+    Allows non-standard escapes such as \\'.
+    """
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        result = []
+        i = 1
+
+        while i < len(raw) - 1:
+            c = raw[i]
+
+            if c == "\\" and i + 1 < len(raw) - 1:
+                nxt = raw[i + 1]
+
+                if nxt == "'":
+                    result.append("'")
+                    i += 2
+                    continue
+
+                if nxt == "u" and i + 5 < len(raw):
+                    hexpart = raw[i + 2:i + 6]
+                    try:
+                        result.append(chr(int(hexpart, 16)))
+                        i += 6
+                        continue
+                    except ValueError:
+                        pass
+
+                mapping = {
+                    '"': '"',
+                    "\\": "\\",
+                    "/": "/",
+                    "n": "\n",
+                    "r": "\r",
+                    "t": "\t",
+                    "b": "\b",
+                    "f": "\f",
+                }
+
+                if nxt in mapping:
+                    result.append(mapping[nxt])
+                    i += 2
+                    continue
+
+            result.append(c)
+            i += 1
+
+        return "".join(result)
+
+
+def skip_whitespace_and_comments(text, pos):
+    """Skip whitespace and JSONC-style comments."""
+    n = len(text)
+
+    while pos < n:
+        if text[pos].isspace():
+            pos += 1
+            continue
+
+        if text.startswith("//", pos):
+            pos += 2
+            while pos < n and text[pos] not in "\r\n":
+                pos += 1
+            continue
+
+        if text.startswith("/*", pos):
+            end = text.find("*/", pos + 2)
+            if end == -1:
+                raise ValueError("Unterminated block comment")
+            pos = end + 2
+            continue
+
+        break
+
+    return pos
+
+
+def collect_keys(text):
+    """
+    Collect key locations from every JSON-style object.
+    Does not parse or modify string values.
+    """
+    keys = []
+    stack = []
+    i = 0
+    n = len(text)
+
+    while i < n:
+        if text[i] == '"':
+            raw, end = read_json_string(text, i)
+            after = skip_whitespace_and_comments(text, end)
+
+            if (
+                stack
+                and stack[-1]["type"] == "object"
+                and stack[-1]["expect_key"]
+                and after < n
+                and text[after] == ":"
+            ):
+                keys.append({
+                    "start": i,
+                    "end": end,
+                    "raw": raw,
+                    "key": decode_key(raw),
+                    "object_id": stack[-1]["id"],
+                })
+                stack[-1]["expect_key"] = False
+
+            i = end
+            continue
+
+        if text.startswith("//", i) or text.startswith("/*", i):
+            i = skip_whitespace_and_comments(text, i)
+            continue
+
+        if text[i] == "{":
+            stack.append({
+                "type": "object",
+                "expect_key": True,
+                "id": i,
+            })
+
+        elif text[i] == "[":
+            stack.append({
+                "type": "array",
+                "expect_key": False,
+                "id": i,
+            })
+
+        elif text[i] in "}]":
+            if not stack:
+                raise ValueError("Unexpected closing bracket")
+
+            expected = "object" if text[i] == "}" else "array"
+            if stack[-1]["type"] != expected:
+                raise ValueError("Mismatched closing bracket")
+
+            stack.pop()
+
+        elif text[i] == ",":
+            if stack and stack[-1]["type"] == "object":
+                stack[-1]["expect_key"] = True
+
+        i += 1
+
+    if stack:
+        raise ValueError("Unclosed object or array")
+
+    return keys
+
+
+def uniquefy_text(text):
+    """
+    Rename duplicate keys while preserving the original text.
+    Duplicate detection is scoped to each JSON object.
+    """
+    keys = collect_keys(text)
+
+    original_keys = {}
+    used_keys = {}
+    replacements = []
+    renamed_count = 0
+
+    for item in keys:
+        obj_id = item["object_id"]
+        original_keys.setdefault(obj_id, set()).add(item["key"])
+
+    for item in keys:
+        obj_id = item["object_id"]
+        key = item["key"]
+        used = used_keys.setdefault(obj_id, set())
+        reserved = original_keys[obj_id]
+
+        if key not in used:
+            used.add(key)
+            continue
+
         index = 1
 
-        while new_key in seen:
-            new_key = f"{key}_{index}"
+        while True:
+            candidate = f"{key}_{index}"
+
+            if candidate not in used and candidate not in reserved:
+                break
+
             index += 1
 
-            # 다른 원본 키와 충돌하지 않도록 확인
-            while new_key in original_keys and new_key != key:
-                new_key = f"{key}_{index}"
-                index += 1
+        used.add(candidate)
 
-        seen.add(new_key)
-        result[new_key] = value
+        # Encode only the newly generated key.
+        # Keep all other source text unchanged.
+        new_raw = json.dumps(candidate, ensure_ascii=False)
 
+        replacements.append((
+            item["start"],
+            item["end"],
+            new_raw,
+        ))
+
+        renamed_count += 1
+
+    # Apply replacements backwards so positions remain valid.
+    result = text
+
+    for start, end, replacement in reversed(replacements):
+        result = result[:start] + replacement + result[end:]
+
+    return result, renamed_count
+
+
+def uniquefy_json_keys(input_file):
+    """
+    Read a file and return the modified JSON-style text.
+    """
+    with open(input_file, "r", encoding="utf-8-sig", newline="") as f:
+        original = f.read()
+
+    result, _ = uniquefy_text(original)
     return result
 
 
-
-# Uniquefy keys in JSON dicts
-
-def uniquefy_json_keys(input_file):
-    with open(input_file, "r", encoding="utf-8-sig") as file:
-        data = json.load(
-            file,
-            object_pairs_hook=uniquefy_pairs
-        )
-
-    return data
-
-# JSON dump with safe UTF-8 characters (preserves emojis, Korean, etc.)
 def save_json(data, output_file):
-    with open(output_file, "w", encoding="utf-8") as f:
+    """
+    Save text without JSON reserialization.
+    """
+    with open(output_file, "w", encoding="utf-8", newline="") as f:
         f.write(data)
 
-# CLI usage
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Make duplicate JSON keys unique without changing values."
+    )
+
+    parser.add_argument("input", help="Input JSON file")
+    parser.add_argument(
+        "output",
+        nargs="?",
+        help="Output JSON file (default: overwrite input)"
+    )
+    parser.add_argument(
+        "-p",
+        action="store_true",
+        help="Compatibility option; original Unicode/PUA text is always preserved"
+    )
+
+    args = parser.parse_args()
+
+    input_path = Path(args.input)
+    output_path = Path(args.output) if args.output else input_path
+
+    if not input_path.is_file():
+        parser.error(f"File not found: {input_path}")
+
+    try:
+        with input_path.open(
+            "r", encoding="utf-8-sig", newline=""
+        ) as f:
+            original = f.read()
+
+        result, count = uniquefy_text(original)
+        save_json(result, output_path)
+
+        print(f"Input: {input_path}")
+        print(f"Output: {output_path}")
+        print(f"Renamed duplicate keys: {count}")
+        print("Original values and escape sequences preserved.")
+
+    except (OSError, ValueError) as error:
+        parser.exit(1, f"Error: {error}\n")
+
+
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python uniquefykey.py input.json [output.json] [-p]")
-        print("  -p : Do NOT preserve PUA characters (default: preserve ON)")
-        sys.exit(1)
-
-    # Parse arguments
-    json_files = []
-    preserve_pua = True
-
-    for arg in sys.argv[1:]:
-        if arg.endswith(".json"):
-            json_files.append(arg)
-        elif arg == "-p":
-            preserve_pua = False
-        else:
-            print(f"Unknown argument: {arg}")
-            sys.exit(1)
-
-    if len(json_files) < 1:
-        print("❗ You must specify at least input.json.")
-        sys.exit(1)
-
-    input_file = json_files[0]
-    output_file = json_files[1] if len(json_files) >= 2 else input_file
-
-    # Load and process
-    uniquefied = uniquefy_json_keys(input_file)
-    if preserve_pua:
-        merged = encode_real_pua_in_json_text(uniquefied)
-    else:
-        merged = json.dumps(uniquefied, indent=4, ensure_ascii=False)
-    save_json(merged, output_file)
-    print(f"✅ Uniquefied JSON saved as '{output_file}' (PUA preserved={'ON' if preserve_pua else 'OFF'})")
+    main()
