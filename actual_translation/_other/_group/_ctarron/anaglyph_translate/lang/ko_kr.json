@@ -5,5 +5,7 @@
   "effect.minecraft.saturation": "",
   "ctarron.setup.install": "이것은 2인용 맵입니다.\n다른 리소스 팩이 활성화되지\n않았는지 확인하세요.",
   "ctarron.setup.resourcepack": "",
-  "ctarron.setup.language": "\n시작하려면, 이 텍스트 아래서 웅크리세요."
+  "ctarron.setup.language": "\n시작하려면, 이 텍스트 아래서 웅크리세요.",
+  "ctarron.setup.comment.p1":"우리는 해냈습니다...",
+  "ctarron.setup.comment.p2":"제단이, 드디어..."
 }
