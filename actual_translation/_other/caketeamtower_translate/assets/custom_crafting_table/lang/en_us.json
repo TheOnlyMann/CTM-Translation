@@ -1,0 +1,13 @@
+{
+  "SingleCraftButton.Name": "Single Craft",
+  "SingleCraftButton.Lore.1": "Click to craft once",
+
+  "AutoCraftButton.Name": "Quick Craft",
+  "AutoCraftButton.Lore.1": "Click to craft all at once",
+  "AutoCraftButton.Lore.2": "Until the ingredients required run out",
+
+  "CraftButton.Lore.1": "After placing items in the left crafting slots",
+
+  "ReturnItemButton.Name": "Clear Crafting Slots",
+  "ReturnItemButton.Lore.1": "Click to return items placed in the crafting slots"
+}

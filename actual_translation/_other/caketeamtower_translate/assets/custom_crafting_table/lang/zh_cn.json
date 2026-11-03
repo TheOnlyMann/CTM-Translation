@@ -1,0 +1,13 @@
+{
+  "SingleCraftButton.Name": "单次合成",
+  "SingleCraftButton.Lore.1": "点击可进行一次合成",
+
+  "AutoCraftButton.Name": "快捷合成",
+  "AutoCraftButton.Lore.1": "点击可进行快捷合成",
+  "AutoCraftButton.Lore.2": "直至所需的原料耗尽",
+
+  "CraftButton.Lore.1": "在左侧的合成栏放置好物品后",
+
+  "ReturnItemButton.Name": "清空合成栏",
+  "ReturnItemButton.Lore.1": "点击可返还合成栏上的物品"
+}
