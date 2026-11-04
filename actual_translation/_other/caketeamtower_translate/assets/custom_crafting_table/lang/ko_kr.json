@@ -1,0 +1,13 @@
+{
+  "SingleCraftButton.Name": "단일 제작",
+  "SingleCraftButton.Lore.1": "클릭하여 한 번 제작합니다.",
+
+  "AutoCraftButton.Name": "일괄 제작",
+  "AutoCraftButton.Lore.1": "클릭하여 필요한 재료가 소진될",
+  "AutoCraftButton.Lore.2": "때까지 한꺼번에 제작합니다.",
+
+  "CraftButton.Lore.1": "왼쪽 제작 칸에 아이템을 배치한 후",
+
+  "ReturnItemButton.Name": "제작 칸 비우기",
+  "ReturnItemButton.Lore.1": "클릭하여 제작 칸에 배치한 아이템을 돌려받습니다."
+}
