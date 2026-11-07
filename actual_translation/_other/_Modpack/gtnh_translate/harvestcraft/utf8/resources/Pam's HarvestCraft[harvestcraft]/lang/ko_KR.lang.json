@@ -1,0 +1,7121 @@
+[
+  {
+    "key": "lang|itemGroup.tabHarvestCraft",
+    "original": "HarvestCraft Misc",
+    "translation": "하베스트크래프트 기타",
+    "stage": 1,
+    "context": "itemGroup.tabHarvestCraft=HarvestCraft Misc"
+  },
+  {
+    "key": "lang|itemGroup.tabHarvestCraft2",
+    "original": "HarvestCraft Crops",
+    "translation": "HarvestCraft 작물",
+    "stage": 1,
+    "context": "itemGroup.tabHarvestCraft2=HarvestCraft Crops"
+  },
+  {
+    "key": "lang|itemGroup.tabHarvestCraft3",
+    "original": "HarvestCraft Food",
+    "translation": "HarvestCraft 음식",
+    "stage": 1,
+    "context": "itemGroup.tabHarvestCraft3=HarvestCraft Food"
+  },
+  {
+    "key": "lang|tooltip.harvestcraft.item.queenbeeItem",
+    "original": "Apiary: Honeycomb, Waxcomb, Grubs\\nCrafting Grid: Royal Jelly at 0 Durability",
+    "translation": "양봉장: 꿀 벌집, 밀랍 벌집, 애벌레\\n조합 그리드: 내구성이 0인 로열 젤리",
+    "stage": 1,
+    "context": "tooltip.harvestcraft.item.queenbeeItem=Apiary: Honeycomb, Waxcomb, Grubs\\nCrafting Grid: Royal Jelly at 0 Durability"
+  },
+  {
+    "key": "lang|tooltip.harvestcraft.item.greenheartfishItem",
+    "original": "An ocelot's favorite treat",
+    "translation": "오셀롯이 가장 좋아하는 간식",
+    "stage": 1,
+    "context": "tooltip.harvestcraft.item.greenheartfishItem=An ocelot's favorite treat"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.category",
+    "original": "Garden Drops",
+    "translation": "정원 드롭",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.category=Garden Drops"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.found",
+    "original": "Found in %s biome",
+    "translation": "%s 바이옴에서 찾음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.found=Found in %s biome"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.berry",
+    "original": "Forest, Hills, Cold and Wet",
+    "translation": "숲, 언덕, 춥고 습함",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.berry=Forest, Hills, Cold and Wet"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.desert",
+    "original": "Sandy",
+    "translation": "모래 지형",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.desert=Sandy"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.grass",
+    "original": "Plains but not Cold",
+    "translation": "평원, 춥지 않음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.grass=Plains but not Cold"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.gourd",
+    "original": "Plains and Forest",
+    "translation": "평원, 숲",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.gourd=Plains and Forest"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.ground",
+    "original": "Mountain, Hills, Mesa and Savanna",
+    "translation": "산, 언덕, 메사, 사바나",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.ground=Mountain, Hills, Mesa and Savanna"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.herb",
+    "original": "Forest and Wet but not Cold",
+    "translation": "숲, 습함, 춥지 않음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.herb=Forest and Wet but not Cold"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.leafy",
+    "original": "Forest and Wet but not Cold",
+    "translation": "숲, 습함, 춥지 않음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.leafy=Forest and Wet but not Cold"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.mushroom",
+    "original": "Forest and Wet, but not Cold and Mountain",
+    "translation": "숲, 습함, 춥지 않음, 산 아님",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.mushroom=Forest and Wet, but not Cold and Mountain"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.stalk",
+    "original": "Plains, Forest and Wet but not Cold",
+    "translation": "평원, 숲, 습함, 춥지 않음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.stalk=Plains, Forest and Wet but not Cold"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.textile",
+    "original": "Cold, Hills and Wet",
+    "translation": "추음, 언덕, 습함",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.textile=Cold, Hills and Wet"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.tropical",
+    "original": "Wet and Hot",
+    "translation": "습함, 더움",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.tropical=Wet and Hot"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.water",
+    "original": "Ocean and River but not Cold",
+    "translation": "바다, 강, 춥지 않음",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.water=Ocean and River but not Cold"
+  },
+  {
+    "key": "lang|tile.cuttingboard.name",
+    "original": "Cutting Board",
+    "translation": "도마",
+    "stage": 1,
+    "context": "tile.cuttingboard.name=Cutting Board"
+  },
+  {
+    "key": "lang|tile.pot.name",
+    "original": "Pot",
+    "translation": "냄비",
+    "stage": 1,
+    "context": "tile.pot.name=Pot"
+  },
+  {
+    "key": "lang|tile.beehive.name",
+    "original": "Beehive",
+    "translation": "벌집",
+    "stage": 1,
+    "context": "tile.beehive.name=Beehive"
+  },
+  {
+    "key": "lang|tile.apiary.name",
+    "original": "Apiary",
+    "translation": "양봉기",
+    "stage": 1,
+    "context": "tile.apiary.name=Apiary"
+  },
+  {
+    "key": "lang|tile.presser.name",
+    "original": "Presser",
+    "translation": "압착기",
+    "stage": 1,
+    "context": "tile.presser.name=Presser"
+  },
+  {
+    "key": "lang|tile.grinder.name",
+    "original": "Mincer",
+    "translation": "고기 절단기",
+    "stage": 1,
+    "context": "tile.grinder.name=Mincer"
+  },
+  {
+    "key": "lang|tile.sink.name",
+    "original": "Sink",
+    "translation": "싱크대",
+    "stage": 1,
+    "context": "tile.sink.name=Sink"
+  },
+  {
+    "key": "lang|sink_0.name",
+    "original": "Water Barrel",
+    "translation": "물통",
+    "stage": 1,
+    "context": "sink_0.name=Water Barrel"
+  },
+  {
+    "key": "lang|sink_1.name",
+    "original": "Stone Basin",
+    "translation": "돌 대야",
+    "stage": 1,
+    "context": "sink_1.name=Stone Basin"
+  },
+  {
+    "key": "lang|sink_2.name",
+    "original": "Clay Jug",
+    "translation": "점토 주전자",
+    "stage": 1,
+    "context": "sink_2.name=Clay Jug"
+  },
+  {
+    "key": "lang|sink_3.name",
+    "original": "Brick Well",
+    "translation": "벽돌 우물",
+    "stage": 1,
+    "context": "sink_3.name=Brick Well"
+  },
+  {
+    "key": "lang|tile.salt.name",
+    "original": "Salt Ore",
+    "translation": "소금 광석",
+    "stage": 1,
+    "context": "tile.salt.name=Salt Ore"
+  },
+  {
+    "key": "lang|tile.pamcompressedsaltBlock.name",
+    "original": "Compressed Salt Block",
+    "translation": "압축된 소금 블록",
+    "stage": 1,
+    "context": "tile.pamcompressedsaltBlock.name=Compressed Salt Block"
+  },
+  {
+    "key": "lang|tile.market.name",
+    "original": "Market",
+    "translation": "가게",
+    "stage": 1,
+    "context": "tile.market.name=Market"
+  },
+  {
+    "key": "lang|tile.oven.name",
+    "original": "Oven",
+    "translation": "오븐",
+    "stage": 1,
+    "context": "tile.oven.name=Oven"
+  },
+  {
+    "key": "lang|tile.ovenon.name",
+    "original": "Oven",
+    "translation": "오븐",
+    "stage": 1,
+    "context": "tile.ovenon.name=Oven"
+  },
+  {
+    "key": "lang|tile.churn.name",
+    "original": "Churn",
+    "translation": "우유통",
+    "stage": 1,
+    "context": "tile.churn.name=Churn"
+  },
+  {
+    "key": "lang|tile.churnon.name",
+    "original": "Churn",
+    "translation": "우유통",
+    "stage": 1,
+    "context": "tile.churnon.name=Churn"
+  },
+  {
+    "key": "lang|tile.quern.name",
+    "original": "Quern",
+    "translation": "맷돌",
+    "stage": 1,
+    "context": "tile.quern.name=Quern"
+  },
+  {
+    "key": "lang|tile.quernon.name",
+    "original": "Quern",
+    "translation": "맷돌",
+    "stage": 1,
+    "context": "tile.quernon.name=Quern"
+  },
+  {
+    "key": "lang|tile.fishtrap.name",
+    "original": "Fish Trap",
+    "translation": "통발",
+    "stage": 1,
+    "context": "tile.fishtrap.name=Fish Trap"
+  },
+  {
+    "key": "lang|tile.animaltrap.name",
+    "original": "Animal Trap",
+    "translation": "덫",
+    "stage": 1,
+    "context": "tile.animaltrap.name=Animal Trap"
+  },
+  {
+    "key": "lang|tile.dehydrator.name",
+    "original": "Dehydrator",
+    "translation": "탈수기",
+    "stage": 1,
+    "context": "tile.dehydrator.name=Dehydrator"
+  },
+  {
+    "key": "lang|tile.berrygarden.name",
+    "original": "Berry Garden",
+    "translation": "베리 정원",
+    "stage": 1,
+    "context": "tile.berrygarden.name=Berry Garden"
+  },
+  {
+    "key": "lang|tile.desertgarden.name",
+    "original": "Desert Garden",
+    "translation": "사막 정원",
+    "stage": 1,
+    "context": "tile.desertgarden.name=Desert Garden"
+  },
+  {
+    "key": "lang|tile.gourdgarden.name",
+    "original": "Gourd Garden",
+    "translation": "대지 정원",
+    "stage": 1,
+    "context": "tile.gourdgarden.name=Gourd Garden"
+  },
+  {
+    "key": "lang|tile.grassgarden.name",
+    "original": "Grass Garden",
+    "translation": "잔디 정원",
+    "stage": 1,
+    "context": "tile.grassgarden.name=Grass Garden"
+  },
+  {
+    "key": "lang|tile.groundgarden.name",
+    "original": "Ground Garden",
+    "translation": "대지 정원",
+    "stage": 1,
+    "context": "tile.groundgarden.name=Ground Garden"
+  },
+  {
+    "key": "lang|tile.herbgarden.name",
+    "original": "Herb Garden",
+    "translation": "허브 정원",
+    "stage": 1,
+    "context": "tile.herbgarden.name=Herb Garden"
+  },
+  {
+    "key": "lang|tile.leafygarden.name",
+    "original": "Leafy Garden",
+    "translation": "잎 정원",
+    "stage": 1,
+    "context": "tile.leafygarden.name=Leafy Garden"
+  },
+  {
+    "key": "lang|tile.mushroomgarden.name",
+    "original": "Mushroom Garden",
+    "translation": "버섯 정원",
+    "stage": 1,
+    "context": "tile.mushroomgarden.name=Mushroom Garden"
+  },
+  {
+    "key": "lang|tile.stalkgarden.name",
+    "original": "Stalk Garden",
+    "translation": "줄기 많은 정원",
+    "stage": 1,
+    "context": "tile.stalkgarden.name=Stalk Garden"
+  },
+  {
+    "key": "lang|tile.textilegarden.name",
+    "original": "Textile Garden",
+    "translation": "섬유 정원",
+    "stage": 1,
+    "context": "tile.textilegarden.name=Textile Garden"
+  },
+  {
+    "key": "lang|tile.tropicalgarden.name",
+    "original": "Tropical Garden",
+    "translation": "열대 정원",
+    "stage": 1,
+    "context": "tile.tropicalgarden.name=Tropical Garden"
+  },
+  {
+    "key": "lang|tile.watergarden.name",
+    "original": "Water Garden",
+    "translation": "수중 정원",
+    "stage": 1,
+    "context": "tile.watergarden.name=Water Garden"
+  },
+  {
+    "key": "lang|tile.pamAlmond.name",
+    "original": "Almond",
+    "translation": "아몬드",
+    "stage": 1,
+    "context": "tile.pamAlmond.name=Almond"
+  },
+  {
+    "key": "lang|tile.pamApple.name",
+    "original": "Apple",
+    "translation": "사과",
+    "stage": 1,
+    "context": "tile.pamApple.name=Apple"
+  },
+  {
+    "key": "lang|tile.pamApricot.name",
+    "original": "Apricot",
+    "translation": "살구",
+    "stage": 1,
+    "context": "tile.pamApricot.name=Apricot"
+  },
+  {
+    "key": "lang|tile.pamAvocado.name",
+    "original": "Avocado",
+    "translation": "아보카도",
+    "stage": 1,
+    "context": "tile.pamAvocado.name=Avocado"
+  },
+  {
+    "key": "lang|tile.pamBanana.name",
+    "original": "Banana",
+    "translation": "바나나",
+    "stage": 1,
+    "context": "tile.pamBanana.name=Banana"
+  },
+  {
+    "key": "lang|tile.pamCashew.name",
+    "original": "Cashew",
+    "translation": "캐슈넛",
+    "stage": 1,
+    "context": "tile.pamCashew.name=Cashew"
+  },
+  {
+    "key": "lang|tile.pamCherry.name",
+    "original": "Cherry",
+    "translation": "체리",
+    "stage": 1,
+    "context": "tile.pamCherry.name=Cherry"
+  },
+  {
+    "key": "lang|tile.pamChestnut.name",
+    "original": "Chestnut",
+    "translation": "밤",
+    "stage": 1,
+    "context": "tile.pamChestnut.name=Chestnut"
+  },
+  {
+    "key": "lang|tile.pamCinnamon.name",
+    "original": "Cinnamon Wood",
+    "translation": "계피나무",
+    "stage": 1,
+    "context": "tile.pamCinnamon.name=Cinnamon Wood"
+  },
+  {
+    "key": "lang|tile.pamCoconut.name",
+    "original": "Coconut",
+    "translation": "코코넛",
+    "stage": 1,
+    "context": "tile.pamCoconut.name=Coconut"
+  },
+  {
+    "key": "lang|tile.pamDate.name",
+    "original": "Date",
+    "translation": "대추야자",
+    "stage": 1,
+    "context": "tile.pamDate.name=Date"
+  },
+  {
+    "key": "lang|tile.pamDragonfruit.name",
+    "original": "Dragonfruit",
+    "translation": "용과",
+    "stage": 1,
+    "context": "tile.pamDragonfruit.name=Dragonfruit"
+  },
+  {
+    "key": "lang|tile.pamDurian.name",
+    "original": "Durian",
+    "translation": "두리안",
+    "stage": 1,
+    "context": "tile.pamDurian.name=Durian"
+  },
+  {
+    "key": "lang|tile.pamFig.name",
+    "original": "Fig",
+    "translation": "무화과",
+    "stage": 1,
+    "context": "tile.pamFig.name=Fig"
+  },
+  {
+    "key": "lang|tile.pamGrapefruit.name",
+    "original": "Grapefruit",
+    "translation": "자몽",
+    "stage": 1,
+    "context": "tile.pamGrapefruit.name=Grapefruit"
+  },
+  {
+    "key": "lang|tile.pamLemon.name",
+    "original": "Lemon",
+    "translation": "레몬",
+    "stage": 1,
+    "context": "tile.pamLemon.name=Lemon"
+  },
+  {
+    "key": "lang|tile.pamLime.name",
+    "original": "Lime",
+    "translation": "라임",
+    "stage": 1,
+    "context": "tile.pamLime.name=Lime"
+  },
+  {
+    "key": "lang|tile.pamMaple.name",
+    "original": "Maple Wood",
+    "translation": "단풍 나무",
+    "stage": 1,
+    "context": "tile.pamMaple.name=Maple Wood"
+  },
+  {
+    "key": "lang|tile.pamMango.name",
+    "original": "Mango",
+    "translation": "망고",
+    "stage": 1,
+    "context": "tile.pamMango.name=Mango"
+  },
+  {
+    "key": "lang|tile.pamNutmeg.name",
+    "original": "Nutmeg",
+    "translation": "육두구",
+    "stage": 1,
+    "context": "tile.pamNutmeg.name=Nutmeg"
+  },
+  {
+    "key": "lang|tile.pamOlive.name",
+    "original": "Olive",
+    "translation": "올리브",
+    "stage": 1,
+    "context": "tile.pamOlive.name=Olive"
+  },
+  {
+    "key": "lang|tile.pamOrange.name",
+    "original": "Orange",
+    "translation": "오렌지",
+    "stage": 1,
+    "context": "tile.pamOrange.name=Orange"
+  },
+  {
+    "key": "lang|tile.pamPapaya.name",
+    "original": "Papaya",
+    "translation": "파파야",
+    "stage": 1,
+    "context": "tile.pamPapaya.name=Papaya"
+  },
+  {
+    "key": "lang|tile.pamPaperbark.name",
+    "original": "Paperbark Wood",
+    "translation": "페이퍼바크 나무",
+    "stage": 1,
+    "context": "tile.pamPaperbark.name=Paperbark Wood"
+  },
+  {
+    "key": "lang|tile.pamPeach.name",
+    "original": "Peach",
+    "translation": "복숭아",
+    "stage": 1,
+    "context": "tile.pamPeach.name=Peach"
+  },
+  {
+    "key": "lang|tile.pamPear.name",
+    "original": "Pear",
+    "translation": "배",
+    "stage": 1,
+    "context": "tile.pamPear.name=Pear"
+  },
+  {
+    "key": "lang|tile.pamPecan.name",
+    "original": "Pecan",
+    "translation": "피칸",
+    "stage": 1,
+    "context": "tile.pamPecan.name=Pecan"
+  },
+  {
+    "key": "lang|tile.pamPeppercorn.name",
+    "original": "Peppercorn",
+    "translation": "후추",
+    "stage": 1,
+    "context": "tile.pamPeppercorn.name=Peppercorn"
+  },
+  {
+    "key": "lang|tile.pamPersimmon.name",
+    "original": "Persimmon",
+    "translation": "단감",
+    "stage": 1,
+    "context": "tile.pamPersimmon.name=Persimmon"
+  },
+  {
+    "key": "lang|tile.pamPistachio.name",
+    "original": "Pistachio",
+    "translation": "피스타치오",
+    "stage": 1,
+    "context": "tile.pamPistachio.name=Pistachio"
+  },
+  {
+    "key": "lang|tile.pamPlum.name",
+    "original": "Plum",
+    "translation": "자두",
+    "stage": 1,
+    "context": "tile.pamPlum.name=Plum"
+  },
+  {
+    "key": "lang|tile.pamPomegranate.name",
+    "original": "Pomegranate",
+    "translation": "석류",
+    "stage": 1,
+    "context": "tile.pamPomegranate.name=Pomegranate"
+  },
+  {
+    "key": "lang|tile.pamStarfruit.name",
+    "original": "Starfruit",
+    "translation": "스타프루트",
+    "stage": 1,
+    "context": "tile.pamStarfruit.name=Starfruit"
+  },
+  {
+    "key": "lang|tile.pamVanillabean.name",
+    "original": "Vanilla Bean",
+    "translation": "바닐라 빈",
+    "stage": 1,
+    "context": "tile.pamVanillabean.name=Vanilla Bean"
+  },
+  {
+    "key": "lang|tile.pamWalnut.name",
+    "original": "Walnut",
+    "translation": "호두",
+    "stage": 1,
+    "context": "tile.pamWalnut.name=Walnut"
+  },
+  {
+    "key": "lang|tile.pamGooseberry.name",
+    "original": "Gooseberry",
+    "translation": "구즈베리",
+    "stage": 1,
+    "context": "tile.pamGooseberry.name=Gooseberry"
+  },
+  {
+    "key": "lang|tile.pamalmondSapling.name",
+    "original": "Almond Sapling",
+    "translation": "아몬드 묘목",
+    "stage": 1,
+    "context": "tile.pamalmondSapling.name=Almond Sapling"
+  },
+  {
+    "key": "lang|tile.pamappleSapling.name",
+    "original": "Apple Sapling",
+    "translation": "사과나무 묘목",
+    "stage": 1,
+    "context": "tile.pamappleSapling.name=Apple Sapling"
+  },
+  {
+    "key": "lang|tile.pamapricotSapling.name",
+    "original": "Apricot Sapling",
+    "translation": "살구나무 묘목",
+    "stage": 1,
+    "context": "tile.pamapricotSapling.name=Apricot Sapling"
+  },
+  {
+    "key": "lang|tile.pamavocadoSapling.name",
+    "original": "Avocado Sapling",
+    "translation": "아보카도나무 묘목",
+    "stage": 1,
+    "context": "tile.pamavocadoSapling.name=Avocado Sapling"
+  },
+  {
+    "key": "lang|tile.pambananaSapling.name",
+    "original": "Banana Sapling",
+    "translation": "바나나나무 묘목",
+    "stage": 1,
+    "context": "tile.pambananaSapling.name=Banana Sapling"
+  },
+  {
+    "key": "lang|tile.pamcashewSapling.name",
+    "original": "Cashew Sapling",
+    "translation": "캐슈나무 묘목",
+    "stage": 1,
+    "context": "tile.pamcashewSapling.name=Cashew Sapling"
+  },
+  {
+    "key": "lang|tile.pamcherrySapling.name",
+    "original": "Cherry Sapling",
+    "translation": "체리나무 묘목",
+    "stage": 1,
+    "context": "tile.pamcherrySapling.name=Cherry Sapling"
+  },
+  {
+    "key": "lang|tile.pamchestnutSapling.name",
+    "original": "Chestnut Sapling",
+    "translation": "밤나무 묘목",
+    "stage": 1,
+    "context": "tile.pamchestnutSapling.name=Chestnut Sapling"
+  },
+  {
+    "key": "lang|tile.pamcinnamonSapling.name",
+    "original": "Cinnamon Sapling",
+    "translation": "계피나무 묘목",
+    "stage": 1,
+    "context": "tile.pamcinnamonSapling.name=Cinnamon Sapling"
+  },
+  {
+    "key": "lang|tile.pamcoconutSapling.name",
+    "original": "Coconut Sapling",
+    "translation": "코코넛나무 묘목",
+    "stage": 1,
+    "context": "tile.pamcoconutSapling.name=Coconut Sapling"
+  },
+  {
+    "key": "lang|tile.pamdateSapling.name",
+    "original": "Date Sapling",
+    "translation": "대추야자나무 묘목",
+    "stage": 1,
+    "context": "tile.pamdateSapling.name=Date Sapling"
+  },
+  {
+    "key": "lang|tile.pamdragonfruitSapling.name",
+    "original": "Dragonfruit Sapling",
+    "translation": "용과나무 묘목",
+    "stage": 1,
+    "context": "tile.pamdragonfruitSapling.name=Dragonfruit Sapling"
+  },
+  {
+    "key": "lang|tile.pamdurianSapling.name",
+    "original": "Durian Sapling",
+    "translation": "두리안나무 묘목",
+    "stage": 1,
+    "context": "tile.pamdurianSapling.name=Durian Sapling"
+  },
+  {
+    "key": "lang|tile.pamfigSapling.name",
+    "original": "Fig Sapling",
+    "translation": "무화과나무 묘목",
+    "stage": 1,
+    "context": "tile.pamfigSapling.name=Fig Sapling"
+  },
+  {
+    "key": "lang|tile.pamgrapefruitSapling.name",
+    "original": "Grapefruit Sapling",
+    "translation": "자몽나무 묘목",
+    "stage": 1,
+    "context": "tile.pamgrapefruitSapling.name=Grapefruit Sapling"
+  },
+  {
+    "key": "lang|tile.pamlemonSapling.name",
+    "original": "Lemon Sapling",
+    "translation": "레몬나무 묘목",
+    "stage": 1,
+    "context": "tile.pamlemonSapling.name=Lemon Sapling"
+  },
+  {
+    "key": "lang|tile.pamlimeSapling.name",
+    "original": "Lime Sapling",
+    "translation": "라임나무 묘목",
+    "stage": 1,
+    "context": "tile.pamlimeSapling.name=Lime Sapling"
+  },
+  {
+    "key": "lang|tile.pammapleSapling.name",
+    "original": "Maple Sapling",
+    "translation": "단풍나무 묘목",
+    "stage": 1,
+    "context": "tile.pammapleSapling.name=Maple Sapling"
+  },
+  {
+    "key": "lang|tile.pammangoSapling.name",
+    "original": "Mango Sapling",
+    "translation": "망고나무 묘목",
+    "stage": 1,
+    "context": "tile.pammangoSapling.name=Mango Sapling"
+  },
+  {
+    "key": "lang|tile.pamnutmegSapling.name",
+    "original": "Nutmeg Sapling",
+    "translation": "육두구나무 묘목",
+    "stage": 1,
+    "context": "tile.pamnutmegSapling.name=Nutmeg Sapling"
+  },
+  {
+    "key": "lang|tile.pamoliveSapling.name",
+    "original": "Olive Sapling",
+    "translation": "올리브나무 묘목",
+    "stage": 1,
+    "context": "tile.pamoliveSapling.name=Olive Sapling"
+  },
+  {
+    "key": "lang|tile.pamorangeSapling.name",
+    "original": "Orange Sapling",
+    "translation": "오렌지나무 묘목",
+    "stage": 1,
+    "context": "tile.pamorangeSapling.name=Orange Sapling"
+  },
+  {
+    "key": "lang|tile.pampapayaSapling.name",
+    "original": "Papaya Sapling",
+    "translation": "파파야나무 묘목",
+    "stage": 1,
+    "context": "tile.pampapayaSapling.name=Papaya Sapling"
+  },
+  {
+    "key": "lang|tile.pampaperbarkSapling.name",
+    "original": "Paperbark Sapling",
+    "translation": "페이퍼바크 묘목",
+    "stage": 1,
+    "context": "tile.pampaperbarkSapling.name=Paperbark Sapling"
+  },
+  {
+    "key": "lang|tile.pampeachSapling.name",
+    "original": "Peach Sapling",
+    "translation": "복숭아나무 묘목",
+    "stage": 1,
+    "context": "tile.pampeachSapling.name=Peach Sapling"
+  },
+  {
+    "key": "lang|tile.pampearSapling.name",
+    "original": "Pear Sapling",
+    "translation": "배나무 묘목",
+    "stage": 1,
+    "context": "tile.pampearSapling.name=Pear Sapling"
+  },
+  {
+    "key": "lang|tile.pampecanSapling.name",
+    "original": "Pecan Sapling",
+    "translation": "피칸나무 묘목",
+    "stage": 1,
+    "context": "tile.pampecanSapling.name=Pecan Sapling"
+  },
+  {
+    "key": "lang|tile.pampeppercornSapling.name",
+    "original": "Peppercorn Sapling",
+    "translation": "후추나무 묘목",
+    "stage": 1,
+    "context": "tile.pampeppercornSapling.name=Peppercorn Sapling"
+  },
+  {
+    "key": "lang|tile.pampersimmonSapling.name",
+    "original": "Persimmon Sapling",
+    "translation": "감나무 묘목",
+    "stage": 1,
+    "context": "tile.pampersimmonSapling.name=Persimmon Sapling"
+  },
+  {
+    "key": "lang|tile.pampistachioSapling.name",
+    "original": "Pistachio Sapling",
+    "translation": "피스타치오나무 묘목",
+    "stage": 1,
+    "context": "tile.pampistachioSapling.name=Pistachio Sapling"
+  },
+  {
+    "key": "lang|tile.pamplumSapling.name",
+    "original": "Plum Sapling",
+    "translation": "자두나무 묘목",
+    "stage": 1,
+    "context": "tile.pamplumSapling.name=Plum Sapling"
+  },
+  {
+    "key": "lang|tile.pampomegranateSapling.name",
+    "original": "Pomegranate Sapling",
+    "translation": "석류나무 묘목",
+    "stage": 1,
+    "context": "tile.pampomegranateSapling.name=Pomegranate Sapling"
+  },
+  {
+    "key": "lang|tile.pamstarfruitSapling.name",
+    "original": "Starfruit Sapling",
+    "translation": "스타프루트나무 묘목",
+    "stage": 1,
+    "context": "tile.pamstarfruitSapling.name=Starfruit Sapling"
+  },
+  {
+    "key": "lang|tile.pamvanillabeanSapling.name",
+    "original": "Vanilla Sapling",
+    "translation": "바닐라나무 묘목",
+    "stage": 1,
+    "context": "tile.pamvanillabeanSapling.name=Vanilla Sapling"
+  },
+  {
+    "key": "lang|tile.pamwalnutSapling.name",
+    "original": "Walnut Sapling",
+    "translation": "호두나무 묘목",
+    "stage": 1,
+    "context": "tile.pamwalnutSapling.name=Walnut Sapling"
+  },
+  {
+    "key": "lang|tile.pamgooseberrySapling.name",
+    "original": "Gooseberry Sapling",
+    "translation": "구즈베리나무 묘목",
+    "stage": 1,
+    "context": "tile.pamgooseberrySapling.name=Gooseberry Sapling"
+  },
+  {
+    "key": "lang|tile.pamblackberryCrop.name",
+    "original": "Blackberry Crop",
+    "translation": "블랙베리 작물",
+    "stage": 1,
+    "context": "tile.pamblackberryCrop.name=Blackberry Crop"
+  },
+  {
+    "key": "lang|tile.pamblueberryCrop.name",
+    "original": "Blueberry Crop",
+    "translation": "블루베리 작물",
+    "stage": 1,
+    "context": "tile.pamblueberryCrop.name=Blueberry Crop"
+  },
+  {
+    "key": "lang|tile.pamcandleberryCrop.name",
+    "original": "Candleberry Crop",
+    "translation": "캔들베리 작물",
+    "stage": 1,
+    "context": "tile.pamcandleberryCrop.name=Candleberry Crop"
+  },
+  {
+    "key": "lang|tile.pamraspberryCrop.name",
+    "original": "Raspberry Crop",
+    "translation": "라즈베리 작물",
+    "stage": 1,
+    "context": "tile.pamraspberryCrop.name=Raspberry Crop"
+  },
+  {
+    "key": "lang|tile.pamstrawberryCrop.name",
+    "original": "Strawberry Crop",
+    "translation": "딸기 작물",
+    "stage": 1,
+    "context": "tile.pamstrawberryCrop.name=Strawberry Crop"
+  },
+  {
+    "key": "lang|tile.pamcactusfruitCrop.name",
+    "original": "Cactus Fruit Crop",
+    "translation": "선인장 열매 작물",
+    "stage": 1,
+    "context": "tile.pamcactusfruitCrop.name=Cactus Fruit Crop"
+  },
+  {
+    "key": "lang|tile.pamasparagusCrop.name",
+    "original": "Asparagus Crop",
+    "translation": "아스파라거스 작물",
+    "stage": 1,
+    "context": "tile.pamasparagusCrop.name=Asparagus Crop"
+  },
+  {
+    "key": "lang|tile.pambarleyCrop.name",
+    "original": "Barley Crop",
+    "translation": "보리 작물",
+    "stage": 1,
+    "context": "tile.pambarleyCrop.name=Barley Crop"
+  },
+  {
+    "key": "lang|tile.pamoatsCrop.name",
+    "original": "Oats Crop",
+    "translation": "귀리 작물",
+    "stage": 1,
+    "context": "tile.pamoatsCrop.name=Oats Crop"
+  },
+  {
+    "key": "lang|tile.pamryeCrop.name",
+    "original": "Rye Crop",
+    "translation": "호밀 작물",
+    "stage": 1,
+    "context": "tile.pamryeCrop.name=Rye Crop"
+  },
+  {
+    "key": "lang|tile.pamcornCrop.name",
+    "original": "Corn Crop",
+    "translation": "옥수수 작물",
+    "stage": 1,
+    "context": "tile.pamcornCrop.name=Corn Crop"
+  },
+  {
+    "key": "lang|tile.pambambooshootCrop.name",
+    "original": "Bamboo Crop",
+    "translation": "대나무 작물",
+    "stage": 1,
+    "context": "tile.pambambooshootCrop.name=Bamboo Crop"
+  },
+  {
+    "key": "lang|tile.pamcantaloupeCrop.name",
+    "original": "Cantaloupe Crop",
+    "translation": "캔털루프 작물",
+    "stage": 1,
+    "context": "tile.pamcantaloupeCrop.name=Cantaloupe Crop"
+  },
+  {
+    "key": "lang|tile.pamcucumberCrop.name",
+    "original": "Cucumber Crop",
+    "translation": "오이 작물",
+    "stage": 1,
+    "context": "tile.pamcucumberCrop.name=Cucumber Crop"
+  },
+  {
+    "key": "lang|tile.pamwintersquashCrop.name",
+    "original": "Winter Squash Crop",
+    "translation": "겨울 스쿼시 작물",
+    "stage": 1,
+    "context": "tile.pamwintersquashCrop.name=Winter Squash Crop"
+  },
+  {
+    "key": "lang|tile.pamzucchiniCrop.name",
+    "original": "Zucchini Crop",
+    "translation": "애호박 작물",
+    "stage": 1,
+    "context": "tile.pamzucchiniCrop.name=Zucchini Crop"
+  },
+  {
+    "key": "lang|tile.pambeetCrop.name",
+    "original": "Beet Crop",
+    "translation": "비트 작물",
+    "stage": 1,
+    "context": "tile.pambeetCrop.name=Beet Crop"
+  },
+  {
+    "key": "lang|tile.pamonionCrop.name",
+    "original": "Onion Crop",
+    "translation": "양파 작물",
+    "stage": 1,
+    "context": "tile.pamonionCrop.name=Onion Crop"
+  },
+  {
+    "key": "lang|tile.pamparsnipCrop.name",
+    "original": "Parsnip Crop",
+    "translation": "파스닙 작물",
+    "stage": 1,
+    "context": "tile.pamparsnipCrop.name=Parsnip Crop"
+  },
+  {
+    "key": "lang|tile.pampeanutCrop.name",
+    "original": "Peanut Crop",
+    "translation": "땅콩 작물",
+    "stage": 1,
+    "context": "tile.pampeanutCrop.name=Peanut Crop"
+  },
+  {
+    "key": "lang|tile.pamradishCrop.name",
+    "original": "Radish Crop",
+    "translation": "무 작물",
+    "stage": 1,
+    "context": "tile.pamradishCrop.name=Radish Crop"
+  },
+  {
+    "key": "lang|tile.pamrutabagaCrop.name",
+    "original": "Rutabaga Crop",
+    "translation": "스웨덴 순무 작물",
+    "stage": 1,
+    "context": "tile.pamrutabagaCrop.name=Rutabaga Crop"
+  },
+  {
+    "key": "lang|tile.pamsweetpotatoCrop.name",
+    "original": "Sweet Potato Crop",
+    "translation": "고구마 작물",
+    "stage": 1,
+    "context": "tile.pamsweetpotatoCrop.name=Sweet Potato Crop"
+  },
+  {
+    "key": "lang|tile.pamturnipCrop.name",
+    "original": "Turnip Crop",
+    "translation": "순무 작물",
+    "stage": 1,
+    "context": "tile.pamturnipCrop.name=Turnip Crop"
+  },
+  {
+    "key": "lang|tile.pamrhubarbCrop.name",
+    "original": "Rhubarb Crop",
+    "translation": "대황 작물",
+    "stage": 1,
+    "context": "tile.pamrhubarbCrop.name=Rhubarb Crop"
+  },
+  {
+    "key": "lang|tile.pamceleryCrop.name",
+    "original": "Celery Crop",
+    "translation": "셀러리 작물",
+    "stage": 1,
+    "context": "tile.pamceleryCrop.name=Celery Crop"
+  },
+  {
+    "key": "lang|tile.pamgarlicCrop.name",
+    "original": "Garlic Crop",
+    "translation": "마늘 작물",
+    "stage": 1,
+    "context": "tile.pamgarlicCrop.name=Garlic Crop"
+  },
+  {
+    "key": "lang|tile.pamgingerCrop.name",
+    "original": "Ginger Crop",
+    "translation": "생강 작물",
+    "stage": 1,
+    "context": "tile.pamgingerCrop.name=Ginger Crop"
+  },
+  {
+    "key": "lang|tile.pamspiceleafCrop.name",
+    "original": "Spice Leaf Crop",
+    "translation": "향잎 작물",
+    "stage": 1,
+    "context": "tile.pamspiceleafCrop.name=Spice Leaf Crop"
+  },
+  {
+    "key": "lang|tile.pamtealeafCrop.name",
+    "original": "Tea Leaf Crop",
+    "translation": "찻잎 작물",
+    "stage": 1,
+    "context": "tile.pamtealeafCrop.name=Tea Leaf Crop"
+  },
+  {
+    "key": "lang|tile.pamcoffeebeanCrop.name",
+    "original": "Coffee Bean Crop",
+    "translation": "커피콩 작물",
+    "stage": 1,
+    "context": "tile.pamcoffeebeanCrop.name=Coffee Bean Crop"
+  },
+  {
+    "key": "lang|tile.pammustardseedsCrop.name",
+    "original": "Mustard Seeds Crop",
+    "translation": "겨자 작물",
+    "stage": 1,
+    "context": "tile.pammustardseedsCrop.name=Mustard Seeds Crop"
+  },
+  {
+    "key": "lang|tile.pambroccoliCrop.name",
+    "original": "Broccoli Crop",
+    "translation": "브로콜리 작물",
+    "stage": 1,
+    "context": "tile.pambroccoliCrop.name=Broccoli Crop"
+  },
+  {
+    "key": "lang|tile.pamcauliflowerCrop.name",
+    "original": "Cauliflower Crop",
+    "translation": "콜리플라워 작물",
+    "stage": 1,
+    "context": "tile.pamcauliflowerCrop.name=Cauliflower Crop"
+  },
+  {
+    "key": "lang|tile.pamleekCrop.name",
+    "original": "Leek Crop",
+    "translation": "파 작물",
+    "stage": 1,
+    "context": "tile.pamleekCrop.name=Leek Crop"
+  },
+  {
+    "key": "lang|tile.pamlettuceCrop.name",
+    "original": "Lettuce Crop",
+    "translation": "상추 작물",
+    "stage": 1,
+    "context": "tile.pamlettuceCrop.name=Lettuce Crop"
+  },
+  {
+    "key": "lang|tile.pamscallionCrop.name",
+    "original": "Scallion Crop",
+    "translation": "대파 작물",
+    "stage": 1,
+    "context": "tile.pamscallionCrop.name=Scallion Crop"
+  },
+  {
+    "key": "lang|tile.pamartichokeCrop.name",
+    "original": "Artichoke Crop",
+    "translation": "아티초크 작물",
+    "stage": 1,
+    "context": "tile.pamartichokeCrop.name=Artichoke Crop"
+  },
+  {
+    "key": "lang|tile.pambrusselsproutCrop.name",
+    "original": "Brussel Sprout Crop",
+    "translation": "방울양배추 작물",
+    "stage": 1,
+    "context": "tile.pambrusselsproutCrop.name=Brussel Sprout Crop"
+  },
+  {
+    "key": "lang|tile.pamcabbageCrop.name",
+    "original": "Cabbage Crop",
+    "translation": "배추 작물",
+    "stage": 1,
+    "context": "tile.pamcabbageCrop.name=Cabbage Crop"
+  },
+  {
+    "key": "lang|tile.pamspinachCrop.name",
+    "original": "Spinach Crop",
+    "translation": "시금치 작물",
+    "stage": 1,
+    "context": "tile.pamspinachCrop.name=Spinach Crop"
+  },
+  {
+    "key": "lang|tile.pamwhitemushroomCrop.name",
+    "original": "White Mushroom Crop",
+    "translation": "양송이버섯 작물",
+    "stage": 1,
+    "context": "tile.pamwhitemushroomCrop.name=White Mushroom Crop"
+  },
+  {
+    "key": "lang|tile.pambeanCrop.name",
+    "original": "Bean Crop",
+    "translation": "콩 작물",
+    "stage": 1,
+    "context": "tile.pambeanCrop.name=Bean Crop"
+  },
+  {
+    "key": "lang|tile.pamsoybeanCrop.name",
+    "original": "Soybean Crop",
+    "translation": "대두 작물",
+    "stage": 1,
+    "context": "tile.pamsoybeanCrop.name=Soybean Crop"
+  },
+  {
+    "key": "lang|tile.pambellpepperCrop.name",
+    "original": "Bell Pepper Crop",
+    "translation": "피망 작물",
+    "stage": 1,
+    "context": "tile.pambellpepperCrop.name=Bell Pepper Crop"
+  },
+  {
+    "key": "lang|tile.pamchilipepperCrop.name",
+    "original": "Chili Pepper Crop",
+    "translation": "고추 작물",
+    "stage": 1,
+    "context": "tile.pamchilipepperCrop.name=Chili Pepper Crop"
+  },
+  {
+    "key": "lang|tile.pameggplantCrop.name",
+    "original": "Eggplant Crop",
+    "translation": "가지 작물",
+    "stage": 1,
+    "context": "tile.pameggplantCrop.name=Eggplant Crop"
+  },
+  {
+    "key": "lang|tile.pamokraCrop.name",
+    "original": "Okra Crop",
+    "translation": "오크라 작물",
+    "stage": 1,
+    "context": "tile.pamokraCrop.name=Okra Crop"
+  },
+  {
+    "key": "lang|tile.pampeasCrop.name",
+    "original": "Peas Crop",
+    "translation": "완두콩 작물",
+    "stage": 1,
+    "context": "tile.pampeasCrop.name=Peas Crop"
+  },
+  {
+    "key": "lang|tile.pamtomatoCrop.name",
+    "original": "Tomato Crop",
+    "translation": "토마토 작물",
+    "stage": 1,
+    "context": "tile.pamtomatoCrop.name=Tomato Crop"
+  },
+  {
+    "key": "lang|tile.pamcottonCrop.name",
+    "original": "Cotton Crop",
+    "translation": "목화 작물",
+    "stage": 1,
+    "context": "tile.pamcottonCrop.name=Cotton Crop"
+  },
+  {
+    "key": "lang|tile.pampineappleCrop.name",
+    "original": "Pineapple Crop",
+    "translation": "파인애플 작물",
+    "stage": 1,
+    "context": "tile.pampineappleCrop.name=Pineapple Crop"
+  },
+  {
+    "key": "lang|tile.pamgrapeCrop.name",
+    "original": "Grape Crop",
+    "translation": "포도 작물",
+    "stage": 1,
+    "context": "tile.pamgrapeCrop.name=Grape Crop"
+  },
+  {
+    "key": "lang|tile.pamkiwiCrop.name",
+    "original": "Kiwi Crop",
+    "translation": "키위 작물",
+    "stage": 1,
+    "context": "tile.pamkiwiCrop.name=Kiwi Crop"
+  },
+  {
+    "key": "lang|tile.pamcranberryCrop.name",
+    "original": "Cranberry Crop",
+    "translation": "크랜베리 작물",
+    "stage": 1,
+    "context": "tile.pamcranberryCrop.name=Cranberry Crop"
+  },
+  {
+    "key": "lang|tile.pamriceCrop.name",
+    "original": "Rice Crop",
+    "translation": "쌀 작물",
+    "stage": 1,
+    "context": "tile.pamriceCrop.name=Rice Crop"
+  },
+  {
+    "key": "lang|tile.pamseaweedCrop.name",
+    "original": "Seaweed Crop",
+    "translation": "해초 작물",
+    "stage": 1,
+    "context": "tile.pamseaweedCrop.name=Seaweed Crop"
+  },
+  {
+    "key": "lang|tile.pamcurryleafCrop.name",
+    "original": "Curry Leaf Crop",
+    "translation": "커리나무 작물",
+    "stage": 1,
+    "context": "tile.pamcurryleafCrop.name=Curry Leaf Crop"
+  },
+  {
+    "key": "lang|tile.pamsesameseedsCrop.name",
+    "original": "Sesame Seeds Crop",
+    "translation": "참깨 작물",
+    "stage": 1,
+    "context": "tile.pamsesameseedsCrop.name=Sesame Seeds Crop"
+  },
+  {
+    "key": "lang|tile.pamwaterchestnutCrop.name",
+    "original": "Water Chestnut Crop",
+    "translation": "남방개 작물",
+    "stage": 1,
+    "context": "tile.pamwaterchestnutCrop.name=Water Chestnut Crop"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco1.name",
+    "original": "White Candle",
+    "translation": "흰색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco1.name=White Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco2.name",
+    "original": "Orange Candle",
+    "translation": "주황색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco2.name=Orange Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco3.name",
+    "original": "Magenta Candle",
+    "translation": "자홍색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco3.name=Magenta Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco4.name",
+    "original": "Light Blue Candle",
+    "translation": "하늘색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco4.name=Light Blue Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco5.name",
+    "original": "Yellow Candle",
+    "translation": "노란색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco5.name=Yellow Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco6.name",
+    "original": "Lime Candle",
+    "translation": "연두색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco6.name=Lime Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco7.name",
+    "original": "Pink Candle",
+    "translation": "분홍색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco7.name=Pink Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco8.name",
+    "original": "Dark Grey Candle",
+    "translation": "회색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco8.name=Dark Grey Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco9.name",
+    "original": "Light Grey Candle",
+    "translation": "회백색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco9.name=Light Grey Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco10.name",
+    "original": "Cyan Candle",
+    "translation": "청록색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco10.name=Cyan Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco11.name",
+    "original": "Purple Candle",
+    "translation": "보라색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco11.name=Purple Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco12.name",
+    "original": "Blue Candle",
+    "translation": "파란색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco12.name=Blue Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco13.name",
+    "original": "Brown Candle",
+    "translation": "갈색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco13.name=Brown Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco14.name",
+    "original": "Green Candle",
+    "translation": "초록색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco14.name=Green Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco15.name",
+    "original": "Red Candle",
+    "translation": "빨간색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco15.name=Red Candle"
+  },
+  {
+    "key": "lang|tile.pamcandleDeco16.name",
+    "original": "Black Candle",
+    "translation": "검은색 양초",
+    "stage": 1,
+    "context": "tile.pamcandleDeco16.name=Black Candle"
+  },
+  {
+    "key": "lang|tile.pamcarrotCake.name",
+    "original": "Carrot Cake",
+    "translation": "당근 케이크",
+    "stage": 1,
+    "context": "tile.pamcarrotCake.name=Carrot Cake"
+  },
+  {
+    "key": "lang|tile.pamcheeseCake.name",
+    "original": "Cheese Cake",
+    "translation": "치즈케이크",
+    "stage": 1,
+    "context": "tile.pamcheeseCake.name=Cheese Cake"
+  },
+  {
+    "key": "lang|tile.pamcherrycheeseCake.name",
+    "original": "Cherry Cheese Cake",
+    "translation": "체리 치즈 ",
+    "stage": 1,
+    "context": "tile.pamcherrycheeseCake.name=Cherry Cheese Cake"
+  },
+  {
+    "key": "lang|tile.pampineappleupsidedownCake.name",
+    "original": "Pineapple Upside Down Cake",
+    "translation": "파인애플을 엎은 케이크",
+    "stage": 1,
+    "context": "tile.pampineappleupsidedownCake.name=Pineapple Upside Down Cake"
+  },
+  {
+    "key": "lang|tile.pamchocolatesprinkleCake.name",
+    "original": "Chocolate Sprinkles Cake",
+    "translation": "초콜릿 스프링클 케이크",
+    "stage": 1,
+    "context": "tile.pamchocolatesprinkleCake.name=Chocolate Sprinkles Cake"
+  },
+  {
+    "key": "lang|tile.pamredvelvetCake.name",
+    "original": "Red Velvet Cake",
+    "translation": "레드 벨벳 케이크",
+    "stage": 1,
+    "context": "tile.pamredvelvetCake.name=Red Velvet Cake"
+  },
+  {
+    "key": "lang|tile.pamlamingtonCake.name",
+    "original": "Lamington",
+    "translation": "래밍턴",
+    "stage": 1,
+    "context": "tile.pamlamingtonCake.name=Lamington"
+  },
+  {
+    "key": "lang|tile.pampavlovaCake.name",
+    "original": "Pavlova",
+    "translation": "파블로바",
+    "stage": 1,
+    "context": "tile.pampavlovaCake.name=Pavlova"
+  },
+  {
+    "key": "lang|tile.pamholidayCake.name",
+    "original": "Holiday Cake",
+    "translation": "성탄절 케이크",
+    "stage": 1,
+    "context": "tile.pamholidayCake.name=Holiday Cake"
+  },
+  {
+    "key": "lang|tile.pampumpkincheeseCake.name",
+    "original": "Pumpkin Cheese Cake",
+    "translation": "호박 치즈 ",
+    "stage": 1,
+    "context": "tile.pampumpkincheeseCake.name=Pumpkin Cheese Cake"
+  },
+  {
+    "key": "lang|item.hardenedleatherhelmItem.name",
+    "original": "Hardened Leather Helm",
+    "translation": "강화 가죽 투구",
+    "stage": 1,
+    "context": "item.hardenedleatherhelmItem.name=Hardened Leather Helm"
+  },
+  {
+    "key": "lang|item.hardenedleatherchestItem.name",
+    "original": "Hardened Leather Chest",
+    "translation": "강화 가죽 갑옷",
+    "stage": 1,
+    "context": "item.hardenedleatherchestItem.name=Hardened Leather Chest"
+  },
+  {
+    "key": "lang|item.hardenedleatherleggingsItem.name",
+    "original": "Hardened Leather Leggings",
+    "translation": "강화 가죽 레깅스",
+    "stage": 1,
+    "context": "item.hardenedleatherleggingsItem.name=Hardened Leather Leggings"
+  },
+  {
+    "key": "lang|item.hardenedleatherbootsItem.name",
+    "original": "Hardened Leather Boots",
+    "translation": "강화 가죽 부츠",
+    "stage": 1,
+    "context": "item.hardenedleatherbootsItem.name=Hardened Leather Boots"
+  },
+  {
+    "key": "lang|item.hardenedleatherItem.name",
+    "original": "Hardened Leather",
+    "translation": "강화 가죽",
+    "stage": 1,
+    "context": "item.hardenedleatherItem.name=Hardened Leather"
+  },
+  {
+    "key": "lang|item.queenbeeItem.name",
+    "original": "Queen Bee",
+    "translation": "여왕 벌",
+    "stage": 1,
+    "context": "item.queenbeeItem.name=Queen Bee"
+  },
+  {
+    "key": "lang|item.waxcombItem.name",
+    "original": "Waxcomb",
+    "translation": "밀랍 벌집",
+    "stage": 1,
+    "context": "item.waxcombItem.name=Waxcomb"
+  },
+  {
+    "key": "lang|item.honeycombItem.name",
+    "original": "Honeycomb",
+    "translation": "벌집",
+    "stage": 1,
+    "context": "item.honeycombItem.name=Honeycomb"
+  },
+  {
+    "key": "lang|item.honeyItem.name",
+    "original": "Honey",
+    "translation": "꿀",
+    "stage": 1,
+    "context": "item.honeyItem.name=Honey"
+  },
+  {
+    "key": "lang|item.beeswaxItem.name",
+    "original": "Beeswax",
+    "translation": "밀랍",
+    "stage": 1,
+    "context": "item.beeswaxItem.name=Beeswax"
+  },
+  {
+    "key": "lang|item.royaljellyItem.name",
+    "original": "Royal Jelly",
+    "translation": "로열 젤리",
+    "stage": 1,
+    "context": "item.royaljellyItem.name=Royal Jelly"
+  },
+  {
+    "key": "lang|item.grubItem.name",
+    "original": "Bee Grub",
+    "translation": "벌 유충",
+    "stage": 1,
+    "context": "item.grubItem.name=Bee Grub"
+  },
+  {
+    "key": "lang|item.grainbaitItem.name",
+    "original": "Grain Bait",
+    "translation": "곡물 미끼",
+    "stage": 1,
+    "context": "item.grainbaitItem.name=Grain Bait"
+  },
+  {
+    "key": "lang|item.veggiebaitItem.name",
+    "original": "Veggie Bait",
+    "translation": "야채 미끼",
+    "stage": 1,
+    "context": "item.veggiebaitItem.name=Veggie Bait"
+  },
+  {
+    "key": "lang|item.fruitbaitItem.name",
+    "original": "Fruit Bait",
+    "translation": "과일 미끼",
+    "stage": 1,
+    "context": "item.fruitbaitItem.name=Fruit Bait"
+  },
+  {
+    "key": "lang|item.fishtrapbaitItem.name",
+    "original": "Fish Trap Bait",
+    "translation": "통발 미끼",
+    "stage": 1,
+    "context": "item.fishtrapbaitItem.name=Fish Trap Bait"
+  },
+  {
+    "key": "lang|item.potItem.name",
+    "original": "Pot",
+    "translation": "냄비",
+    "stage": 1,
+    "context": "item.potItem.name=Pot"
+  },
+  {
+    "key": "lang|item.skilletItem.name",
+    "original": "Skillet",
+    "translation": "프라이팬",
+    "stage": 1,
+    "context": "item.skilletItem.name=Skillet"
+  },
+  {
+    "key": "lang|item.saucepanItem.name",
+    "original": "Saucepan",
+    "translation": "손냄비",
+    "stage": 1,
+    "context": "item.saucepanItem.name=Saucepan"
+  },
+  {
+    "key": "lang|item.bakewareItem.name",
+    "original": "Bakeware",
+    "translation": "요리틀",
+    "stage": 1,
+    "context": "item.bakewareItem.name=Bakeware"
+  },
+  {
+    "key": "lang|item.cuttingboardItem.name",
+    "original": "Cutting Board",
+    "translation": "도마",
+    "stage": 1,
+    "context": "item.cuttingboardItem.name=Cutting Board"
+  },
+  {
+    "key": "lang|item.mortarandpestleItem.name",
+    "original": "Mortar and Pestle",
+    "translation": "막자와 막자사발",
+    "stage": 1,
+    "context": "item.mortarandpestleItem.name=Mortar and Pestle"
+  },
+  {
+    "key": "lang|item.mixingbowlItem.name",
+    "original": "Mixing Bowl",
+    "translation": "믹싱볼",
+    "stage": 1,
+    "context": "item.mixingbowlItem.name=Mixing Bowl"
+  },
+  {
+    "key": "lang|item.juicerItem.name",
+    "original": "Juicer",
+    "translation": "과즙기",
+    "stage": 1,
+    "context": "item.juicerItem.name=Juicer"
+  },
+  {
+    "key": "lang|item.asparagusItem.name",
+    "original": "Asparagus",
+    "translation": "아스파라거스",
+    "stage": 1,
+    "context": "item.asparagusItem.name=Asparagus"
+  },
+  {
+    "key": "lang|item.asparagusseedItem.name",
+    "original": "Asparagus Seed",
+    "translation": "아스파라거스 씨앗",
+    "stage": 1,
+    "context": "item.asparagusseedItem.name=Asparagus Seed"
+  },
+  {
+    "key": "lang|item.grilledasparagusItem.name",
+    "original": "Grilled Asparagus",
+    "translation": "구운 아스파라거스",
+    "stage": 1,
+    "context": "item.grilledasparagusItem.name=Grilled Asparagus"
+  },
+  {
+    "key": "lang|item.barleyItem.name",
+    "original": "Barley",
+    "translation": "보리",
+    "stage": 1,
+    "context": "item.barleyItem.name=Barley"
+  },
+  {
+    "key": "lang|item.barleyseedItem.name",
+    "original": "Barley Seed",
+    "translation": "보리 씨앗",
+    "stage": 1,
+    "context": "item.barleyseedItem.name=Barley Seed"
+  },
+  {
+    "key": "lang|item.beanItem.name",
+    "original": "Beans",
+    "translation": "콩",
+    "stage": 1,
+    "context": "item.beanItem.name=Beans"
+  },
+  {
+    "key": "lang|item.beanseedItem.name",
+    "original": "Bean Seed",
+    "translation": "콩 씨앗",
+    "stage": 1,
+    "context": "item.beanseedItem.name=Bean Seed"
+  },
+  {
+    "key": "lang|item.beetItem.name",
+    "original": "Beet",
+    "translation": "비트",
+    "stage": 1,
+    "context": "item.beetItem.name=Beet"
+  },
+  {
+    "key": "lang|item.beetseedItem.name",
+    "original": "Beet Seed",
+    "translation": "비트 씨앗",
+    "stage": 1,
+    "context": "item.beetseedItem.name=Beet Seed"
+  },
+  {
+    "key": "lang|item.broccoliItem.name",
+    "original": "Broccoli",
+    "translation": "브로콜리",
+    "stage": 1,
+    "context": "item.broccoliItem.name=Broccoli"
+  },
+  {
+    "key": "lang|item.broccoliseedItem.name",
+    "original": "Broccoli Seed",
+    "translation": "브로콜리 씨앗",
+    "stage": 1,
+    "context": "item.broccoliseedItem.name=Broccoli Seed"
+  },
+  {
+    "key": "lang|item.cauliflowerItem.name",
+    "original": "Cauliflower",
+    "translation": "콜리플라워",
+    "stage": 1,
+    "context": "item.cauliflowerItem.name=Cauliflower"
+  },
+  {
+    "key": "lang|item.cauliflowerseedItem.name",
+    "original": "Cauliflower Seed",
+    "translation": "콜리플라워 씨앗",
+    "stage": 1,
+    "context": "item.cauliflowerseedItem.name=Cauliflower Seed"
+  },
+  {
+    "key": "lang|item.celeryItem.name",
+    "original": "Celery",
+    "translation": "셀러리",
+    "stage": 1,
+    "context": "item.celeryItem.name=Celery"
+  },
+  {
+    "key": "lang|item.celeryseedItem.name",
+    "original": "Celery Seed",
+    "translation": "셀러리 씨앗",
+    "stage": 1,
+    "context": "item.celeryseedItem.name=Celery Seed"
+  },
+  {
+    "key": "lang|item.cranberryItem.name",
+    "original": "Cranberry",
+    "translation": "크랜베리",
+    "stage": 1,
+    "context": "item.cranberryItem.name=Cranberry"
+  },
+  {
+    "key": "lang|item.cranberryseedItem.name",
+    "original": "Cranberry Seed",
+    "translation": "크랜베리 씨앗",
+    "stage": 1,
+    "context": "item.cranberryseedItem.name=Cranberry Seed"
+  },
+  {
+    "key": "lang|item.garlicItem.name",
+    "original": "Garlic",
+    "translation": "마늘",
+    "stage": 1,
+    "context": "item.garlicItem.name=Garlic"
+  },
+  {
+    "key": "lang|item.garlicseedItem.name",
+    "original": "Garlic Seed",
+    "translation": "마늘 씨앗",
+    "stage": 1,
+    "context": "item.garlicseedItem.name=Garlic Seed"
+  },
+  {
+    "key": "lang|item.gingerItem.name",
+    "original": "Ginger",
+    "translation": "생강",
+    "stage": 1,
+    "context": "item.gingerItem.name=Ginger"
+  },
+  {
+    "key": "lang|item.gingerseedItem.name",
+    "original": "Ginger Seed",
+    "translation": "생강 씨앗",
+    "stage": 1,
+    "context": "item.gingerseedItem.name=Ginger Seed"
+  },
+  {
+    "key": "lang|item.leekItem.name",
+    "original": "Leek",
+    "translation": "파",
+    "stage": 1,
+    "context": "item.leekItem.name=Leek"
+  },
+  {
+    "key": "lang|item.leekseedItem.name",
+    "original": "Leek Seed",
+    "translation": "파 씨앗",
+    "stage": 1,
+    "context": "item.leekseedItem.name=Leek Seed"
+  },
+  {
+    "key": "lang|item.lettuceItem.name",
+    "original": "Lettuce",
+    "translation": "상추",
+    "stage": 1,
+    "context": "item.lettuceItem.name=Lettuce"
+  },
+  {
+    "key": "lang|item.lettuceseedItem.name",
+    "original": "Lettuce Seed",
+    "translation": "상추 씨앗",
+    "stage": 1,
+    "context": "item.lettuceseedItem.name=Lettuce Seed"
+  },
+  {
+    "key": "lang|item.oatsItem.name",
+    "original": "Oats",
+    "translation": "귀리",
+    "stage": 1,
+    "context": "item.oatsItem.name=Oats"
+  },
+  {
+    "key": "lang|item.oatsseedItem.name",
+    "original": "Oats Seed",
+    "translation": "귀리 씨앗",
+    "stage": 1,
+    "context": "item.oatsseedItem.name=Oats Seed"
+  },
+  {
+    "key": "lang|item.onionItem.name",
+    "original": "Onion",
+    "translation": "양파",
+    "stage": 1,
+    "context": "item.onionItem.name=Onion"
+  },
+  {
+    "key": "lang|item.onionseedItem.name",
+    "original": "Onion Seed",
+    "translation": "양파 씨앗",
+    "stage": 1,
+    "context": "item.onionseedItem.name=Onion Seed"
+  },
+  {
+    "key": "lang|item.parsnipItem.name",
+    "original": "Parsnip",
+    "translation": "파스닙",
+    "stage": 1,
+    "context": "item.parsnipItem.name=Parsnip"
+  },
+  {
+    "key": "lang|item.parsnipseedItem.name",
+    "original": "Parsnip Seed",
+    "translation": "파스닙 씨앗",
+    "stage": 1,
+    "context": "item.parsnipseedItem.name=Parsnip Seed"
+  },
+  {
+    "key": "lang|item.peanutItem.name",
+    "original": "Peanut",
+    "translation": "땅콩",
+    "stage": 1,
+    "context": "item.peanutItem.name=Peanut"
+  },
+  {
+    "key": "lang|item.peanutseedItem.name",
+    "original": "Peanut Seed",
+    "translation": "땅콩 씨앗",
+    "stage": 1,
+    "context": "item.peanutseedItem.name=Peanut Seed"
+  },
+  {
+    "key": "lang|item.pineappleItem.name",
+    "original": "Pineapple",
+    "translation": "파인애플",
+    "stage": 1,
+    "context": "item.pineappleItem.name=Pineapple"
+  },
+  {
+    "key": "lang|item.pineappleseedItem.name",
+    "original": "Pineapple Seed",
+    "translation": "파인애플 씨앗",
+    "stage": 1,
+    "context": "item.pineappleseedItem.name=Pineapple Seed"
+  },
+  {
+    "key": "lang|item.radishItem.name",
+    "original": "Radish",
+    "translation": "무",
+    "stage": 1,
+    "context": "item.radishItem.name=Radish"
+  },
+  {
+    "key": "lang|item.radishseedItem.name",
+    "original": "Radish Seed",
+    "translation": "무 씨앗",
+    "stage": 1,
+    "context": "item.radishseedItem.name=Radish Seed"
+  },
+  {
+    "key": "lang|item.riceItem.name",
+    "original": "Rice",
+    "translation": "쌀",
+    "stage": 1,
+    "context": "item.riceItem.name=Rice"
+  },
+  {
+    "key": "lang|item.riceseedItem.name",
+    "original": "Rice Seed",
+    "translation": "쌀 씨앗",
+    "stage": 1,
+    "context": "item.riceseedItem.name=Rice Seed"
+  },
+  {
+    "key": "lang|item.ricecakeItem.name",
+    "original": "Rice Cake",
+    "translation": "떡",
+    "stage": 1,
+    "context": "item.ricecakeItem.name=Rice Cake"
+  },
+  {
+    "key": "lang|item.rutabagaItem.name",
+    "original": "Rutabaga",
+    "translation": "루타바가",
+    "stage": 1,
+    "context": "item.rutabagaItem.name=Rutabaga"
+  },
+  {
+    "key": "lang|item.rutabagaseedItem.name",
+    "original": "Rutabaga Seed",
+    "translation": "루타바가 씨앗",
+    "stage": 1,
+    "context": "item.rutabagaseedItem.name=Rutabaga Seed"
+  },
+  {
+    "key": "lang|item.ryeItem.name",
+    "original": "Rye",
+    "translation": "호밀",
+    "stage": 1,
+    "context": "item.ryeItem.name=Rye"
+  },
+  {
+    "key": "lang|item.ryeseedItem.name",
+    "original": "Rye Seed",
+    "translation": "호밀 씨앗",
+    "stage": 1,
+    "context": "item.ryeseedItem.name=Rye Seed"
+  },
+  {
+    "key": "lang|item.scallionItem.name",
+    "original": "Scallion",
+    "translation": "대파",
+    "stage": 1,
+    "context": "item.scallionItem.name=Scallion"
+  },
+  {
+    "key": "lang|item.scallionseedItem.name",
+    "original": "Scallion Seed",
+    "translation": "대파 씨앗",
+    "stage": 1,
+    "context": "item.scallionseedItem.name=Scallion Seed"
+  },
+  {
+    "key": "lang|item.soybeanItem.name",
+    "original": "Soybean",
+    "translation": "대두",
+    "stage": 1,
+    "context": "item.soybeanItem.name=Soybean"
+  },
+  {
+    "key": "lang|item.soybeanseedItem.name",
+    "original": "Soybean Seed",
+    "translation": "대두 씨앗",
+    "stage": 1,
+    "context": "item.soybeanseedItem.name=Soybean Seed"
+  },
+  {
+    "key": "lang|item.spiceleafItem.name",
+    "original": "Spice Leaf",
+    "translation": "향잎",
+    "stage": 1,
+    "context": "item.spiceleafItem.name=Spice Leaf"
+  },
+  {
+    "key": "lang|item.spiceleafseedItem.name",
+    "original": "Spice Leaf Seed",
+    "translation": "향잎 씨앗",
+    "stage": 1,
+    "context": "item.spiceleafseedItem.name=Spice Leaf Seed"
+  },
+  {
+    "key": "lang|item.sunflowerseedsItem.name",
+    "original": "Sunflower Seeds",
+    "translation": "해바라기",
+    "stage": 1,
+    "context": "item.sunflowerseedsItem.name=Sunflower Seeds"
+  },
+  {
+    "key": "lang|item.sunflowerseedItem.name",
+    "original": "Sunflower Seed",
+    "translation": "해바라기 씨앗",
+    "stage": 1,
+    "context": "item.sunflowerseedItem.name=Sunflower Seed"
+  },
+  {
+    "key": "lang|item.sweetpotatoItem.name",
+    "original": "Sweet Potato",
+    "translation": "고구마",
+    "stage": 1,
+    "context": "item.sweetpotatoItem.name=Sweet Potato"
+  },
+  {
+    "key": "lang|item.sweetpotatoseedItem.name",
+    "original": "Sweet Potato Seed",
+    "translation": "고구마 씨앗",
+    "stage": 1,
+    "context": "item.sweetpotatoseedItem.name=Sweet Potato Seed"
+  },
+  {
+    "key": "lang|item.bakedsweetpotatoItem.name",
+    "original": "Baked Sweet Potato",
+    "translation": "군고구마",
+    "stage": 1,
+    "context": "item.bakedsweetpotatoItem.name=Baked Sweet Potato"
+  },
+  {
+    "key": "lang|item.tealeafItem.name",
+    "original": "Tea Leaf",
+    "translation": "찻잎",
+    "stage": 1,
+    "context": "item.tealeafItem.name=Tea Leaf"
+  },
+  {
+    "key": "lang|item.teaseedItem.name",
+    "original": "Tea Seed",
+    "translation": "찻잎 씨앗",
+    "stage": 1,
+    "context": "item.teaseedItem.name=Tea Seed"
+  },
+  {
+    "key": "lang|item.teaItem.name",
+    "original": "Cup of Tea",
+    "translation": "차 한 잔",
+    "stage": 1,
+    "context": "item.teaItem.name=Cup of Tea"
+  },
+  {
+    "key": "lang|item.turnipItem.name",
+    "original": "Turnip",
+    "translation": "순무",
+    "stage": 1,
+    "context": "item.turnipItem.name=Turnip"
+  },
+  {
+    "key": "lang|item.turnipseedItem.name",
+    "original": "Turnip Seed",
+    "translation": "순무 씨앗",
+    "stage": 1,
+    "context": "item.turnipseedItem.name=Turnip Seed"
+  },
+  {
+    "key": "lang|item.whitemushroomItem.name",
+    "original": "White Mushroom",
+    "translation": "양송이 버섯",
+    "stage": 1,
+    "context": "item.whitemushroomItem.name=White Mushroom"
+  },
+  {
+    "key": "lang|item.whitemushroomseedItem.name",
+    "original": "White Mushroom Spore",
+    "translation": "양송이 버섯 ",
+    "stage": 1,
+    "context": "item.whitemushroomseedItem.name=White Mushroom Spore"
+  },
+  {
+    "key": "lang|item.artichokeItem.name",
+    "original": "Artichoke",
+    "translation": "아티초크",
+    "stage": 1,
+    "context": "item.artichokeItem.name=Artichoke"
+  },
+  {
+    "key": "lang|item.artichokeseedItem.name",
+    "original": "Artichoke Seed",
+    "translation": "아티초크 씨앗",
+    "stage": 1,
+    "context": "item.artichokeseedItem.name=Artichoke Seed"
+  },
+  {
+    "key": "lang|item.bellpepperItem.name",
+    "original": "Bellpepper",
+    "translation": "피망",
+    "stage": 1,
+    "context": "item.bellpepperItem.name=Bellpepper"
+  },
+  {
+    "key": "lang|item.bellpepperseedItem.name",
+    "original": "Bellpepper Seed",
+    "translation": "피망 씨앗",
+    "stage": 1,
+    "context": "item.bellpepperseedItem.name=Bellpepper Seed"
+  },
+  {
+    "key": "lang|item.blackberryItem.name",
+    "original": "Blackberry",
+    "translation": "블랙베리",
+    "stage": 1,
+    "context": "item.blackberryItem.name=Blackberry"
+  },
+  {
+    "key": "lang|item.blackberryseedItem.name",
+    "original": "Blackberry Seed",
+    "translation": "블랙베리 씨앗",
+    "stage": 1,
+    "context": "item.blackberryseedItem.name=Blackberry Seed"
+  },
+  {
+    "key": "lang|item.blueberryItem.name",
+    "original": "Blueberry",
+    "translation": "블루베리",
+    "stage": 1,
+    "context": "item.blueberryItem.name=Blueberry"
+  },
+  {
+    "key": "lang|item.blueberryseedItem.name",
+    "original": "Blueberry Seed",
+    "translation": "블루베리 씨앗",
+    "stage": 1,
+    "context": "item.blueberryseedItem.name=Blueberry Seed"
+  },
+  {
+    "key": "lang|item.brusselsproutItem.name",
+    "original": "Brussel Sprout",
+    "translation": "방울양배추",
+    "stage": 1,
+    "context": "item.brusselsproutItem.name=Brussel Sprout"
+  },
+  {
+    "key": "lang|item.brusselsproutseedItem.name",
+    "original": "Brussel Sprout Seed",
+    "translation": "방울양배추 씨앗",
+    "stage": 1,
+    "context": "item.brusselsproutseedItem.name=Brussel Sprout Seed"
+  },
+  {
+    "key": "lang|item.cabbageItem.name",
+    "original": "Cabbage",
+    "translation": "양배추",
+    "stage": 1,
+    "context": "item.cabbageItem.name=Cabbage"
+  },
+  {
+    "key": "lang|item.cabbageseedItem.name",
+    "original": "Cabbage Seed",
+    "translation": "양배추 씨앗",
+    "stage": 1,
+    "context": "item.cabbageseedItem.name=Cabbage Seed"
+  },
+  {
+    "key": "lang|item.cactusfruitItem.name",
+    "original": "Cactus Fruit",
+    "translation": "선인장 열매",
+    "stage": 1,
+    "context": "item.cactusfruitItem.name=Cactus Fruit"
+  },
+  {
+    "key": "lang|item.cactusfruitseedItem.name",
+    "original": "Cactus Fruit Seed",
+    "translation": "선인장 열매 씨앗",
+    "stage": 1,
+    "context": "item.cactusfruitseedItem.name=Cactus Fruit Seed"
+  },
+  {
+    "key": "lang|item.candleberryItem.name",
+    "original": "Candleberry",
+    "translation": "캔들베리",
+    "stage": 1,
+    "context": "item.candleberryItem.name=Candleberry"
+  },
+  {
+    "key": "lang|item.candleberryseedItem.name",
+    "original": "Candleberry Seed",
+    "translation": "캔들베리 씨앗",
+    "stage": 1,
+    "context": "item.candleberryseedItem.name=Candleberry Seed"
+  },
+  {
+    "key": "lang|item.waxItem.name",
+    "original": "Wax",
+    "translation": "왁스",
+    "stage": 1,
+    "context": "item.waxItem.name=Wax"
+  },
+  {
+    "key": "lang|item.cantaloupeItem.name",
+    "original": "Cantaloupe",
+    "translation": "캔털루프 멜론",
+    "stage": 1,
+    "context": "item.cantaloupeItem.name=Cantaloupe"
+  },
+  {
+    "key": "lang|item.cantaloupeseedItem.name",
+    "original": "Cantaloupe Seed",
+    "translation": "캔털루프 멜론 씨앗",
+    "stage": 1,
+    "context": "item.cantaloupeseedItem.name=Cantaloupe Seed"
+  },
+  {
+    "key": "lang|item.chilipepperItem.name",
+    "original": "Chili Pepper",
+    "translation": "고추",
+    "stage": 1,
+    "context": "item.chilipepperItem.name=Chili Pepper"
+  },
+  {
+    "key": "lang|item.chilipepperseedItem.name",
+    "original": "Chili Pepper Seed",
+    "translation": "고추 씨앗",
+    "stage": 1,
+    "context": "item.chilipepperseedItem.name=Chili Pepper Seed"
+  },
+  {
+    "key": "lang|item.coffeebeanItem.name",
+    "original": "Coffee Beans",
+    "translation": "커피콩",
+    "stage": 1,
+    "context": "item.coffeebeanItem.name=Coffee Beans"
+  },
+  {
+    "key": "lang|item.coffeeseedItem.name",
+    "original": "Coffee Seed",
+    "translation": "커피콩 씨앗",
+    "stage": 1,
+    "context": "item.coffeeseedItem.name=Coffee Seed"
+  },
+  {
+    "key": "lang|item.coffeeItem.name",
+    "original": "Cup of Coffee",
+    "translation": "커피 한 잔",
+    "stage": 1,
+    "context": "item.coffeeItem.name=Cup of Coffee"
+  },
+  {
+    "key": "lang|item.cornItem.name",
+    "original": "Corn",
+    "translation": "옥수수",
+    "stage": 1,
+    "context": "item.cornItem.name=Corn"
+  },
+  {
+    "key": "lang|item.cornseedItem.name",
+    "original": "Corn Seed",
+    "translation": "옥수수 씨앗",
+    "stage": 1,
+    "context": "item.cornseedItem.name=Corn Seed"
+  },
+  {
+    "key": "lang|item.popcornItem.name",
+    "original": "Popcorn",
+    "translation": "팝콘",
+    "stage": 1,
+    "context": "item.popcornItem.name=Popcorn"
+  },
+  {
+    "key": "lang|item.cottonItem.name",
+    "original": "Cotton",
+    "translation": "목화",
+    "stage": 1,
+    "context": "item.cottonItem.name=Cotton"
+  },
+  {
+    "key": "lang|item.cottonseedItem.name",
+    "original": "Cotton Seed",
+    "translation": "목화 씨앗",
+    "stage": 1,
+    "context": "item.cottonseedItem.name=Cotton Seed"
+  },
+  {
+    "key": "lang|item.wovencottonItem.name",
+    "original": "Woven Cotton",
+    "translation": "직조 면",
+    "stage": 1,
+    "context": "item.wovencottonItem.name=Woven Cotton"
+  },
+  {
+    "key": "lang|item.cucumberItem.name",
+    "original": "Cucumber",
+    "translation": "오이",
+    "stage": 1,
+    "context": "item.cucumberItem.name=Cucumber"
+  },
+  {
+    "key": "lang|item.cucumberseedItem.name",
+    "original": "Cucumber Seed",
+    "translation": "오이 씨앗",
+    "stage": 1,
+    "context": "item.cucumberseedItem.name=Cucumber Seed"
+  },
+  {
+    "key": "lang|item.eggplantItem.name",
+    "original": "Eggplant",
+    "translation": "가지",
+    "stage": 1,
+    "context": "item.eggplantItem.name=Eggplant"
+  },
+  {
+    "key": "lang|item.eggplantseedItem.name",
+    "original": "Eggplant Seed",
+    "translation": "가지 씨앗",
+    "stage": 1,
+    "context": "item.eggplantseedItem.name=Eggplant Seed"
+  },
+  {
+    "key": "lang|item.grilledeggplantItem.name",
+    "original": "Grilled Eggplant",
+    "translation": "구운 가지",
+    "stage": 1,
+    "context": "item.grilledeggplantItem.name=Grilled Eggplant"
+  },
+  {
+    "key": "lang|item.grapeItem.name",
+    "original": "Grape",
+    "translation": "포도",
+    "stage": 1,
+    "context": "item.grapeItem.name=Grape"
+  },
+  {
+    "key": "lang|item.grapeseedItem.name",
+    "original": "Grape Seed",
+    "translation": "포도 씨앗",
+    "stage": 1,
+    "context": "item.grapeseedItem.name=Grape Seed"
+  },
+  {
+    "key": "lang|item.raisinsItem.name",
+    "original": "Raisins",
+    "translation": "건포도",
+    "stage": 1,
+    "context": "item.raisinsItem.name=Raisins"
+  },
+  {
+    "key": "lang|item.kiwiItem.name",
+    "original": "Kiwi",
+    "translation": "키위",
+    "stage": 1,
+    "context": "item.kiwiItem.name=Kiwi"
+  },
+  {
+    "key": "lang|item.kiwiseedItem.name",
+    "original": "Kiwi Seed",
+    "translation": "키위 씨앗",
+    "stage": 1,
+    "context": "item.kiwiseedItem.name=Kiwi Seed"
+  },
+  {
+    "key": "lang|item.mustardseedsItem.name",
+    "original": "Mustard Seeds",
+    "translation": "겨자",
+    "stage": 1,
+    "context": "item.mustardseedsItem.name=Mustard Seeds"
+  },
+  {
+    "key": "lang|item.mustardseedItem.name",
+    "original": "Mustard Seed",
+    "translation": "겨자 씨앗",
+    "stage": 1,
+    "context": "item.mustardseedItem.name=Mustard Seed"
+  },
+  {
+    "key": "lang|item.okraItem.name",
+    "original": "Okra",
+    "translation": "오크라",
+    "stage": 1,
+    "context": "item.okraItem.name=Okra"
+  },
+  {
+    "key": "lang|item.okraseedItem.name",
+    "original": "Okra Seed",
+    "translation": "오크라 씨앗",
+    "stage": 1,
+    "context": "item.okraseedItem.name=Okra Seed"
+  },
+  {
+    "key": "lang|item.peasItem.name",
+    "original": "Peas",
+    "translation": "완두콩",
+    "stage": 1,
+    "context": "item.peasItem.name=Peas"
+  },
+  {
+    "key": "lang|item.peasseedItem.name",
+    "original": "Peas Seed",
+    "translation": "완두콩 씨앗",
+    "stage": 1,
+    "context": "item.peasseedItem.name=Peas Seed"
+  },
+  {
+    "key": "lang|item.raspberryItem.name",
+    "original": "Raspberry",
+    "translation": "라즈베리",
+    "stage": 1,
+    "context": "item.raspberryItem.name=Raspberry"
+  },
+  {
+    "key": "lang|item.raspberryseedItem.name",
+    "original": "Raspberry Seed",
+    "translation": "라즈베리 씨앗",
+    "stage": 1,
+    "context": "item.raspberryseedItem.name=Raspberry Seed"
+  },
+  {
+    "key": "lang|item.rhubarbItem.name",
+    "original": "Rhubarb",
+    "translation": "대황",
+    "stage": 1,
+    "context": "item.rhubarbItem.name=Rhubarb"
+  },
+  {
+    "key": "lang|item.rhubarbseedItem.name",
+    "original": "Rhubarb Seed",
+    "translation": "대황 씨앗",
+    "stage": 1,
+    "context": "item.rhubarbseedItem.name=Rhubarb Seed"
+  },
+  {
+    "key": "lang|item.seaweedItem.name",
+    "original": "Seaweed",
+    "translation": "해초",
+    "stage": 1,
+    "context": "item.seaweedItem.name=Seaweed"
+  },
+  {
+    "key": "lang|item.seaweedseedItem.name",
+    "original": "Seaweed Seed",
+    "translation": "해초 씨앗",
+    "stage": 1,
+    "context": "item.seaweedseedItem.name=Seaweed Seed"
+  },
+  {
+    "key": "lang|item.strawberryItem.name",
+    "original": "Strawberry",
+    "translation": "딸기",
+    "stage": 1,
+    "context": "item.strawberryItem.name=Strawberry"
+  },
+  {
+    "key": "lang|item.strawberryseedItem.name",
+    "original": "Strawberry Seed",
+    "translation": "딸기 씨앗",
+    "stage": 1,
+    "context": "item.strawberryseedItem.name=Strawberry Seed"
+  },
+  {
+    "key": "lang|item.tomatoItem.name",
+    "original": "Tomato",
+    "translation": "토마토",
+    "stage": 1,
+    "context": "item.tomatoItem.name=Tomato"
+  },
+  {
+    "key": "lang|item.tomatoseedItem.name",
+    "original": "Tomato Seed",
+    "translation": "토마토 씨앗",
+    "stage": 1,
+    "context": "item.tomatoseedItem.name=Tomato Seed"
+  },
+  {
+    "key": "lang|item.wintersquashItem.name",
+    "original": "Winter Squash",
+    "translation": "겨울 호박",
+    "stage": 1,
+    "context": "item.wintersquashItem.name=Winter Squash"
+  },
+  {
+    "key": "lang|item.wintersquashseedItem.name",
+    "original": "Winter Squash Seed",
+    "translation": "겨울 호박 씨앗",
+    "stage": 1,
+    "context": "item.wintersquashseedItem.name=Winter Squash Seed"
+  },
+  {
+    "key": "lang|item.zucchiniItem.name",
+    "original": "Zucchini",
+    "translation": "애호박",
+    "stage": 1,
+    "context": "item.zucchiniItem.name=Zucchini"
+  },
+  {
+    "key": "lang|item.zucchiniseedItem.name",
+    "original": "Zucchini Seed",
+    "translation": "애호박 씨앗",
+    "stage": 1,
+    "context": "item.zucchiniseedItem.name=Zucchini Seed"
+  },
+  {
+    "key": "lang|item.bambooshootItem.name",
+    "original": "Bamboo Shoot",
+    "translation": "죽순",
+    "stage": 1,
+    "context": "item.bambooshootItem.name=Bamboo Shoot"
+  },
+  {
+    "key": "lang|item.bambooshootseedItem.name",
+    "original": "Bamboo Shoot Seed",
+    "translation": "죽순 씨앗",
+    "stage": 1,
+    "context": "item.bambooshootseedItem.name=Bamboo Shoot Seed"
+  },
+  {
+    "key": "lang|item.spinachItem.name",
+    "original": "Spinach",
+    "translation": "시금치",
+    "stage": 1,
+    "context": "item.spinachItem.name=Spinach"
+  },
+  {
+    "key": "lang|item.spinachseedItem.name",
+    "original": "Spinach Seed",
+    "translation": "시금치 씨앗",
+    "stage": 1,
+    "context": "item.spinachseedItem.name=Spinach Seed"
+  },
+  {
+    "key": "lang|item.curryleafItem.name",
+    "original": "Curry Leaf",
+    "translation": "커리 잎",
+    "stage": 1,
+    "context": "item.curryleafItem.name=Curry Leaf"
+  },
+  {
+    "key": "lang|item.curryleafseedItem.name",
+    "original": "Curry Leaf Seed",
+    "translation": "커리 잎 씨앗",
+    "stage": 1,
+    "context": "item.curryleafseedItem.name=Curry Leaf Seed"
+  },
+  {
+    "key": "lang|item.sesameseedsItem.name",
+    "original": "Sesame Seeds",
+    "translation": "참깨",
+    "stage": 1,
+    "context": "item.sesameseedsItem.name=Sesame Seeds"
+  },
+  {
+    "key": "lang|item.sesameseedsseedItem.name",
+    "original": "Sesame Seeds Seed",
+    "translation": "참깨 씨앗",
+    "stage": 1,
+    "context": "item.sesameseedsseedItem.name=Sesame Seeds Seed"
+  },
+  {
+    "key": "lang|item.waterchestnutItem.name",
+    "original": "Water Chestnut",
+    "translation": "남방개",
+    "stage": 1,
+    "context": "item.waterchestnutItem.name=Water Chestnut"
+  },
+  {
+    "key": "lang|item.waterchestnutseedItem.name",
+    "original": "Water Chestnut Seed",
+    "translation": "남방개 씨앗",
+    "stage": 1,
+    "context": "item.waterchestnutseedItem.name=Water Chestnut Seed"
+  },
+  {
+    "key": "lang|item.almondItem.name",
+    "original": "Almond",
+    "translation": "아몬드",
+    "stage": 1,
+    "context": "item.almondItem.name=Almond"
+  },
+  {
+    "key": "lang|item.apricotItem.name",
+    "original": "Apricot",
+    "translation": "살구",
+    "stage": 1,
+    "context": "item.apricotItem.name=Apricot"
+  },
+  {
+    "key": "lang|item.avocadoItem.name",
+    "original": "Avocado",
+    "translation": "아보카도",
+    "stage": 1,
+    "context": "item.avocadoItem.name=Avocado"
+  },
+  {
+    "key": "lang|item.bananaItem.name",
+    "original": "Banana",
+    "translation": "바나나",
+    "stage": 1,
+    "context": "item.bananaItem.name=Banana"
+  },
+  {
+    "key": "lang|item.cashewItem.name",
+    "original": "Cashew",
+    "translation": "캐슈넛",
+    "stage": 1,
+    "context": "item.cashewItem.name=Cashew"
+  },
+  {
+    "key": "lang|item.cherryItem.name",
+    "original": "Cherry",
+    "translation": "체리",
+    "stage": 1,
+    "context": "item.cherryItem.name=Cherry"
+  },
+  {
+    "key": "lang|item.chestnutItem.name",
+    "original": "Chestnut",
+    "translation": "밤",
+    "stage": 1,
+    "context": "item.chestnutItem.name=Chestnut"
+  },
+  {
+    "key": "lang|item.cinnamonItem.name",
+    "original": "Cinnamon",
+    "translation": "계피",
+    "stage": 1,
+    "context": "item.cinnamonItem.name=Cinnamon"
+  },
+  {
+    "key": "lang|item.coconutItem.name",
+    "original": "Coconut",
+    "translation": "코코넛",
+    "stage": 1,
+    "context": "item.coconutItem.name=Coconut"
+  },
+  {
+    "key": "lang|item.dateItem.name",
+    "original": "Date",
+    "translation": "대추야자",
+    "stage": 1,
+    "context": "item.dateItem.name=Date"
+  },
+  {
+    "key": "lang|item.dragonfruitItem.name",
+    "original": "Dragonfruit",
+    "translation": "용과",
+    "stage": 1,
+    "context": "item.dragonfruitItem.name=Dragonfruit"
+  },
+  {
+    "key": "lang|item.durianItem.name",
+    "original": "Durian",
+    "translation": "두리안",
+    "stage": 1,
+    "context": "item.durianItem.name=Durian"
+  },
+  {
+    "key": "lang|item.figItem.name",
+    "original": "Fig",
+    "translation": "무화과",
+    "stage": 1,
+    "context": "item.figItem.name=Fig"
+  },
+  {
+    "key": "lang|item.grapefruitItem.name",
+    "original": "Grapefruit",
+    "translation": "자몽",
+    "stage": 1,
+    "context": "item.grapefruitItem.name=Grapefruit"
+  },
+  {
+    "key": "lang|item.lemonItem.name",
+    "original": "Lemon",
+    "translation": "레몬",
+    "stage": 1,
+    "context": "item.lemonItem.name=Lemon"
+  },
+  {
+    "key": "lang|item.limeItem.name",
+    "original": "Lime",
+    "translation": "라임",
+    "stage": 1,
+    "context": "item.limeItem.name=Lime"
+  },
+  {
+    "key": "lang|item.maplesyrupItem.name",
+    "original": "Maple Syrup",
+    "translation": "단풍 시럽",
+    "stage": 1,
+    "context": "item.maplesyrupItem.name=Maple Syrup"
+  },
+  {
+    "key": "lang|item.mangoItem.name",
+    "original": "Mango",
+    "translation": "망고",
+    "stage": 1,
+    "context": "item.mangoItem.name=Mango"
+  },
+  {
+    "key": "lang|item.nutmegItem.name",
+    "original": "Nutmeg",
+    "translation": "육두구",
+    "stage": 1,
+    "context": "item.nutmegItem.name=Nutmeg"
+  },
+  {
+    "key": "lang|item.oliveItem.name",
+    "original": "Olive",
+    "translation": "올리브",
+    "stage": 1,
+    "context": "item.oliveItem.name=Olive"
+  },
+  {
+    "key": "lang|item.orangeItem.name",
+    "original": "Orange",
+    "translation": "오렌지",
+    "stage": 1,
+    "context": "item.orangeItem.name=Orange"
+  },
+  {
+    "key": "lang|item.papayaItem.name",
+    "original": "Papaya",
+    "translation": "파파야",
+    "stage": 1,
+    "context": "item.papayaItem.name=Papaya"
+  },
+  {
+    "key": "lang|item.peachItem.name",
+    "original": "Peach",
+    "translation": "복숭아",
+    "stage": 1,
+    "context": "item.peachItem.name=Peach"
+  },
+  {
+    "key": "lang|item.pearItem.name",
+    "original": "Pear",
+    "translation": "배",
+    "stage": 1,
+    "context": "item.pearItem.name=Pear"
+  },
+  {
+    "key": "lang|item.pecanItem.name",
+    "original": "Pecan",
+    "translation": "피칸",
+    "stage": 1,
+    "context": "item.pecanItem.name=Pecan"
+  },
+  {
+    "key": "lang|item.peppercornItem.name",
+    "original": "Peppercorn",
+    "translation": "후추",
+    "stage": 1,
+    "context": "item.peppercornItem.name=Peppercorn"
+  },
+  {
+    "key": "lang|item.persimmonItem.name",
+    "original": "Persimmon",
+    "translation": "단감",
+    "stage": 1,
+    "context": "item.persimmonItem.name=Persimmon"
+  },
+  {
+    "key": "lang|item.pistachioItem.name",
+    "original": "Pistachio",
+    "translation": "피스타치오",
+    "stage": 1,
+    "context": "item.pistachioItem.name=Pistachio"
+  },
+  {
+    "key": "lang|item.plumItem.name",
+    "original": "Plum",
+    "translation": "자두",
+    "stage": 1,
+    "context": "item.plumItem.name=Plum"
+  },
+  {
+    "key": "lang|item.pomegranateItem.name",
+    "original": "Pomegranate",
+    "translation": "석류",
+    "stage": 1,
+    "context": "item.pomegranateItem.name=Pomegranate"
+  },
+  {
+    "key": "lang|item.starfruitItem.name",
+    "original": "Starfruit",
+    "translation": "스타프루트",
+    "stage": 1,
+    "context": "item.starfruitItem.name=Starfruit"
+  },
+  {
+    "key": "lang|item.vanillabeanItem.name",
+    "original": "Vanilla Bean",
+    "translation": "바닐라 빈",
+    "stage": 1,
+    "context": "item.vanillabeanItem.name=Vanilla Bean"
+  },
+  {
+    "key": "lang|item.walnutItem.name",
+    "original": "Walnut",
+    "translation": "호두",
+    "stage": 1,
+    "context": "item.walnutItem.name=Walnut"
+  },
+  {
+    "key": "lang|item.gooseberryItem.name",
+    "original": "Gooseberry",
+    "translation": "구즈베리",
+    "stage": 1,
+    "context": "item.gooseberryItem.name=Gooseberry"
+  },
+  {
+    "key": "lang|item.toastedcoconutItem.name",
+    "original": "Toasted Coconut",
+    "translation": "구운 코코넛",
+    "stage": 1,
+    "context": "item.toastedcoconutItem.name=Toasted Coconut"
+  },
+  {
+    "key": "lang|item.vanillaItem.name",
+    "original": "Vanilla",
+    "translation": "바닐라",
+    "stage": 1,
+    "context": "item.vanillaItem.name=Vanilla"
+  },
+  {
+    "key": "lang|item.toastedsesameseedsItem.name",
+    "original": "Toasted Sesame Seeds",
+    "translation": "볶은 참깨",
+    "stage": 1,
+    "context": "item.toastedsesameseedsItem.name=Toasted Sesame Seeds"
+  },
+  {
+    "key": "lang|item.saltItem.name",
+    "original": "Salt",
+    "translation": "소금",
+    "stage": 1,
+    "context": "item.saltItem.name=Salt"
+  },
+  {
+    "key": "lang|item.flourItem.name",
+    "original": "Flour",
+    "translation": "밀가루",
+    "stage": 1,
+    "context": "item.flourItem.name=Flour"
+  },
+  {
+    "key": "lang|item.doughItem.name",
+    "original": "Dough",
+    "translation": "반죽",
+    "stage": 1,
+    "context": "item.doughItem.name=Dough"
+  },
+  {
+    "key": "lang|item.toastItem.name",
+    "original": "Toast",
+    "translation": "토스트",
+    "stage": 1,
+    "context": "item.toastItem.name=Toast"
+  },
+  {
+    "key": "lang|item.pastaItem.name",
+    "original": "Pasta",
+    "translation": "파스타",
+    "stage": 1,
+    "context": "item.pastaItem.name=Pasta"
+  },
+  {
+    "key": "lang|item.heavycreamItem.name",
+    "original": "Heavy Cream",
+    "translation": "휘핑 크림",
+    "stage": 1,
+    "context": "item.heavycreamItem.name=Heavy Cream"
+  },
+  {
+    "key": "lang|item.butterItem.name",
+    "original": "Butter",
+    "translation": "버터",
+    "stage": 1,
+    "context": "item.butterItem.name=Butter"
+  },
+  {
+    "key": "lang|item.cheeseItem.name",
+    "original": "Cheese",
+    "translation": "치즈",
+    "stage": 1,
+    "context": "item.cheeseItem.name=Cheese"
+  },
+  {
+    "key": "lang|item.icecreamItem.name",
+    "original": "Ice Cream",
+    "translation": "아이스크림",
+    "stage": 1,
+    "context": "item.icecreamItem.name=Ice Cream"
+  },
+  {
+    "key": "lang|item.grilledcheeseItem.name",
+    "original": "Grilled Cheese",
+    "translation": "구운 치즈 샌드위치",
+    "stage": 1,
+    "context": "item.grilledcheeseItem.name=Grilled Cheese"
+  },
+  {
+    "key": "lang|item.applesauceItem.name",
+    "original": "Apple Sauce",
+    "translation": "사과 소스",
+    "stage": 1,
+    "context": "item.applesauceItem.name=Apple Sauce"
+  },
+  {
+    "key": "lang|item.applejuiceItem.name",
+    "original": "Apple Juice",
+    "translation": "사과 주스",
+    "stage": 1,
+    "context": "item.applejuiceItem.name=Apple Juice"
+  },
+  {
+    "key": "lang|item.applepieItem.name",
+    "original": "Apple Pie",
+    "translation": "사과 파이",
+    "stage": 1,
+    "context": "item.applepieItem.name=Apple Pie"
+  },
+  {
+    "key": "lang|item.caramelappleItem.name",
+    "original": "Caramel Apple",
+    "translation": "캐러멜 묻힌 사과",
+    "stage": 1,
+    "context": "item.caramelappleItem.name=Caramel Apple"
+  },
+  {
+    "key": "lang|item.pumpkinbreadItem.name",
+    "original": "Pumpkin Bread",
+    "translation": "호박 빵",
+    "stage": 1,
+    "context": "item.pumpkinbreadItem.name=Pumpkin Bread"
+  },
+  {
+    "key": "lang|item.roastedpumpkinseedsItem.name",
+    "original": "Roasted Pumpkin Seeds",
+    "translation": "구운 호박씨",
+    "stage": 1,
+    "context": "item.roastedpumpkinseedsItem.name=Roasted Pumpkin Seeds"
+  },
+  {
+    "key": "lang|item.pumpkinsoupItem.name",
+    "original": "Pumpkin Soup",
+    "translation": "호박 수프",
+    "stage": 1,
+    "context": "item.pumpkinsoupItem.name=Pumpkin Soup"
+  },
+  {
+    "key": "lang|item.melonjuiceItem.name",
+    "original": "Melon Juice",
+    "translation": "멜론 주스",
+    "stage": 1,
+    "context": "item.melonjuiceItem.name=Melon Juice"
+  },
+  {
+    "key": "lang|item.melonsmoothieItem.name",
+    "original": "Melon Smoothie",
+    "translation": "수박 스무디",
+    "stage": 1,
+    "context": "item.melonsmoothieItem.name=Melon Smoothie"
+  },
+  {
+    "key": "lang|item.carrotjuiceItem.name",
+    "original": "Carrot Juice",
+    "translation": "당근 주스",
+    "stage": 1,
+    "context": "item.carrotjuiceItem.name=Carrot Juice"
+  },
+  {
+    "key": "lang|item.carrotcakeItem.name",
+    "original": "Carrot Cake",
+    "translation": "당근 케이크",
+    "stage": 1,
+    "context": "item.carrotcakeItem.name=Carrot Cake"
+  },
+  {
+    "key": "lang|item.carrotsoupItem.name",
+    "original": "Carrot Soup",
+    "translation": "당근 수프",
+    "stage": 1,
+    "context": "item.carrotsoupItem.name=Carrot Soup"
+  },
+  {
+    "key": "lang|item.glazedcarrotsItem.name",
+    "original": "Glazed Carrots",
+    "translation": "설탕 바른 당근",
+    "stage": 1,
+    "context": "item.glazedcarrotsItem.name=Glazed Carrots"
+  },
+  {
+    "key": "lang|item.butteredpotatoItem.name",
+    "original": "Buttered Potato",
+    "translation": "감자 버터구이",
+    "stage": 1,
+    "context": "item.butteredpotatoItem.name=Buttered Potato"
+  },
+  {
+    "key": "lang|item.loadedbakedpotatoItem.name",
+    "original": "Loaded Baked Potato",
+    "translation": "베이컨 감자구이",
+    "stage": 1,
+    "context": "item.loadedbakedpotatoItem.name=Loaded Baked Potato"
+  },
+  {
+    "key": "lang|item.mashedpotatoesItem.name",
+    "original": "Mashed Potatoes",
+    "translation": "으깬 감자",
+    "stage": 1,
+    "context": "item.mashedpotatoesItem.name=Mashed Potatoes"
+  },
+  {
+    "key": "lang|item.potatosaladItem.name",
+    "original": "Potato Salad",
+    "translation": "감자 샐러드",
+    "stage": 1,
+    "context": "item.potatosaladItem.name=Potato Salad"
+  },
+  {
+    "key": "lang|item.potatosoupItem.name",
+    "original": "Potato Soup",
+    "translation": "감자 수프",
+    "stage": 1,
+    "context": "item.potatosoupItem.name=Potato Soup"
+  },
+  {
+    "key": "lang|item.friesItem.name",
+    "original": "Fries",
+    "translation": "감자튀김",
+    "stage": 1,
+    "context": "item.friesItem.name=Fries"
+  },
+  {
+    "key": "lang|item.grilledmushroomItem.name",
+    "original": "Grilled Mushroom",
+    "translation": "구운 버섯",
+    "stage": 1,
+    "context": "item.grilledmushroomItem.name=Grilled Mushroom"
+  },
+  {
+    "key": "lang|item.stuffedmushroomItem.name",
+    "original": "Stuffed Mushroom",
+    "translation": "속 채운 버섯",
+    "stage": 1,
+    "context": "item.stuffedmushroomItem.name=Stuffed Mushroom"
+  },
+  {
+    "key": "lang|item.chickensandwichItem.name",
+    "original": "Chicken Sandwich",
+    "translation": "닭고기 샌드위치",
+    "stage": 1,
+    "context": "item.chickensandwichItem.name=Chicken Sandwich"
+  },
+  {
+    "key": "lang|item.chickennoodlesoupItem.name",
+    "original": "Chicken Noodle Soup",
+    "translation": "닭국수",
+    "stage": 1,
+    "context": "item.chickennoodlesoupItem.name=Chicken Noodle Soup"
+  },
+  {
+    "key": "lang|item.chickenpotpieItem.name",
+    "original": "Chicken Pot Pie",
+    "translation": "닭고기 포트 파이",
+    "stage": 1,
+    "context": "item.chickenpotpieItem.name=Chicken Pot Pie"
+  },
+  {
+    "key": "lang|item.breadedporkchopItem.name",
+    "original": "Breaded Porkchop",
+    "translation": "돈까스",
+    "stage": 1,
+    "context": "item.breadedporkchopItem.name=Breaded Porkchop"
+  },
+  {
+    "key": "lang|item.hotdogItem.name",
+    "original": "Hotdog",
+    "translation": "핫도그",
+    "stage": 1,
+    "context": "item.hotdogItem.name=Hotdog"
+  },
+  {
+    "key": "lang|item.bakedhamItem.name",
+    "original": "Baked Ham",
+    "translation": "구운 햄",
+    "stage": 1,
+    "context": "item.bakedhamItem.name=Baked Ham"
+  },
+  {
+    "key": "lang|item.hamburgerItem.name",
+    "original": "Hamburger",
+    "translation": "햄버거",
+    "stage": 1,
+    "context": "item.hamburgerItem.name=Hamburger"
+  },
+  {
+    "key": "lang|item.cheeseburgerItem.name",
+    "original": "Cheeseburger",
+    "translation": "치즈버거",
+    "stage": 1,
+    "context": "item.cheeseburgerItem.name=Cheeseburger"
+  },
+  {
+    "key": "lang|item.baconcheeseburgerItem.name",
+    "original": "Bacon Cheeseburger",
+    "translation": "베이컨 치즈버거",
+    "stage": 1,
+    "context": "item.baconcheeseburgerItem.name=Bacon Cheeseburger"
+  },
+  {
+    "key": "lang|item.potroastItem.name",
+    "original": "Pot Roast",
+    "translation": "포트 로스트",
+    "stage": 1,
+    "context": "item.potroastItem.name=Pot Roast"
+  },
+  {
+    "key": "lang|item.fishsandwichItem.name",
+    "original": "Fish Sandwich",
+    "translation": "물고기 샌드위치",
+    "stage": 1,
+    "context": "item.fishsandwichItem.name=Fish Sandwich"
+  },
+  {
+    "key": "lang|item.fishsticksItem.name",
+    "original": "Fish Sticks",
+    "translation": "물고기 튀김",
+    "stage": 1,
+    "context": "item.fishsticksItem.name=Fish Sticks"
+  },
+  {
+    "key": "lang|item.fishandchipsItem.name",
+    "original": "Fish and Chips",
+    "translation": "피시 앤 칩스",
+    "stage": 1,
+    "context": "item.fishandchipsItem.name=Fish and Chips"
+  },
+  {
+    "key": "lang|item.mayoItem.name",
+    "original": "Mayo",
+    "translation": "마요네즈",
+    "stage": 1,
+    "context": "item.mayoItem.name=Mayo"
+  },
+  {
+    "key": "lang|item.friedeggItem.name",
+    "original": "Fried Egg",
+    "translation": "계란 후라이",
+    "stage": 1,
+    "context": "item.friedeggItem.name=Fried Egg"
+  },
+  {
+    "key": "lang|item.scrambledeggItem.name",
+    "original": "Scrambled Egg",
+    "translation": "스크램블 에그",
+    "stage": 1,
+    "context": "item.scrambledeggItem.name=Scrambled Egg"
+  },
+  {
+    "key": "lang|item.boiledeggItem.name",
+    "original": "Boiled Egg",
+    "translation": "삶은 달걀",
+    "stage": 1,
+    "context": "item.boiledeggItem.name=Boiled Egg"
+  },
+  {
+    "key": "lang|item.eggsaladItem.name",
+    "original": "Egg Salad",
+    "translation": "달걀 샐러드",
+    "stage": 1,
+    "context": "item.eggsaladItem.name=Egg Salad"
+  },
+  {
+    "key": "lang|item.caramelItem.name",
+    "original": "Caramel",
+    "translation": "캐러멜",
+    "stage": 1,
+    "context": "item.caramelItem.name=Caramel"
+  },
+  {
+    "key": "lang|item.taffyItem.name",
+    "original": "Taffy",
+    "translation": "태피 ",
+    "stage": 1,
+    "context": "item.taffyItem.name=Taffy"
+  },
+  {
+    "key": "lang|item.spidereyesoupItem.name",
+    "original": "Spider Eye Soup",
+    "translation": "거미 눈알 수프",
+    "stage": 1,
+    "context": "item.spidereyesoupItem.name=Spider Eye Soup"
+  },
+  {
+    "key": "lang|item.zombiejerkyItem.name",
+    "original": "Zombie Jerky",
+    "translation": "좀비 육포",
+    "stage": 1,
+    "context": "item.zombiejerkyItem.name=Zombie Jerky"
+  },
+  {
+    "key": "lang|item.cocoapowderItem.name",
+    "original": "Cocoa Powder",
+    "translation": "코코아 가루",
+    "stage": 1,
+    "context": "item.cocoapowderItem.name=Cocoa Powder"
+  },
+  {
+    "key": "lang|item.chocolatebarItem.name",
+    "original": "Chocolate Bar",
+    "translation": "초코바",
+    "stage": 1,
+    "context": "item.chocolatebarItem.name=Chocolate Bar"
+  },
+  {
+    "key": "lang|item.hotchocolateItem.name",
+    "original": "Hot Chocolate",
+    "translation": "핫 초콜릿",
+    "stage": 1,
+    "context": "item.hotchocolateItem.name=Hot Chocolate"
+  },
+  {
+    "key": "lang|item.chocolateicecreamItem.name",
+    "original": "Chocolate Ice Cream",
+    "translation": "초콜릿 아이스크림",
+    "stage": 1,
+    "context": "item.chocolateicecreamItem.name=Chocolate Ice Cream"
+  },
+  {
+    "key": "lang|item.vegetablesoupItem.name",
+    "original": "Vegetable Soup",
+    "translation": "야채 수프",
+    "stage": 1,
+    "context": "item.vegetablesoupItem.name=Vegetable Soup"
+  },
+  {
+    "key": "lang|item.stockItem.name",
+    "original": "Stock",
+    "translation": "스톡",
+    "stage": 1,
+    "context": "item.stockItem.name=Stock"
+  },
+  {
+    "key": "lang|item.fruitsaladItem.name",
+    "original": "Fruit Salad",
+    "translation": "과일 샐러드",
+    "stage": 1,
+    "context": "item.fruitsaladItem.name=Fruit Salad"
+  },
+  {
+    "key": "lang|item.spagettiItem.name",
+    "original": "Spaghetti",
+    "translation": "스파게티",
+    "stage": 1,
+    "context": "item.spagettiItem.name=Spaghetti"
+  },
+  {
+    "key": "lang|item.spagettiandmeatballsItem.name",
+    "original": "Spaghetti and Meatballs",
+    "translation": "미트볼 스파게티",
+    "stage": 1,
+    "context": "item.spagettiandmeatballsItem.name=Spaghetti and Meatballs"
+  },
+  {
+    "key": "lang|item.tomatosoupItem.name",
+    "original": "Tomato Soup",
+    "translation": "토마토 수프",
+    "stage": 1,
+    "context": "item.tomatosoupItem.name=Tomato Soup"
+  },
+  {
+    "key": "lang|item.ketchupItem.name",
+    "original": "Ketchup",
+    "translation": "케첩",
+    "stage": 1,
+    "context": "item.ketchupItem.name=Ketchup"
+  },
+  {
+    "key": "lang|item.chickenparmasanItem.name",
+    "original": "Chicken Parmesan",
+    "translation": "치킨 파마산",
+    "stage": 1,
+    "context": "item.chickenparmasanItem.name=Chicken Parmesan"
+  },
+  {
+    "key": "lang|item.pizzaItem.name",
+    "original": "Pizza",
+    "translation": "피자",
+    "stage": 1,
+    "context": "item.pizzaItem.name=Pizza"
+  },
+  {
+    "key": "lang|item.springsaladItem.name",
+    "original": "Spring Salad",
+    "translation": "봄나물 샐러드",
+    "stage": 1,
+    "context": "item.springsaladItem.name=Spring Salad"
+  },
+  {
+    "key": "lang|item.porklettucewrapItem.name",
+    "original": "Pork Lettuce Wrap",
+    "translation": "돼지고기 상추 쌈",
+    "stage": 1,
+    "context": "item.porklettucewrapItem.name=Pork Lettuce Wrap"
+  },
+  {
+    "key": "lang|item.fishlettucewrapItem.name",
+    "original": "Fish Lettuce Wrap",
+    "translation": "물고기 상추 쌈",
+    "stage": 1,
+    "context": "item.fishlettucewrapItem.name=Fish Lettuce Wrap"
+  },
+  {
+    "key": "lang|item.bltItem.name",
+    "original": "BLT",
+    "translation": "BLT",
+    "stage": 1,
+    "context": "item.bltItem.name=BLT"
+  },
+  {
+    "key": "lang|item.leafychickensandwichItem.name",
+    "original": "Leafy Chicken Sandwich",
+    "translation": "야채 치킨 샌드위치",
+    "stage": 1,
+    "context": "item.leafychickensandwichItem.name=Leafy Chicken Sandwich"
+  },
+  {
+    "key": "lang|item.leafyfishsandwichItem.name",
+    "original": "Leafy Fish Sandwich",
+    "translation": "야채 물고기 샌드위치",
+    "stage": 1,
+    "context": "item.leafyfishsandwichItem.name=Leafy Fish Sandwich"
+  },
+  {
+    "key": "lang|item.deluxecheeseburgerItem.name",
+    "original": "Deluxe Cheeseburger",
+    "translation": "디럭스 치즈버거",
+    "stage": 1,
+    "context": "item.deluxecheeseburgerItem.name=Deluxe Cheeseburger"
+  },
+  {
+    "key": "lang|item.delightedmealItem.name",
+    "original": "Delighted Meal",
+    "translation": "햄버거 세트",
+    "stage": 1,
+    "context": "item.delightedmealItem.name=Delighted Meal"
+  },
+  {
+    "key": "lang|item.onionsoupItem.name",
+    "original": "Onion Soup",
+    "translation": "양파 수프",
+    "stage": 1,
+    "context": "item.onionsoupItem.name=Onion Soup"
+  },
+  {
+    "key": "lang|item.potatocakesItem.name",
+    "original": "Potato Cakes",
+    "translation": "감자 전",
+    "stage": 1,
+    "context": "item.potatocakesItem.name=Potato Cakes"
+  },
+  {
+    "key": "lang|item.hashItem.name",
+    "original": "Hash",
+    "translation": "해시",
+    "stage": 1,
+    "context": "item.hashItem.name=Hash"
+  },
+  {
+    "key": "lang|item.braisedonionsItem.name",
+    "original": "Braised Onions",
+    "translation": "볶은 양파",
+    "stage": 1,
+    "context": "item.braisedonionsItem.name=Braised Onions"
+  },
+  {
+    "key": "lang|item.heartybreakfastItem.name",
+    "original": "Hearty Breakfast",
+    "translation": "푸짐한 아침 식사",
+    "stage": 1,
+    "context": "item.heartybreakfastItem.name=Hearty Breakfast"
+  },
+  {
+    "key": "lang|item.cornonthecobItem.name",
+    "original": "Corn on the Cob",
+    "translation": "통옥수수",
+    "stage": 1,
+    "context": "item.cornonthecobItem.name=Corn on the Cob"
+  },
+  {
+    "key": "lang|item.cornmealItem.name",
+    "original": "Cornmeal",
+    "translation": "옥수숫가루 ",
+    "stage": 1,
+    "context": "item.cornmealItem.name=Cornmeal"
+  },
+  {
+    "key": "lang|item.cornbreadItem.name",
+    "original": "Cornbread",
+    "translation": "옥수수빵",
+    "stage": 1,
+    "context": "item.cornbreadItem.name=Cornbread"
+  },
+  {
+    "key": "lang|item.tortillaItem.name",
+    "original": "Tortilla",
+    "translation": "토르티야",
+    "stage": 1,
+    "context": "item.tortillaItem.name=Tortilla"
+  },
+  {
+    "key": "lang|item.nachoesItem.name",
+    "original": "Nachoes",
+    "translation": "나초",
+    "stage": 1,
+    "context": "item.nachoesItem.name=Nachoes"
+  },
+  {
+    "key": "lang|item.tacoItem.name",
+    "original": "Taco",
+    "translation": "타코",
+    "stage": 1,
+    "context": "item.tacoItem.name=Taco"
+  },
+  {
+    "key": "lang|item.fishtacoItem.name",
+    "original": "Fish Taco",
+    "translation": "물고기 타코",
+    "stage": 1,
+    "context": "item.fishtacoItem.name=Fish Taco"
+  },
+  {
+    "key": "lang|item.creamedcornItem.name",
+    "original": "Creamed Corn",
+    "translation": "크림 옥수수",
+    "stage": 1,
+    "context": "item.creamedcornItem.name=Creamed Corn"
+  },
+  {
+    "key": "lang|item.strawberrysmoothieItem.name",
+    "original": "Strawberry Smoothie",
+    "translation": "딸기 스무디",
+    "stage": 1,
+    "context": "item.strawberrysmoothieItem.name=Strawberry Smoothie"
+  },
+  {
+    "key": "lang|item.strawberrypieItem.name",
+    "original": "Strawberry Pie",
+    "translation": "딸기 파이",
+    "stage": 1,
+    "context": "item.strawberrypieItem.name=Strawberry Pie"
+  },
+  {
+    "key": "lang|item.strawberrysaladItem.name",
+    "original": "Strawberry Salad",
+    "translation": "딸기 샐러드",
+    "stage": 1,
+    "context": "item.strawberrysaladItem.name=Strawberry Salad"
+  },
+  {
+    "key": "lang|item.strawberryjuiceItem.name",
+    "original": "Strawberry Juice",
+    "translation": "딸기 주스",
+    "stage": 1,
+    "context": "item.strawberryjuiceItem.name=Strawberry Juice"
+  },
+  {
+    "key": "lang|item.chocolatestrawberryItem.name",
+    "original": "Chocolate Strawberry",
+    "translation": "초코딸기",
+    "stage": 1,
+    "context": "item.chocolatestrawberryItem.name=Chocolate Strawberry"
+  },
+  {
+    "key": "lang|item.peanutbutterItem.name",
+    "original": "Peanut Butter",
+    "translation": "땅콩버터",
+    "stage": 1,
+    "context": "item.peanutbutterItem.name=Peanut Butter"
+  },
+  {
+    "key": "lang|item.trailmixItem.name",
+    "original": "Trail Mix",
+    "translation": "트레일 믹스",
+    "stage": 1,
+    "context": "item.trailmixItem.name=Trail Mix"
+  },
+  {
+    "key": "lang|item.pbandjItem.name",
+    "original": "PB&J",
+    "translation": "땅콩버터와 잼 샌드위치",
+    "stage": 1,
+    "context": "item.pbandjItem.name=PB&J"
+  },
+  {
+    "key": "lang|item.peanutbuttercookiesItem.name",
+    "original": "Peanut Butter Cookies",
+    "translation": "땅콩버터 쿠키",
+    "stage": 1,
+    "context": "item.peanutbuttercookiesItem.name=Peanut Butter Cookies"
+  },
+  {
+    "key": "lang|item.grapejuiceItem.name",
+    "original": "Grape Juice",
+    "translation": "포도 주스",
+    "stage": 1,
+    "context": "item.grapejuiceItem.name=Grape Juice"
+  },
+  {
+    "key": "lang|item.vinegarItem.name",
+    "original": "Vinegar",
+    "translation": "식초",
+    "stage": 1,
+    "context": "item.vinegarItem.name=Vinegar"
+  },
+  {
+    "key": "lang|item.grapejellyItem.name",
+    "original": "Grape Jelly",
+    "translation": "포도잼",
+    "stage": 1,
+    "context": "item.grapejellyItem.name=Grape Jelly"
+  },
+  {
+    "key": "lang|item.grapesaladItem.name",
+    "original": "Grape Salad",
+    "translation": "포도 샐러드",
+    "stage": 1,
+    "context": "item.grapesaladItem.name=Grape Salad"
+  },
+  {
+    "key": "lang|item.raisincookiesItem.name",
+    "original": "Raisin Cookies",
+    "translation": "건포도 쿠키",
+    "stage": 1,
+    "context": "item.raisincookiesItem.name=Raisin Cookies"
+  },
+  {
+    "key": "lang|item.picklesItem.name",
+    "original": "Pickles",
+    "translation": "피클",
+    "stage": 1,
+    "context": "item.picklesItem.name=Pickles"
+  },
+  {
+    "key": "lang|item.cucumbersaladItem.name",
+    "original": "Cucumber Salad",
+    "translation": "오이 샐러드",
+    "stage": 1,
+    "context": "item.cucumbersaladItem.name=Cucumber Salad"
+  },
+  {
+    "key": "lang|item.cucumbersoupItem.name",
+    "original": "Cucumber Soup",
+    "translation": "오이 수프",
+    "stage": 1,
+    "context": "item.cucumbersoupItem.name=Cucumber Soup"
+  },
+  {
+    "key": "lang|item.vegetarianlettucewrapItem.name",
+    "original": "Vegetarian Lettuce Wrap",
+    "translation": "야채 상추 쌈",
+    "stage": 1,
+    "context": "item.vegetarianlettucewrapItem.name=Vegetarian Lettuce Wrap"
+  },
+  {
+    "key": "lang|item.marinatedcucumbersItem.name",
+    "original": "Marinated Cucumbers",
+    "translation": "오이 무침",
+    "stage": 1,
+    "context": "item.marinatedcucumbersItem.name=Marinated Cucumbers"
+  },
+  {
+    "key": "lang|item.ricesoupItem.name",
+    "original": "Rice Soup",
+    "translation": "쌀죽",
+    "stage": 1,
+    "context": "item.ricesoupItem.name=Rice Soup"
+  },
+  {
+    "key": "lang|item.friedriceItem.name",
+    "original": "Fried Rice",
+    "translation": "볶음밥",
+    "stage": 1,
+    "context": "item.friedriceItem.name=Fried Rice"
+  },
+  {
+    "key": "lang|item.mushroomrisottoItem.name",
+    "original": "Mushroom Risotto",
+    "translation": "버섯 리소토",
+    "stage": 1,
+    "context": "item.mushroomrisottoItem.name=Mushroom Risotto"
+  },
+  {
+    "key": "lang|item.curryItem.name",
+    "original": "Curry Rice",
+    "translation": "카레밥",
+    "stage": 1,
+    "context": "item.curryItem.name=Curry Rice"
+  },
+  {
+    "key": "lang|item.rainbowcurryItem.name",
+    "original": "Rainbow Curry",
+    "translation": "무지갯빛 카레",
+    "stage": 1,
+    "context": "item.rainbowcurryItem.name=Rainbow Curry"
+  },
+  {
+    "key": "lang|item.refriedbeansItem.name",
+    "original": "Refried Beans",
+    "translation": "으깬 콩",
+    "stage": 1,
+    "context": "item.refriedbeansItem.name=Refried Beans"
+  },
+  {
+    "key": "lang|item.bakedbeansItem.name",
+    "original": "Baked Beans",
+    "translation": "베이크드 빈즈",
+    "stage": 1,
+    "context": "item.bakedbeansItem.name=Baked Beans"
+  },
+  {
+    "key": "lang|item.beansandriceItem.name",
+    "original": "Beans and Rice",
+    "translation": "콩밥",
+    "stage": 1,
+    "context": "item.beansandriceItem.name=Beans and Rice"
+  },
+  {
+    "key": "lang|item.chiliItem.name",
+    "original": "Chili",
+    "translation": "칠리",
+    "stage": 1,
+    "context": "item.chiliItem.name=Chili"
+  },
+  {
+    "key": "lang|item.beanburritoItem.name",
+    "original": "Bean Burrito",
+    "translation": "콩 부리토",
+    "stage": 1,
+    "context": "item.beanburritoItem.name=Bean Burrito"
+  },
+  {
+    "key": "lang|item.stuffedpepperItem.name",
+    "original": "Stuffed Pepper",
+    "translation": "속을 채운 피망",
+    "stage": 1,
+    "context": "item.stuffedpepperItem.name=Stuffed Pepper"
+  },
+  {
+    "key": "lang|item.veggiestirfryItem.name",
+    "original": "Veggie Stirfry",
+    "translation": "야채 볶음",
+    "stage": 1,
+    "context": "item.veggiestirfryItem.name=Veggie Stirfry"
+  },
+  {
+    "key": "lang|item.grilledskewersItem.name",
+    "original": "Grilled Skewer",
+    "translation": "야채 꼬치구이",
+    "stage": 1,
+    "context": "item.grilledskewersItem.name=Grilled Skewer"
+  },
+  {
+    "key": "lang|item.supremepizzaItem.name",
+    "original": "Supreme Pizza",
+    "translation": "슈프림 피자",
+    "stage": 1,
+    "context": "item.supremepizzaItem.name=Supreme Pizza"
+  },
+  {
+    "key": "lang|item.omeletItem.name",
+    "original": "Omelette",
+    "translation": "오믈렛",
+    "stage": 1,
+    "context": "item.omeletItem.name=Omelette"
+  },
+  {
+    "key": "lang|item.hotwingsItem.name",
+    "original": "Hot Wings",
+    "translation": "버펄로 윙",
+    "stage": 1,
+    "context": "item.hotwingsItem.name=Hot Wings"
+  },
+  {
+    "key": "lang|item.chilipoppersItem.name",
+    "original": "Chili Poppers",
+    "translation": "고추튀김",
+    "stage": 1,
+    "context": "item.chilipoppersItem.name=Chili Poppers"
+  },
+  {
+    "key": "lang|item.extremechiliItem.name",
+    "original": "Extreme Chili",
+    "translation": "절라 매운 칠리",
+    "stage": 1,
+    "context": "item.extremechiliItem.name=Extreme Chili"
+  },
+  {
+    "key": "lang|item.chilichocolateItem.name",
+    "original": "Chili Chocolate",
+    "translation": "고추 초콜릿",
+    "stage": 1,
+    "context": "item.chilichocolateItem.name=Chili Chocolate"
+  },
+  {
+    "key": "lang|item.lemonaideItem.name",
+    "original": "Lemonade",
+    "translation": "레모네이드",
+    "stage": 1,
+    "context": "item.lemonaideItem.name=Lemonade"
+  },
+  {
+    "key": "lang|item.lemonbarItem.name",
+    "original": "Lemon Bar",
+    "translation": "레몬바",
+    "stage": 1,
+    "context": "item.lemonbarItem.name=Lemon Bar"
+  },
+  {
+    "key": "lang|item.fishdinnerItem.name",
+    "original": "Fish Dinner",
+    "translation": "생선 요리",
+    "stage": 1,
+    "context": "item.fishdinnerItem.name=Fish Dinner"
+  },
+  {
+    "key": "lang|item.lemonsmoothieItem.name",
+    "original": "Lemon Smoothie",
+    "translation": "레몬 스무디",
+    "stage": 1,
+    "context": "item.lemonsmoothieItem.name=Lemon Smoothie"
+  },
+  {
+    "key": "lang|item.lemonmeringueItem.name",
+    "original": "Lemon Meringue",
+    "translation": "레몬 머랭 파이",
+    "stage": 1,
+    "context": "item.lemonmeringueItem.name=Lemon Meringue"
+  },
+  {
+    "key": "lang|item.candiedlemonItem.name",
+    "original": "Candied Lemon",
+    "translation": "레몬 사탕",
+    "stage": 1,
+    "context": "item.candiedlemonItem.name=Candied Lemon"
+  },
+  {
+    "key": "lang|item.lemonchickenItem.name",
+    "original": "Lemon Chicken",
+    "translation": "레몬 치킨",
+    "stage": 1,
+    "context": "item.lemonchickenItem.name=Lemon Chicken"
+  },
+  {
+    "key": "lang|item.blueberrysmoothieItem.name",
+    "original": "Blueberry Smoothie",
+    "translation": "블루베리 스무디",
+    "stage": 1,
+    "context": "item.blueberrysmoothieItem.name=Blueberry Smoothie"
+  },
+  {
+    "key": "lang|item.blueberrypieItem.name",
+    "original": "Blueberry Pie",
+    "translation": "블루베리 파이",
+    "stage": 1,
+    "context": "item.blueberrypieItem.name=Blueberry Pie"
+  },
+  {
+    "key": "lang|item.blueberrymuffinItem.name",
+    "original": "Blueberry Muffin",
+    "translation": "블루베리 머핀",
+    "stage": 1,
+    "context": "item.blueberrymuffinItem.name=Blueberry Muffin"
+  },
+  {
+    "key": "lang|item.blueberryjuiceItem.name",
+    "original": "Blueberry Juice",
+    "translation": "블루베리 주스",
+    "stage": 1,
+    "context": "item.blueberryjuiceItem.name=Blueberry Juice"
+  },
+  {
+    "key": "lang|item.pancakesItem.name",
+    "original": "Pancakes",
+    "translation": "팬케이크",
+    "stage": 1,
+    "context": "item.pancakesItem.name=Pancakes"
+  },
+  {
+    "key": "lang|item.blueberrypancakesItem.name",
+    "original": "Blueberry Pancakes",
+    "translation": "블루베리 팬케이크",
+    "stage": 1,
+    "context": "item.blueberrypancakesItem.name=Blueberry Pancakes"
+  },
+  {
+    "key": "lang|item.cherryjuiceItem.name",
+    "original": "Cherry Juice",
+    "translation": "체리 주스",
+    "stage": 1,
+    "context": "item.cherryjuiceItem.name=Cherry Juice"
+  },
+  {
+    "key": "lang|item.cherrypieItem.name",
+    "original": "Cherry Pie",
+    "translation": "체리 파이",
+    "stage": 1,
+    "context": "item.cherrypieItem.name=Cherry Pie"
+  },
+  {
+    "key": "lang|item.chocolatecherryItem.name",
+    "original": "Chocolate Cherry",
+    "translation": "초코체리",
+    "stage": 1,
+    "context": "item.chocolatecherryItem.name=Chocolate Cherry"
+  },
+  {
+    "key": "lang|item.cherrysmoothieItem.name",
+    "original": "Cherry Smoothie",
+    "translation": "체리 스무디",
+    "stage": 1,
+    "context": "item.cherrysmoothieItem.name=Cherry Smoothie"
+  },
+  {
+    "key": "lang|item.cheesecakeItem.name",
+    "original": "Cheesecake",
+    "translation": "치즈케이크",
+    "stage": 1,
+    "context": "item.cheesecakeItem.name=Cheesecake"
+  },
+  {
+    "key": "lang|item.cherrycheesecakeItem.name",
+    "original": "Cherry Cheesecake",
+    "translation": "체리 치즈케이크",
+    "stage": 1,
+    "context": "item.cherrycheesecakeItem.name=Cherry Cheesecake"
+  },
+  {
+    "key": "lang|item.stuffedeggplantItem.name",
+    "original": "Stuffed Eggplant",
+    "translation": "가지순대",
+    "stage": 1,
+    "context": "item.stuffedeggplantItem.name=Stuffed Eggplant"
+  },
+  {
+    "key": "lang|item.eggplantparmItem.name",
+    "original": "Eggplant Parm",
+    "translation": "가지 파마산",
+    "stage": 1,
+    "context": "item.eggplantparmItem.name=Eggplant Parm"
+  },
+  {
+    "key": "lang|item.raspberryicedteaItem.name",
+    "original": "Raspberry Iced Tea",
+    "translation": "라즈베리 아이스티",
+    "stage": 1,
+    "context": "item.raspberryicedteaItem.name=Raspberry Iced Tea"
+  },
+  {
+    "key": "lang|item.chaiteaItem.name",
+    "original": "Chai Tea",
+    "translation": "마살라 차이",
+    "stage": 1,
+    "context": "item.chaiteaItem.name=Chai Tea"
+  },
+  {
+    "key": "lang|item.espressoItem.name",
+    "original": "Espresso",
+    "translation": "에스프레소",
+    "stage": 1,
+    "context": "item.espressoItem.name=Espresso"
+  },
+  {
+    "key": "lang|item.coffeeconlecheItem.name",
+    "original": "Coffee con Leche",
+    "translation": "카페 콘 레체",
+    "stage": 1,
+    "context": "item.coffeeconlecheItem.name=Coffee con Leche"
+  },
+  {
+    "key": "lang|item.mochaicecreamItem.name",
+    "original": "Mocha Ice Cream",
+    "translation": "모카 아이스크림",
+    "stage": 1,
+    "context": "item.mochaicecreamItem.name=Mocha Ice Cream"
+  },
+  {
+    "key": "lang|item.pickledbeetsItem.name",
+    "original": "Pickled Beets",
+    "translation": "비트 피클",
+    "stage": 1,
+    "context": "item.pickledbeetsItem.name=Pickled Beets"
+  },
+  {
+    "key": "lang|item.beetsaladItem.name",
+    "original": "Beet Salad",
+    "translation": "비트 샐러드",
+    "stage": 1,
+    "context": "item.beetsaladItem.name=Beet Salad"
+  },
+  {
+    "key": "lang|item.beetsoupItem.name",
+    "original": "Beet Soup",
+    "translation": "비트 수프",
+    "stage": 1,
+    "context": "item.beetsoupItem.name=Beet Soup"
+  },
+  {
+    "key": "lang|item.bakedbeetsItem.name",
+    "original": "Baked Beets",
+    "translation": "구운 비트",
+    "stage": 1,
+    "context": "item.bakedbeetsItem.name=Baked Beets"
+  },
+  {
+    "key": "lang|item.broccolimacItem.name",
+    "original": "Broccoli Mac",
+    "translation": "브로콜리 맥앤치즈",
+    "stage": 1,
+    "context": "item.broccolimacItem.name=Broccoli Mac"
+  },
+  {
+    "key": "lang|item.broccolindipItem.name",
+    "original": "Broccoli n Dip",
+    "translation": "브로콜리와 딥",
+    "stage": 1,
+    "context": "item.broccolindipItem.name=Broccoli n Dip"
+  },
+  {
+    "key": "lang|item.creamedbroccolisoupItem.name",
+    "original": "Creamed Broccoli Soup",
+    "translation": "브로콜리 크림 수프",
+    "stage": 1,
+    "context": "item.creamedbroccolisoupItem.name=Creamed Broccoli Soup"
+  },
+  {
+    "key": "lang|item.sweetpotatopieItem.name",
+    "original": "Sweet Potato Pie",
+    "translation": "고구마 파이",
+    "stage": 1,
+    "context": "item.sweetpotatopieItem.name=Sweet Potato Pie"
+  },
+  {
+    "key": "lang|item.candiedsweetpotatoesItem.name",
+    "original": "Candied Sweet Potatoes",
+    "translation": "고구마 맛탕",
+    "stage": 1,
+    "context": "item.candiedsweetpotatoesItem.name=Candied Sweet Potatoes"
+  },
+  {
+    "key": "lang|item.mashedsweetpotatoesItem.name",
+    "original": "Mashed Sweet Potatoes",
+    "translation": "으깬 고구마",
+    "stage": 1,
+    "context": "item.mashedsweetpotatoesItem.name=Mashed Sweet Potatoes"
+  },
+  {
+    "key": "lang|item.steamedpeasItem.name",
+    "original": "Steamed Peas",
+    "translation": "찐 완두콩",
+    "stage": 1,
+    "context": "item.steamedpeasItem.name=Steamed Peas"
+  },
+  {
+    "key": "lang|item.splitpeasoupItem.name",
+    "original": "Split Pea Soup",
+    "translation": "완두 수프",
+    "stage": 1,
+    "context": "item.splitpeasoupItem.name=Split Pea Soup"
+  },
+  {
+    "key": "lang|item.pineappleupsidedowncakeItem.name",
+    "original": "Pineapple Upsidedown Cake",
+    "translation": "파인애플을 엎은 케이크",
+    "stage": 1,
+    "context": "item.pineappleupsidedowncakeItem.name=Pineapple Upsidedown Cake"
+  },
+  {
+    "key": "lang|item.pineapplehamItem.name",
+    "original": "Pineapple Ham",
+    "translation": "파인애플 햄",
+    "stage": 1,
+    "context": "item.pineapplehamItem.name=Pineapple Ham"
+  },
+  {
+    "key": "lang|item.pineappleyogurtItem.name",
+    "original": "Pineapple Yogurt",
+    "translation": "파인애플 요거트",
+    "stage": 1,
+    "context": "item.pineappleyogurtItem.name=Pineapple Yogurt"
+  },
+  {
+    "key": "lang|item.turnipsoupItem.name",
+    "original": "Turnip Soup",
+    "translation": "순무 수프",
+    "stage": 1,
+    "context": "item.turnipsoupItem.name=Turnip Soup"
+  },
+  {
+    "key": "lang|item.roastedrootveggiemedleyItem.name",
+    "original": "Roasted Root Veggie Medley",
+    "translation": "구운 뿌리 채소 모둠",
+    "stage": 1,
+    "context": "item.roastedrootveggiemedleyItem.name=Roasted Root Veggie Medley"
+  },
+  {
+    "key": "lang|item.bakedturnipsItem.name",
+    "original": "Baked Turnips",
+    "translation": "구운 순무",
+    "stage": 1,
+    "context": "item.bakedturnipsItem.name=Baked Turnips"
+  },
+  {
+    "key": "lang|item.gingerbreadItem.name",
+    "original": "Ginger Bread",
+    "translation": "진저브레드",
+    "stage": 1,
+    "context": "item.gingerbreadItem.name=Ginger Bread"
+  },
+  {
+    "key": "lang|item.gingersnapsItem.name",
+    "original": "Ginger Snaps",
+    "translation": "진저 스냅",
+    "stage": 1,
+    "context": "item.gingersnapsItem.name=Ginger Snaps"
+  },
+  {
+    "key": "lang|item.candiedgingerItem.name",
+    "original": "Candied Ginger",
+    "translation": "생강 편강",
+    "stage": 1,
+    "context": "item.candiedgingerItem.name=Candied Ginger"
+  },
+  {
+    "key": "lang|item.mustardItem.name",
+    "original": "Mustard",
+    "translation": "겨자",
+    "stage": 1,
+    "context": "item.mustardItem.name=Mustard"
+  },
+  {
+    "key": "lang|item.softpretzelandmustardItem.name",
+    "original": "Soft Pretzel and Mustard",
+    "translation": "부드러운 프레첼과 겨자",
+    "stage": 1,
+    "context": "item.softpretzelandmustardItem.name=Soft Pretzel and Mustard"
+  },
+  {
+    "key": "lang|item.spicymustardporkItem.name",
+    "original": "Spicy Mustard Pork",
+    "translation": "매운 겨자 돼지구이",
+    "stage": 1,
+    "context": "item.spicymustardporkItem.name=Spicy Mustard Pork"
+  },
+  {
+    "key": "lang|item.spicygreensItem.name",
+    "original": "Spicy Greens",
+    "translation": "매운 샐러드",
+    "stage": 1,
+    "context": "item.spicygreensItem.name=Spicy Greens"
+  },
+  {
+    "key": "lang|item.garlicbreadItem.name",
+    "original": "Garlic Bread",
+    "translation": "마늘빵",
+    "stage": 1,
+    "context": "item.garlicbreadItem.name=Garlic Bread"
+  },
+  {
+    "key": "lang|item.garlicmashedpotatoesItem.name",
+    "original": "Garlic Mashed Potatoes",
+    "translation": "마늘 넣은 으깬 감자",
+    "stage": 1,
+    "context": "item.garlicmashedpotatoesItem.name=Garlic Mashed Potatoes"
+  },
+  {
+    "key": "lang|item.garlicchickenItem.name",
+    "original": "Garlic Chicken",
+    "translation": "마늘 치킨",
+    "stage": 1,
+    "context": "item.garlicchickenItem.name=Garlic Chicken"
+  },
+  {
+    "key": "lang|item.summerradishsaladItem.name",
+    "original": "Summer Radish Salad",
+    "translation": "여름 무 샐러드",
+    "stage": 1,
+    "context": "item.summerradishsaladItem.name=Summer Radish Salad"
+  },
+  {
+    "key": "lang|item.summersquashwithradishItem.name",
+    "original": "Summer Squash with Radish",
+    "translation": "여름 호박과 무",
+    "stage": 1,
+    "context": "item.summersquashwithradishItem.name=Summer Squash with Radish"
+  },
+  {
+    "key": "lang|item.celeryandpeanutbutterItem.name",
+    "original": "Celery and Peanut Butter",
+    "translation": "셀러리와 땅콩버터",
+    "stage": 1,
+    "context": "item.celeryandpeanutbutterItem.name=Celery and Peanut Butter"
+  },
+  {
+    "key": "lang|item.chickencelerycasseroleItem.name",
+    "original": "Chicken Celery Casserole",
+    "translation": "치킨 셀러리 케서롤",
+    "stage": 1,
+    "context": "item.chickencelerycasseroleItem.name=Chicken Celery Casserole"
+  },
+  {
+    "key": "lang|item.peasandceleryItem.name",
+    "original": "Peas and Celery",
+    "translation": "완두콩과 셀러리",
+    "stage": 1,
+    "context": "item.peasandceleryItem.name=Peas and Celery"
+  },
+  {
+    "key": "lang|item.celerysoupItem.name",
+    "original": "Celery Soup",
+    "translation": "셀러리 수프",
+    "stage": 1,
+    "context": "item.celerysoupItem.name=Celery Soup"
+  },
+  {
+    "key": "lang|item.zucchinibreadItem.name",
+    "original": "Zucchini Bread",
+    "translation": "애호박 빵",
+    "stage": 1,
+    "context": "item.zucchinibreadItem.name=Zucchini Bread"
+  },
+  {
+    "key": "lang|item.zucchinifriesItem.name",
+    "original": "Zucchini Fries",
+    "translation": "애호박 튀김",
+    "stage": 1,
+    "context": "item.zucchinifriesItem.name=Zucchini Fries"
+  },
+  {
+    "key": "lang|item.zestyzucchiniItem.name",
+    "original": "Zesty Zucchini",
+    "translation": "애호박 파스타",
+    "stage": 1,
+    "context": "item.zestyzucchiniItem.name=Zesty Zucchini"
+  },
+  {
+    "key": "lang|item.zucchinibakeItem.name",
+    "original": "Zucchini Bake",
+    "translation": "애호박 캐서롤",
+    "stage": 1,
+    "context": "item.zucchinibakeItem.name=Zucchini Bake"
+  },
+  {
+    "key": "lang|item.asparagusquicheItem.name",
+    "original": "Asparagus Quiche",
+    "translation": "아스파라거스 키슈",
+    "stage": 1,
+    "context": "item.asparagusquicheItem.name=Asparagus Quiche"
+  },
+  {
+    "key": "lang|item.asparagussoupItem.name",
+    "original": "Asparagus Soup",
+    "translation": "아스파라거스 수프",
+    "stage": 1,
+    "context": "item.asparagussoupItem.name=Asparagus Soup"
+  },
+  {
+    "key": "lang|item.walnutraisinbreadItem.name",
+    "original": "Walnut Raisin Bread",
+    "translation": "호두 건포도 빵",
+    "stage": 1,
+    "context": "item.walnutraisinbreadItem.name=Walnut Raisin Bread"
+  },
+  {
+    "key": "lang|item.candiedwalnutsItem.name",
+    "original": "Candied Walnuts",
+    "translation": "호두 강정",
+    "stage": 1,
+    "context": "item.candiedwalnutsItem.name=Candied Walnuts"
+  },
+  {
+    "key": "lang|item.brownieItem.name",
+    "original": "Brownie",
+    "translation": "브라우니",
+    "stage": 1,
+    "context": "item.brownieItem.name=Brownie"
+  },
+  {
+    "key": "lang|item.papayajuiceItem.name",
+    "original": "Papaya Juice",
+    "translation": "파파야 주스",
+    "stage": 1,
+    "context": "item.papayajuiceItem.name=Papaya Juice"
+  },
+  {
+    "key": "lang|item.papayasmoothieItem.name",
+    "original": "Papaya Smoothie",
+    "translation": "파파야 스무디",
+    "stage": 1,
+    "context": "item.papayasmoothieItem.name=Papaya Smoothie"
+  },
+  {
+    "key": "lang|item.papayayogurtItem.name",
+    "original": "Papaya Yogurt",
+    "translation": "파파야 요거트",
+    "stage": 1,
+    "context": "item.papayayogurtItem.name=Papaya Yogurt"
+  },
+  {
+    "key": "lang|item.starfruitjuiceItem.name",
+    "original": "Starfruit Juice",
+    "translation": "스타프루트 주스",
+    "stage": 1,
+    "context": "item.starfruitjuiceItem.name=Starfruit Juice"
+  },
+  {
+    "key": "lang|item.starfruitsmoothieItem.name",
+    "original": "Starfruit Smoothie",
+    "translation": "스타푸루트 스무디",
+    "stage": 1,
+    "context": "item.starfruitsmoothieItem.name=Starfruit Smoothie"
+  },
+  {
+    "key": "lang|item.starfruityogurtItem.name",
+    "original": "Starfruit Yogurt",
+    "translation": "스타프루트 요거트",
+    "stage": 1,
+    "context": "item.starfruityogurtItem.name=Starfruit Yogurt"
+  },
+  {
+    "key": "lang|item.guacamoleItem.name",
+    "original": "Guacamole",
+    "translation": "과카몰레",
+    "stage": 1,
+    "context": "item.guacamoleItem.name=Guacamole"
+  },
+  {
+    "key": "lang|item.creamofavocadosoupItem.name",
+    "original": "Cream of Avocado Soup",
+    "translation": "아보카도 크림 수프",
+    "stage": 1,
+    "context": "item.creamofavocadosoupItem.name=Cream of Avocado Soup"
+  },
+  {
+    "key": "lang|item.avocadoburritoItem.name",
+    "original": "Avocado Burrito",
+    "translation": "아보카도 부리토",
+    "stage": 1,
+    "context": "item.avocadoburritoItem.name=Avocado Burrito"
+  },
+  {
+    "key": "lang|item.poachedpearItem.name",
+    "original": "Poached Pear",
+    "translation": "삶은 배",
+    "stage": 1,
+    "context": "item.poachedpearItem.name=Poached Pear"
+  },
+  {
+    "key": "lang|item.fruitcrumbleItem.name",
+    "original": "Fruit Crumble",
+    "translation": "과일 크럼블",
+    "stage": 1,
+    "context": "item.fruitcrumbleItem.name=Fruit Crumble"
+  },
+  {
+    "key": "lang|item.pearyogurtItem.name",
+    "original": "Pear Yogurt",
+    "translation": "배 요거트",
+    "stage": 1,
+    "context": "item.pearyogurtItem.name=Pear Yogurt"
+  },
+  {
+    "key": "lang|item.plumyogurtItem.name",
+    "original": "Plum Yogurt",
+    "translation": "자두 요거트",
+    "stage": 1,
+    "context": "item.plumyogurtItem.name=Plum Yogurt"
+  },
+  {
+    "key": "lang|item.bananasplitItem.name",
+    "original": "Banana Split",
+    "translation": "바나나 스플릿",
+    "stage": 1,
+    "context": "item.bananasplitItem.name=Banana Split"
+  },
+  {
+    "key": "lang|item.bananajuiceItem.name",
+    "original": "Banana Juice",
+    "translation": "바나나 주스",
+    "stage": 1,
+    "context": "item.bananajuiceItem.name=Banana Juice"
+  },
+  {
+    "key": "lang|item.banananutbreadItem.name",
+    "original": "Banana Nut Bread",
+    "translation": "바나나 견과 빵",
+    "stage": 1,
+    "context": "item.banananutbreadItem.name=Banana Nut Bread"
+  },
+  {
+    "key": "lang|item.bananasmoothieItem.name",
+    "original": "Banana Smoothie",
+    "translation": "바나나 스무디",
+    "stage": 1,
+    "context": "item.bananasmoothieItem.name=Banana Smoothie"
+  },
+  {
+    "key": "lang|item.bananayogurtItem.name",
+    "original": "Banana Yogurt",
+    "translation": "바나나 요거트",
+    "stage": 1,
+    "context": "item.bananayogurtItem.name=Banana Yogurt"
+  },
+  {
+    "key": "lang|item.coconutmilkItem.name",
+    "original": "Coconut Milk",
+    "translation": "코코넛 밀크",
+    "stage": 1,
+    "context": "item.coconutmilkItem.name=Coconut Milk"
+  },
+  {
+    "key": "lang|item.chickencurryItem.name",
+    "original": "Chicken Curry",
+    "translation": "닭고기 카레",
+    "stage": 1,
+    "context": "item.chickencurryItem.name=Chicken Curry"
+  },
+  {
+    "key": "lang|item.coconutshrimpItem.name",
+    "original": "Coconut Shrimp",
+    "translation": "코코넛 쉬림프",
+    "stage": 1,
+    "context": "item.coconutshrimpItem.name=Coconut Shrimp"
+  },
+  {
+    "key": "lang|item.coconutyogurtItem.name",
+    "original": "Coconut Yogurt",
+    "translation": "코코넛 요거트",
+    "stage": 1,
+    "context": "item.coconutyogurtItem.name=Coconut Yogurt"
+  },
+  {
+    "key": "lang|item.orangejuiceItem.name",
+    "original": "Orange Juice",
+    "translation": "오렌지 ",
+    "stage": 1,
+    "context": "item.orangejuiceItem.name=Orange Juice"
+  },
+  {
+    "key": "lang|item.orangechickenItem.name",
+    "original": "Orange Chicken",
+    "translation": "오렌지 치킨",
+    "stage": 1,
+    "context": "item.orangechickenItem.name=Orange Chicken"
+  },
+  {
+    "key": "lang|item.orangesmoothieItem.name",
+    "original": "Orange Smoothie",
+    "translation": "오렌지 스무디",
+    "stage": 1,
+    "context": "item.orangesmoothieItem.name=Orange Smoothie"
+  },
+  {
+    "key": "lang|item.orangeyogurtItem.name",
+    "original": "Orange Yogurt",
+    "translation": "오렌지 요거트",
+    "stage": 1,
+    "context": "item.orangeyogurtItem.name=Orange Yogurt"
+  },
+  {
+    "key": "lang|item.peachjuiceItem.name",
+    "original": "Peach Juice",
+    "translation": "복숭아 ",
+    "stage": 1,
+    "context": "item.peachjuiceItem.name=Peach Juice"
+  },
+  {
+    "key": "lang|item.peachcobblerItem.name",
+    "original": "Peach Cobbler",
+    "translation": "복숭아 코블러",
+    "stage": 1,
+    "context": "item.peachcobblerItem.name=Peach Cobbler"
+  },
+  {
+    "key": "lang|item.peachsmoothieItem.name",
+    "original": "Peach Smoothie",
+    "translation": "복숭아 스무디",
+    "stage": 1,
+    "context": "item.peachsmoothieItem.name=Peach Smoothie"
+  },
+  {
+    "key": "lang|item.peachyogurtItem.name",
+    "original": "Peach Yogurt",
+    "translation": "복숭아 요거트",
+    "stage": 1,
+    "context": "item.peachyogurtItem.name=Peach Yogurt"
+  },
+  {
+    "key": "lang|item.limejuiceItem.name",
+    "original": "Lime Juice",
+    "translation": "라임 ",
+    "stage": 1,
+    "context": "item.limejuiceItem.name=Lime Juice"
+  },
+  {
+    "key": "lang|item.keylimepieItem.name",
+    "original": "Keylime Pie",
+    "translation": "키라임 파이",
+    "stage": 1,
+    "context": "item.keylimepieItem.name=Keylime Pie"
+  },
+  {
+    "key": "lang|item.limesmoothieItem.name",
+    "original": "Lime Smoothie",
+    "translation": "라임 스무디",
+    "stage": 1,
+    "context": "item.limesmoothieItem.name=Lime Smoothie"
+  },
+  {
+    "key": "lang|item.limeyogurtItem.name",
+    "original": "Lime Yogurt",
+    "translation": "라임 요거트",
+    "stage": 1,
+    "context": "item.limeyogurtItem.name=Lime Yogurt"
+  },
+  {
+    "key": "lang|item.mangojuiceItem.name",
+    "original": "Mango Juice",
+    "translation": "망고 주스",
+    "stage": 1,
+    "context": "item.mangojuiceItem.name=Mango Juice"
+  },
+  {
+    "key": "lang|item.mangosmoothieItem.name",
+    "original": "Mango Smoothie",
+    "translation": "망고 스무디",
+    "stage": 1,
+    "context": "item.mangosmoothieItem.name=Mango Smoothie"
+  },
+  {
+    "key": "lang|item.mangoyogurtItem.name",
+    "original": "Mango Yogurt",
+    "translation": "망고 요거트",
+    "stage": 1,
+    "context": "item.mangoyogurtItem.name=Mango Yogurt"
+  },
+  {
+    "key": "lang|item.pomegranatejuiceItem.name",
+    "original": "Pomegranate Juice",
+    "translation": "석류 주스",
+    "stage": 1,
+    "context": "item.pomegranatejuiceItem.name=Pomegranate Juice"
+  },
+  {
+    "key": "lang|item.pomegranatesmoothieItem.name",
+    "original": "Pomegranate Smoothie",
+    "translation": "석류 스무디",
+    "stage": 1,
+    "context": "item.pomegranatesmoothieItem.name=Pomegranate Smoothie"
+  },
+  {
+    "key": "lang|item.pomegranateyogurtItem.name",
+    "original": "Pomegranate Yogurt",
+    "translation": "석류 요거트",
+    "stage": 1,
+    "context": "item.pomegranateyogurtItem.name=Pomegranate Yogurt"
+  },
+  {
+    "key": "lang|item.vanillayogurtItem.name",
+    "original": "Vanilla Yogurt",
+    "translation": "바닐라 요거트",
+    "stage": 1,
+    "context": "item.vanillayogurtItem.name=Vanilla Yogurt"
+  },
+  {
+    "key": "lang|item.cinnamonrollItem.name",
+    "original": "Cinnamon Roll",
+    "translation": "시나몬 롤",
+    "stage": 1,
+    "context": "item.cinnamonrollItem.name=Cinnamon Roll"
+  },
+  {
+    "key": "lang|item.frenchtoastItem.name",
+    "original": "French Toast",
+    "translation": "프렌치 토스트",
+    "stage": 1,
+    "context": "item.frenchtoastItem.name=French Toast"
+  },
+  {
+    "key": "lang|item.marshmellowsItem.name",
+    "original": "Marshmallows",
+    "translation": "마시멜로",
+    "stage": 1,
+    "context": "item.marshmellowsItem.name=Marshmallows"
+  },
+  {
+    "key": "lang|item.donutItem.name",
+    "original": "Donut",
+    "translation": "도넛",
+    "stage": 1,
+    "context": "item.donutItem.name=Donut"
+  },
+  {
+    "key": "lang|item.chocolatedonutItem.name",
+    "original": "Chocolate Donut",
+    "translation": "초코 도넛",
+    "stage": 1,
+    "context": "item.chocolatedonutItem.name=Chocolate Donut"
+  },
+  {
+    "key": "lang|item.powdereddonutItem.name",
+    "original": "Powdered Donut",
+    "translation": "파우더 도넛",
+    "stage": 1,
+    "context": "item.powdereddonutItem.name=Powdered Donut"
+  },
+  {
+    "key": "lang|item.jellydonutItem.name",
+    "original": "Jelly Donut",
+    "translation": "잼 도넛",
+    "stage": 1,
+    "context": "item.jellydonutItem.name=Jelly Donut"
+  },
+  {
+    "key": "lang|item.frosteddonutItem.name",
+    "original": "Frosted Donut",
+    "translation": "프로스트 도넛",
+    "stage": 1,
+    "context": "item.frosteddonutItem.name=Frosted Donut"
+  },
+  {
+    "key": "lang|item.cactussoupItem.name",
+    "original": "Cactus Soup",
+    "translation": "선인장 수프",
+    "stage": 1,
+    "context": "item.cactussoupItem.name=Cactus Soup"
+  },
+  {
+    "key": "lang|item.wafflesItem.name",
+    "original": "Waffles",
+    "translation": "와플",
+    "stage": 1,
+    "context": "item.wafflesItem.name=Waffles"
+  },
+  {
+    "key": "lang|item.seedsoupItem.name",
+    "original": "Seed Soup",
+    "translation": "씨앗 수프",
+    "stage": 1,
+    "context": "item.seedsoupItem.name=Seed Soup"
+  },
+  {
+    "key": "lang|item.softpretzelItem.name",
+    "original": "Soft Pretzel",
+    "translation": "부드러운 프레첼",
+    "stage": 1,
+    "context": "item.softpretzelItem.name=Soft Pretzel"
+  },
+  {
+    "key": "lang|item.jellybeansItem.name",
+    "original": "Jellybeans",
+    "translation": "젤리빈",
+    "stage": 1,
+    "context": "item.jellybeansItem.name=Jellybeans"
+  },
+  {
+    "key": "lang|item.biscuitItem.name",
+    "original": "Biscuit",
+    "translation": "비스킷",
+    "stage": 1,
+    "context": "item.biscuitItem.name=Biscuit"
+  },
+  {
+    "key": "lang|item.creamcookieItem.name",
+    "original": "Cream Cookie",
+    "translation": "크림 쿠키",
+    "stage": 1,
+    "context": "item.creamcookieItem.name=Cream Cookie"
+  },
+  {
+    "key": "lang|item.jaffaItem.name",
+    "original": "Jaffa",
+    "translation": "자파",
+    "stage": 1,
+    "context": "item.jaffaItem.name=Jaffa"
+  },
+  {
+    "key": "lang|item.friedchickenItem.name",
+    "original": "Fried Chicken",
+    "translation": "프라이드 치킨",
+    "stage": 1,
+    "context": "item.friedchickenItem.name=Fried Chicken"
+  },
+  {
+    "key": "lang|item.chocolatesprinklecakeItem.name",
+    "original": "Chocolate Sprinkles Cake",
+    "translation": "초콜릿 스프링클 케이크",
+    "stage": 1,
+    "context": "item.chocolatesprinklecakeItem.name=Chocolate Sprinkles Cake"
+  },
+  {
+    "key": "lang|item.redvelvetcakeItem.name",
+    "original": "Red Velvet Cake",
+    "translation": "레드 벨벳 케이크",
+    "stage": 1,
+    "context": "item.redvelvetcakeItem.name=Red Velvet Cake"
+  },
+  {
+    "key": "lang|item.footlongItem.name",
+    "original": "Footlong",
+    "translation": "풋롱 샌드위치",
+    "stage": 1,
+    "context": "item.footlongItem.name=Footlong"
+  },
+  {
+    "key": "lang|item.blueberryyogurtItem.name",
+    "original": "Blueberry Yogurt",
+    "translation": "블루베리 요거트",
+    "stage": 1,
+    "context": "item.blueberryyogurtItem.name=Blueberry Yogurt"
+  },
+  {
+    "key": "lang|item.lemonyogurtItem.name",
+    "original": "Lemon Yogurt",
+    "translation": "레몬 요거트",
+    "stage": 1,
+    "context": "item.lemonyogurtItem.name=Lemon Yogurt"
+  },
+  {
+    "key": "lang|item.cherryyogurtItem.name",
+    "original": "Cherry Yogurt",
+    "translation": "체리 요거트",
+    "stage": 1,
+    "context": "item.cherryyogurtItem.name=Cherry Yogurt"
+  },
+  {
+    "key": "lang|item.strawberryyogurtItem.name",
+    "original": "Strawberry Yogurt",
+    "translation": "딸기 요거트",
+    "stage": 1,
+    "context": "item.strawberryyogurtItem.name=Strawberry Yogurt"
+  },
+  {
+    "key": "lang|item.grapeyogurtItem.name",
+    "original": "Grape Yogurt",
+    "translation": "포도 요거트",
+    "stage": 1,
+    "context": "item.grapeyogurtItem.name=Grape Yogurt"
+  },
+  {
+    "key": "lang|item.chocolateyogurtItem.name",
+    "original": "Chocolate Yogurt",
+    "translation": "초콜릿 요거트",
+    "stage": 1,
+    "context": "item.chocolateyogurtItem.name=Chocolate Yogurt"
+  },
+  {
+    "key": "lang|item.blackberryjuiceItem.name",
+    "original": "Blackberry Juice",
+    "translation": "블랙베리 주스",
+    "stage": 1,
+    "context": "item.blackberryjuiceItem.name=Blackberry Juice"
+  },
+  {
+    "key": "lang|item.blackberrycobblerItem.name",
+    "original": "Blackberry Cobbler",
+    "translation": "블랙베리 코블러",
+    "stage": 1,
+    "context": "item.blackberrycobblerItem.name=Blackberry Cobbler"
+  },
+  {
+    "key": "lang|item.blackberrysmoothieItem.name",
+    "original": "Blackberry Smoothie",
+    "translation": "블랙베리 스무디",
+    "stage": 1,
+    "context": "item.blackberrysmoothieItem.name=Blackberry Smoothie"
+  },
+  {
+    "key": "lang|item.blackberryyogurtItem.name",
+    "original": "Blackberry Yogurt",
+    "translation": "블랙베리 요거트",
+    "stage": 1,
+    "context": "item.blackberryyogurtItem.name=Blackberry Yogurt"
+  },
+  {
+    "key": "lang|item.chocolatemilkItem.name",
+    "original": "Chocolate Milk",
+    "translation": "초코 우유",
+    "stage": 1,
+    "context": "item.chocolatemilkItem.name=Chocolate Milk"
+  },
+  {
+    "key": "lang|item.pumpkinyogurtItem.name",
+    "original": "Pumpkin Yogurt",
+    "translation": "호박 요거트",
+    "stage": 1,
+    "context": "item.pumpkinyogurtItem.name=Pumpkin Yogurt"
+  },
+  {
+    "key": "lang|item.raspberryjuiceItem.name",
+    "original": "Raspberry Juice",
+    "translation": "라즈베리 주스",
+    "stage": 1,
+    "context": "item.raspberryjuiceItem.name=Raspberry Juice"
+  },
+  {
+    "key": "lang|item.raspberrypieItem.name",
+    "original": "Raspberry Pie",
+    "translation": "라즈베리 파이",
+    "stage": 1,
+    "context": "item.raspberrypieItem.name=Raspberry Pie"
+  },
+  {
+    "key": "lang|item.raspberrysmoothieItem.name",
+    "original": "Raspberry Smoothie",
+    "translation": "라즈베리 스무디",
+    "stage": 1,
+    "context": "item.raspberrysmoothieItem.name=Raspberry Smoothie"
+  },
+  {
+    "key": "lang|item.raspberryyogurtItem.name",
+    "original": "Raspberry Yogurt",
+    "translation": "라즈베리 요거트",
+    "stage": 1,
+    "context": "item.raspberryyogurtItem.name=Raspberry Yogurt"
+  },
+  {
+    "key": "lang|item.cinnamonsugardonutItem.name",
+    "original": "Cinnamon Sugar Donut",
+    "translation": "계피 설탕 도넛",
+    "stage": 1,
+    "context": "item.cinnamonsugardonutItem.name=Cinnamon Sugar Donut"
+  },
+  {
+    "key": "lang|item.melonyogurtItem.name",
+    "original": "Melon Yogurt",
+    "translation": "멜론 요거트",
+    "stage": 1,
+    "context": "item.melonyogurtItem.name=Melon Yogurt"
+  },
+  {
+    "key": "lang|item.kiwijuiceItem.name",
+    "original": "Kiwi Juice",
+    "translation": "키위 주스",
+    "stage": 1,
+    "context": "item.kiwijuiceItem.name=Kiwi Juice"
+  },
+  {
+    "key": "lang|item.kiwismoothieItem.name",
+    "original": "Kiwi Smoothie",
+    "translation": "키위 스무디",
+    "stage": 1,
+    "context": "item.kiwismoothieItem.name=Kiwi Smoothie"
+  },
+  {
+    "key": "lang|item.kiwiyogurtItem.name",
+    "original": "Kiwi Yogurt",
+    "translation": "키위 요거트",
+    "stage": 1,
+    "context": "item.kiwiyogurtItem.name=Kiwi Yogurt"
+  },
+  {
+    "key": "lang|item.plainyogurtItem.name",
+    "original": "Plain Yogurt",
+    "translation": "플레인 요거트",
+    "stage": 1,
+    "context": "item.plainyogurtItem.name=Plain Yogurt"
+  },
+  {
+    "key": "lang|item.appleyogurtItem.name",
+    "original": "Apple Yogurt",
+    "translation": "사과 요거트",
+    "stage": 1,
+    "context": "item.appleyogurtItem.name=Apple Yogurt"
+  },
+  {
+    "key": "lang|item.saltedsunflowerseedsItem.name",
+    "original": "Salted Sunflower Seeds",
+    "translation": "간 된 해바라기 씨",
+    "stage": 1,
+    "context": "item.saltedsunflowerseedsItem.name=Salted Sunflower Seeds"
+  },
+  {
+    "key": "lang|item.sunflowerwheatrollsItem.name",
+    "original": "Sunflower Wheat Rolls",
+    "translation": "해바라기 씨앗 롤빵",
+    "stage": 1,
+    "context": "item.sunflowerwheatrollsItem.name=Sunflower Wheat Rolls"
+  },
+  {
+    "key": "lang|item.sunflowerbroccolisaladItem.name",
+    "original": "Sunflower Broccoli Salad",
+    "translation": "해바라기 씨앗과 브로콜리 샐러드",
+    "stage": 1,
+    "context": "item.sunflowerbroccolisaladItem.name=Sunflower Broccoli Salad"
+  },
+  {
+    "key": "lang|item.cranberryjuiceItem.name",
+    "original": "Cranberry Juice",
+    "translation": "크랜베리 주스",
+    "stage": 1,
+    "context": "item.cranberryjuiceItem.name=Cranberry Juice"
+  },
+  {
+    "key": "lang|item.cranberrysauceItem.name",
+    "original": "Cranberry Sauce",
+    "translation": "크랜베리 소스",
+    "stage": 1,
+    "context": "item.cranberrysauceItem.name=Cranberry Sauce"
+  },
+  {
+    "key": "lang|item.cranberrybarItem.name",
+    "original": "Cranberry Bar",
+    "translation": "크랜베리 바",
+    "stage": 1,
+    "context": "item.cranberrybarItem.name=Cranberry Bar"
+  },
+  {
+    "key": "lang|item.peppermintItem.name",
+    "original": "Peppermint",
+    "translation": "페퍼민트",
+    "stage": 1,
+    "context": "item.peppermintItem.name=Peppermint"
+  },
+  {
+    "key": "lang|item.cactusfruitjuiceItem.name",
+    "original": "Cactus Fruit Juice",
+    "translation": "선인장 열매 주스",
+    "stage": 1,
+    "context": "item.cactusfruitjuiceItem.name=Cactus Fruit Juice"
+  },
+  {
+    "key": "lang|item.blackpepperItem.name",
+    "original": "Black Pepper",
+    "translation": "흑후추",
+    "stage": 1,
+    "context": "item.blackpepperItem.name=Black Pepper"
+  },
+  {
+    "key": "lang|item.groundcinnamonItem.name",
+    "original": "Ground Cinnamon",
+    "translation": "계피 가루",
+    "stage": 1,
+    "context": "item.groundcinnamonItem.name=Ground Cinnamon"
+  },
+  {
+    "key": "lang|item.groundnutmegItem.name",
+    "original": "Ground Nutmeg",
+    "translation": "육두구 가루",
+    "stage": 1,
+    "context": "item.groundnutmegItem.name=Ground Nutmeg"
+  },
+  {
+    "key": "lang|item.oliveoilItem.name",
+    "original": "Cooking Oil",
+    "translation": "식용유",
+    "stage": 1,
+    "context": "item.oliveoilItem.name=Cooking Oil"
+  },
+  {
+    "key": "lang|item.baklavaItem.name",
+    "original": "Baklava",
+    "translation": "바클라바",
+    "stage": 1,
+    "context": "item.baklavaItem.name=Baklava"
+  },
+  {
+    "key": "lang|item.gummybearsItem.name",
+    "original": "Gummy Bears",
+    "translation": "구미 베어",
+    "stage": 1,
+    "context": "item.gummybearsItem.name=Gummy Bears"
+  },
+  {
+    "key": "lang|item.baconmushroomburgerItem.name",
+    "original": "Bacon Mushroom Burger",
+    "translation": "베이컨 버섯버거",
+    "stage": 1,
+    "context": "item.baconmushroomburgerItem.name=Bacon Mushroom Burger"
+  },
+  {
+    "key": "lang|item.fruitpunchItem.name",
+    "original": "Fruit Punch",
+    "translation": "과일 펀치",
+    "stage": 1,
+    "context": "item.fruitpunchItem.name=Fruit Punch"
+  },
+  {
+    "key": "lang|item.meatystewItem.name",
+    "original": "Meaty Stew",
+    "translation": "고기 스튜",
+    "stage": 1,
+    "context": "item.meatystewItem.name=Meaty Stew"
+  },
+  {
+    "key": "lang|item.mixedsaladItem.name",
+    "original": "Mixed Salad",
+    "translation": "믹스 샐러드",
+    "stage": 1,
+    "context": "item.mixedsaladItem.name=Mixed Salad"
+  },
+  {
+    "key": "lang|item.pinacoladaItem.name",
+    "original": "Pinacolada",
+    "translation": "피냐 콜라다",
+    "stage": 1,
+    "context": "item.pinacoladaItem.name=Pinacolada"
+  },
+  {
+    "key": "lang|item.saladdressingItem.name",
+    "original": "Salad Dressing",
+    "translation": "샐러드 드레싱",
+    "stage": 1,
+    "context": "item.saladdressingItem.name=Salad Dressing"
+  },
+  {
+    "key": "lang|item.shepardspieItem.name",
+    "original": "Shepherd's Pie",
+    "translation": "셰퍼드 파이",
+    "stage": 1,
+    "context": "item.shepardspieItem.name=Shepherd's Pie"
+  },
+  {
+    "key": "lang|item.eggnogItem.name",
+    "original": "Egg Nog",
+    "translation": "에그 노그",
+    "stage": 1,
+    "context": "item.eggnogItem.name=Egg Nog"
+  },
+  {
+    "key": "lang|item.custardItem.name",
+    "original": "Custard",
+    "translation": "커스타드",
+    "stage": 1,
+    "context": "item.custardItem.name=Custard"
+  },
+  {
+    "key": "lang|item.sushiItem.name",
+    "original": "Sushi",
+    "translation": "초밥",
+    "stage": 1,
+    "context": "item.sushiItem.name=Sushi"
+  },
+  {
+    "key": "lang|item.gardensoupItem.name",
+    "original": "Garden Soup",
+    "translation": "야채 수프",
+    "stage": 1,
+    "context": "item.gardensoupItem.name=Garden Soup"
+  },
+  {
+    "key": "lang|item.freshwaterItem.name",
+    "original": "Fresh Water",
+    "translation": "신선한 물",
+    "stage": 1,
+    "context": "item.freshwaterItem.name=Fresh Water"
+  },
+  {
+    "key": "lang|item.freshmilkItem.name",
+    "original": "Fresh Milk",
+    "translation": "신선한 우유",
+    "stage": 1,
+    "context": "item.freshmilkItem.name=Fresh Milk"
+  },
+  {
+    "key": "lang|item.muttonrawItem.name",
+    "original": "Raw Mutton",
+    "translation": "익히지 않은 양고기",
+    "stage": 1,
+    "context": "item.muttonrawItem.name=Raw Mutton"
+  },
+  {
+    "key": "lang|item.muttoncookedItem.name",
+    "original": "Cooked Mutton",
+    "translation": "구운 양고기",
+    "stage": 1,
+    "context": "item.muttoncookedItem.name=Cooked Mutton"
+  },
+  {
+    "key": "lang|item.calamarirawItem.name",
+    "original": "Raw Calamari",
+    "translation": "익히지 않은 오징어",
+    "stage": 1,
+    "context": "item.calamarirawItem.name=Raw Calamari"
+  },
+  {
+    "key": "lang|item.calamaricookedItem.name",
+    "original": "Cooked Calamari",
+    "translation": "구운 오징어",
+    "stage": 1,
+    "context": "item.calamaricookedItem.name=Cooked Calamari"
+  },
+  {
+    "key": "lang|item.applejellyItem.name",
+    "original": "Apple Jelly",
+    "translation": "사과잼",
+    "stage": 1,
+    "context": "item.applejellyItem.name=Apple Jelly"
+  },
+  {
+    "key": "lang|item.applejellysandwichItem.name",
+    "original": "Apple Jelly Sandwich",
+    "translation": "사과잼 샌드위치",
+    "stage": 1,
+    "context": "item.applejellysandwichItem.name=Apple Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.blackberryjellyItem.name",
+    "original": "Blackberry Jelly",
+    "translation": "블랙베리잼",
+    "stage": 1,
+    "context": "item.blackberryjellyItem.name=Blackberry Jelly"
+  },
+  {
+    "key": "lang|item.blackberryjellysandwichItem.name",
+    "original": "Blackberry Jelly Sandwich",
+    "translation": "블랙베리잼 샌드위치",
+    "stage": 1,
+    "context": "item.blackberryjellysandwichItem.name=Blackberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.blueberryjellyItem.name",
+    "original": "Blueberry Jelly",
+    "translation": "블루베리잼",
+    "stage": 1,
+    "context": "item.blueberryjellyItem.name=Blueberry Jelly"
+  },
+  {
+    "key": "lang|item.blueberryjellysandwichItem.name",
+    "original": "Blueberry Jelly Sandwich",
+    "translation": "블루베리잼 샌드위치",
+    "stage": 1,
+    "context": "item.blueberryjellysandwichItem.name=Blueberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.cherryjellyItem.name",
+    "original": "Cherry Jelly",
+    "translation": "체리잼",
+    "stage": 1,
+    "context": "item.cherryjellyItem.name=Cherry Jelly"
+  },
+  {
+    "key": "lang|item.cherryjellysandwichItem.name",
+    "original": "Cherry Jelly Sandwich",
+    "translation": "체리잼 샌드위치",
+    "stage": 1,
+    "context": "item.cherryjellysandwichItem.name=Cherry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.cranberryjellyItem.name",
+    "original": "Cranberry Jelly",
+    "translation": "크랜베리잼",
+    "stage": 1,
+    "context": "item.cranberryjellyItem.name=Cranberry Jelly"
+  },
+  {
+    "key": "lang|item.cranberryjellysandwichItem.name",
+    "original": "Cranberry Jelly Sandwich",
+    "translation": "크랜베리잼 샌드위치",
+    "stage": 1,
+    "context": "item.cranberryjellysandwichItem.name=Cranberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.kiwijellyItem.name",
+    "original": "Kiwi Jelly",
+    "translation": "키위잼",
+    "stage": 1,
+    "context": "item.kiwijellyItem.name=Kiwi Jelly"
+  },
+  {
+    "key": "lang|item.kiwijellysandwichItem.name",
+    "original": "Kiwi Jelly Sandwich",
+    "translation": "키위잼 샌드위치",
+    "stage": 1,
+    "context": "item.kiwijellysandwichItem.name=Kiwi Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.lemonjellyItem.name",
+    "original": "Lemon Jelly",
+    "translation": "레몬잼",
+    "stage": 1,
+    "context": "item.lemonjellyItem.name=Lemon Jelly"
+  },
+  {
+    "key": "lang|item.lemonjellysandwichItem.name",
+    "original": "Lemon Jelly Sandwich",
+    "translation": "레몬잼 샌드위치",
+    "stage": 1,
+    "context": "item.lemonjellysandwichItem.name=Lemon Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.limejellyItem.name",
+    "original": "Lime Jelly",
+    "translation": "라임잼",
+    "stage": 1,
+    "context": "item.limejellyItem.name=Lime Jelly"
+  },
+  {
+    "key": "lang|item.limejellysandwichItem.name",
+    "original": "Lime Jelly Sandwich",
+    "translation": "라임잼 샌드위치",
+    "stage": 1,
+    "context": "item.limejellysandwichItem.name=Lime Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.mangojellyItem.name",
+    "original": "Mango Jelly",
+    "translation": "망고잼",
+    "stage": 1,
+    "context": "item.mangojellyItem.name=Mango Jelly"
+  },
+  {
+    "key": "lang|item.mangojellysandwichItem.name",
+    "original": "Mango Jelly Sandwich",
+    "translation": "망고잼 샌드위치",
+    "stage": 1,
+    "context": "item.mangojellysandwichItem.name=Mango Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.orangejellyItem.name",
+    "original": "Orange Jelly",
+    "translation": "오렌지잼",
+    "stage": 1,
+    "context": "item.orangejellyItem.name=Orange Jelly"
+  },
+  {
+    "key": "lang|item.orangejellysandwichItem.name",
+    "original": "Orange Jelly Sandwich",
+    "translation": "오렌지잼 샌드위치",
+    "stage": 1,
+    "context": "item.orangejellysandwichItem.name=Orange Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.papayajellyItem.name",
+    "original": "Papaya Jelly",
+    "translation": "파파야잼",
+    "stage": 1,
+    "context": "item.papayajellyItem.name=Papaya Jelly"
+  },
+  {
+    "key": "lang|item.papayajellysandwichItem.name",
+    "original": "Papaya Jelly Sandwich",
+    "translation": "파파야잼 샌드위치",
+    "stage": 1,
+    "context": "item.papayajellysandwichItem.name=Papaya Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.peachjellyItem.name",
+    "original": "Peach Jelly",
+    "translation": "복숭아잼",
+    "stage": 1,
+    "context": "item.peachjellyItem.name=Peach Jelly"
+  },
+  {
+    "key": "lang|item.peachjellysandwichItem.name",
+    "original": "Peach Jelly Sandwich",
+    "translation": "복숭아잼 샌드위치",
+    "stage": 1,
+    "context": "item.peachjellysandwichItem.name=Peach Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.pomegranatejellyItem.name",
+    "original": "Pomegranate Jelly",
+    "translation": "석류잼",
+    "stage": 1,
+    "context": "item.pomegranatejellyItem.name=Pomegranate Jelly"
+  },
+  {
+    "key": "lang|item.pomegranatejellysandwichItem.name",
+    "original": "Pomegranate Jelly Sandwich",
+    "translation": "석류잼 샌드위치",
+    "stage": 1,
+    "context": "item.pomegranatejellysandwichItem.name=Pomegranate Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.raspberryjellyItem.name",
+    "original": "Raspberry Jelly",
+    "translation": "라즈베리잼",
+    "stage": 1,
+    "context": "item.raspberryjellyItem.name=Raspberry Jelly"
+  },
+  {
+    "key": "lang|item.raspberryjellysandwichItem.name",
+    "original": "Raspberry Jelly Sandwich",
+    "translation": "라즈베리잼 샌드위치",
+    "stage": 1,
+    "context": "item.raspberryjellysandwichItem.name=Raspberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.starfruitjellyItem.name",
+    "original": "Starfruit Jelly",
+    "translation": "스타프루트잼",
+    "stage": 1,
+    "context": "item.starfruitjellyItem.name=Starfruit Jelly"
+  },
+  {
+    "key": "lang|item.starfruitjellysandwichItem.name",
+    "original": "Starfruit Jelly Sandwich",
+    "translation": "스타프루트잼 샌드위치",
+    "stage": 1,
+    "context": "item.starfruitjellysandwichItem.name=Starfruit Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.strawberryjellyItem.name",
+    "original": "Strawberry Jelly",
+    "translation": "딸기잼",
+    "stage": 1,
+    "context": "item.strawberryjellyItem.name=Strawberry Jelly"
+  },
+  {
+    "key": "lang|item.strawberryjellysandwichItem.name",
+    "original": "Strawberry Jelly Sandwich",
+    "translation": "딸기잼 샌드위치",
+    "stage": 1,
+    "context": "item.strawberryjellysandwichItem.name=Strawberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.watermelonjellyItem.name",
+    "original": "Watermelon Jelly",
+    "translation": "수박잼",
+    "stage": 1,
+    "context": "item.watermelonjellyItem.name=Watermelon Jelly"
+  },
+  {
+    "key": "lang|item.watermelonjellysandwichItem.name",
+    "original": "Watermelon Jelly Sandwich",
+    "translation": "수박잼 샌드위치",
+    "stage": 1,
+    "context": "item.watermelonjellysandwichItem.name=Watermelon Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.bubblywaterItem.name",
+    "original": "Bubbly Water",
+    "translation": "탄산수",
+    "stage": 1,
+    "context": "item.bubblywaterItem.name=Bubbly Water"
+  },
+  {
+    "key": "lang|item.cherrysodaItem.name",
+    "original": "Cherry Soda",
+    "translation": "체리 탄산",
+    "stage": 1,
+    "context": "item.cherrysodaItem.name=Cherry Soda"
+  },
+  {
+    "key": "lang|item.colasodaItem.name",
+    "original": "Cola Soda",
+    "translation": "콜라",
+    "stage": 1,
+    "context": "item.colasodaItem.name=Cola Soda"
+  },
+  {
+    "key": "lang|item.gingersodaItem.name",
+    "original": "Ginger Ale",
+    "translation": "진저 에일",
+    "stage": 1,
+    "context": "item.gingersodaItem.name=Ginger Ale"
+  },
+  {
+    "key": "lang|item.grapesodaItem.name",
+    "original": "Grape Soda",
+    "translation": "포도 탄산",
+    "stage": 1,
+    "context": "item.grapesodaItem.name=Grape Soda"
+  },
+  {
+    "key": "lang|item.lemonlimesodaItem.name",
+    "original": "Lemon-Lime Soda",
+    "translation": "레몬-라임 탄산",
+    "stage": 1,
+    "context": "item.lemonlimesodaItem.name=Lemon-Lime Soda"
+  },
+  {
+    "key": "lang|item.orangesodaItem.name",
+    "original": "Orange Soda",
+    "translation": "오렌지 탄산",
+    "stage": 1,
+    "context": "item.orangesodaItem.name=Orange Soda"
+  },
+  {
+    "key": "lang|item.rootbeersodaItem.name",
+    "original": "Root Beer",
+    "translation": "루트비어",
+    "stage": 1,
+    "context": "item.rootbeersodaItem.name=Root Beer"
+  },
+  {
+    "key": "lang|item.strawberrysodaItem.name",
+    "original": "Strawberry Soda",
+    "translation": "딸기 탄산",
+    "stage": 1,
+    "context": "item.strawberrysodaItem.name=Strawberry Soda"
+  },
+  {
+    "key": "lang|item.caramelicecreamItem.name",
+    "original": "Caramel Ice Cream",
+    "translation": "캐러멜 아이스크림",
+    "stage": 1,
+    "context": "item.caramelicecreamItem.name=Caramel Ice Cream"
+  },
+  {
+    "key": "lang|item.mintchocolatechipicemcreamItem.name",
+    "original": "Mint Chocolate Chip Ice Cream",
+    "translation": "민트초코 아이스크림",
+    "stage": 1,
+    "context": "item.mintchocolatechipicemcreamItem.name=Mint Chocolate Chip Ice Cream"
+  },
+  {
+    "key": "lang|item.strawberryicecreamItem.name",
+    "original": "Strawberry Ice Cream",
+    "translation": "딸기 아이스크림",
+    "stage": 1,
+    "context": "item.strawberryicecreamItem.name=Strawberry Ice Cream"
+  },
+  {
+    "key": "lang|item.vanillaicecreamItem.name",
+    "original": "Vanilla Ice Cream",
+    "translation": "바닐라 아이스크림",
+    "stage": 1,
+    "context": "item.vanillaicecreamItem.name=Vanilla Ice Cream"
+  },
+  {
+    "key": "lang|item.ediblerootItem.name",
+    "original": "Edible Root",
+    "translation": "뿌리채소",
+    "stage": 1,
+    "context": "item.ediblerootItem.name=Edible Root"
+  },
+  {
+    "key": "lang|item.gingerchickenItem.name",
+    "original": "Ginger Chicken",
+    "translation": "생강 치킨",
+    "stage": 1,
+    "context": "item.gingerchickenItem.name=Ginger Chicken"
+  },
+  {
+    "key": "lang|item.oldworldveggiesoupItem.name",
+    "original": "Old World Veggie Soup",
+    "translation": "구세계 야채 수프",
+    "stage": 1,
+    "context": "item.oldworldveggiesoupItem.name=Old World Veggie Soup"
+  },
+  {
+    "key": "lang|item.spicebunItem.name",
+    "original": "Spice Bun",
+    "translation": "향신료 넣은 빵",
+    "stage": 1,
+    "context": "item.spicebunItem.name=Spice Bun"
+  },
+  {
+    "key": "lang|item.gingeredrhubarbtartItem.name",
+    "original": "Gingered Rhubarb Tart",
+    "translation": "생강을 넣은 대황타르트",
+    "stage": 1,
+    "context": "item.gingeredrhubarbtartItem.name=Gingered Rhubarb Tart"
+  },
+  {
+    "key": "lang|item.lambbarleysoupItem.name",
+    "original": "Lamb Barley Soup",
+    "translation": "양고기 보리 수프",
+    "stage": 1,
+    "context": "item.lambbarleysoupItem.name=Lamb Barley Soup"
+  },
+  {
+    "key": "lang|item.honeylemonlambItem.name",
+    "original": "Honey Lemon Lamb",
+    "translation": "꿀과 레몬을 발라 구운 양고기",
+    "stage": 1,
+    "context": "item.honeylemonlambItem.name=Honey Lemon Lamb"
+  },
+  {
+    "key": "lang|item.pumpkinoatsconesItem.name",
+    "original": "Pumpkin Oat Scones",
+    "translation": "호박 귀리 스콘",
+    "stage": 1,
+    "context": "item.pumpkinoatsconesItem.name=Pumpkin Oat Scones"
+  },
+  {
+    "key": "lang|item.beefjerkyItem.name",
+    "original": "Beef Jerky",
+    "translation": "소고기 육포",
+    "stage": 1,
+    "context": "item.beefjerkyItem.name=Beef Jerky"
+  },
+  {
+    "key": "lang|item.plumjuiceItem.name",
+    "original": "Plum Juice",
+    "translation": "자두 주스",
+    "stage": 1,
+    "context": "item.plumjuiceItem.name=Plum Juice"
+  },
+  {
+    "key": "lang|item.pearjuiceItem.name",
+    "original": "Pear Juice",
+    "translation": "배 주스",
+    "stage": 1,
+    "context": "item.pearjuiceItem.name=Pear Juice"
+  },
+  {
+    "key": "lang|item.ovenroastedcauliflowerItem.name",
+    "original": "Oven Roasted Cauliflower",
+    "translation": "오븐에 구운 콜리플라워",
+    "stage": 1,
+    "context": "item.ovenroastedcauliflowerItem.name=Oven Roasted Cauliflower"
+  },
+  {
+    "key": "lang|item.leekbaconsoupItem.name",
+    "original": "Leek Bacon Soup",
+    "translation": "파 베이컨 수프",
+    "stage": 1,
+    "context": "item.leekbaconsoupItem.name=Leek Bacon Soup"
+  },
+  {
+    "key": "lang|item.herbbutterparsnipsItem.name",
+    "original": "Herb Butter Parsnips",
+    "translation": "허브버터 파스닙",
+    "stage": 1,
+    "context": "item.herbbutterparsnipsItem.name=Herb Butter Parsnips"
+  },
+  {
+    "key": "lang|item.scallionbakedpotatoItem.name",
+    "original": "Scallion Baked Potato",
+    "translation": "대파 올려 구운 감자",
+    "stage": 1,
+    "context": "item.scallionbakedpotatoItem.name=Scallion Baked Potato"
+  },
+  {
+    "key": "lang|item.soymilkItem.name",
+    "original": "Soy Milk",
+    "translation": "두유",
+    "stage": 1,
+    "context": "item.soymilkItem.name=Soy Milk"
+  },
+  {
+    "key": "lang|item.firmtofuItem.name",
+    "original": "Firm Tofu",
+    "translation": "두부",
+    "stage": 1,
+    "context": "item.firmtofuItem.name=Firm Tofu"
+  },
+  {
+    "key": "lang|item.silkentofuItem.name",
+    "original": "Silken Tofu",
+    "translation": "순두부",
+    "stage": 1,
+    "context": "item.silkentofuItem.name=Silken Tofu"
+  },
+  {
+    "key": "lang|item.bamboosteamedriceItem.name",
+    "original": "Bamboo Steamed Rice",
+    "translation": "죽순밥",
+    "stage": 1,
+    "context": "item.bamboosteamedriceItem.name=Bamboo Steamed Rice"
+  },
+  {
+    "key": "lang|item.roastedchestnutItem.name",
+    "original": "Roasted Chestnut",
+    "translation": "구운 밤",
+    "stage": 1,
+    "context": "item.roastedchestnutItem.name=Roasted Chestnut"
+  },
+  {
+    "key": "lang|item.sweetpotatosouffleItem.name",
+    "original": "Sweet Potato Souffle",
+    "translation": "고구마 수플레",
+    "stage": 1,
+    "context": "item.sweetpotatosouffleItem.name=Sweet Potato Souffle"
+  },
+  {
+    "key": "lang|item.cashewchickenItem.name",
+    "original": "Cashew Chicken",
+    "translation": "캐슈넛 치킨",
+    "stage": 1,
+    "context": "item.cashewchickenItem.name=Cashew Chicken"
+  },
+  {
+    "key": "lang|item.apricotjuiceItem.name",
+    "original": "Apricot Juice",
+    "translation": "살구 주스",
+    "stage": 1,
+    "context": "item.apricotjuiceItem.name=Apricot Juice"
+  },
+  {
+    "key": "lang|item.apricotyogurtItem.name",
+    "original": "Apricot Yogurt",
+    "translation": "살구 요거트",
+    "stage": 1,
+    "context": "item.apricotyogurtItem.name=Apricot Yogurt"
+  },
+  {
+    "key": "lang|item.apricotglazedporkItem.name",
+    "original": "Apricot Glazed Pork",
+    "translation": "살구를 바른 돼지고기",
+    "stage": 1,
+    "context": "item.apricotglazedporkItem.name=Apricot Glazed Pork"
+  },
+  {
+    "key": "lang|item.apricotjellyItem.name",
+    "original": "Apricot Jelly",
+    "translation": "살구잼",
+    "stage": 1,
+    "context": "item.apricotjellyItem.name=Apricot Jelly"
+  },
+  {
+    "key": "lang|item.apricotjellysandwichItem.name",
+    "original": "Apricot Jelly Sandwich",
+    "translation": "살구잼 샌드위치",
+    "stage": 1,
+    "context": "item.apricotjellysandwichItem.name=Apricot Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.apricotsmoothieItem.name",
+    "original": "Apricot Smoothie",
+    "translation": "살구 스무디",
+    "stage": 1,
+    "context": "item.apricotsmoothieItem.name=Apricot Smoothie"
+  },
+  {
+    "key": "lang|item.figbarItem.name",
+    "original": "Fig Bar",
+    "translation": "무화과 바",
+    "stage": 1,
+    "context": "item.figbarItem.name=Fig Bar"
+  },
+  {
+    "key": "lang|item.figjellyItem.name",
+    "original": "Fig Jelly",
+    "translation": "무화과잼",
+    "stage": 1,
+    "context": "item.figjellyItem.name=Fig Jelly"
+  },
+  {
+    "key": "lang|item.figjellysandwichItem.name",
+    "original": "Fig Jelly Sandwich",
+    "translation": "무화과잼 샌드위치",
+    "stage": 1,
+    "context": "item.figjellysandwichItem.name=Fig Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.figsmoothieItem.name",
+    "original": "Fig Smoothie",
+    "translation": "무화과 스무디",
+    "stage": 1,
+    "context": "item.figsmoothieItem.name=Fig Smoothie"
+  },
+  {
+    "key": "lang|item.figyogurtItem.name",
+    "original": "Fig Yogurt",
+    "translation": "무화과 요거트",
+    "stage": 1,
+    "context": "item.figyogurtItem.name=Fig Yogurt"
+  },
+  {
+    "key": "lang|item.figjuiceItem.name",
+    "original": "Fig Juice",
+    "translation": "무화과 주스",
+    "stage": 1,
+    "context": "item.figjuiceItem.name=Fig Juice"
+  },
+  {
+    "key": "lang|item.grapefruitjuiceItem.name",
+    "original": "Grapefruit Juice",
+    "translation": "자몽 주스",
+    "stage": 1,
+    "context": "item.grapefruitjuiceItem.name=Grapefruit Juice"
+  },
+  {
+    "key": "lang|item.grapefruitjellyItem.name",
+    "original": "Grapefruit Jelly",
+    "translation": "자몽잼",
+    "stage": 1,
+    "context": "item.grapefruitjellyItem.name=Grapefruit Jelly"
+  },
+  {
+    "key": "lang|item.grapefruitjellysandwichItem.name",
+    "original": "Grapefruit Jelly Sandwich",
+    "translation": "자몽잼 샌드위치",
+    "stage": 1,
+    "context": "item.grapefruitjellysandwichItem.name=Grapefruit Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.grapefruitsmoothieItem.name",
+    "original": "Grapefruit Smoothie",
+    "translation": "자몽 스무디",
+    "stage": 1,
+    "context": "item.grapefruitsmoothieItem.name=Grapefruit Smoothie"
+  },
+  {
+    "key": "lang|item.grapefruityogurtItem.name",
+    "original": "Grapefruit Yogurt",
+    "translation": "자몽 요거트",
+    "stage": 1,
+    "context": "item.grapefruityogurtItem.name=Grapefruit Yogurt"
+  },
+  {
+    "key": "lang|item.grapefruitsodaItem.name",
+    "original": "Grapefruit Soda",
+    "translation": "자몽 탄산",
+    "stage": 1,
+    "context": "item.grapefruitsodaItem.name=Grapefruit Soda"
+  },
+  {
+    "key": "lang|item.citrussaladItem.name",
+    "original": "Citrus Salad",
+    "translation": "오렌지 샐러드",
+    "stage": 1,
+    "context": "item.citrussaladItem.name=Citrus Salad"
+  },
+  {
+    "key": "lang|item.pecanpieItem.name",
+    "original": "Pecan Pie",
+    "translation": "피칸 파이",
+    "stage": 1,
+    "context": "item.pecanpieItem.name=Pecan Pie"
+  },
+  {
+    "key": "lang|item.pralinesItem.name",
+    "original": "Pralines",
+    "translation": "프랄린",
+    "stage": 1,
+    "context": "item.pralinesItem.name=Pralines"
+  },
+  {
+    "key": "lang|item.persimmonjuiceItem.name",
+    "original": "Persimmon Juice",
+    "translation": "단감 주스",
+    "stage": 1,
+    "context": "item.persimmonjuiceItem.name=Persimmon Juice"
+  },
+  {
+    "key": "lang|item.persimmonyogurtItem.name",
+    "original": "Persimmon Yogurt",
+    "translation": "단감 요거트",
+    "stage": 1,
+    "context": "item.persimmonyogurtItem.name=Persimmon Yogurt"
+  },
+  {
+    "key": "lang|item.persimmonsmoothieItem.name",
+    "original": "Persimmon Smoothie",
+    "translation": "단감 스무디",
+    "stage": 1,
+    "context": "item.persimmonsmoothieItem.name=Persimmon Smoothie"
+  },
+  {
+    "key": "lang|item.persimmonjellyItem.name",
+    "original": "Persimmon Jelly",
+    "translation": "단감잼",
+    "stage": 1,
+    "context": "item.persimmonjellyItem.name=Persimmon Jelly"
+  },
+  {
+    "key": "lang|item.persimmonjellysandwichItem.name",
+    "original": "Persimmon Jelly Sandwich",
+    "translation": "단감잼 샌드위치",
+    "stage": 1,
+    "context": "item.persimmonjellysandwichItem.name=Persimmon Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.pistachiobakedsalmonItem.name",
+    "original": "Pistachio Baked Salmon",
+    "translation": "피스타치오를 올려 구운 연어",
+    "stage": 1,
+    "context": "item.pistachiobakedsalmonItem.name=Pistachio Baked Salmon"
+  },
+  {
+    "key": "lang|item.baconwrappeddatesItem.name",
+    "original": "Bacon Wrapped Dates",
+    "translation": "대추야자 베이컨 쌈",
+    "stage": 1,
+    "context": "item.baconwrappeddatesItem.name=Bacon Wrapped Dates"
+  },
+  {
+    "key": "lang|item.datenutbreadItem.name",
+    "original": "Date Nut Bread",
+    "translation": "대추야자 견과 빵",
+    "stage": 1,
+    "context": "item.datenutbreadItem.name=Date Nut Bread"
+  },
+  {
+    "key": "lang|item.maplesyruppancakesItem.name",
+    "original": "Maple Syrup Pancakes",
+    "translation": "단풍 시럽을 끼얹은 팬케이크",
+    "stage": 1,
+    "context": "item.maplesyruppancakesItem.name=Maple Syrup Pancakes"
+  },
+  {
+    "key": "lang|item.maplesyrupwafflesItem.name",
+    "original": "Maple Syrup Waffles",
+    "translation": "단풍 시럽을 끼얹은 와플",
+    "stage": 1,
+    "context": "item.maplesyrupwafflesItem.name=Maple Syrup Waffles"
+  },
+  {
+    "key": "lang|item.maplesausageItem.name",
+    "original": "Maple Sausage",
+    "translation": "단풍 시럽 소시지",
+    "stage": 1,
+    "context": "item.maplesausageItem.name=Maple Sausage"
+  },
+  {
+    "key": "lang|item.mapleoatmealItem.name",
+    "original": "Maple Oatmeal",
+    "translation": "단풍 시럽 오트밀",
+    "stage": 1,
+    "context": "item.mapleoatmealItem.name=Maple Oatmeal"
+  },
+  {
+    "key": "lang|item.peachesandcreamoatmealItem.name",
+    "original": "Peaches and Cream Oatmeal",
+    "translation": "복숭아와 크림 오트밀",
+    "stage": 1,
+    "context": "item.peachesandcreamoatmealItem.name=Peaches and Cream Oatmeal"
+  },
+  {
+    "key": "lang|item.cinnamonappleoatmealItem.name",
+    "original": "Cinnamon Apple Oatmeal",
+    "translation": "계피와 사과 오트밀",
+    "stage": 1,
+    "context": "item.cinnamonappleoatmealItem.name=Cinnamon Apple Oatmeal"
+  },
+  {
+    "key": "lang|item.maplecandiedbaconItem.name",
+    "original": "Maple Candied Bacon",
+    "translation": "단풍 시럽을 바른 베이컨",
+    "stage": 1,
+    "context": "item.maplecandiedbaconItem.name=Maple Candied Bacon"
+  },
+  {
+    "key": "lang|item.toastsandwichItem.name",
+    "original": "Toast Sandwich",
+    "translation": "토스트 샌드위치",
+    "stage": 1,
+    "context": "item.toastsandwichItem.name=Toast Sandwich"
+  },
+  {
+    "key": "lang|item.potatoandcheesepirogiItem.name",
+    "original": "Potato and Cheese Pirogi",
+    "translation": "감자와 치즈를 넣은 피로기",
+    "stage": 1,
+    "context": "item.potatoandcheesepirogiItem.name=Potato and Cheese Pirogi"
+  },
+  {
+    "key": "lang|item.zeppoleItem.name",
+    "original": "Zeppole",
+    "translation": "체폴라",
+    "stage": 1,
+    "context": "item.zeppoleItem.name=Zeppole"
+  },
+  {
+    "key": "lang|item.sausageinbreadItem.name",
+    "original": "Sausage in Bread",
+    "translation": "소시지빵",
+    "stage": 1,
+    "context": "item.sausageinbreadItem.name=Sausage in Bread"
+  },
+  {
+    "key": "lang|item.chocolatecaramelfudgeItem.name",
+    "original": "Chocolate Caramel Fudge",
+    "translation": "초코 캐러멜 퍼지",
+    "stage": 1,
+    "context": "item.chocolatecaramelfudgeItem.name=Chocolate Caramel Fudge"
+  },
+  {
+    "key": "lang|item.lavendershortbreadItem.name",
+    "original": "Lavender Shortbread",
+    "translation": "라벤더 쇼트브레드",
+    "stage": 1,
+    "context": "item.lavendershortbreadItem.name=Lavender Shortbread"
+  },
+  {
+    "key": "lang|item.beefwellingtonItem.name",
+    "original": "Beef Wellington",
+    "translation": "비프 웰링턴",
+    "stage": 1,
+    "context": "item.beefwellingtonItem.name=Beef Wellington"
+  },
+  {
+    "key": "lang|item.epicbaconItem.name",
+    "original": "Epic Bacon",
+    "translation": "에픽 베이컨",
+    "stage": 1,
+    "context": "item.epicbaconItem.name=Epic Bacon"
+  },
+  {
+    "key": "lang|item.manjuuItem.name",
+    "original": "Manjuu",
+    "translation": "만쥬",
+    "stage": 1,
+    "context": "item.manjuuItem.name=Manjuu"
+  },
+  {
+    "key": "lang|item.chickengumboItem.name",
+    "original": "Chicken Gumbo",
+    "translation": "치킨 검보",
+    "stage": 1,
+    "context": "item.chickengumboItem.name=Chicken Gumbo"
+  },
+  {
+    "key": "lang|item.generaltsochickenItem.name",
+    "original": "General Tso's Chicken",
+    "translation": "좌종당계",
+    "stage": 1,
+    "context": "item.generaltsochickenItem.name=General Tso's Chicken"
+  },
+  {
+    "key": "lang|item.californiarollItem.name",
+    "original": "California Roll",
+    "translation": "캘리포니아 롤",
+    "stage": 1,
+    "context": "item.californiarollItem.name=California Roll"
+  },
+  {
+    "key": "lang|item.futomakiItem.name",
+    "original": "Futo Maki",
+    "translation": "후토마키",
+    "stage": 1,
+    "context": "item.futomakiItem.name=Futo Maki"
+  },
+  {
+    "key": "lang|item.beansontoastItem.name",
+    "original": "Beans on Toast",
+    "translation": "콩 토스트",
+    "stage": 1,
+    "context": "item.beansontoastItem.name=Beans on Toast"
+  },
+  {
+    "key": "lang|item.vegemiteItem.name",
+    "original": "Vegemite",
+    "translation": "베지마이트",
+    "stage": 1,
+    "context": "item.vegemiteItem.name=Vegemite"
+  },
+  {
+    "key": "lang|item.honeycombchocolatebarItem.name",
+    "original": "Honeycomb Chocolate Bar",
+    "translation": "벌집 초코바",
+    "stage": 1,
+    "context": "item.honeycombchocolatebarItem.name=Honeycomb Chocolate Bar"
+  },
+  {
+    "key": "lang|item.cherrycoconutchocolatebarItem.name",
+    "original": "Cherry Coconut Chocolate Bar",
+    "translation": "체리 코코넛 초코바",
+    "stage": 1,
+    "context": "item.cherrycoconutchocolatebarItem.name=Cherry Coconut Chocolate Bar"
+  },
+  {
+    "key": "lang|item.fairybreadItem.name",
+    "original": "Fairy Bread",
+    "translation": "페어리 브레드",
+    "stage": 1,
+    "context": "item.fairybreadItem.name=Fairy Bread"
+  },
+  {
+    "key": "lang|item.lamingtonItem.name",
+    "original": "Lamington",
+    "translation": "래밍턴",
+    "stage": 1,
+    "context": "item.lamingtonItem.name=Lamington"
+  },
+  {
+    "key": "lang|item.timtamItem.name",
+    "original": "Tim Tam",
+    "translation": "팀탐",
+    "stage": 1,
+    "context": "item.timtamItem.name=Tim Tam"
+  },
+  {
+    "key": "lang|item.meatpieItem.name",
+    "original": "Meat Pie",
+    "translation": "고기 파이",
+    "stage": 1,
+    "context": "item.meatpieItem.name=Meat Pie"
+  },
+  {
+    "key": "lang|item.chikorollItem.name",
+    "original": "Chiko Roll",
+    "translation": "치코 롤",
+    "stage": 1,
+    "context": "item.chikorollItem.name=Chiko Roll"
+  },
+  {
+    "key": "lang|item.damperItem.name",
+    "original": "Damper",
+    "translation": "소다빵",
+    "stage": 1,
+    "context": "item.damperItem.name=Damper"
+  },
+  {
+    "key": "lang|item.beetburgerItem.name",
+    "original": "Beet Burger",
+    "translation": "비트 버거",
+    "stage": 1,
+    "context": "item.beetburgerItem.name=Beet Burger"
+  },
+  {
+    "key": "lang|item.pavlovaItem.name",
+    "original": "Pavlova",
+    "translation": "파블로바",
+    "stage": 1,
+    "context": "item.pavlovaItem.name=Pavlova"
+  },
+  {
+    "key": "lang|item.gherkinItem.name",
+    "original": "Gherkin",
+    "translation": "통피클",
+    "stage": 1,
+    "context": "item.gherkinItem.name=Gherkin"
+  },
+  {
+    "key": "lang|item.mcpamItem.name",
+    "original": "McPam",
+    "translation": "맥팸",
+    "stage": 1,
+    "context": "item.mcpamItem.name=McPam"
+  },
+  {
+    "key": "lang|item.ceasarsaladItem.name",
+    "original": "Ceasar Salad",
+    "translation": "시저 샐러드",
+    "stage": 1,
+    "context": "item.ceasarsaladItem.name=Ceasar Salad"
+  },
+  {
+    "key": "lang|item.chaoscookieItem.name",
+    "original": "Chaos Cookie",
+    "translation": "혼돈맛 쿠키",
+    "stage": 1,
+    "context": "item.chaoscookieItem.name=Chaos Cookie"
+  },
+  {
+    "key": "lang|item.chocolatebaconItem.name",
+    "original": "Chocolate Bacon",
+    "translation": "초코 베이컨",
+    "stage": 1,
+    "context": "item.chocolatebaconItem.name=Chocolate Bacon"
+  },
+  {
+    "key": "lang|item.lambkebabItem.name",
+    "original": "Lamb Kebab",
+    "translation": "양고기 케밥",
+    "stage": 1,
+    "context": "item.lambkebabItem.name=Lamb Kebab"
+  },
+  {
+    "key": "lang|item.nutellaItem.name",
+    "original": "Nutella",
+    "translation": "누텔라",
+    "stage": 1,
+    "context": "item.nutellaItem.name=Nutella"
+  },
+  {
+    "key": "lang|item.snickersbarItem.name",
+    "original": "Snickers Bar",
+    "translation": "스니커즈",
+    "stage": 1,
+    "context": "item.snickersbarItem.name=Snickers Bar"
+  },
+  {
+    "key": "lang|item.spinachpieItem.name",
+    "original": "Spinach Pie",
+    "translation": "시금치 파이",
+    "stage": 1,
+    "context": "item.spinachpieItem.name=Spinach Pie"
+  },
+  {
+    "key": "lang|item.steamedspinachItem.name",
+    "original": "Steamed Spinach",
+    "translation": "찐 시금치",
+    "stage": 1,
+    "context": "item.steamedspinachItem.name=Steamed Spinach"
+  },
+  {
+    "key": "lang|item.vegemiteontoastItem.name",
+    "original": "Vegemite on Toast",
+    "translation": "베지마이트 토스트",
+    "stage": 1,
+    "context": "item.vegemiteontoastItem.name=Vegemite on Toast"
+  },
+  {
+    "key": "lang|item.anchovyrawItem.name",
+    "original": "Raw Anchovy",
+    "translation": "익히지 않은 멸치",
+    "stage": 1,
+    "context": "item.anchovyrawItem.name=Raw Anchovy"
+  },
+  {
+    "key": "lang|item.bassrawItem.name",
+    "original": "Raw Bass",
+    "translation": "익히지 않은 배스",
+    "stage": 1,
+    "context": "item.bassrawItem.name=Raw Bass"
+  },
+  {
+    "key": "lang|item.carprawItem.name",
+    "original": "Raw Carp",
+    "translation": "익히지 않은 잉어",
+    "stage": 1,
+    "context": "item.carprawItem.name=Raw Carp"
+  },
+  {
+    "key": "lang|item.catfishrawItem.name",
+    "original": "Raw Catfish",
+    "translation": "익히지 않은 메기",
+    "stage": 1,
+    "context": "item.catfishrawItem.name=Raw Catfish"
+  },
+  {
+    "key": "lang|item.charrrawItem.name",
+    "original": "Raw Charr",
+    "translation": "익히지 않은 곤들매기",
+    "stage": 1,
+    "context": "item.charrrawItem.name=Raw Charr"
+  },
+  {
+    "key": "lang|item.clamrawItem.name",
+    "original": "Raw Clam",
+    "translation": "익히지 않은 조개",
+    "stage": 1,
+    "context": "item.clamrawItem.name=Raw Clam"
+  },
+  {
+    "key": "lang|item.crabrawItem.name",
+    "original": "Raw Crab",
+    "translation": "익히지 않은 게",
+    "stage": 1,
+    "context": "item.crabrawItem.name=Raw Crab"
+  },
+  {
+    "key": "lang|item.crayfishrawItem.name",
+    "original": "Raw Crayfish",
+    "translation": "익히지 않은 가재",
+    "stage": 1,
+    "context": "item.crayfishrawItem.name=Raw Crayfish"
+  },
+  {
+    "key": "lang|item.eelrawItem.name",
+    "original": "Raw Eel",
+    "translation": "익히지 않은 장어",
+    "stage": 1,
+    "context": "item.eelrawItem.name=Raw Eel"
+  },
+  {
+    "key": "lang|item.frograwItem.name",
+    "original": "Raw Frog",
+    "translation": "익히지 않은 개구리",
+    "stage": 1,
+    "context": "item.frograwItem.name=Raw Frog"
+  },
+  {
+    "key": "lang|item.grouperrawItem.name",
+    "original": "Raw Grouper",
+    "translation": "익히지 않은 참바리",
+    "stage": 1,
+    "context": "item.grouperrawItem.name=Raw Grouper"
+  },
+  {
+    "key": "lang|item.herringrawItem.name",
+    "original": "Raw Herring",
+    "translation": "익히지 않은 청어",
+    "stage": 1,
+    "context": "item.herringrawItem.name=Raw Herring"
+  },
+  {
+    "key": "lang|item.jellyfishrawItem.name",
+    "original": "Raw Jellyfish",
+    "translation": "익히지 않은 해파리",
+    "stage": 1,
+    "context": "item.jellyfishrawItem.name=Raw Jellyfish"
+  },
+  {
+    "key": "lang|item.mudfishrawItem.name",
+    "original": "Raw Mudfish",
+    "translation": "익히지 않은 미꾸라지",
+    "stage": 1,
+    "context": "item.mudfishrawItem.name=Raw Mudfish"
+  },
+  {
+    "key": "lang|item.octopusrawItem.name",
+    "original": "Raw Octopus",
+    "translation": "익히지 않은 문어",
+    "stage": 1,
+    "context": "item.octopusrawItem.name=Raw Octopus"
+  },
+  {
+    "key": "lang|item.perchrawItem.name",
+    "original": "Raw Perch",
+    "translation": "익히지 않은 농어",
+    "stage": 1,
+    "context": "item.perchrawItem.name=Raw Perch"
+  },
+  {
+    "key": "lang|item.scalloprawItem.name",
+    "original": "Raw Scallop",
+    "translation": "익히지 않은 가리비",
+    "stage": 1,
+    "context": "item.scalloprawItem.name=Raw Scallop"
+  },
+  {
+    "key": "lang|item.shrimprawItem.name",
+    "original": "Raw Shrimp",
+    "translation": "익히지 않은 새우",
+    "stage": 1,
+    "context": "item.shrimprawItem.name=Raw Shrimp"
+  },
+  {
+    "key": "lang|item.snailrawItem.name",
+    "original": "Raw Snail",
+    "translation": "익히지 않은 달팽이",
+    "stage": 1,
+    "context": "item.snailrawItem.name=Raw Snail"
+  },
+  {
+    "key": "lang|item.snapperrawItem.name",
+    "original": "Raw Snapper",
+    "translation": "익히지 않은 퉁돔",
+    "stage": 1,
+    "context": "item.snapperrawItem.name=Raw Snapper"
+  },
+  {
+    "key": "lang|item.tilapiarawItem.name",
+    "original": "Raw Tilapia",
+    "translation": "익히지 않은 틸라피아",
+    "stage": 1,
+    "context": "item.tilapiarawItem.name=Raw Tilapia"
+  },
+  {
+    "key": "lang|item.troutrawItem.name",
+    "original": "Raw Trout",
+    "translation": "익히지 않은 송어",
+    "stage": 1,
+    "context": "item.troutrawItem.name=Raw Trout"
+  },
+  {
+    "key": "lang|item.tunarawItem.name",
+    "original": "Raw Tuna",
+    "translation": "익히지 않은 참치",
+    "stage": 1,
+    "context": "item.tunarawItem.name=Raw Tuna"
+  },
+  {
+    "key": "lang|item.turtlerawItem.name",
+    "original": "Raw Turtle",
+    "translation": "익히지 않은 거북이",
+    "stage": 1,
+    "context": "item.turtlerawItem.name=Raw Turtle"
+  },
+  {
+    "key": "lang|item.walleyerawItem.name",
+    "original": "Raw Walleye",
+    "translation": "익히지 않은 월아이",
+    "stage": 1,
+    "context": "item.walleyerawItem.name=Raw Walleye"
+  },
+  {
+    "key": "lang|item.holidaycakeItem.name",
+    "original": "Holiday Cake",
+    "translation": "성탄절 케이크",
+    "stage": 1,
+    "context": "item.holidaycakeItem.name=Holiday Cake"
+  },
+  {
+    "key": "lang|item.clamcookedItem.name",
+    "original": "Cooked Clam",
+    "translation": "구운 조개",
+    "stage": 1,
+    "context": "item.clamcookedItem.name=Cooked Clam"
+  },
+  {
+    "key": "lang|item.crabcookedItem.name",
+    "original": "Cooked Crab",
+    "translation": "구운 게",
+    "stage": 1,
+    "context": "item.crabcookedItem.name=Cooked Crab"
+  },
+  {
+    "key": "lang|item.crayfishcookedItem.name",
+    "original": "Cooked Crayfish",
+    "translation": "구운 가재",
+    "stage": 1,
+    "context": "item.crayfishcookedItem.name=Cooked Crayfish"
+  },
+  {
+    "key": "lang|item.frogcookedItem.name",
+    "original": "Cooked Frog Legs",
+    "translation": "구운 개구리 다리",
+    "stage": 1,
+    "context": "item.frogcookedItem.name=Cooked Frog Legs"
+  },
+  {
+    "key": "lang|item.octopuscookedItem.name",
+    "original": "Cooked Octopus",
+    "translation": "구운 문어",
+    "stage": 1,
+    "context": "item.octopuscookedItem.name=Cooked Octopus"
+  },
+  {
+    "key": "lang|item.scallopcookedItem.name",
+    "original": "Cooked Scallop",
+    "translation": "구운 가리비",
+    "stage": 1,
+    "context": "item.scallopcookedItem.name=Cooked Scallop"
+  },
+  {
+    "key": "lang|item.shrimpcookedItem.name",
+    "original": "Cooked Shrimp",
+    "translation": "구운 새우",
+    "stage": 1,
+    "context": "item.shrimpcookedItem.name=Cooked Shrimp"
+  },
+  {
+    "key": "lang|item.snailcookedItem.name",
+    "original": "Cooked Snail",
+    "translation": "구운 달팽이",
+    "stage": 1,
+    "context": "item.snailcookedItem.name=Cooked Snail"
+  },
+  {
+    "key": "lang|item.turtlecookedItem.name",
+    "original": "Cooked Turtle",
+    "translation": "구운 거북이",
+    "stage": 1,
+    "context": "item.turtlecookedItem.name=Cooked Turtle"
+  },
+  {
+    "key": "lang|item.appleciderItem.name",
+    "original": "Apple Cider",
+    "translation": "사이다",
+    "stage": 1,
+    "context": "item.appleciderItem.name=Apple Cider"
+  },
+  {
+    "key": "lang|item.bangersandmashItem.name",
+    "original": "Bangers and Mash",
+    "translation": "뱅어스 앤 매쉬",
+    "stage": 1,
+    "context": "item.bangersandmashItem.name=Bangers and Mash"
+  },
+  {
+    "key": "lang|item.batteredsausageItem.name",
+    "original": "Battered Sausage",
+    "translation": "반죽 소시지",
+    "stage": 1,
+    "context": "item.batteredsausageItem.name=Battered Sausage"
+  },
+  {
+    "key": "lang|item.batterItem.name",
+    "original": "Batter",
+    "translation": "반죽",
+    "stage": 1,
+    "context": "item.batterItem.name=Batter"
+  },
+  {
+    "key": "lang|item.chorizoItem.name",
+    "original": "Chorizo",
+    "translation": "초리조",
+    "stage": 1,
+    "context": "item.chorizoItem.name=Chorizo"
+  },
+  {
+    "key": "lang|item.coleslawItem.name",
+    "original": "Coleslaw",
+    "translation": "코울슬로",
+    "stage": 1,
+    "context": "item.coleslawItem.name=Coleslaw"
+  },
+  {
+    "key": "lang|item.energydrinkItem.name",
+    "original": "Energy Drink",
+    "translation": "에너지 드링크",
+    "stage": 1,
+    "context": "item.energydrinkItem.name=Energy Drink"
+  },
+  {
+    "key": "lang|item.friedonionsItem.name",
+    "original": "Fried Onions",
+    "translation": "양파 튀김",
+    "stage": 1,
+    "context": "item.friedonionsItem.name=Fried Onions"
+  },
+  {
+    "key": "lang|item.meatfeastpizzaItem.name",
+    "original": "Meat Feast Pizza",
+    "translation": "고기 가득 피자",
+    "stage": 1,
+    "context": "item.meatfeastpizzaItem.name=Meat Feast Pizza"
+  },
+  {
+    "key": "lang|item.mincepieItem.name",
+    "original": "Mince Pie",
+    "translation": "민스파이",
+    "stage": 1,
+    "context": "item.mincepieItem.name=Mince Pie"
+  },
+  {
+    "key": "lang|item.onionhamburgerItem.name",
+    "original": "Onion Hamburger",
+    "translation": "양파 햄버거",
+    "stage": 1,
+    "context": "item.onionhamburgerItem.name=Onion Hamburger"
+  },
+  {
+    "key": "lang|item.pepperoniItem.name",
+    "original": "Pepperoni",
+    "translation": "페퍼로니",
+    "stage": 1,
+    "context": "item.pepperoniItem.name=Pepperoni"
+  },
+  {
+    "key": "lang|item.pickledonionsItem.name",
+    "original": "Pickled Onions",
+    "translation": "양파 피클",
+    "stage": 1,
+    "context": "item.pickledonionsItem.name=Pickled Onions"
+  },
+  {
+    "key": "lang|item.porksausageItem.name",
+    "original": "Pork Sausage",
+    "translation": "돼지고기 소시지",
+    "stage": 1,
+    "context": "item.porksausageItem.name=Pork Sausage"
+  },
+  {
+    "key": "lang|item.raspberrytrifleItem.name",
+    "original": "Raspberry Trifle",
+    "translation": "라즈베리 트라이플",
+    "stage": 1,
+    "context": "item.raspberrytrifleItem.name=Raspberry Trifle"
+  },
+  {
+    "key": "lang|item.pumpkincheesecakeItem.name",
+    "original": "Pumpkin Cheesecake",
+    "translation": "호박 치즈케이크",
+    "stage": 1,
+    "context": "item.pumpkincheesecakeItem.name=Pumpkin Cheesecake"
+  },
+  {
+    "key": "lang|item.pumpkinmuffinItem.name",
+    "original": "Pumpkin Muffin",
+    "translation": "호박 머핀",
+    "stage": 1,
+    "context": "item.pumpkinmuffinItem.name=Pumpkin Muffin"
+  },
+  {
+    "key": "lang|item.suaderoItem.name",
+    "original": "Suadero",
+    "translation": "수아데로",
+    "stage": 1,
+    "context": "item.suaderoItem.name=Suadero"
+  },
+  {
+    "key": "lang|item.randomtacoItem.name",
+    "original": "Random Taco",
+    "translation": "랜덤 타코",
+    "stage": 1,
+    "context": "item.randomtacoItem.name=Random Taco"
+  },
+  {
+    "key": "lang|item.turkeyrawItem.name",
+    "original": "Raw Turkey",
+    "translation": "익히지 않은 칠면조",
+    "stage": 1,
+    "context": "item.turkeyrawItem.name=Raw Turkey"
+  },
+  {
+    "key": "lang|item.turkeycookedItem.name",
+    "original": "Cooked Turkey",
+    "translation": "구운 칠면조",
+    "stage": 1,
+    "context": "item.turkeycookedItem.name=Cooked Turkey"
+  },
+  {
+    "key": "lang|item.rabbitrawItem.name",
+    "original": "Raw Rabbit",
+    "translation": "익히지 않은 토끼고기",
+    "stage": 1,
+    "context": "item.rabbitrawItem.name=Raw Rabbit"
+  },
+  {
+    "key": "lang|item.rabbitcookedItem.name",
+    "original": "Cooked Rabbit",
+    "translation": "구운 토끼고기",
+    "stage": 1,
+    "context": "item.rabbitcookedItem.name=Cooked Rabbit"
+  },
+  {
+    "key": "lang|item.venisonrawItem.name",
+    "original": "Raw Venison",
+    "translation": "익히지 않은 사슴고기",
+    "stage": 1,
+    "context": "item.venisonrawItem.name=Raw Venison"
+  },
+  {
+    "key": "lang|item.venisoncookedItem.name",
+    "original": "Cooked Venison",
+    "translation": "구운 사슴고기",
+    "stage": 1,
+    "context": "item.venisoncookedItem.name=Cooked Venison"
+  },
+  {
+    "key": "lang|item.strawberrymilkshakeItem.name",
+    "original": "Strawberry Milkshake",
+    "translation": "딸기 밀크셰이크",
+    "stage": 1,
+    "context": "item.strawberrymilkshakeItem.name=Strawberry Milkshake"
+  },
+  {
+    "key": "lang|item.chocolatemilkshakeItem.name",
+    "original": "Chocolate Milkshake",
+    "translation": "초코 밀크셰이크",
+    "stage": 1,
+    "context": "item.chocolatemilkshakeItem.name=Chocolate Milkshake"
+  },
+  {
+    "key": "lang|item.bananamilkshakeItem.name",
+    "original": "Banana Milkshake",
+    "translation": "바나나 밀크셰이크",
+    "stage": 1,
+    "context": "item.bananamilkshakeItem.name=Banana Milkshake"
+  },
+  {
+    "key": "lang|item.cornflakesItem.name",
+    "original": "Cornflakes",
+    "translation": "콘플레이크",
+    "stage": 1,
+    "context": "item.cornflakesItem.name=Cornflakes"
+  },
+  {
+    "key": "lang|item.coleslawburgerItem.name",
+    "original": "Coleslaw Burger",
+    "translation": "코울슬로 햄버거",
+    "stage": 1,
+    "context": "item.coleslawburgerItem.name=Coleslaw Burger"
+  },
+  {
+    "key": "lang|item.roastchickenItem.name",
+    "original": "Roast Chicken",
+    "translation": "구운 치킨",
+    "stage": 1,
+    "context": "item.roastchickenItem.name=Roast Chicken"
+  },
+  {
+    "key": "lang|item.roastpotatoesItem.name",
+    "original": "Roast Potatoes",
+    "translation": "구운 감자",
+    "stage": 1,
+    "context": "item.roastpotatoesItem.name=Roast Potatoes"
+  },
+  {
+    "key": "lang|item.sundayroastItem.name",
+    "original": "Sunday Roast",
+    "translation": "선데이 로스트",
+    "stage": 1,
+    "context": "item.sundayroastItem.name=Sunday Roast"
+  },
+  {
+    "key": "lang|item.bbqpulledporkItem.name",
+    "original": "BBQ Pulled Pork",
+    "translation": "BBQ 풀드 포크",
+    "stage": 1,
+    "context": "item.bbqpulledporkItem.name=BBQ Pulled Pork"
+  },
+  {
+    "key": "lang|item.lambwithmintsauceItem.name",
+    "original": "Lamb with Mint Sauce",
+    "translation": "양고기와 민트 소스",
+    "stage": 1,
+    "context": "item.lambwithmintsauceItem.name=Lamb with Mint Sauce"
+  },
+  {
+    "key": "lang|item.steakandchipsItem.name",
+    "original": "Steak and Chips",
+    "translation": "스테이크와 감자튀김",
+    "stage": 1,
+    "context": "item.steakandchipsItem.name=Steak and Chips"
+  },
+  {
+    "key": "lang|item.cherryicecreamItem.name",
+    "original": "Cherry Ice Cream",
+    "translation": "체리 아이스크림",
+    "stage": 1,
+    "context": "item.cherryicecreamItem.name=Cherry Ice Cream"
+  },
+  {
+    "key": "lang|item.pistachioicecreamItem.name",
+    "original": "Pistachio Ice Cream",
+    "translation": "피스타치오 아이스크림",
+    "stage": 1,
+    "context": "item.pistachioicecreamItem.name=Pistachio Ice Cream"
+  },
+  {
+    "key": "lang|item.neapolitanicecreamItem.name",
+    "original": "Neapolitan Ice Cream",
+    "translation": "네오폴리탄 아이스크림",
+    "stage": 1,
+    "context": "item.neapolitanicecreamItem.name=Neapolitan Ice Cream"
+  },
+  {
+    "key": "lang|item.spumoniicecreamItem.name",
+    "original": "Spumoni Ice Cream",
+    "translation": "스푸모니 아이스크림",
+    "stage": 1,
+    "context": "item.spumoniicecreamItem.name=Spumoni Ice Cream"
+  },
+  {
+    "key": "lang|item.almondbutterItem.name",
+    "original": "Almond Butter",
+    "translation": "아몬드버터",
+    "stage": 1,
+    "context": "item.almondbutterItem.name=Almond Butter"
+  },
+  {
+    "key": "lang|item.cashewbutterItem.name",
+    "original": "Cashew Butter",
+    "translation": "캐슈넛버터",
+    "stage": 1,
+    "context": "item.cashewbutterItem.name=Cashew Butter"
+  },
+  {
+    "key": "lang|item.chestnutbutterItem.name",
+    "original": "Chestnut Butter",
+    "translation": "밤버터",
+    "stage": 1,
+    "context": "item.chestnutbutterItem.name=Chestnut Butter"
+  },
+  {
+    "key": "lang|item.cornishpastyItem.name",
+    "original": "Cornish Pasty",
+    "translation": "콘월식 파스티",
+    "stage": 1,
+    "context": "item.cornishpastyItem.name=Cornish Pasty"
+  },
+  {
+    "key": "lang|item.cottagepieItem.name",
+    "original": "Cottage Pie",
+    "translation": "코티지 파이",
+    "stage": 1,
+    "context": "item.cottagepieItem.name=Cottage Pie"
+  },
+  {
+    "key": "lang|item.croissantItem.name",
+    "original": "Croissant",
+    "translation": "크루아상",
+    "stage": 1,
+    "context": "item.croissantItem.name=Croissant"
+  },
+  {
+    "key": "lang|item.currypowderItem.name",
+    "original": "Curry Powder",
+    "translation": "카레 가루",
+    "stage": 1,
+    "context": "item.currypowderItem.name=Curry Powder"
+  },
+  {
+    "key": "lang|item.dimsumItem.name",
+    "original": "Dim Sum",
+    "translation": "딤섬",
+    "stage": 1,
+    "context": "item.dimsumItem.name=Dim Sum"
+  },
+  {
+    "key": "lang|item.friedpecanokraItem.name",
+    "original": "Fried Pecan Okra",
+    "translation": "피칸-오크라 튀김",
+    "stage": 1,
+    "context": "item.friedpecanokraItem.name=Fried Pecan Okra"
+  },
+  {
+    "key": "lang|item.gooseberryjellyItem.name",
+    "original": "Gooseberry Jelly",
+    "translation": "구즈베리잼",
+    "stage": 1,
+    "context": "item.gooseberryjellyItem.name=Gooseberry Jelly"
+  },
+  {
+    "key": "lang|item.gooseberryjellysandwichItem.name",
+    "original": "Gooseberry Jelly Sandwich",
+    "translation": "구즈베리잼 샌드위치",
+    "stage": 1,
+    "context": "item.gooseberryjellysandwichItem.name=Gooseberry Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.gooseberrymilkshakeItem.name",
+    "original": "Gooseberry Milkshake",
+    "translation": "구즈베리 밀크셰이크",
+    "stage": 1,
+    "context": "item.gooseberrymilkshakeItem.name=Gooseberry Milkshake"
+  },
+  {
+    "key": "lang|item.gooseberrypieItem.name",
+    "original": "Gooseberry Pie",
+    "translation": "구즈베리 파이",
+    "stage": 1,
+    "context": "item.gooseberrypieItem.name=Gooseberry Pie"
+  },
+  {
+    "key": "lang|item.gooseberryjuiceItem.name",
+    "original": "Gooseberry Juice",
+    "translation": "구즈베리 주스",
+    "stage": 1,
+    "context": "item.gooseberryjuiceItem.name=Gooseberry Juice"
+  },
+  {
+    "key": "lang|item.gooseberrysmoothieItem.name",
+    "original": "Gooseberry Smoothie",
+    "translation": "구즈베리 스무디",
+    "stage": 1,
+    "context": "item.gooseberrysmoothieItem.name=Gooseberry Smoothie"
+  },
+  {
+    "key": "lang|item.gooseberryyogurtItem.name",
+    "original": "Gooseberry Yogurt",
+    "translation": "구즈베리 요거트",
+    "stage": 1,
+    "context": "item.gooseberryyogurtItem.name=Gooseberry Yogurt"
+  },
+  {
+    "key": "lang|item.greenheartfishItem.name",
+    "original": "Green Heart Fish",
+    "translation": "초록하트 물고기",
+    "stage": 1,
+    "context": "item.greenheartfishItem.name=Green Heart Fish"
+  },
+  {
+    "key": "lang|item.hamsweetpicklesandwichItem.name",
+    "original": "Ham & Sweet Pickle Sandwich",
+    "translation": "햄과 피클 샌드위치",
+    "stage": 1,
+    "context": "item.hamsweetpicklesandwichItem.name=Ham & Sweet Pickle Sandwich"
+  },
+  {
+    "key": "lang|item.hushpuppiesItem.name",
+    "original": "Hushpuppies",
+    "translation": "허쉬 퍼피",
+    "stage": 1,
+    "context": "item.hushpuppiesItem.name=Hushpuppies"
+  },
+  {
+    "key": "lang|item.kimchiItem.name",
+    "original": "Kimchi",
+    "translation": "김치",
+    "stage": 1,
+    "context": "item.kimchiItem.name=Kimchi"
+  },
+  {
+    "key": "lang|item.mochiItem.name",
+    "original": "Mochi",
+    "translation": "모치",
+    "stage": 1,
+    "context": "item.mochiItem.name=Mochi"
+  },
+  {
+    "key": "lang|item.museliItem.name",
+    "original": "Museli",
+    "translation": "뮤즐리",
+    "stage": 1,
+    "context": "item.museliItem.name=Museli"
+  },
+  {
+    "key": "lang|item.naanItem.name",
+    "original": "Naan",
+    "translation": "난",
+    "stage": 1,
+    "context": "item.naanItem.name=Naan"
+  },
+  {
+    "key": "lang|item.okrachipsItem.name",
+    "original": "Okra Chips",
+    "translation": "오크라 튀김",
+    "stage": 1,
+    "context": "item.okrachipsItem.name=Okra Chips"
+  },
+  {
+    "key": "lang|item.okracreoleItem.name",
+    "original": "Okra Creole",
+    "translation": "오크라 시리얼",
+    "stage": 1,
+    "context": "item.okracreoleItem.name=Okra Creole"
+  },
+  {
+    "key": "lang|item.pistachiobutterItem.name",
+    "original": "Pistachio Butter",
+    "translation": "피스타치오버터",
+    "stage": 1,
+    "context": "item.pistachiobutterItem.name=Pistachio Butter"
+  },
+  {
+    "key": "lang|item.ploughmanslunchItem.name",
+    "original": "Ploughman's Lunch",
+    "translation": "플라우먼스 런치",
+    "stage": 1,
+    "context": "item.ploughmanslunchItem.name=Ploughman's Lunch"
+  },
+  {
+    "key": "lang|item.porklomeinItem.name",
+    "original": "Pork Lo Mein",
+    "translation": "돼지 로우민",
+    "stage": 1,
+    "context": "item.porklomeinItem.name=Pork Lo Mein"
+  },
+  {
+    "key": "lang|item.salmonpattiesItem.name",
+    "original": "Salmon Patties",
+    "translation": "연어 패티",
+    "stage": 1,
+    "context": "item.salmonpattiesItem.name=Salmon Patties"
+  },
+  {
+    "key": "lang|item.sausageItem.name",
+    "original": "Sausage",
+    "translation": "소시지",
+    "stage": 1,
+    "context": "item.sausageItem.name=Sausage"
+  },
+  {
+    "key": "lang|item.sausagerollItem.name",
+    "original": "Sausage Roll",
+    "translation": "소시지 롤",
+    "stage": 1,
+    "context": "item.sausagerollItem.name=Sausage Roll"
+  },
+  {
+    "key": "lang|item.sesameballItem.name",
+    "original": "Sesame Ball",
+    "translation": "참깨볼",
+    "stage": 1,
+    "context": "item.sesameballItem.name=Sesame Ball"
+  },
+  {
+    "key": "lang|item.sesamesnapsItem.name",
+    "original": "Sesame Snaps",
+    "translation": "참깨 과자",
+    "stage": 1,
+    "context": "item.sesamesnapsItem.name=Sesame Snaps"
+  },
+  {
+    "key": "lang|item.shrimpokrahushpuppiesItem.name",
+    "original": "Shrimp Pork Okra Hushpuppies",
+    "translation": "새우-돼지-오크라 허쉬 퍼피",
+    "stage": 1,
+    "context": "item.shrimpokrahushpuppiesItem.name=Shrimp Pork Okra Hushpuppies"
+  },
+  {
+    "key": "lang|item.soysauceItem.name",
+    "original": "Soy Sauce",
+    "translation": "간장",
+    "stage": 1,
+    "context": "item.soysauceItem.name=Soy Sauce"
+  },
+  {
+    "key": "lang|item.sweetpickleItem.name",
+    "original": "Sweet Pickle",
+    "translation": "단피클",
+    "stage": 1,
+    "context": "item.sweetpickleItem.name=Sweet Pickle"
+  },
+  {
+    "key": "lang|item.veggiestripsItem.name",
+    "original": "Veggie Strips",
+    "translation": "야채 스트립",
+    "stage": 1,
+    "context": "item.veggiestripsItem.name=Veggie Strips"
+  },
+  {
+    "key": "lang|item.vindalooItem.name",
+    "original": "Vindaloo",
+    "translation": "빈달루",
+    "stage": 1,
+    "context": "item.vindalooItem.name=Vindaloo"
+  },
+  {
+    "key": "lang|item.applesmoothieItem.name",
+    "original": "Apple Smoothie",
+    "translation": "사과 스무디",
+    "stage": 1,
+    "context": "item.applesmoothieItem.name=Apple Smoothie"
+  },
+  {
+    "key": "lang|item.cheeseontoastItem.name",
+    "original": "Cheese on Toast",
+    "translation": "치즈 토스트",
+    "stage": 1,
+    "context": "item.cheeseontoastItem.name=Cheese on Toast"
+  },
+  {
+    "key": "lang|item.chocolaterollItem.name",
+    "original": "Chocolate Roll",
+    "translation": "초코 롤케이크",
+    "stage": 1,
+    "context": "item.chocolaterollItem.name=Chocolate Roll"
+  },
+  {
+    "key": "lang|item.coconutcreamItem.name",
+    "original": "Coconut Cream",
+    "translation": "코코넛 크림",
+    "stage": 1,
+    "context": "item.coconutcreamItem.name=Coconut Cream"
+  },
+  {
+    "key": "lang|item.coconutsmoothieItem.name",
+    "original": "Coconut Smoothie",
+    "translation": "코코넛 스무디",
+    "stage": 1,
+    "context": "item.coconutsmoothieItem.name=Coconut Smoothie"
+  },
+  {
+    "key": "lang|item.crackerItem.name",
+    "original": "Cracker",
+    "translation": "크래커",
+    "stage": 1,
+    "context": "item.crackerItem.name=Cracker"
+  },
+  {
+    "key": "lang|item.cranberrysmoothieItem.name",
+    "original": "Cranberry Smoothie",
+    "translation": "크랜베리 스무디",
+    "stage": 1,
+    "context": "item.cranberrysmoothieItem.name=Cranberry Smoothie"
+  },
+  {
+    "key": "lang|item.cranberryyogurtItem.name",
+    "original": "Cranberry Yogurt",
+    "translation": "크랜베리 요거트",
+    "stage": 1,
+    "context": "item.cranberryyogurtItem.name=Cranberry Yogurt"
+  },
+  {
+    "key": "lang|item.deluxechickencurryItem.name",
+    "original": "Deluxe Chicken Curry",
+    "translation": "디럭스 닭고기 카레",
+    "stage": 1,
+    "context": "item.deluxechickencurryItem.name=Deluxe Chicken Curry"
+  },
+  {
+    "key": "lang|item.garammasalaItem.name",
+    "original": "Garam Masala",
+    "translation": "가람 마살라",
+    "stage": 1,
+    "context": "item.garammasalaItem.name=Garam Masala"
+  },
+  {
+    "key": "lang|item.grapesmoothieItem.name",
+    "original": "Grape Smoothie",
+    "translation": "포도 스무디",
+    "stage": 1,
+    "context": "item.grapesmoothieItem.name=Grape Smoothie"
+  },
+  {
+    "key": "lang|item.gravyItem.name",
+    "original": "Gravy",
+    "translation": "그레이비",
+    "stage": 1,
+    "context": "item.gravyItem.name=Gravy"
+  },
+  {
+    "key": "lang|item.honeysandwichItem.name",
+    "original": "Honey Sandwich",
+    "translation": "꿀 샌드위치",
+    "stage": 1,
+    "context": "item.honeysandwichItem.name=Honey Sandwich"
+  },
+  {
+    "key": "lang|item.jamrollItem.name",
+    "original": "Jam Roll",
+    "translation": "잼 롤케이크",
+    "stage": 1,
+    "context": "item.jamrollItem.name=Jam Roll"
+  },
+  {
+    "key": "lang|item.mangochutneyItem.name",
+    "original": "Mango Chutney",
+    "translation": "망고 처트니",
+    "stage": 1,
+    "context": "item.mangochutneyItem.name=Mango Chutney"
+  },
+  {
+    "key": "lang|item.marzipanItem.name",
+    "original": "Marzipan",
+    "translation": "마지팬",
+    "stage": 1,
+    "context": "item.marzipanItem.name=Marzipan"
+  },
+  {
+    "key": "lang|item.paneerItem.name",
+    "original": "Paneer",
+    "translation": "파니르",
+    "stage": 1,
+    "context": "item.paneerItem.name=Paneer"
+  },
+  {
+    "key": "lang|item.paneertikkamasalaItem.name",
+    "original": "Paneer Tikka Masala",
+    "translation": "파니르 티카 마살라",
+    "stage": 1,
+    "context": "item.paneertikkamasalaItem.name=Paneer Tikka Masala"
+  },
+  {
+    "key": "lang|item.peaandhamsoupItem.name",
+    "original": "Pea and Ham Soup",
+    "translation": "완두와 햄 수프",
+    "stage": 1,
+    "context": "item.peaandhamsoupItem.name=Pea and Ham Soup"
+  },
+  {
+    "key": "lang|item.pearjellyItem.name",
+    "original": "Pear Jelly",
+    "translation": "배잼",
+    "stage": 1,
+    "context": "item.pearjellyItem.name=Pear Jelly"
+  },
+  {
+    "key": "lang|item.pearjellysandwichItem.name",
+    "original": "Pear Jelly Sandwich",
+    "translation": "배잼 샌드위치",
+    "stage": 1,
+    "context": "item.pearjellysandwichItem.name=Pear Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.pearsmoothieItem.name",
+    "original": "Pear Smoothie",
+    "translation": "배 스무디",
+    "stage": 1,
+    "context": "item.pearsmoothieItem.name=Pear Smoothie"
+  },
+  {
+    "key": "lang|item.plumjellyItem.name",
+    "original": "Plum Jelly",
+    "translation": "자두잼",
+    "stage": 1,
+    "context": "item.plumjellyItem.name=Plum Jelly"
+  },
+  {
+    "key": "lang|item.plumjellysandwichItem.name",
+    "original": "Plum Jelly Sandwich",
+    "translation": "자두잼 샌드위치",
+    "stage": 1,
+    "context": "item.plumjellysandwichItem.name=Plum Jelly Sandwich"
+  },
+  {
+    "key": "lang|item.plumsmoothieItem.name",
+    "original": "Plum Smoothie",
+    "translation": "자두 스무디",
+    "stage": 1,
+    "context": "item.plumsmoothieItem.name=Plum Smoothie"
+  },
+  {
+    "key": "lang|item.potatoandleeksoupItem.name",
+    "original": "Potato and Leek Soup",
+    "translation": "감자와 파 수프",
+    "stage": 1,
+    "context": "item.potatoandleeksoupItem.name=Potato and Leek Soup"
+  },
+  {
+    "key": "lang|item.toadintheholeItem.name",
+    "original": "Toad in the Hole",
+    "translation": "토드 인 더 홀",
+    "stage": 1,
+    "context": "item.toadintheholeItem.name=Toad in the Hole"
+  },
+  {
+    "key": "lang|item.tunapotatoItem.name",
+    "original": "Tuna Potato",
+    "translation": "참치 올린 감자",
+    "stage": 1,
+    "context": "item.tunapotatoItem.name=Tuna Potato"
+  },
+  {
+    "key": "lang|item.yorkshirepuddingItem.name",
+    "original": "Yorkshire Pudding",
+    "translation": "요크셔 푸딩",
+    "stage": 1,
+    "context": "item.yorkshirepuddingItem.name=Yorkshire Pudding"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.beef.name",
+    "original": "Minced Beef",
+    "translation": "다진 소고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.beef.name=Minced Beef"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.pork.name",
+    "original": "Minced Pork",
+    "translation": "다진 돼지고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.pork.name=Minced Pork"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.chicken.name",
+    "original": "Minced Chicken",
+    "translation": "다진 닭고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.chicken.name=Minced Chicken"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.fish.name",
+    "original": "Minced Fish",
+    "translation": "다진 물고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.fish.name=Minced Fish"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.mutton.name",
+    "original": "Minced Mutton",
+    "translation": "다진 양고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.mutton.name=Minced Mutton"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.rabbit.name",
+    "original": "Minced Rabbit",
+    "translation": "다진 토끼고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.rabbit.name=Minced Rabbit"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.turkey.name",
+    "original": "Minced Turkey",
+    "translation": "다진 칠면조",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.turkey.name=Minced Turkey"
+  },
+  {
+    "key": "lang|item.mincedmeatrawItem.venison.name",
+    "original": "Minced Venison",
+    "translation": "다진 사슴고기",
+    "stage": 1,
+    "context": "item.mincedmeatrawItem.venison.name=Minced Venison"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.beef.name",
+    "original": "Cooked Minced Beef",
+    "translation": "구운 다진 소고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.beef.name=Cooked Minced Beef"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.pork.name",
+    "original": "Cooked Minced Pork",
+    "translation": "구운 다진 돼지고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.pork.name=Cooked Minced Pork"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.chicken.name",
+    "original": "Cooked Minced Chicken",
+    "translation": "구운 다진 닭고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.chicken.name=Cooked Minced Chicken"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.fish.name",
+    "original": "Cooked Minced Fish",
+    "translation": "구운 다진 물고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.fish.name=Cooked Minced Fish"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.mutton.name",
+    "original": "Cooked Minced Mutton",
+    "translation": "구운 다진 양고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.mutton.name=Cooked Minced Mutton"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.rabbit.name",
+    "original": "Cooked Minced Rabbit",
+    "translation": "구운 다진 토끼고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.rabbit.name=Cooked Minced Rabbit"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.turkey.name",
+    "original": "Cooked Minced Turkey",
+    "translation": "구운 다진 칠면조",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.turkey.name=Cooked Minced Turkey"
+  },
+  {
+    "key": "lang|item.mincedmeatcookedItem.venison.name",
+    "original": "Cooked Minced Venison",
+    "translation": "구운 다진 사슴고기",
+    "stage": 1,
+    "context": "item.mincedmeatcookedItem.venison.name=Cooked Minced Venison"
+  },
+  {
+    "key": "lang|harvestcraft.nei.garden.nether",
+    "original": "Nether",
+    "translation": "네더",
+    "stage": 1,
+    "context": "harvestcraft.nei.garden.nether=Nether"
+  },
+  {
+    "key": "lang|harvestcraft.nei.trap.animal",
+    "original": "Animal Trap Drops",
+    "translation": "동물 덫 드롭",
+    "stage": 1,
+    "context": "harvestcraft.nei.trap.animal=Animal Trap Drops"
+  },
+  {
+    "key": "lang|harvestcraft.nei.trap.fish",
+    "original": "Fish Trap Drops",
+    "translation": "통발 드롭",
+    "stage": 1,
+    "context": "harvestcraft.nei.trap.fish=Fish Trap Drops"
+  },
+  {
+    "key": "lang|item.boiledwaterItem.name",
+    "original": "Boiled Water",
+    "translation": "끓인 물",
+    "stage": 1,
+    "context": "item.boiledwaterItem.name=Boiled Water"
+  }
+]
