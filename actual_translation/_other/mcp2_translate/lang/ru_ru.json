@@ -144,6 +144,7 @@
       "mcp.MCP2MegaSolosMode": "§9§lM§c§lC§a§lP§e§l2 §2§lРежим мега-тусы",
       "mcp.MCP2PairsMode": "§9§lM§c§lC§a§lP§e§l2 §2§lПарный режим",
       "mcp.MCP2ClassicMode": "§9§lM§c§lC§a§lP§e§l2 §2§lКлассический режим",
+      "mcp.MCP2TicTacToeMode":"§9§lM§c§lC§a§lP§e§l2 §2§lРежим Бинго",
 
     //coins
       "mcp.coin": "монета",
@@ -451,328 +452,438 @@
           "mcp.grand_prix_bonuses.28": "%1$s с %2$s первыми или последними местами!", // 1: player, 2: score
 
     //tic tac toe (ttt)
+
+      //tic tac toe card finish
+        "mcp.tic_tac_toe_complete": "%1$s завершил свою карту Бинго. После завершения текущего хода у игроков будет %2$s хода на завершение своих карт и сбор наград.", // 1: player, 2: number
+        "mcp.tic_tac_toe_complete.2": "%1$s завершил свою карту Бинго.", // 1: player, 2: number
+
+      //tic tac toe new card
+        "mcp.tic_tac_toe_next_turn.1": "%1$s ходов до появления новой карты Бинго.", // 1: number
+        "mcp.tic_tac_toe_next_turn.2": "Появилась новая карта Бинго. Введите '/trigger TaskList', чтобы посмотреть вашу карту.", // 1: number
+
+      //tic tac toe award
+        "mcp.tic_tac_toe_award_stars":"%1$s получил %2$s защищённых Звёзд за завершение своей карты Бинго!",
+
+      //tic tac toe card info
+
+        //number of completion
+          "mcp.1st_completion":"1-е завершение",
+          "mcp.2nd_completion":"2-е завершение",
+          "mcp.3rd_completion":"3-е завершение",
+          "mcp.4th_completion":"4-е завершение",
+
+        //full armor set progress
+          "mcp.ttt_task17.progress":"(Ступни: %1$s/1) (Ноги: %2$s/1) (Грудь: %3$s/1)",
+
+        //player's tasks
+          "mcp.tic_tac_toe_task_list.1": "Задания %1$s", // 1: player
       
-      //tic tac toe occurrences
+      //tic tac toe tasks
         
         //same space duel
-        "mcp.ttt_task1": "Начало дуэли на одной клетке",
-        "mcp.tic_tac_toe_task.1.2.hover": "Начните дуэль, наступив на одну клетку с противником",
-        "mcp.tic_tac_toe_task.1": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task1
+          "mcp.ttt_task1": "Начало дуэли на одной клетке",
+          "mcp.tic_tac_toe_task.1.2.hover": "Начните дуэль, наступив на одну клетку с противником",
+          "mcp.tic_tac_toe_task.1": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task1
         
         //win star from a duel
-        "mcp.ttt_task2": "Выигрыш звезды на дуэли",
-        "mcp.tic_tac_toe_task.2.2.hover": "Получите Звезду за победу в дуэли",
-        "mcp.tic_tac_toe_task.2": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task2
+          "mcp.ttt_task2": "Выигрыш Звезды на дуэли",
+          "mcp.tic_tac_toe_task.2.2.hover": "Получите Звезду за победу в дуэли",
+          "mcp.tic_tac_toe_task.2": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task2
         
         //be broke
-        "mcp.ttt_task3": "Нищета",
-        "mcp.tic_tac_toe_task.3.2.hover": "В любой момент игры владейте 0 монетами",
-        "mcp.tic_tac_toe_task.3": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task3
+          "mcp.ttt_task3": "Нищета",
+          "mcp.tic_tac_toe_task.3.2.hover": "В любой момент игры владейте 0 монет",
+          "mcp.tic_tac_toe_task.3": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task3
         
         //exacto balance
-        "mcp.ttt_task4": "Точный баланс",
-        "mcp.tic_tac_toe_task.4.2.hover": "Владейте ровно %1$s%2$s", // 1: score, 2: mcp._Coins
-        "mcp.tic_tac_toe_task.4": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task4
+          "mcp.ttt_task4": "Точный баланс",
+          "mcp.tic_tac_toe_task.4.2.hover": "Владейте ровно %1$s%2$s", // 1: score, 2: mcp._Coins
+          "mcp.tic_tac_toe_task.4": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task4
         
         //star shard forger
-        "mcp.ttt_task5": "Кузнец Осколков звезды",
-        "mcp.tic_tac_toe_task.5.2.hover": "Выкуйте Осколок звезды с помощью Суперзвёздной брони",
-        "mcp.tic_tac_toe_task.5": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task5
+          "mcp.ttt_task5": "Кузнец Осколков звезды",
+          "mcp.tic_tac_toe_task.5.2.hover": "Выкуйте Осколок звезды с помощью Суперзвёздной брони",
+          "mcp.tic_tac_toe_task.5": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task5
         
         //purple pipe
-        "mcp.ttt_task6": "Фиолетовая труба",
-        "mcp.tic_tac_toe_task.6.2.hover": "Телепортируйтесь на случайную клетку с помощью Эндер-брони",
-        "mcp.tic_tac_toe_task.6": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
+          "mcp.ttt_task6": "Фиолетовая труба",
+          "mcp.tic_tac_toe_task.6.2.hover": "Телепортируйтесь на другую клетку с помощью Эндер-брони",
+          "mcp.tic_tac_toe_task.6": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
         
         //three time loser
-        "mcp.ttt_task7": "Тройной неудачник",
-        "mcp.tic_tac_toe_task.7.2.hover": "Займите последнее место в 3-х мини-играх типа Потасовка",
-        "mcp.tic_tac_toe_task.7": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task7
-        
+          "mcp.ttt_task7": "Тройной неудачник",
+          "mcp.tic_tac_toe_task.7.2.hover": "Займите последнее место в 3-х мини-играх типа Потасовка",
+          "mcp.tic_tac_toe_task.7": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task7
+
         //coin gather
-        "mcp.ttt_task8": "Сбор монет",
-        "mcp.tic_tac_toe_task.8.2.hover": "Заработайте 10+ монет в одной денежной мини-игре",
-        "mcp.tic_tac_toe_task.8": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task8
+          "mcp.ttt_task8": "Сбор монет",
+          "mcp.tic_tac_toe_task.8.2.hover": "Заработайте 10+ монет в одной денежной мини-игре",
+          "mcp.tic_tac_toe_task.8": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task8
         
         //lose star or turn
-        "mcp.ttt_task9": "Потеря звезды или хода",
-        "mcp.tic_tac_toe_task.9.2.hover": "Дождитесь кражи вашей Звезды или пропуска вашего хода",
-        "mcp.tic_tac_toe_task.9": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task9
+          "mcp.ttt_task9": "Потеря Звезды или хода",
+          "mcp.tic_tac_toe_task.9.2.hover": "Дождитесь кражи вашей Звезды или пропуска вашего хода",
+          "mcp.tic_tac_toe_task.9": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task9
         
         //recover item
-        "mcp.ttt_task10": "Возврат предмета",
-        "mcp.tic_tac_toe_task.10.2.hover": "Верните себе предмет с помощью Предметной брони",
-        "mcp.tic_tac_toe_task.10": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task10
+          "mcp.ttt_task10": "Возврат предмета",
+          "mcp.tic_tac_toe_task.10.2.hover": "Верните себе предмет с помощью Предметной брони",
+          "mcp.tic_tac_toe_task.10": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task10
         
         //bling space coins
-        "mcp.ttt_task11": "Клеточные монеты",
-        "mcp.tic_tac_toe_task.11.2.hover": "Получите 9+ дополнительных монет с помощью Клеточной брони",
-        "mcp.tic_tac_toe_task.11": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task11
+          "mcp.ttt_task11": "Клеточные монеты",
+          "mcp.tic_tac_toe_task.11.2.hover": "Получите 9+ дополнительных монет с помощью Клеточной брони",
+          "mcp.tic_tac_toe_task.11": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task11
         
         //trophy bonuses
-        "mcp.ttt_task12": "Трофейные бонусы",
-        "mcp.tic_tac_toe_task.12.2.hover": "Получите 8+ монет с помощью Трофейной брони",
-        "mcp.tic_tac_toe_task.12": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task12
+          "mcp.ttt_task12": "Трофейные бонусы",
+          "mcp.tic_tac_toe_task.12.2.hover": "Получите 8+ монет с помощью Трофейной брони",
+          "mcp.tic_tac_toe_task.12": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task12
         
         //speedy moving
-        "mcp.ttt_task13": "Быстрая ходьба",
-        "mcp.tic_tac_toe_task.13.2.hover": "Пройдите 6+ дополнительных клеток с помощью Гоночной брони",
-        "mcp.tic_tac_toe_task.13": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task13
+          "mcp.ttt_task13": "Быстрая ходьба",
+          "mcp.tic_tac_toe_task.13.2.hover": "Пройдите 5+ дополнительных клеток с помощью Гоночной брони",
+          "mcp.tic_tac_toe_task.13": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task13
         
         //coin thief
-        "mcp.ttt_task14": "Вор монет",
-        "mcp.tic_tac_toe_task.14.2.hover": "Украдите 15+ монет у других игроков",
-        "mcp.tic_tac_toe_task.14": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task14
+          "mcp.ttt_task14": "Вор монет",
+          "mcp.tic_tac_toe_task.14.2.hover": "Украдите 15+ монет у других игроков",
+          "mcp.tic_tac_toe_task.14": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task14
         
         //item shopper
-        "mcp.ttt_task15": "Закупщик предметов",
-        "mcp.tic_tac_toe_task.15.2.hover": "Купите 5 уникальных предметов в магазине (не считая улучшенные/обычные версии)",
-        "mcp.tic_tac_toe_task.15": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task15
+          "mcp.ttt_task15": "Закупщик предметов",
+          "mcp.tic_tac_toe_task.15.2.hover": "Купите 5 уникальных предметов в магазине (не считая улучшенные/обычные версии)",
+          "mcp.tic_tac_toe_task.15": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task15
         
         //full suit
-        "mcp.ttt_task16": "Полный комплект",
-        "mcp.tic_tac_toe_task.16.2.hover": "Соберите полный комплект брони одного типа",
-        "mcp.tic_tac_toe_task.16": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task16
+          "mcp.ttt_task16": "Полный комплект",
+          "mcp.tic_tac_toe_task.16.2.hover": "Соберите полный комплект новой брони одного типа",
+          "mcp.tic_tac_toe_task.16": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task16
         
         //mixed suit
-        "mcp.ttt_task17": "Неполный комплект",
-        "mcp.tic_tac_toe_task.17.2.hover": "Соберите полный комплект брони разных типов",
-        "mcp.tic_tac_toe_task.17": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task17
+          "mcp.ttt_task17": "Различный комплект",
+          "mcp.tic_tac_toe_task.17.2.hover": "Соберите полный комплект новой брони разных типов",
+          "mcp.tic_tac_toe_task.17": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task17
         
         //exacto roll
-        "mcp.ttt_task18": "Точный бросок",
-        "mcp.tic_tac_toe_task.18.2.hover": "Выбросите 1 на обычном кубике",
-        "mcp.tic_tac_toe_task.18": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task18
+          "mcp.ttt_task18": "Точный бросок",
+          "mcp.tic_tac_toe_task.18.2.hover": "Выбросите 1 на обычном кубике",
+          "mcp.tic_tac_toe_task.18": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task18
         
         //chance time giver
-        "mcp.ttt_task19": "Раздатчик времени шанса",
-        "mcp.tic_tac_toe_task.19.2.hover": "Отдайте 20+ монет на времени шанса",
-        "mcp.tic_tac_toe_task.19": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task19
+          "mcp.ttt_task19": "Раздатчик времени шанса",
+          "mcp.tic_tac_toe_task.19.2.hover": "Отдайте 20+ монет на времени шанса",
+          "mcp.tic_tac_toe_task.19": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task19
         
         //magenta space lander
-        "mcp.ttt_task20": "Активатор пурпурных клеток",
-        "mcp.tic_tac_toe_task.20.2.hover": "Наступите на %1$s пурпурных клеток",
-        "mcp.tic_tac_toe_task.20": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task20
-        
+          "mcp.ttt_task20": "Активатор пурпурных клеток",
+          "mcp.tic_tac_toe_task.20.2.hover": "Наступите на %1$s пурпурных клеток",
+          "mcp.tic_tac_toe_task.20": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task20
+
         //item discarder
-        "mcp.ttt_task21": "Избавитель от предметов",
-        "mcp.tic_tac_toe_task.21.2.hover": "Избавьтесь от 3-х предметов",
-        "mcp.tic_tac_toe_task.21": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task21
+          "mcp.ttt_task21": "Мусорщик",
+          "mcp.tic_tac_toe_task.21.2.hover": "Избавьтесь от 3-х предметов",
+          "mcp.tic_tac_toe_task.21": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task21
         
         //consistent item user
-        "mcp.ttt_task22": "Стабильный пользователь предметов",
-        "mcp.tic_tac_toe_task.22.2.hover": "В течение 5 ходов используйте хотя бы по 1 предмету за ход",
-        "mcp.tic_tac_toe_task.22": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task22
+          "mcp.ttt_task22": "Стабильный пользователь предметов",
+          "mcp.tic_tac_toe_task.22.2.hover": "В течение 5 ходов используйте хотя бы по 1 предмету за ход",
+          "mcp.tic_tac_toe_task.22": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task22
         
         //lucky lander
-        "mcp.ttt_task23": "Удачный наступатель",
-        "mcp.tic_tac_toe_task.23.2.hover": "Наступите на 2 чёрные и 2 жёлтые клетки",
-        "mcp.tic_tac_toe_task.23": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task23
+          "mcp.ttt_task23": "Шмель",
+          "mcp.tic_tac_toe_task.23.2.hover": "Наступите на %1$s чёрные и %2$s жёлтые клетки",
+          "mcp.tic_tac_toe_task.23": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task23
         
         //star refuser
-        "mcp.ttt_task24": "Отказчик звёздам",
-        "mcp.tic_tac_toe_task.24.2.hover": "Пройдите мимо Звёздного торговца, не купив звезду, но имея деньги на её покупку",
-        "mcp.tic_tac_toe_task.24": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task24
+          "mcp.ttt_task24": "Отказчик Звёздам",
+          "mcp.tic_tac_toe_task.24.2.hover": "Пройдите мимо Звёздного торговца, не купив Звезду, но имея деньги на её покупку",
+          "mcp.tic_tac_toe_task.24": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task24
         
         //battle warrior
-        "mcp.ttt_task25": "Боевой воин",
-        "mcp.tic_tac_toe_task.25.2.hover": "Выйдите в плюс по монетам по итогам боевой мини-игры",
-        "mcp.tic_tac_toe_task.25": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task25
+          "mcp.ttt_task25": "Боевой воин",
+          "mcp.tic_tac_toe_task.25.2.hover": "Выйдите в плюс по монетам по итогам боевой мини-игры",
+          "mcp.tic_tac_toe_task.25": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task25
         
         //small team victory
-        "mcp.ttt_task26": "Маленькая командная победа",
-        "mcp.tic_tac_toe_task.26.2.hover": "Победите в мини-игре с большой командой против маленькой команды в качестве одного игрока/команды из 2-х",
-        "mcp.tic_tac_toe_task.26": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task26
+          "mcp.ttt_task26": "Маленькая командная победа",
+          "mcp.tic_tac_toe_task.26.2.hover": "Победите в мини-игре %1$sv%2$s в из %1$s",
+          "mcp.tic_tac_toe_task.26": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task26
         
         //space swap
-        "mcp.ttt_task27": "Обмен местами",
-        "mcp.tic_tac_toe_task.27.2.hover": "Обменяйтесь местами с другим игроком",
-        "mcp.tic_tac_toe_task.27": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task27
+          "mcp.ttt_task27": "Обмен местами",
+          "mcp.tic_tac_toe_task.27.2.hover": "Обменяйтесь местами с другим игроком",
+          "mcp.tic_tac_toe_task.27": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task27
         
         //magic 7
-        "mcp.ttt_task28": "Волшебная 7",
-        "mcp.tic_tac_toe_task.28.2.hover": "Выбросьте 7 с помощью Волшебного кубика",
-        "mcp.tic_tac_toe_task.28": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task28
+          "mcp.ttt_task28": "Волшебная 8",
+          "mcp.tic_tac_toe_task.28.2.hover": "Выбросьте 8 с помощью Волшебного кубика (игнорируя улучшения броска)",
+          "mcp.tic_tac_toe_task.28": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task28
         
         //skip/steal turn
-        "mcp.ttt_task29": "Пропуск/Кража хода",
-        "mcp.tic_tac_toe_task.29.2.hover": "Пропустите или украдите ход другого игрока",
-        "mcp.tic_tac_toe_task.29": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task29
+          "mcp.ttt_task29": "Пропуск/Кража хода",
+          "mcp.tic_tac_toe_task.29.2.hover": "Пропустите или украдите ход другого игрока",
+          "mcp.tic_tac_toe_task.29": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task29
         
         //self mini/binary dice
-        "mcp.ttt_task30": "Мини/Двоичный кубик на себя",
-        "mcp.tic_tac_toe_task.30.2.hover": "Примените на себя Мини-кубик/Двоичный кубик",
-        "mcp.tic_tac_toe_task.30": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task30
-        
+          "mcp.ttt_task30": "Потихоньку",
+          "mcp.tic_tac_toe_task.30.2.hover": "Примените на себя Мини-кубик/Двоичный кубик",
+          "mcp.tic_tac_toe_task.30": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task30
+
         //star teleporter
-        "mcp.ttt_task31": "Звёздный телепортатор",
-        "mcp.tic_tac_toe_task.31.2.hover": "Используйте Звёздный телепорт или Поставщик звёзд",
-        "mcp.tic_tac_toe_task.31": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task31
+          "mcp.ttt_task31": "Звёздный телепортатор",
+          "mcp.tic_tac_toe_task.31.2.hover": "Используйте Звёздный телепорт или Поставщик звёзд",
+          "mcp.tic_tac_toe_task.31": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task31
         
         //reroll
-        "mcp.ttt_task32": "Реролл",
-        "mcp.tic_tac_toe_task.32.2.hover": "Используйте Жетон реролла или Премиальный жетон реролла",
-        "mcp.tic_tac_toe_task.32": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task32
+          "mcp.ttt_task32": "Реролл",
+          "mcp.tic_tac_toe_task.32.2.hover": "Используйте Жетон реролла или Премиальный жетон реролла",
+          "mcp.tic_tac_toe_task.32": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task32
         
         //direct land
-        "mcp.ttt_task33": "Прямое приземление",
-        "mcp.tic_tac_toe_task.33.2.hover": "Заставьте противника встать ровно на вашу ловушку",
-        "mcp.tic_tac_toe_task.33": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task33
+          "mcp.ttt_task33": "Прямое приземление",
+          "mcp.tic_tac_toe_task.33.2.hover": "Заставьте противника встать ровно на вашу ловушку",
+          "mcp.tic_tac_toe_task.33": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task33
         
         //trap exhaust
-        "mcp.ttt_task34": "Ловушечное изнурение",
-        "mcp.tic_tac_toe_task.34.2.hover": "Истощите одну из ваших ловушек",
-        "mcp.tic_tac_toe_task.34": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task34
+          "mcp.ttt_task34": "Истощение ловушки",
+          "mcp.tic_tac_toe_task.34.2.hover": "Истощите одну из ваших многоразовых ловушек",
+          "mcp.tic_tac_toe_task.34": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task34
         
         //trap evade
-        "mcp.ttt_task35": "Избегание ловушки",
-        "mcp.tic_tac_toe_task.35.2.hover": "Обойдите или превратите ловушку противника с помощью Призрачности или Упыризации",
-        "mcp.tic_tac_toe_task.35": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task35
+          "mcp.ttt_task35": "Избегание ловушки",
+          "mcp.tic_tac_toe_task.35.2.hover": "Обойдите или превратите ловушку противника с помощью Призрачности или Упыризации",
+          "mcp.tic_tac_toe_task.35": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task35
         
         //single use star purchase
-        "mcp.ttt_task36": "Одноразовая покупка звезды",
-        "mcp.tic_tac_toe_task.36.2.hover": "Купите звезду у Одноразового звёздного торговца",
-        "mcp.tic_tac_toe_task.36": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task36
+          "mcp.ttt_task36": "Одноразовая покупка Звезды",
+          "mcp.tic_tac_toe_task.36.2.hover": "Купите Звезду у Одноразового звёздного торговца",
+          "mcp.tic_tac_toe_task.36": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task36
         
         //in a circle
-        "mcp.ttt_task37": "В кругу",
-        "mcp.tic_tac_toe_task.37.2.hover": "Пройдите мимо места, на котором вы начали ход",
-        "mcp.tic_tac_toe_task.37": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task37
+          "mcp.ttt_task37": "В кругу",
+          "mcp.tic_tac_toe_task.37.2.hover": "Pass the space that you start your turn on",
+          "mcp.tic_tac_toe_task.37": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task37
         
         //coin hoard
-        "mcp.ttt_task38": "Запас монет",
-        "mcp.tic_tac_toe_task.38.2.hover": "Пройдите мимо магазина, ничего не купив, но имея свободную ячейку для предмета и возможность купить любой предмет",
-        "mcp.tic_tac_toe_task.38": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task38
+          "mcp.ttt_task38": "Запас монет",
+          "mcp.tic_tac_toe_task.38.2.hover": "Пройдите мимо магазина, ничего не купив, но имея свободное место для предмета и возможность купить любой предмет",
+          "mcp.tic_tac_toe_task.38": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task38
         
         //richest in coins
-        "mcp.ttt_task39": "Монетный богач",
-        "mcp.tic_tac_toe_task.39.2.hover": "В любой момент игры владейте наибольшим количеством монет",
-        "mcp.tic_tac_toe_task.39": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task39
+          "mcp.ttt_task39": "Монетный богач",
+          "mcp.tic_tac_toe_task.39.2.hover": "В любой момент игры владейте наибольшим количеством монет",
+          "mcp.tic_tac_toe_task.39": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task39
         
         //deep coin pockets
-        "mcp.ttt_task40": "Полные карманы",
-        "mcp.tic_tac_toe_task.40.2.hover": "Соберите более 100 монет",
-        "mcp.tic_tac_toe_task.40": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task40
+          "mcp.ttt_task40": "Полные карманы",
+          "mcp.tic_tac_toe_task.40.2.hover": "Владейте более 100 монет",
+          "mcp.tic_tac_toe_task.40": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task40
         
         //win streak
-        "mcp.ttt_task41": "Череда побед",
-        "mcp.tic_tac_toe_task.41.2.hover": "Выиграйте 3 мини-игры (в конце хода) подряд",
-        "mcp.tic_tac_toe_task.41": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task41
+          "mcp.ttt_task41": "Череда побед",
+          "mcp.tic_tac_toe_task.41.2.hover": "Выиграйте 3 мини-игры (в конце хода) подряд",
+          "mcp.tic_tac_toe_task.41": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task41
         
         //star rich
-        "mcp.ttt_task42": "Звёздный олигарх",
-        "mcp.tic_tac_toe_task.42.2.hover": "Имейте на 2+ Звезды больше, чем у противников",
-        "mcp.tic_tac_toe_task.42": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task42
+          "mcp.ttt_task42": "Звёздный олигарх",
+          "mcp.tic_tac_toe_task.42.2.hover": "Имейте на 2+ Звезды больше, чем у каждого противника",
+          "mcp.tic_tac_toe_task.42": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task42
         
         //team player
-        "mcp.ttt_task43": "Командный игрок",
-        "mcp.tic_tac_toe_task.43.2.hover": "Выиграйте 2v2 с каждым игроком",
-        "mcp.tic_tac_toe_task.43": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task43
+          "mcp.ttt_task43": "Командный игрок",
+          "mcp.tic_tac_toe_task.43.2.hover": "Выиграйте %1$sv%1$s с каждым игроком",
+          "mcp.tic_tac_toe_task.43": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task43
         
         //item collector
-        "mcp.ttt_task44": "Коллекционер предметов",
-        "mcp.tic_tac_toe_task.44.2.hover": "Получите 3+ предмета за один ход без покупки Мешка со всячиной или Мешка с сокровищами",
-        "mcp.tic_tac_toe_task.44": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task44
+          "mcp.ttt_task44": "Коллекционер предметов",
+          "mcp.tic_tac_toe_task.44.2.hover": "Получите 3+ предмета за один ход без покупки Мешка со всячиной или Мешка с сокровищами",
+          "mcp.tic_tac_toe_task.44": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task44
         
         //coin robber
-        "mcp.ttt_task45": "Похититель монет",
-        "mcp.tic_tac_toe_task.45.2.hover": "Получите 10+ монет на Испытании кражи монет",
-        "mcp.tic_tac_toe_task.45": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task45
+          "mcp.ttt_task45": "Похититель монет",
+          "mcp.tic_tac_toe_task.45.2.hover": "Получите 10+ монет на Испытании кражи монет",
+          "mcp.tic_tac_toe_task.45": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task45
         
         //racer
-        "mcp.ttt_task46": "Гонщик",
-        "mcp.tic_tac_toe_task.46.2.hover": "Пройдите два круга за один ход",
-        "mcp.tic_tac_toe_task.46": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task46
+          "mcp.ttt_task46": "Гонщик",
+          "mcp.tic_tac_toe_task.46.2.hover": "Пройдите два круга за один ход",
+          "mcp.tic_tac_toe_task.46": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task46
         
         //ignore bew
-        "mcp.ttt_task47": "Игнор Пчела",
-        "mcp.tic_tac_toe_task.47.2.hover": "Зайдите и выйдите из портала Пчела, никого не обокрав",
-        "mcp.tic_tac_toe_task.47": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task47
+          "mcp.ttt_task47": "Игнор Пчела",
+          "mcp.tic_tac_toe_task.47.2.hover": "Зайдите и выйдите из портала Пчела, никого не обокрав",
+          "mcp.tic_tac_toe_task.47": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task47
         
         //defeat ender guardian
-        "mcp.ttt_task48": "Победа над Древним стражем",
-        "mcp.tic_tac_toe_task.48.2.hover": "Сразите Древнего стража",
-        "mcp.tic_tac_toe_task.48": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task48
+          "mcp.ttt_task48": "Победа над Древним стражем",
+          "mcp.tic_tac_toe_task.48.2.hover": "Сразите Древнего стража",
+          "mcp.tic_tac_toe_task.48": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task48
         
         //ice cream melt
-        "mcp.ttt_task49": "Растаявшее мороженое",
-        "mcp.tic_tac_toe_task.49.2.hover": "Заставьте мороженое растаять, наступив на пурпурную клетку под рожком мороженого",
-        "mcp.tic_tac_toe_task.49": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task49
+          "mcp.ttt_task49": "Растаявшее мороженое",
+          "mcp.tic_tac_toe_task.49.2.hover": "Заставьте мороженое растаять, наступив на пурпурную клетку под рожком мороженого",
+          "mcp.tic_tac_toe_task.49": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task49
         
         //random warp
-        "mcp.ttt_task50": "Случайный телепорт",
-        "mcp.tic_tac_toe_task.50.2.hover": "Переместитесь к случайному телепорту",
-        "mcp.tic_tac_toe_task.50": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task50
+          "mcp.ttt_task50": "Случайный телепорт",
+          "mcp.tic_tac_toe_task.50.2.hover": "Переместитесь с помощью случайного телепорта",
+          "mcp.tic_tac_toe_task.50": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task50
         
         //shuffle loss
-        "mcp.ttt_task51": "Потеря тасовки",
-        "mcp.tic_tac_toe_task.51.2.hover": "Активируйте событие перемешки и потеряйте на нём монеты или звёзды",
-        "mcp.tic_tac_toe_task.51": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task51
+          "mcp.ttt_task51": "Потеря на перемешке",
+          "mcp.tic_tac_toe_task.51.2.hover": "Активируйте событие перемешки и потеряйте на нём монеты или Звёзды",
+          "mcp.tic_tac_toe_task.51": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task51
         
         //poisoner
-        "mcp.ttt_task52": "Отравитель",
-        "mcp.tic_tac_toe_task.52.2.hover": "Отравите зельевара",
-        "mcp.tic_tac_toe_task.52": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task52
+          "mcp.ttt_task52": "Отравитель",
+          "mcp.tic_tac_toe_task.52.2.hover": "Отравите Суповара",
+          "mcp.tic_tac_toe_task.52": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task52
         
         //minion suction
-        "mcp.ttt_task53": "Присос приспешников",
-        "mcp.tic_tac_toe_task.53.2.hover": "Заставьте приспешника переместиться по пурпурной трубе",
-        "mcp.tic_tac_toe_task.53": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task53
+          "mcp.ttt_task53": "Засос приспешников",
+          "mcp.tic_tac_toe_task.53.2.hover": "Заставьте приспешника переместиться по пурпурной трубе",
+          "mcp.tic_tac_toe_task.53": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task53
         
         //launch thrice
-        "mcp.ttt_task54": "Тройной запуск",
-        "mcp.tic_tac_toe_task.54.2.hover": "Взлетите в воздух 3+ раз с помощью пурпурных клеток",
-        "mcp.tic_tac_toe_task.54": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task54
+          "mcp.ttt_task54": "Тройной запуск",
+          "mcp.tic_tac_toe_task.54.2.hover": "Взлетите в воздух 3+ раз с помощью пурпурных клеток",
+          "mcp.tic_tac_toe_task.54": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task54
         
         //give item to pablo
-        "mcp.ttt_task55": "Передача предмета Пабло",
-        "mcp.tic_tac_toe_task.55.2.hover": "Дайте Пабло предмет в обмен на реинвестицию большего количества монет",
-        "mcp.tic_tac_toe_task.55": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task55
+          "mcp.ttt_task55": "Передача предмета Пабло",
+          "mcp.tic_tac_toe_task.55.2.hover": "Дайте Пабло предмет в обмен на вложение большего количества монет",
+          "mcp.tic_tac_toe_task.55": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task55
         
         //lose food thrice
-        "mcp.ttt_task56": "Тройная потеря еды",
-        "mcp.tic_tac_toe_task.56.2.hover": "Потеряйте еду 3+ раза",
-        "mcp.tic_tac_toe_task.56": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task56
+          "mcp.ttt_task56": "Потеря еды",
+          "mcp.tic_tac_toe_task.56.2.hover": "Потеряйте еду",
+          "mcp.tic_tac_toe_task.56": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task56
         
         //fly away
-        "mcp.ttt_task57": "Улёт",
-        "mcp.tic_tac_toe_task.57.2.hover": "Улетите на фантоме от острова с избушкой волшебника",
-        "mcp.tic_tac_toe_task.57": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task57
+          "mcp.ttt_task57": "Улёт",
+          "mcp.tic_tac_toe_task.57.2.hover": "Улетите на фантоме от острова с избушкой волшебника",
+          "mcp.tic_tac_toe_task.57": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task57
         
         //large haul
-        "mcp.ttt_task58": "Большая перетяжка",
-        "mcp.tic_tac_toe_task.58.2.hover": "Доставьте 10+ подарков за один заход",
-        "mcp.tic_tac_toe_task.58": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task58
+          "mcp.ttt_task58": "Большой груз",
+          "mcp.tic_tac_toe_task.58.2.hover": "Доставьте 10+ подарков за один заход",
+          "mcp.tic_tac_toe_task.58": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task58
         
         //ztar curse
-        "mcp.ttt_task59": "Проклятие свезды",
-        "mcp.tic_tac_toe_task.59.2.hover": "Потеряйте звезду из-за Свёздного торговца",
-        "mcp.tic_tac_toe_task.59": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task59
+          "mcp.ttt_task59": "Проклятие Свезды",
+          "mcp.tic_tac_toe_task.59.2.hover": "Потеряйте Звезду из-за Свёздного торговца",
+          "mcp.tic_tac_toe_task.59": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task59
         
         //judged twice
-        "mcp.ttt_task60": "Двойное осуждение",
-        "mcp.tic_tac_toe_task.60.2.hover": "Дважды будьте осуждены Фрейром",
-        "mcp.tic_tac_toe_task.60": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task60
+          "mcp.ttt_task60": "Двойное осуждение",
+          "mcp.tic_tac_toe_task.60.2.hover": "Дважды будьте осуждены Фрейром",
+          "mcp.tic_tac_toe_task.60": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task60
         
         //break shield
-        "mcp.ttt_task61": "Сломанный щит",
-        "mcp.tic_tac_toe_task.61.2.hover": "Сломайте Щит духа или Шипастый щит духа",
-        "mcp.tic_tac_toe_task.61": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task61
+          "mcp.ttt_task61": "Сломанный щит",
+          "mcp.tic_tac_toe_task.61.2.hover": "Сломайте Щит духа или Шипастый щит духа",
+          "mcp.tic_tac_toe_task.61": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task61
         
         //maxed equipment piece
-        "mcp.ttt_task62": "Максимально улучшенные части экипировки",
-        "mcp.tic_tac_toe_task.62.2.hover": "Улучшите часть экипировки до максимального уровня",
-        "mcp.tic_tac_toe_task.62": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task62
+          "mcp.ttt_task62": "Максимальное улучшение",
+          "mcp.tic_tac_toe_task.62.2.hover": "Улучшите новую часть брони до максимального уровня",
+          "mcp.tic_tac_toe_task.62": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task62
         
         //doubles or triples
-        "mcp.ttt_task63": "Дубли или триплы",
-        "mcp.tic_tac_toe_task.63.2.hover": "Выбросите дубль или трипл",
-        "mcp.tic_tac_toe_task.63": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task63
+          "mcp.ttt_task63": "Дубли или триплы",
+          "mcp.tic_tac_toe_task.63.2.hover": "Выбросите дубль или трипл",
+          "mcp.tic_tac_toe_task.63": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task63
         
         //long launch from cannon
-        "mcp.ttt_task64": "Длинный полёт из пушки",
-        "mcp.tic_tac_toe_task.64.2.hover": "Пропустите 30 клеток с помощью Конфетной пушки/Песчаной пушки",
-        "mcp.tic_tac_toe_task.64": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task64
+          "mcp.ttt_task64": "Длинный полёт из пушки",
+          "mcp.tic_tac_toe_task.64.2.hover": "Пропустите 30+ клеток с помощью Конфетной пушки/Песчаной пушки",
+          "mcp.tic_tac_toe_task.64": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task64
+
+        //trashed treasure
+          "mcp.ttt_task65": "Выброшенное сокровище",
+          "mcp.tic_tac_toe_task.65.2.hover": "Избавьтесь от Похитителя звёзд или Подделывателя звёзд",
+          "mcp.tic_tac_toe_task.65": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task65
+
+        //three of a kind
+          "mcp.ttt_task66": "Три в ряд",
+          "mcp.tic_tac_toe_task.66.2.hover": "Владейте 3-мя одинаковыми предметами одновременно (не зависит от улучшения)",
+          "mcp.tic_tac_toe_task.66": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
+
+        //lose item
+          "mcp.ttt_task67": "Потеря предмета",
+          "mcp.tic_tac_toe_task.67.2.hover": "Потеряйте предмет любым способом, не избавляясь от него",
+          "mcp.tic_tac_toe_task.67": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
+
+        //coin collector
+          "mcp.ttt_task68": "Нумизмат",
+          "mcp.tic_tac_toe_task.68.2.hover": "Получите 30+ монет за один ход, не активировав мини-игру",
+          "mcp.tic_tac_toe_task.68": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
+
+        //double switch
+          "mcp.ttt_task69": "Вкл-выкл",
+          "mcp.tic_tac_toe_task.69.2.hover": "Переключите светофоры дважды за один ход",
+          "mcp.tic_tac_toe_task.69": "%1$s завершил %2$s",
+
+        //adventurer
+          "mcp.ttt_task70": "Приключенец",
+          "mcp.tic_tac_toe_task.70.2.hover": "Пройдите любой квест",
+          "mcp.tic_tac_toe_task.70": "%1$s завершил %2$s",
+
+        //lighthouse strike
+          "mcp.ttt_task71": "Маяковый прилёт",
+          "mcp.tic_tac_toe_task.71.2.hover": "Поразите хоты бы двух игроков одним выстрелом из пушки",
+          "mcp.tic_tac_toe_task.71": "%1$s завершил %2$s",
+
+        //bews guest
+          "mcp.ttt_task72": "Постоялец Пчела",
+          "mcp.tic_tac_toe_task.72.2.hover": "Посетите Пчела дважды",
+          "mcp.tic_tac_toe_task.72": "%1$s завершил %2$s",
+
+        //megastar bundle
+          "mcp.ttt_task73": "Суперзвёздный набор",
+          "mcp.tic_tac_toe_task.73.2.hover": "Купите 5 Звёзд за раз",
+          "mcp.tic_tac_toe_task.73": "%1$s завершил %2$s",
+
+        //expedition
+          "mcp.ttt_task74": "Экспедиция",
+          "mcp.tic_tac_toe_task.74.2.hover": "Пройдите все испытания доски",
+          "mcp.tic_tac_toe_task.74": "%1$s завершил %2$s",
+
+        //secret diner
+          "mcp.ttt_task75": "Секретная забегаловка",
+          "mcp.tic_tac_toe_task.75.2.hover": "Вложите монеты в 5-й участок",
+          "mcp.tic_tac_toe_task.75": "%1$s завершил %2$s",
+
+        //fast magic
+          "mcp.ttt_task76": "Дешёвые трюки",
+          "mcp.tic_tac_toe_task.76.2.hover": "Примените два заклинания за один ход",
+          "mcp.tic_tac_toe_task.76": "%1$s завершил %2$s",
+
+        //present reclaimer
+          "mcp.ttt_task77": "Возврат подарков",
+          "mcp.tic_tac_toe_task.77.2.hover": "Соберите 5+ подарков в Испытании пещеры Гринча",
+          "mcp.tic_tac_toe_task.77": "%1$s завершил %2$s",
+
+        //not a scratch
+          "mcp.ttt_task78": "Без единой царапины",
+          "mcp.tic_tac_toe_task.78.2.hover": "Пройдите храм без потери здоровья",
+          "mcp.tic_tac_toe_task.78": "%1$s завершил %2$s",
+
+        //soul cleanse
+          "mcp.ttt_task79": "Очищение души",
+          "mcp.tic_tac_toe_task.79.2.hover": "Пожертвуйте 5 Отрицательной кармы за раз в Спиритической комнате",
+          "mcp.tic_tac_toe_task.79": "%1$s завершил %2$s",
+
+        //challenge mastery
+          "mcp.ttt_task80": "Настоящее мастерство",
+          "mcp.tic_tac_toe_task.80.2.hover": "Пройдите любое испытание дважды",
+          "mcp.tic_tac_toe_task.80": "%1$s завершил %2$s",
+
+        //rainbow lander
+          "mcp.ttt_task81": "Радужный наступатель",
+          "mcp.tic_tac_toe_task.81.2.hover": "Наступите на все клетки уникальных цветов",
+          "mcp.tic_tac_toe_task.81": "%1$s завершил %2$s",
 
     //randomized board spaces (not really a gamemode but whatever)
       "mcp.randomize_spots_event.1": "Клетки на доске были повторно перемешаны!",
@@ -805,7 +916,7 @@
       //boards sign
         "mcp.SignBoards": "Доски",
         "mcp.Signclick_to_select": "1 клик — выбор",
-        "mcp.Signclick_again_to_view": "2 клика — осмотр",
+        "mcp.Signclick_again_to_view": "2 клик — осмотр",
 
       //gamemodes sign
         "mcp.Gamemodes": "Игр. режимы",
@@ -839,7 +950,8 @@
         "mcp.SignSettings": "Настройки",
 
       //lead developer sign
-        "mcp.SignLeadDeveloper": "Гл. разработчик",
+        "mcp.SignLeadDeveloper": "Главный",
+        "mcp.SignLeadDeveloper2":"разработчик",
 
       //gamemode sign
         "mcp.SignGamemode": "Игр. режим",
@@ -851,6 +963,12 @@
       //board complexity and star abundancy signs
         "mcp.SignComplexity": "Сложность",
         "mcp.SignStarAbundancy": "Кол-во звёзд",
+
+    //signs on board preview board
+
+      //selected board
+        "mcp.SignSelectedBoard1":"     Выбранная",
+        "mcp.SignSelectedBoard2":"доска               ",
 
     //board names signs
 
@@ -922,6 +1040,10 @@
         "mcp.CrazyCarnival1": "Безумный",
         "mcp.CrazyCarnival2": "карнавал",
 
+      //courtyard sign
+        "mcp.Courtyard1": "Внутренний",
+        "mcp.Courtyard2": "двор",
+
     //signs around the spawnpoint
 
       //explore map sign
@@ -931,6 +1053,18 @@
         "mcp.SignToggleMusic": "Перек. музыку",
         "mcp.SignToggleMusic2": "(Ползунок",
         "mcp.SignToggleMusic3": "- настр. громк.)",
+
+      //rules chest sign
+        "mcp.SignRules1":"Книги с",
+        "mcp.SignRules2":"правилами",
+        "mcp.SignRules3":"и обучением",
+        "mcp.SignRules4":"",
+
+      //stats chest sign
+        "mcp.SignStats1":"Книги с",
+        "mcp.SignStats2":"игровой",
+        "mcp.SignStats3":"статистикой",
+        "mcp.SignStats4":"",
 
     //signs with spaces descriptions
 
@@ -951,7 +1085,7 @@
 
       //black space sign
         "mcp.black_space": "Чёрная",
-        "mcp.black_space_description": "Неудачн. клетка",
+        "mcp.black_space_description": "клетка",
         "mcp.rare": "Редкая",
 
       //green space sign
@@ -981,8 +1115,10 @@
         "mcp.chance_time_space_description": "Время шанса",
   
       //click for more details sign
-        "mcp.click_signs_for": "Клик на табл. —",
-        "mcp.more_detail": "узнать больше",
+        "mcp.click_signs_for0":"Нажимайте на",
+        "mcp.click_signs_for": "таблички, чтобы",
+        "mcp.more_detail": "узнать",
+        "mcp.more_detail1":"подробнее",
 
     //signs in hat room
 
@@ -1046,7 +1182,7 @@
 
       //item toggle sign
         "mcp.ItemsShown_": "Предметы:",
-        "mcp.SignEnhancedItems": "Улучш. предметы",
+        "mcp.SignEnhancedItems1": "Улучшенные",
         "mcp.SignRegularItems": "Обычные",
         "mcp.enhanced_items_room_toggle.1": "(клик — перекл.)",
         "mcp.enhanced_items_room_toggle.2": "(клик — перекл.)",
@@ -1055,6 +1191,62 @@
 
       //full credits sign
         "mcp.FullCredits": "Все создатели",
+        "mcp.FullCredits2":"(нажмите сюда)",
+        "mcp.FullCredits3":"",
+
+      //media wall signs
+
+        //explanation signs
+          "mcp.SignMediaWall1":"Чтобы попасть",
+          "mcp.SignMediaWall2":"сюда, запишите",
+          "mcp.SignMediaWall3":"вашу игру в",
+          "mcp.SignMediaWall4":"Minecraft Party 2",
+
+          "mcp.SignMediaWall5":"и отправьте",
+          "mcp.SignMediaWall6":"ссылку на видео",
+          "mcp.SignMediaWall7":"TeamMCP или",
+          "mcp.SignMediaWall8":"ClashAssassin",
+
+          "mcp.SignMediaWall9":"на Planet",
+          "mcp.SignMediaWall10":"Minecraft. Или",
+          "mcp.SignMediaWall11":"надейтесь, что",
+          "mcp.SignMediaWall12":"мы вас заметим.",
+
+        //additional streamers sign
+          "mcp.SignMediaWall13":"Дополнительные",
+          "mcp.SignMediaWall14":"стримеры",
+          "mcp.SignMediaWall15":"",
+          "mcp.SignMediaWall16":"(нажмите сюда)",
+
+        //click to get a link sign
+          "mcp.SignMediaWall17":"Нажмите на",
+          "mcp.SignMediaWall18":"табличку, чтобы",
+          "mcp.SignMediaWall19":"получить ссылку",
+          "mcp.SignMediaWall20":"на видео",
+
+      //playtesters wall sign
+
+        //additional playtesters sign
+          "mcp.SignPlaytestersWall1":"Дополнительные",
+          "mcp.SignPlaytestersWall2":"тестировщики",
+          "mcp.SignPlaytestersWall3":"(нажмите сюда)",
+
+      //builders wall sign
+
+        //explanation sign
+          "mcp.SignBuildersWall1":"Постройки, не",
+          "mcp.SignBuildersWall2":"указанные на",
+          "mcp.SignBuildersWall3":"этой стене, были",
+          "mcp.SignBuildersWall4":"построены",
+
+          "mcp.SignBuildersWall5":"ClashAssassin",
+          "mcp.SignBuildersWall6":"или Loominardy",
+
+        //contribuiton sign
+          "mcp.SignBuildersWall7":"Нажмите на",
+          "mcp.SignBuildersWall8":"таблички, чтобы",
+          "mcp.SignBuildersWall9":"узнать вклад",
+          "mcp.SignBuildersWall10":"строителей",
 
     //signs on boards diorama scene
 
@@ -1074,6 +1266,9 @@
         "mcp.parkour_difficulty.4": "Лёгкая",
         "mcp.parkour_difficulty.2": "Средняя",
         "mcp.parkour_difficulty.3": "Сложная",
+
+        "mcp.SignParkourClick1":"(Нажмите, чтобы",
+        "mcp.SignParkourClick2":"изменить)",
 
     //signs in the equipment room
 
@@ -1163,8 +1358,10 @@
     //signs in master settings
   
       //bonus stars option signs
-        "mcp.arcane_atoll_cutscene.7.5": "Доп. звёздные", //this key is also used in arcane atoll cutscene. Someone please fix it ;-;
-        "mcp.GameplayOptions.3": "настройки", //this key is also used in gameplay options sign
+        "mcp.SignBonusStarOptions1":"",
+        "mcp.SignBonusStarOptions2":"Настройки",
+        "mcp.SignBonusStarOptions3":"дополнительных",
+        "mcp.SignBonusStarOptions4":"Звёзд",
 
         //coin thief star sign
           "mcp.give_game_stats.13": "Воровская",
@@ -1174,7 +1371,7 @@
           "mcp.SignOff": "Выкл", //this key is also used in a lot of signs
 
         //ticket star sign
-          "mcp.give_game_stats.11": "Билетная",
+          "mcp.SignTicket":"Билетная",
 
         //racing star sign
           "mcp.give_game_stats.12": "Гоночная",
@@ -1207,7 +1404,7 @@
         "mcp.give_game_stats.27": "Королевская",
 
         //red star sign
-          //Red Star uses "mcp.Red" and "mcp.Star"
+          "mcp.SignRed":"Красная",
 
         //total number of bonus stars sign
           "mcp.TotalNumBonusStars1": "Общее число",
@@ -1234,7 +1431,14 @@
       //shop items signs
 
         //shop items sign
-          "mcp.ShopItemsSign": "Предм. в магаз.",
+          "mcp.SignShopItems": "Предметы",
+          "mcp.SignShopItems2":"в магазинах",
+
+        //turn skipper sign
+          "mcp.SignTurnSkipper":"хода",
+
+        //star stealer sign
+          "mcp.SignStarStealer":"звёзд",
 
       //starting amounts per player signs
 
@@ -1303,16 +1507,19 @@
           "mcp.SignMaxItemsTeams1": "Макс. предметов",
 	        "mcp.SignMaxItemsTeams2": "у каждой",
 	        "mcp.SignMaxItemsTeams3": "команды",
+          "mcp.SignMaxItemsTeams4":"Неограниченно",
 
         //max amounts of items each player can carry sign
           "mcp.SignMaxItemsSolos1": "Макс. предметов",
-	        "mcp.SignMaxItemsSolos2": "У каждого",
+	        "mcp.SignMaxItemsSolos2": "у каждого",
 	        "mcp.SignMaxItemsSolos3": "игрока",
+          "mcp.SignMaxItemsSolos4":"Неограниченно",
 
         //max amount of used items per turn sign
 	        "mcp.SignMaxItemsPerTurn1": "Макс. предметов,",
 	        "mcp.SignMaxItemsPerTurn2": "применимых",
 	        "mcp.SignMaxItemsPerTurn3": "за ход",
+          "mcp.SignMaxItemsPerTurn4":"Неограниченно",
 
         //minigame difficulty sign
           "mcp.SignDifficulty1": "Сложность",
@@ -1327,7 +1534,8 @@
           "mcp.SignSurpriseShops": "Лавки-сюрпризы:",
 
         //trap overwriting sign
-          "mcp.SignTrapOverwriting": "Перепис. ловушек",
+          "mcp.SignTrapOverwriting": "Переписывание",
+          "mcp.SignTrapOverwriting1":"ловушек:",
           "mcp.Allowed": "Разрешено",
           "mcp.NotAllowed": "Запрещено",
 
@@ -1389,11 +1597,13 @@
         //special events sign
           "mcp.SignSpecialEvents": "Особые события:",
 
-          "mcp.SignLastPlacePicksOneOfTwo1": "Посл. выбирает",
-          "mcp.SignLastPlacePicksOneOfTwo2": "одно из двух",
+          "mcp.SignLastPlacePicksOneOfTwo0":"Последнее место",
+          "mcp.SignLastPlacePicksOneOfTwo1": "выбирает одну",
+          "mcp.SignLastPlacePicksOneOfTwo2": "из двух опций",
 
-          "mcp.SignRandomlyChosen1": "Случайно",
-          "mcp.SignRandomlyChosen2": "выбранное",
+          "mcp.SignRandomlyChosen0":"",
+          "mcp.SignRandomlyChosen1": "Выбирается",
+          "mcp.SignRandomlyChosen2": "случайное",
 
         //equipment sign
           "mcp.SignEquipment": "Экипировка:",
@@ -1409,13 +1619,16 @@
           "mcp.SignScrambledBoard2": "клетки:",
 
         //enhanced items drop chance sign
-          "mcp.SignDropChance": "шанс выпадения:", //this sign also uses "mcp.SignEnhancedItems"
+          "mcp.SignEnhancedItems": "Шанс выпадения",
+          "mcp.SignDropChance": "улучшенных",
+          "mcp.SignEnhancedItems2":"предметов:",
 
       //gameplay options signs
 
         //gameplay options sign
 
-          //this sign uses "mcp.GameplayOptions.3" and "mcp.GameplayOptions.2"
+          "mcp.GameplayOptions.3": "настройки",
+          //this sign uses" and "mcp.GameplayOptions.2"
 
         //number of turns sign
           "mcp.TurnModeSign.1": "Число ходов",
@@ -1474,6 +1687,78 @@
 
     //signs in theatre
 
+      //stage signs
+
+        //tainoji signs
+          "mcp.SignTainojiStage2":"",
+          "mcp.SignTainojiStage3":"Переводчик",
+          "mcp.SignTainojiStage4":"на Японский",
+
+        //disapphire sign
+          "mcp.SignDisapphireStage2":"Переводчик",
+          "mcp.SignDisapphireStage3":"на Русский",
+          "mcp.SignDisapphireStage4":"(частый тестер)",
+
+        //inkarro sign
+          "mcp.SignInkarroStage2":"",
+          "mcp.SignInkarroStage3":"Переводчик",
+          "mcp.SignInkarroStage4":"на Китайский",
+
+        //austin sign
+          "mcp.SignAustinStage2":"",
+          "mcp.SignAustinStage3":"Строитель",
+          "mcp.SignAustinStage4":"(частый тестер)",
+
+        //kirb sign
+          "mcp.SignKirbStage2":"Композитор",
+          "mcp.SignKirbStage3":"Строитель",
+          "mcp.SignKirbStage4":"(частый тестер)",
+
+        //john sign
+          "mcp.SignJohnStage2":"",
+          "mcp.SignJohnStage3":"Строитель",
+          "mcp.SignJohnStage4":"(частый тестер)",
+
+        //ryan sign
+          "mcp.SignLoominardy2":"",
+          "mcp.SignLoominardy3":"(Создатель",
+          "mcp.SignLoominardy4":"людей)",
+
+        //michael sign
+          "mcp.SignClash2":"",
+          "mcp.SignClash3":"(Создатель",
+          "mcp.SignClash4":"клонов людей)",
+
+        //dew sign
+          "mcp.SignDewStage2":"",
+          "mcp.SignDewStage3":"Строитель",
+          "mcp.SignDewStage4":"(частый тестер)",
+
+        //devin sign
+          "mcp.SignDevinStage2":"",
+          "mcp.SignDevinStage3":"Гений текстур",
+          "mcp.SignDevinStage4":"Тестировщик",
+
+        //doubleh sign
+          "mcp.SignDoubleHStage2":"",
+          "mcp.SignDoubleHStage3":"Строитель",
+          "mcp.SignDoubleHStage4":"(редкий тестер)",
+
+        //thu1h sign
+          "mcp.SignTru1hStage2":"",
+          "mcp.SignTru1hStage3":"Строитель",
+          "mcp.SignTru1hStage4":"(редкий тестер)",
+
+        //cocoa sign
+          "mcp.SignCocoaStage2":"",
+          "mcp.SignCocoaStage3":"Строитель",
+          "mcp.SignCocoaStage4":"(частый тестер)",
+
+        //crash sign
+          "mcp.SignCrashStage2":"",
+          "mcp.SignCrashStage3":"Строитель",
+          "mcp.SignCrashStage4":"(частый тестер)",
+
       //toilet signs
 
         //men toilet sign
@@ -1492,13 +1777,15 @@
     //common board signs
 
       //item shop sign
-        "mcp.SignItemShop": "Магазин предм.",
+        "mcp.SignItemShop": "Магазин",
+        "mcp.SignItemShop2":"предметов",
 
       //cost sign
         "mcp.Cost_": "Цена:",
 
       //start challenge sign
-        "mcp.StartChallenge": "Начать Испыт.",
+        "mcp.StartChallenge": "Начать",
+        "mcp.StartChallenge1":"испытание",
 
       //learn more about a challenge sign
         "mcp.click_here": "Нажмите сюда,",
@@ -1549,6 +1836,75 @@
           "mcp.Toll3" : "",
           "mcp.CenterParkTollCost" : "5 монет",
           "mcp.Toll4" : "(клик — пройти)",
+          
+      //stoneplex community center signs
+
+        //stoneplex sign
+          "mcp.SignStoneplex1":"Общественный",
+          "mcp.SignStoneplex2":"центр",
+
+        //community center sign
+          "mcp.SignCommunityCenter1":"Камнеграда",
+          "mcp.SignCommunityCenter2":"",
+
+      //street signs
+
+        //ingot street sign
+          "mcp.SignIngotStreet1":"Улица",
+          "mcp.SignIngotStreet2":"Слитковая",
+
+        //stoneplex avenue sign
+          "mcp.SignStoneplexAvenue1":"Камнеградский",
+          "mcp.SignStoneplexAvenue2":"проспект",
+
+      //corner store signs
+
+        //corner store sign
+          "mcp.SignTheMiningCorner":"Магазин",
+          "mcp.SignStore1":"«Шахтёрский",
+          "mcp.SignStore2":"уголок»",
+
+        //lumber and farming tools sign
+          "mcp.SignLumberTools":"Лесозаготовка",
+          "mcp.SignFarmingTools":"Фермерство",
+
+        //raw materials sign
+          "mcp.SignRawMaterials1":"Необработанные",
+          "mcp.SignRawMaterials2":"материалы",
+
+        //materials sign
+          "mcp.SignMaterials":"Материалы",
+
+        //mining tools sign
+          "mcp.SignMiningTools1":"Шахтёрские",
+          "mcp.SignMiningTools2":"инструменты",
+
+        //new mining tools and used items sign
+          "mcp.SignNewMiningTools":"Шахтёрство",
+          "mcp.SignUsedItems":"Б/У предметы",
+
+        //used tools sign
+          "mcp.SignUsedTools1":"Б/У инструменты",
+          "mcp.SignUsedTools2":"",
+
+        //lumber section sign
+          "mcp.SignLumberSection1":"Отдел",
+          "mcp.SignLumberSection2":"лесозаготовки",
+
+        //farming section sign
+          "mcp.SignFarmingSection1":"Отдел",
+          "mcp.SignFarmingSection2":"фермерства",
+
+        //returns sign
+          "mcp.SignReturns":"Возвраты",
+
+      //steve's pizzeria signs
+
+        //women bathroom sign
+          "mcp.SignW":"Ж",
+
+        //men bathroom sign
+          "mcp.SignM":"М",
 
     //airborne isles signs
 
@@ -1603,11 +1959,24 @@
           "mcp.QuestSign3.2": "Бросьте монеты",
           "mcp.QuestSign3.3": "в котёл",
 
+        //sacrificial altar button sign
+          "mcp.SignSacrificeCoins1":"Пожертвовать",
+          "mcp.SignSacrificeCoins2":"монеты",
+
       //teleportation chamber signs
 
         //teleportation chamber enter sign
-          "mcp.Teleportation": "Телепорт.",
+          "mcp.Teleportation": "Перемещающая",
           "mcp.Chamber": "капсула",
+
+          "mcp.Savanna3":"",
+          "mcp.Savanna4":"Саванный",
+
+          "mcp.Mesa3":"Бесплодно-",
+          "mcp.Mesa4":"земельный",
+
+          "mcp.Desert3":"",
+          "mcp.Desert4":"Пустынный",
 
         //teleportation signs
           "mcp.TeleportTo": "Переместиться в",
@@ -1620,6 +1989,9 @@
 
           "mcp.Desert": "Пустыню",
           "mcp.Desert2": "",
+
+          "mcp.TeleportationCost1":"Стоимость",
+          "mcp.TeleportationCost2":"перемещения:",
         
         //teleportation explanation sign
           "mcp.TeleportSign1": "Встаньте на",
@@ -1638,7 +2010,13 @@
       //cannon (big al) signs
 
         //cannon enter sign
-          "mcp.ShootCannon": "Выстр. из пушки",
+          "mcp.ShootCannon": "Выстрелить",
+          "mcp.ShootCannon2":"из пушки",
+
+      //ship signs
+
+        //design by ayvocado sign
+          "mcp.SignDesignBy":"Дизайн от:",
 
     //lost city signs
 
@@ -1647,6 +2025,10 @@
         //skip triton dialogue sign
           "mcp.SkipDialogue2": "Следующий",
           "mcp.SkipDialogue3": "диалог",
+
+        //star cost sign
+          "mcp.SignStarCost1":"Стоимость",
+          "mcp.SignStarCost2":"Звезды:",
 
       //toll signs
 
@@ -1665,7 +2047,8 @@
       //trick or treat (chester) signs
 
         //chester enter sign
-          "mcp.TrickOrTreat": "Слад./Гадость",
+          "mcp.TrickOrTreat0":"Сладость",
+          "mcp.TrickOrTreat": "или Гадость",
 
       //toll signs
 
@@ -1687,29 +2070,42 @@
           "mcp.Challenge": "Испытание", //used in "mcp.BlockGuessing", "mcp.TridentRace" and "mcp.MusicDisc" signs
 
         //block guessing sign
-          "mcp.BlockGuessing": "Угад. блоков",
+          "mcp.BlockGuessing": "Испытание",
+          "mcp.BlockGuessing2":"Угадывания",
+          "mcp.BlockGuessing3":"блоков",
 
         //trident race sign
-          "mcp.TridentRace": "Гонки на трез.",
+          "mcp.TridentRace": "Испытание",
+          "mcp.TridentRace2":"Гонки на",
+          "mcp.TridentRace3":"трезубце",
 
         //music disk sign
-          "mcp.MusicDisc": "Муз. пластинки",
+          "mcp.MusicDisc": "Испытание",
+          "mcp.MusicDisc2":"Музыкальной",
+          "mcp.MusicDisc3":"пластинки",
 
     //mooshroom grotto signs
+
+      //task sign
+        "mcp.SignTask":"Задание",
 
       //sacrificial altars signs
 
         //star altar sign
-          "mcp.StarAltar": "Звёздный алтарь",
+          "mcp.StarAltar": "Звёздный",
+          "mcp.StarAltar0":"алтарь",
 
         //benefits altar sign
-          "mcp.BenefitsAltar": "Полезный алтарь",
+          "mcp.BenefitsAltar": "Полезный",
+          "mcp.BenefitsAltar0":"алтарь",
 
         //variety altar sign
-          "mcp.VarietyAltar": "Различный алтарь",
+          "mcp.VarietyAltar": "Различный",
+          "mcp.VarietyAltar0":"алтарь",
 
         //attack altar sign
-          "mcp.AttackAltar": "Атакующий алтарь",
+          "mcp.AttackAltar": "Атакующий",
+          "mcp.AttackAltar0":"алтарь",
 
     //pipe canyon signs
 
@@ -1719,9 +2115,24 @@
           "mcp.Teleporter": "Телепорт",
 
         //warp sign
-          "mcp.WarpCost_": "Цена перемещ.:",
+          "mcp.WarpCost_0":"Стоимость",
+          "mcp.WarpCost_": "перемещения:",
+          "mcp.WarpCost_2":"7 монет",
 
     //rhythmic room signs
+
+      //launcher signs
+        "mcp.SignLauncherRR":"Запускатель",
+
+      //uranuim sign
+        "mcp.SignUranium1":"Уран",
+        "mcp.SignUranium2":"НЕ ВЗРЫВАТЬ",
+
+      //map builders sign
+        "mcp.SignBuildByRR1":"Построено",
+        "mcp.SignBuildByRR2":"DayBrake76",
+        "mcp.SignBuildByRR3":"и друзьями",
+        "mcp.SignBuildByRR4":"",
 
       //note challenge (marno) signs
 
@@ -1731,20 +2142,23 @@
           "mcp.rr_pass_spot.4": "ноту",
         
         //sumbit pitch sign
-          "mcp.rr_tuner_challenge_start.1": "Подтв. частоту",
+          "mcp.rr_tuner_challenge_start.1": "Подтвердить",
+          "mcp.rr_tuner_challenge_start.2": "частоту",
 
     //suburbia scramble signs
 
       //investment signs
 
         //invest sign
-          "mcp.Invest": "Инвест. ",
-          "mcp.ClickToConfirm": "Клик — подтв.", 
+          "mcp.Invest": "Вложить ",
+          "mcp.ClickToConfirm0":"Нажмите, чтобы",
+          "mcp.ClickToConfirm": "подтвердить", 
 
       //picnic (tyren) signs
 
         //picnic challenge enter sign
-          "mcp.PicnicChallenge": "Испыт. пикника",
+          "mcp.PicnicChallenge": "Испытание",
+          "mcp.PicnicChallenge2":"пикника",
 
       //pablo the pincher signs
 
@@ -1752,12 +2166,26 @@
           "mcp.PabloThe": "Домушник",
           "mcp.Pincher": "Пабло",
 
+        //pablo humble abode sign
+          "mcp.SignHumbleAbode1":"Заходите    ",
+          "mcp.SignHumbleAbode2":"        в",
+
+          "mcp.SignHumbleAbode3":"Скромное",
+          "mcp.SignHumbleAbode4":"жилище",
+          "mcp.SignHumbleAbode5":"Домушника",
+          "mcp.SignHumbleAbode6":"Пабло",
+
     //lofty luncheon signs
+
+      //map builders sign
+        "mcp.SignMapBuildersLL2":"Строители",
+        "mcp.SignMapBuildersLL3":"карты",
 
       //grabbing items signs
 
         //grab an item sign
-          "mcp.GrabItem": "Взять предм.",
+          "mcp.GrabItem": "Взять",
+          "mcp.GrabItem2":"предмет",
 
         //grab pizza slice sign
           "mcp.GrabPizzaSlice2": "Взять",
@@ -1802,7 +2230,8 @@
       //aquor parkour signs
 
         //build parkour sign
-          "mcp.BuildParkour": "Постр. паркур",
+          "mcp.BuildParkour": "Построить",
+          "mcp.BuildParkour2":"паркур",
 
     //present palace signs
 
@@ -1811,12 +2240,22 @@
         //present chute sign
           "mcp.Chute": "Труба", //this sign also uses "mcp.Present"
 
+        //second present chute sign
+          "mcp.SignPresentChute1":"      Подарочная",
+          "mcp.SignPresentChute2":"труба                  ",
+
+        //ornament sign
+          "mcp.SignOrnament":"игрушка",
+
     //dusty dunes signs
 
       //warp signs
 
+        //warp enter sign
+          "mcp.SignWarpDD1":"Телепорт",
+
         //use warp sign
-          "mcp.UseWarp": "Телепорт.",
+          "mcp.UseWarp": "Телепорт",
           "mcp.7_Coins": "7 монет",
 
       //temple signs
@@ -1881,7 +2320,103 @@
           "mcp.Duplicate": "Дубликация",
           "mcp.Unenhancable": "Неулучшаемо",
 
+        //chips signs
+          "mcp.SignChipsFS1":"Эй, если ты",
+          "mcp.SignChipsFS2":"это читаешь,",
+          "mcp.SignChipsFS3":"послушай",
+          "mcp.SignChipsFS4":"меня...",
+
+          "mcp.SignChipsFS5":"Король запер",
+          "mcp.SignChipsFS6":"моего сына в",
+          "mcp.SignChipsFS7":"подземелье...",
+          "mcp.SignChipsFS8":"Прошу, спаси его!",
+
+          "mcp.SignChipsFS9":"Он очень юн,",
+          "mcp.SignChipsFS10":"любит MCP2,",
+          "mcp.SignChipsFS11":"а зовут его...",
+          "mcp.SignChipsFS12":"Чипс",
+
+        //mega bonus sign
+          "mcp.SignBonusFS2":"МЕГА",
+          "mcp.SignBonusFS3":"БОНУС",
+
+        //thophy signs
+
+          //unlucky trophy signs
+            "mcp.SignTrophyFS1":"САМЫЙ",
+            "mcp.SignTrophyFS2":"НЕВЕЗУЧИЙ",
+            "mcp.SignTrophyFS3":"ИГРОК",
+            "mcp.SignTrophyFS4":"В МИРЕ",
+
+            "mcp.SignTrophyFS5":"ЭТОТ ТРОФЕЙ",
+            "mcp.SignTrophyFS6":"ПОДТВЕРЖДАЕТ",
+            "mcp.SignTrophyFS7":"ТВОЮ АБСОЛЮТНО",
+            "mcp.SignTrophyFS8":"УЖАСНУЮ УДАЧУ! :)",
+
+          //lucky trophy signs
+            "mcp.SignTrophyFS9":"САМЫЙ",
+            "mcp.SignTrophyFS10":"ВЕЗУЧИЙ",
+            "mcp.SignTrophyFS11":"ИГРОК",
+            "mcp.SignTrophyFS12":"В МИРЕ",
+
+            "mcp.SignTrophyFS13":"ПРОДОЛЖАЙ",
+            "mcp.SignTrophyFS14":"ПОБЕЖДАТЬ",
+            "mcp.SignTrophyFS15":"В КАЖДОМ",
+            "mcp.SignTrophyFS16":"MINECRAFT PARTY!",
+
     //crazy carnival signs
+
+      //balloons sign
+        "mcp.SignBalloons":"Шарики!",
+
+      //creeper signs
+        "mcp.SignTapCreepers1":"Вставьте монету",
+        "mcp.SignTapCreepers2":"",
+        "mcp.SignTapCreepers3":"",
+        "mcp.SignTapCreepers4":"",
+
+        "mcp.SignTapCreepers5":"и бейте по",
+        "mcp.SignTapCreepers6":"",
+        "mcp.SignTapCreepers7":"",
+        "mcp.SignTapCreepers8":"",
+
+        "mcp.SignTapCreepers9":"Криперам!",
+        "mcp.SignTapCreepers10":"",
+        "mcp.SignTapCreepers11":"",
+        "mcp.SignTapCreepers12":"",
+
+      //shoot targets signs
+        "mcp.SignShootTargets1":"",
+        "mcp.SignShootTargets2":"Попади в мишени",
+        "mcp.SignShootTargets3":"",
+        "mcp.SignShootTargets4":"",
+
+        "mcp.SignShootTargets5":"",
+        "mcp.SignShootTargets6":"и выиграй",
+        "mcp.SignShootTargets7":"",
+        "mcp.SignShootTargets8":"",
+
+        "mcp.SignShootTargets9":"",
+        "mcp.SignShootTargets10":"целую кучу",
+        "mcp.SignShootTargets11":"",
+        "mcp.SignShootTargets12":"",
+
+        "mcp.SignShootTargets13":"",
+        "mcp.SignShootTargets14":"плюшек!",
+        "mcp.SignShootTargets15":"",
+        "mcp.SignShootTargets16":"",
+
+      //throw disks sign
+        "mcp.SignThrowDisks1":"",
+        "mcp.SignThrowDisks2":"Закиньте кольца",
+        "mcp.SignThrowDisks3":"на палочки!",
+        "mcp.SignThrowDisks4":"",
+
+      //candles sign
+        "mcp.SignCandles1":"Жёлтые:",
+        "mcp.SignCandles2":"1 очко",
+        "mcp.SignCandles3":"Фиолетовые:",
+        "mcp.SignCandles4":"3 очка",
 
       //teacup toll signs
 
@@ -1907,25 +2442,114 @@
     //void minigame room signs
 
       //all player needs to be online sign
-        "mcp.VoidRoomSign2.1": "Чтобы переиграть",
-        "mcp.VoidRoomSign2.2": "мини-игру, нужно",
-        "mcp.VoidRoomSign2.3": "чтобы все игроки",
-        "mcp.VoidRoomSign2.4": "были в сети",
+        "mcp.VoidRoomSign2.1": "Чтобы переигр.",
+        "mcp.VoidRoomSign2.2": "мини-игру, все",
+        "mcp.VoidRoomSign2.3": "игроки должны",
+        "mcp.VoidRoomSign2.4": "быть в сети",
 
       //click to see options again
         "mcp.VoidRoomSign1.2": "Посмотреть",
-        "mcp.VoidRoomSign1.3": "выборы повторн.",
+        "mcp.VoidRoomSign1.3": "выборы",
+        "mcp.VoidRoomSign1.4":"повторно",
 
     //selecting team in minigames signs
 
       //randomize sign
         "mcp.RANDOMIZE": "§9С§cЛ§aУ§eЧ§9А§cЙ§aН§eО§9!",
 
+      //player sign
+        "mcp.SignPlayer1":"Игрок",
+
+      //spectator sign
+        "mcp.SignSpectator1":"Наблюдатель",
+
+      //team signs
+
+        //gold sign
+          "mcp.SignGold1":"Золотая",
+          "mcp.SignGold2":"команда",
+
+        //aqua sign
+          "mcp.SignAqua1":"Голубая",
+          "mcp.SignAqua2":"команда",
+
+        //pink sign
+          "mcp.SignPink1":"Розовая",
+          "mcp.SignPink2":"команда",
+
+        //teal sign
+          "mcp.SignTeal1":"Зеленоватая",
+          "mcp.SignTeal2":"команда",
+
+        //purple sign
+          "mcp.SignPurple1":"Фиолетовая",
+          "mcp.SignPurple2":"команда",
+
+        //tan sign
+          "mcp.SignTan1":"Бежевая",
+          "mcp.SignTan2":"команда",
+
+      //turns signs
+        "mcp.Sign1stTurn":"1-й ход",
+        "mcp.Sign2ndTurn":"2-й ход",
+        "mcp.Sign3rdTurn":"3-й ход",
+
+    //port priority signs
+
+      //first aid sign
+        "mcp.SignFIRSTAID": "АПТЕЧКА",
+
+      //engine room sign
+        "mcp.SignToTheEngine":"В машинное",
+        "mcp.SignRoom_":"отделение!",
+
+      //2nd officer sign
+        "mcp.Sign2ndOfficer":"2-й помощник",
+
+      //1st officer sign
+        "mcp.Sign1stOfficer":"1-й помощник",
+
+      //captains room sign
+        "mcp.SignCaptains":"Каюта",
+        "mcp.SignRoom_2":"капитана",
+
+    //the odd one out signs
+
+      //chest of valuables sign
+        "mcp.SignChestOfValuables1":"Сундук с",
+        "mcp.SignChestOfValuables2":"сокровищами",
+
+    //runner signs
+
+      //move up 1 level sign
+        "mcp.SignMoveUp1Level1":"Попасть на",
+        "mcp.SignMoveUp1Level2":"1 уровень выше",
+
+      //move down 1 level sign
+        "mcp.SignMoveDown1Level1":"Попасть на",
+        "mcp.SignMoveDown1Level2":"1 уровень ниже",
+
+    //spleef signs
+
+      //teleport up 1 level sign
+        "mcp.SignTeleportUp1Level1":"Переместиться",
+        "mcp.SignTeleportUp1Level2":"на 1 уровень",
+        "mcp.SignTeleportUp1Level3":"выше",
+
+      //teleport down 1 level sign
+        "mcp.SignTeleportDown1Level1":"Переместиться",
+        "mcp.SignTeleportDown1Level2":"на 1 уровень",
+        "mcp.SignTeleportDown1Level3":"ниже",
+
     //prison pals signs
 
       //lever explanation sign
         "mcp.PrisonPalsSign1": "Потяните рычаг,",
         "mcp.PrisonPalsSign2": "двери откроются",
+
+      //open all doors sign
+        "mcp.SignOpenAllDoors1":"Открыть",
+        "mcp.SignOpenAllDoors2":"все двери",
 
     //memory lane signs
 
@@ -1946,13 +2570,17 @@
     //platforms signs
 
       //jump middle sign
-        "mcp.JumpMiddle": "Прыгн. в центр",
+        "mcp.SignJumpMiddle1":"Прыгнуть",
+        "mcp.SignJumpMiddle2":"в центр",
+        
 
       //jump right sign
-        "mcp.JumpRight": "Прыгн. направо",
+        "mcp.JumpRight1":"Прыгнуть",
+        "mcp.JumpRight2":"направо",
 
       //jump left sign
-        "mcp.JumpLeft": "Прыгн. налево",
+        "mcp.SignJumpLeft1":"Прыгнуть",
+        "mcp.SignJumpLeft2":"налево",
   
     //sheep scramble
 
@@ -1960,7 +2588,7 @@
         "mcp.Type": "Введите",
         "mcp.Guess": "[Число]",
 
-    //game theory
+    //game theory signs
 
       //your player choices sign
         "YourChoices1": "Ваши выборы",
@@ -2255,6 +2883,11 @@
 
         //prison pals sign
           "mcp.set_minigame_signs.8": "%1$s\n\n%2$s", // 1: mcp.prison_pals, 2: mcp.SignDisabled
+
+      //sign in master setting
+
+        //random item
+          "mcp.SignRandomItem": "Случайный предмет",
 
 
 "______SECTION_ITEMS______": "ITEMS, THEIR NAMES, DESCRIPTIONS, HOVERS AND OTHER THINGS- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
@@ -2855,6 +3488,8 @@
           "mcp.buy_bag_o_items.26": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.CandyCannon, 3: mcp.GoodieBag
           "mcp.buy_bag_o_items.27": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.SandyCannon, 3: mcp.GoodieBag
           "mcp.buy_bag_o_items.28": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.SuitShuffler, 3: mcp.GoodieBag
+          "mcp.buy_bag_o_items.29": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.ReverseABoard, 3: mcp.GoodieBag
+          "mcp.buy_bag_o_items.30": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.DoubleStarVoucher, 3: mcp.GoodieBag
 
       //treasure bag
 
@@ -2894,6 +3529,8 @@
           "mcp.buy_treasure_bag.26": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.CandyCannon2, 3: mcp.TreasureBag
           "mcp.buy_treasure_bag.27": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.SandyCannon2, 3: mcp.TreasureBag
           "mcp.buy_treasure_bag.28": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.SuitSwitcher, 3: mcp.TreasureBag
+          "mcp.buy_treasure_bag.29": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.Freeverser, 3: mcp.GoodieBag
+          "mcp.buy_treasure_bag.30": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.DoubleStarVoucher, 3: mcp.GoodieBag
   
       //mini dice
 
@@ -2967,6 +3604,8 @@
 
           "mcp.magic_dice_select_player.2": "%1$s Ваша %2$s активна. Она добавит %3$s к вашему броску %4$s.", // 1: mcp.note_, 2: mcp.magic_dice_select_player.2.2, 3: score, 4: mcp.MagicDice
           "mcp.magic_dice_select_player.2.2": "Скоростная броня",
+
+          "mcp.magic_dice_select_player.4": "%1$s У %2$s активна %3$s. Она добавит %4$s очка к броску %5$s.", // 1: mcp.note_, 2: player, 3: mcp.magic_dice_select_player.2.2, 4: score, 5: mcp. MagicDice/mcp.BigMagicDice
 
           "mcp.roll_queue_tip.7": "%1$s На вас уже применён %2$s. Если вы примените этот предмет на себя, он сработает только на следующем ходу.", // 1: mcp.note_, 2: mcp.MagicDice
 
@@ -3197,6 +3836,9 @@
           "mcp.warp_to_star_description.2": "%1$s%2$s%3$s Можно купить в магазине.\nЦена: %4$s", // 1: mcp.WarpToStar, 2: ": ", 3: mcp.WarpToStarDescription2, 4: mcp.warp_to_star_description.2.3
           "mcp.warp_to_star_description.2.3": "30 монет",
 
+        //warp to star crazy carnival description
+          "mcp.CrazyCarnivalWarpToStarDescription": "Перемещает владельца к ближайшему Звёздному испытанию",
+
         //warp to star use
           "mcp.warp_to_star.1": "%1$s телепортировался на звёздную клетку!", // 1: player
 
@@ -3223,6 +3865,9 @@
           "mcp.StarSupplierDescription3": "Телепортирует владельца к ближайшему главному Звёздному торговцу и даёт необходимое количество монет для покупки одной дополнительной Звезды.",
           "mcp.star_supplier_description.3": "%1$s%2$s%3$s Можно купить в магазине.\nЦена: %4$s", // 1: mcp.StarSupplier, 2: ": ", 3: mcp.StarSupplierDescription3, 4: mcp.star_supplier_description.3.3
           "mcp.star_supplier_description.3.3": "30 монет",
+
+        //star supplier crazy carnival description]
+          "mcp.CrazyCarnivalStarSupplierDescription": "Перемещает владельца к ближайшему Звёздному испытанию, а также даёт монеты, необходимые для покупки Звезды или прохождения испытания",
     
         //star supplier hover
           "mcp.buy_treasure_bag.14.2.hover": "Телепортирует владельца к главному Звёздному торговцу и даёт необходимое количество монет для покупки одной Звезды.",
@@ -4225,6 +4870,13 @@
 
     //items in minigames
 
+      //platforms
+
+        //jump
+          "mcp.JumpLeft": "Прыгнуть налево",
+          "mcp.JumpRight": "Прыгнуть направо",
+          "mcp.JumpMiddle": "Прыгнуть в центр",
+
       //mine your business
 
         //glowing activator
@@ -4392,10 +5044,16 @@
         //hell blade
           "mcp.HellBlade": "Адский клинок",
 
-      //gladiators
+      //weapon devolution
 
-        //gladiator axe
-          "mcp.GladiatorAxe": "Топор гладиатора",
+        //mighty axe
+          "mcp.MightyAxe":"Могучий топор",
+
+        //weak sword
+          "mcp.WeakSword":"Слабый меч",
+
+        //sharp snowball
+          "mcp.SharpSnowball":"Острый снежок",
 
       //gold rush
 
@@ -4890,6 +5548,8 @@
         "mcp.welcome_rules_book.page_13.1": "",
         "mcp.welcome_rules_book.page_13.2": "DewSixtyFour (Строитель)\n\nKingNothing27 (Строитель)\n\nHoodedPandaX (Строитель)\n\nJohnGlacious (Строитель)\n\nAustinTheManiac (Строитель)",
         "mcp.welcome_rules_book.page_14.1": "xDoubleH\n(Строитель)\n\nTru1h\n(Строитель)\n\nDaybreak76\n(Строитель)\n\n_Yoshi12345\n(Композитор музыки)\n\ndevini15\n(Гений текстур)",
+        "mcp.welcome_rules_book.page_15.2": "\nЗавершайте линии заданий на сетке 4x4. Каждый ряд, колонна или диагональ из 4 заданий засчитывается за 1 завершённую линию. Количество линий для завершения бинго-карты настраивается.",
+        "mcp.welcome_rules_book.page_16.2": "После завершения карты можно выбрать одно из двух событий:\n1. Игра завершается в конце текущего хода, побеждает завершитель карты.\n2. Звёзды даются через некоторое время, позволяя другим игрокам нагнать отставание, а затем появляется новая бинго-карта.",
 
 
 "______SECTION_MINIGAMES______": "MINIGAMES NAMES, RULES AND OTHER STUFF- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
@@ -5105,17 +5765,19 @@
 
     //weapon devolution
     
-      //weapon devolution rules
+      //weapon devolution name
         "mcp.weapon_devolution": "Оружейный регресс", 
       
       //weapon devolution rules
-        "mcp.weapon_devolution.1_old": "Сразитесь с другими игроками в огромной потасовке!",
-        "mcp.weapon_devolution.2_old": "Если хотите, можете построить свою арену ;)",
-        "mcp.weapon_devolution2.1_old": "Убейте всех остальных игроков!",
-        "mcp.weapon_devolution3.1_old": "Итоговое место определяется порядком выбывания.",
+        "mcp.weapon_devolution.1":"Сразитесь с другими игроками в масштабной схватке с бесконечными жизнями и мгновенным возрождением.",
+        "mcp.weapon_devolution_rules.1":"После каждого заработанного убийства оружие игрока будет ухудшаться в следующем порядке: Лазерная пушка, Могучий топор, Трезубец, Слабый меч, Острые снежки.",
+        "mcp.weapon_devolution_rules.2":"Победит первый игрок, заработавший убийство с помощью последнего оружия (Острых снежков)!",
       
       //weapon devolution start
         "mcp.weapon_devolution_start.1": "В бой!", //minigame title
+
+      //weapon devolution middle
+        "mcp.weapon_devolution_tick.1":"Вы заработали убийство! Ваше новое оружие — %1$s.",
 
     //tedious tasks
       
@@ -5202,11 +5864,11 @@
       
       //rainbow run rules
         "mcp.rainbow_run.1": "Добро пожаловать в Радужный забег!",
-        "mcp.rainbow_run.2": "Wind charges will spawn from the dark gray cloud and will fly towards the rainbow that you are on.",
-        "mcp.rainbow_run.3": "Colliding with a wind charge will damage you and send you flying up in the air.",
-        "mcp.rainbow_run.4": "The last player to survive wins!",
-        "mcp.rainbow_run.5": "The wind charge spawn rate will increase as the minigame goes on.",
-        "mcp.rainbow_run.6": "Beware! Fall damage is on, natural regenerate is off, and you will die instantly if you fall off the rainbow.",
+        "mcp.rainbow_run.2": "Заряды ветра будут появляться около серого облака и лететь в направлении радуги, на которой находятся игроки.",
+        "mcp.rainbow_run.3": "Столкновение с зарядом ветра наносит урон и подбрасывает игрока в воздух.",
+        "mcp.rainbow_run.4": "Победит последний выживший игрок!",
+        "mcp.rainbow_run.5": "Частота появления зарядов ветра будет увеличиваться по мере продолжительности игры.",
+        "mcp.rainbow_run.6": "Осторожно! Урон от падения включен, естественная регенерация выключена, а также игроки мгновенно умирают при падении с радуги.",
     
       //rainbow run start
         "mcp.rainbow_run_start.1": "Беги!", //minigame title (text in the middle of the screen after a start of a minigame)
@@ -5426,10 +6088,10 @@
           "mcp.ssendclickchat.2": "Стив не сказал нажать на табличку больше одного раза",
         
         //click the note block 3 times
-          "mcp.ssnexttask2.21": "Стив сказал нажать на нотный блок 3 раза",
+          "mcp.ssnexttask2.21": "Стив сказал нажать на нотный блок ровно 3 раза",
         
-          "mcp.ssnexttask2.22": "Нажмите на нотный блок 3 раза",
-          "mcp.ssnexttask2.23": "Нажмите на нотный блок 3 раза",
+          "mcp.ssnexttask2.22": "Нажмите на нотный блок ровно 3 раза",
+          "mcp.ssnexttask2.23": "Нажмите на нотный блок ровно 3 раза",
 
           "mcp.ssendnoteblocks.1": "Стив не сказал нажать на нотные блоки",
           "mcp.ssendnoteblocks.2": "Вы не нажали на нотные блоки ровно 3 раза.",
@@ -5893,10 +6555,10 @@
     //minecraft party intelligence quiz (mpiq)
 
       //mpiq name
-        "mcp.mpiq": "Тест на знание Minecraft Party",
+        "mcp.mpiq": "Викторина Minecraft Party",
 
       //mpiq title
-        "mcp.mpiq.1": "Тест на знание", //minigame welcome title
+        "mcp.mpiq.1": "Викторина", //minigame welcome title
         "mcp.mpiq.2": "Minecraft Party", //minigame welcome title
 
       //mpiq rules
@@ -5998,7 +6660,7 @@
 
           "mcp.mpiq_new_question.43": "%1$s У кого был самый короткий ход?", // 1: mcp.mpiq_new_question.43.1
           "mcp.mpiq_new_question.44": "%1$s У кого был самый длинный ход?", // 1: mcp.mpiq_new_question.44.1
-          "mcp.mpiq_new_question.45": "%1$s Сколько минут продлилась игра?", // 1: mcp.mpiq_new_question.45.1
+          "mcp.mpiq_new_question.45": "%1$sHow long has the game lasted for?", // 1: mcp.Question_
           "mcp.mpiq_new_question.46": "%1$s Какие ботинки носит %2$s?", // 1: mcp.mpiq_new_question.46.1, 2: player
           "mcp.mpiq_new_question.47": "%1$s Какие поножи носит %2$s?", // 1: mcp.mpiq_new_question.47.1, 2: player
           "mcp.mpiq_new_question.48": "%1$s Какой нагрудник носит %2$s?", // 1: mcp.mpiq_new_question.48.1, 2: player
@@ -7232,6 +7894,10 @@
         "mcp.mouse_trap_rules.4": "%1$s победит, если не попадётся в зону 1х1 в течение 70 секунд.", // 1: player
         "mcp.mouse_trap_rules.5": "%1$s победит, если не попадётся в зону 1х1 в течение 52 секунд.", // 1: player
 
+      //mouse trap rules doubles
+        "mcp.mouse_trap_doubles.1":"%1$s должен поймать %2$s в зону 1x1, пока %3$s тоже пытается поймать %4$s в зону 1x1.", // 1: player(s), 2: player
+        "mcp.mouse_trap_rules_doubles.1":"Победит первая команда, поймавшая своего противника в зону 1x1.",
+
       //mouse trap start
         "mcp.mouse_trap.1": "Пожалуйста, подождите, игра загружается...",
 
@@ -7768,6 +8434,9 @@
       //bat blast, cat catchers, grave diggers, market mayhem, tunnel o fun
         "mcp.CoinsCollected": "Собрано монет",
 
+      //match me not, mpiq
+        "mcp.Round_": "Раунд ", 
+
       //a lot of them lol
         "mcp.Time_Left_": "Осталось времени: ",
 
@@ -7808,6 +8477,8 @@
     //start of the game
 
       //board setup
+        "mcp.BoardDescriptionTip": "%1$s Введите %2$s, чтобы узнать описание доски, на которую вы смотрите",
+
         "mcp.board_setup.1": "Добро пожаловать в Minecraft Party 2!",
         "mcp.board_setup.2": "\nДавайте определим порядок ходов! Для этого каждый игрок бросит кубик!",
         "mcp.board_setup.3": "Порядок ходов будет выбран случайно.",
@@ -9027,6 +9698,8 @@
       "mcp.tips_message.2": "%1$s Введите %2$s, чтобы переключиться между режимами наблюдателя и приключения", // 1: mcp.Tip_, 2: mcp.tips_message.2.2
       "mcp.tips_message.3.2": "\"/trigger Settings\"",
       "mcp.tips_message.3": "%1$s Введите %2$s, чтобы посмотреть настройки игры", // 1: mcp.Tip_, 2: mcp.tips_message.3.2
+      "mcp.tips_message.4.2": "\"/trigger TaskList\"",
+      "mcp.tips_message.4": "%1$s Введите %2$s, чтобы посмотреть прогресс на вашей бинго-карте", // 1: mcp.Tip_, 2: mcp.tips_message.4.2
 
     //spectating
       "mcp.toggle_spectate.1.1": "\nВы можете вернуться на своё место тремя способами: ",
@@ -9059,6 +9732,7 @@
         "mcp.arcane_atoll_cutscene.7.2": "Уникальная для доски звезда",
         "mcp.arcane_atoll_cutscene.7.3": "Таинственного волшебника",
         "mcp.arcane_atoll_cutscene.7.4": "пурпурные клетки",
+        "mcp.arcane_atoll_cutscene.7.5": "",
         "mcp.arcane_atoll_cutscene.7": "%1$s %2$s даётся игроку, применившему больше всего заклинаний. Заклинания из избушки %3$s и от попадания на %4$s засчитываются для этой §e§lДополнительной звезды§r§r.", // 1: mcp.arcane_atoll_cutscene.7.1, 2: mcp.arcane_atoll_cutscene.7.2, 3: mcp.arcane_atoll_cutscene.7.3, 4: mcp.arcane_atoll_cutscene.7.4, 5: mcp.arcane_atoll_cutscene.7.5
     
         "mcp.arcane_atoll_cutscene.8.1": "\nХранители фантома>",
@@ -9134,7 +9808,7 @@
       //tarto
         "mcp.summon_aa_entities.9": "Тарто",
         "mcp.aa_pass_spot.8.1": "Тарто>",
-        "mcp.aa_pass_spot.8": "%1$s Эй, приятель! Эти болотные монстры опять явились за моими сокровищами! Держи арбалет с 5 стрелами. Разберись с ними, салага. Но ты можешь промазать только 1 раз. А их стрелы разят наповал с первого выстрела, так что берегись! Убей их для меня, и получишь %2$s.", // 1: mcp.aa_pass_spot.8.1, 2: mcp.aa_pass_spot.8.2
+        "mcp.aa_pass_spot.8": "%1$s Эй, приятель! Эти болотные монстры опять явились за моими сокровищами! Держи арбалет с %3$s стрелами. Разберись с ними, салага. Но ты можешь промазать только 1 раз. А их стрелы разят наповал с первого выстрела, так что берегись! Убей их для меня, и получишь %2$s.", // 1: mcp.aa_pass_spot.8.1, 2: mcp.aa_pass_spot.8.2
         "mcp.aa_pass_spot.8.2": "10 золотых дублонов",
 
         "mcp.aa_drowned_tick.2": "%1$s не справился с Испытанием отстрела болотников.", // 1: player
@@ -11968,6 +12642,7 @@
       "mcp.suburbia_scramble_description.1.1": "Доска Районных схваток>",
       "mcp.suburbia_scramble_description.1": "%1$s Звёзды даются за инвестирование в земельные участки. Игрок, вложивший наибольшее количество монет в участок, покупает его и получает возможность зарабатывать на нём Звёзды.\n%2$s монета: Участок 1 уровня\n%3$s монет: Участок 2 уровня\n%4$s монет: Участок 3 уровня\n%5$s: Участок 4 уровня\nПопасть на 5-й участок можно через канализационный люк. 5-й участок всегда остаётся на 3 уровне.\n%6$sРядом с канализационным люком: На один ход открывает люк. Прыгнув в люк, игрок сможет попасть на 5-й участок.\nПо углам карты: Автоматически инвестирует 10 §6§lмонет§r§r (бесплатно) в ближайший к клетке участок.\n%8$s Разнообразная звезда даётся игроку, вложившему наибольшее количество §6§lмонет§r§r в свой наименее инвестируемый участок.", // 1: mcp.suburbia_scramble_description.1.1, 2: mcp.suburbia_scramble_description.1.2, 3: score, 4: score, 5: score, 6: mcp.suburbia_scramble_description.1.3, 7: mcp.Coins, 8: mcp.suburbia_scramble_description.1.5, 9: mcp.Coins
       "mcp.suburbia_scramble_description.1.2": "1",
+      "mcp.UNOBTAINABLE": "НЕДОСТИЖИМ",
       "mcp.suburbia_scramble_description.1.3": "Пурпурные клетки>\n",
       "mcp.suburbia_scramble_description.1.5": "Уникальная для доски звезда>",
     
@@ -13059,7 +13734,7 @@
       //shin zu
         "mcp.zen_garden_board_entities.3": "Шин Цу",
         "mcp.zen_garden_pass_spot.3.1": "Шин Цу>",
-        "mcp.zen_garden_pass_spot.3": "%1$s Привет, у меня есть для тебя испытание! Я дам тебе 15 §6монет§r, только если отгадаешь всё верно!\nНажми на меня, чтобы начать испытание.", // 1: mcp.zen_garden_pass_spot.3.1, 2: mcp.Coins
+        "mcp.zen_garden_pass_spot.3": "%1$s Привет, у меня есть для тебя испытание! Я дам тебе 10 §6монет§r, только если отгадаешь всё верно!\nНажми на меня, чтобы начать испытание.", // 1: mcp.zen_garden_pass_spot.3.1, 2: mcp.Coins
 
         "mcp.zen_garden_mastermind_rules.1.1": "Шин Цу>",
         "mcp.zen_garden_mastermind_rules.1": "%1$s Ты получишь 6 блоков бетона. Твоя цель — угадать верную последовательность блоков, поставив три из них на белую керамику. Неудачная попытка отобразится слева, вместе со всеми остальными попытками. С правой стороны отобразится число правильно угаданных блоков, блоков в неправильном месте, и блоков, которых нет в нужной последовательности. У тебя будет 5 попыток. Время не ограничено. %2$s получишь, только если отгадаешь всё верно!\nНажми на меня, чтобы начать испытание.", // 1: mcp.zen_garden_mastermind_rules.1.1, 2: mcp.10_Coins
@@ -13286,6 +13961,8 @@
 
           "mcp.RavagerRattler": "Тореадоразоритель",
           "mcp.crazy_carnival_ravager_rattler.1": "%1$s> %2$s должен уклоняться от разорителя на протяжении 30 секунд. Периодически разоритель будет таранить %2$s.", // 1:mcp.RavagerRattler, 2: player
+
+          "mcp.crazy_carnival_ravager_rattler.2": "%1$s Если разоритель далеко от вас, он зарядит свою атаку, сделав рывок в направлении двух блоков от направления вашего взгляда.", // 1: mcp.Tip_
 
         //challenge text display
           "mcp.crazy_carnival_summon_star_challenge_cost.1": "Цена: 10 §6§lмонет§r§r и покупка §e§lЗвезды§r§r\nНаграда: Дополнительная §e§lЗвезда§r§r", // 1: mcp.Coins, 2: mcp.Star
@@ -14639,16 +15316,16 @@
     "mcp.unselect_color.9": "Вы отменили выбор §5Фиолетового§r цвета", // 1: mcp.Purple
     "mcp.unselect_color.10": "Вы отменили выбор §1Сапфирового§r цвета", // 1: mcp.DarkBlue
 
-    "mcp.select_blue_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Blue
-    "mcp.select_red_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Red
-    "mcp.select_green_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Green
-    "mcp.select_yellow_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Yellow
-    "mcp.select_cyan_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Cyan
-    "mcp.select_magenta_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Magenta
-    "mcp.select_dark_red_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.DarkRed
-    "mcp.select_dark_green_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.DarkGreen
-    "mcp.select_purple_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.Purple
-    "mcp.select_dark_blue_color.1" : "%1$s занял %2$s цвет.", // 1: player, 2: mcp.DarkBlue
+    "mcp.select_blue_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Blue
+    "mcp.select_red_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Red
+    "mcp.select_green_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Green
+    "mcp.select_yellow_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Yellow
+    "mcp.select_cyan_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Cyan
+    "mcp.select_magenta_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Magenta
+    "mcp.select_dark_red_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.DarkRed
+    "mcp.select_dark_green_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.DarkGreen
+    "mcp.select_purple_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.Purple
+    "mcp.select_dark_blue_color.1" : "%2$s занял %1$s цвет.", // 1: player, 2: mcp.DarkBlue
     "mcp.ColorBeg": "Если вы очень хотите этот цвет, попросите занявшего его игрока сменить свой цвет.",
 
     "mcp.RandomColorInfo": "Вы получите случайный цвет в начале игры.",
@@ -14684,6 +15361,7 @@
       "mcp.award_stars_2.1": "Пришла пора раздать игрокам дополнительные звёзды!",
 
     //ticket star
+      "mcp.give_game_stats.11": "Билетная",
     
       //ticket star description
         "mcp.TicketStarDescription1": "Эта звезда даётся в конце игры случайному игроку/команде с купленным билетом",
@@ -16675,87 +17353,65 @@
     "mcp.RollForPlayer": "Бросить за %1$s",
 
   //↓ new stuff ↓ (note to every other redactor of this file: please add all the new lines in this subsection)
-    "mcp.SignRandomItem": "Случ. предмет",
     "mcp.end_podium_end.9": "заставок»:",
     "mcp.DarkPurple": "Фиолетовый",
-    "mcp.Round_": "Раунд ", //match me not, mpiq
-    "mcp.mouse_trap_doubles.1":"%1$s должен поймать %2$s в зону 1x1, пока %3$s тоже пытается поймать %4$s в зону 1x1.", // 1: player(s), 2: player
-    "mcp.mouse_trap_rules_doubles.1":"Победит первая команда, поймавшая своего противника в зону 1x1.",
-    "mcp.BoardDescriptionTip": "%1$s Введите %2$s, чтобы узнать описание доски, на которую вы смотрите",
-    "mcp.CrazyCarnivalWarpToStarDescription": "Перемещает владельца к ближайшему Звёздному испытанию",
-    "mcp.CrazyCarnivalStarSupplierDescription": "Перемещает владельца к ближайшему Звёздному испытанию, а также даёт монеты, необходимые для покупки Звезды или прохождения испытания",
-    "mcp.crazy_carnival_ravager_rattler.2": "%1$s Если разоритель далеко от вас, он зарядит свою атаку, сделав рывок в направлении двух блоков от направления вашего взгляда.", // 1: mcp.Tip_
-    "mcp.UNOBTAINABLE": "НЕДОСТИЖИМ",
     "mcp.X_Coins": "%1$s монет", // 1: score
-    "mcp.buy_bag_o_items.29": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.ReverseABoard, 3: mcp.GoodieBag
-    "mcp.buy_bag_o_items.30": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.DoubleStarVoucher, 3: mcp.GoodieBag
-    "mcp.buy_treasure_bag.29": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.Freeverser, 3: mcp.GoodieBag
-    "mcp.buy_treasure_bag.30": "%1$s открыл %3$s и получил %2$s!", // 1: player, 2: mcp.DoubleStarVoucher, 3: mcp.GoodieBag
-    "mcp.magic_dice_select_player.4": "%1$s У %2$s активна %3$s. Она добавит %4$s очка к броску %5$s.", // 1: mcp.note_, 2: player, 3: mcp.magic_dice_select_player.2.2, 4: score, 5: mcp. MagicDice/mcp.BigMagicDice
-    "mcp.weapon_devolution.1":"Сразитесь с другими игроками в масштабной схватке с бесконечными жизнями и мгновенным возрождением.",
-    "mcp.weapon_devolution_rules.1":"После каждого заработанного убийства оружие игрока будет ухудшаться в следующем порядке: Лазерная пушка, Могучий топор, Трезубец, Слабый меч, Острые снежки.",
-    "mcp.weapon_devolution_rules.2":"Победит первый игрок, заработавший убийство с помощью последнего оружия (Острых снежков)!",
-    "mcp.weapon_devolution_tick.1":"Вы заработали убийство! Ваше новое оружие — %1$s.",
-    "mcp.MightyAxe":"Могучий топор",
-    "mcp.WeakSword":"Слабый меч",
-    "mcp.SharpSnowball":"Острый снежок",
-    "mcp.Courtyard1": "Внутренний",
-    "mcp.Courtyard2": "двор",
-    "mcp.CoinsGambled":"Монет поставлено",
-    "mcp.tic_tac_toe_task_list.1": "Задания %1$s", // 1: player
-    "mcp.ttt_task65": "Выброшенное сокровище",
-    "mcp.tic_tac_toe_task.65.2.hover": "Избавьтесь от Похитителя звёзд или Подделывателя звёзд",
-    "mcp.tic_tac_toe_task.65": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task65
-    "mcp.give_game_stats.28": "Ставочная",
-    "mcp.ttt_task66": "Три в ряд",
-    "mcp.ttt_task67": "Потеря предмета",
-    "mcp.ttt_task68": "Нумизмат",
-    "mcp.tic_tac_toe_task.66.2.hover": "Владейте 3-мя одинаковыми предметами одновременно (улучшение не влияет)",
-    "mcp.tic_tac_toe_task.66": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
-    "mcp.tic_tac_toe_task.67.2.hover": "Потеряйте предмет любым способом, не избавляясь от него",
-    "mcp.tic_tac_toe_task.67": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
-    "mcp.tic_tac_toe_task.68.2.hover": "Получите 30+ монет за один ход, не активировав мини-игру",
-    "mcp.tic_tac_toe_task.68": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
-    "mcp.ttt_task69": "Вкл-выкл",
-    "mcp.ttt_task70": "Приключенец",
-    "mcp.ttt_task71": "Маяковый прилёт",
-    "mcp.ttt_task72": "Постоялец Пчела",
-    "mcp.ttt_task73": "Суперзвёздный набор",
-    "mcp.ttt_task74": "Экспедиция",
-    "mcp.ttt_task75": "Секретная забегаловка",
-    "mcp.ttt_task76": "Дешёвые трюки",
-    "mcp.ttt_task77": "Возврат подарков",
-    "mcp.ttt_task78": "Без единой царапины",
-    "mcp.ttt_task79": "Очищение души",
-    "mcp.ttt_task80": "Настоящее мастерство",
-    "mcp.tic_tac_toe_task.69.2.hover": "Переключите светофоры дважды за один ход",
-    "mcp.tic_tac_toe_task.69": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.70.2.hover": "Пройдите любой квест",
-    "mcp.tic_tac_toe_task.70": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.71.2.hover": "Одновременно поразите двух игроков выстрелом из пушки",
-    "mcp.tic_tac_toe_task.71": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.72.2.hover": "Посетите Пчела дважды",
-    "mcp.tic_tac_toe_task.72": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.73.2.hover": "Купите 5 Звёзд за раз",
-    "mcp.tic_tac_toe_task.73": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.74.2.hover": "Пройдите все испытания доски",
-    "mcp.tic_tac_toe_task.74": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.75.2.hover": "Вложите монеты в ресторан, к которому ведёт канализацонный люк",
-    "mcp.tic_tac_toe_task.75": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.76.2.hover": "Примените два испытания за ход",
-    "mcp.tic_tac_toe_task.76": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.77.2.hover": "Соберите 5+ подарков в Испытании пещеры Гринча",
-    "mcp.tic_tac_toe_task.77": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.78.2.hover": "Пройдите храм без потери здоровья",
-    "mcp.tic_tac_toe_task.78": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.79.2.hover": "Пожертвуйте 5 Отрицательной кармы в Спиритической комнате",
-    "mcp.tic_tac_toe_task.79": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_task.80.2.hover": "Пройдите любое испытание дважды",
-    "mcp.tic_tac_toe_task.80": "%1$s завершил %2$s",
-    "mcp.tic_tac_toe_complete": "%1$s завершил свою бинго-доску. После завершения текущего хода у игроков будет %2$s хода на завершение своих досок и сбор наград.", // 1: player, 2: number
-    "mcp.tic_tac_toe_complete.2": "%1$s завершил свою бинго-доску.", // 1: player, 2: number
-    "mcp.tic_tac_toe_next_turn.1": "%1$s ходов до появления новой бинго-доски.", // 1: number
-    "mcp.tic_tac_toe_next_turn.2": "Появилась новая бинго-доска. Введите '/trigger TaskList', чтобы посмотреть вашу доску.", // 1: number
+
+    //courtyard stuff
+      "mcp.give_game_stats.28": "Ставочная",
+      "mcp.CoinsGambled":"Монет поставлено",
+
+    //tic tac toe stuff
+      "mcp.TicTacToeMode":"Режим Бинго",
+      "mcp.TicTacToeMode2":"",
+      "mcp.SignTTTLineReq1":"Линий для",
+      "mcp.SignTTTLineReq2":"завершения",
+      "mcp.SignTTTLineReq3":"карты:",
+      "mcp.Blackout":"Блэкаут",
+      "mcp.SignTTTCompletion1":"Событие после",
+      "mcp.SignTTTCompletion2":"заверш. карты:",
+      "mcp.SignTTTCompletion3.1":"Игра заканч.",
+      "mcp.SignTTTCompletion4.1":"в конце хода",
+      "mcp.SignTTTCompletion3.2":"Новая карта",
+      "mcp.SignTTTCompletion4.2":"через %1$s хода", // 1: number
+      "mcp.SignTTTCompletion4.3":"через %1$s ход",
+      "mcp.SignTicTacToe":"Бинго",
+      "mcp.SignMode":"режим",
+      "mcp.TaskCard":"Карта бинго",
+      "mcp.TaskRewardHover1":"Этим значением считается ~40% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 4)",
+      "mcp.TaskRewardHover2":"Этим значением считается ~30% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 3)",
+      "mcp.TaskRewardHover3":"Этим значением считается ~20% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 2)",
+      "mcp.TaskRewardHover4":"Этим значением считается ~10% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 1)",
+
+    //credits tellraws
+      "mcp.SignFullCreditsTellraw1": "Все создатели (наведитесь):\n",
+      "mcp.SignFullCreditsTellraw2": "[Главные создатели]\n",
+      "mcp.SignFullCreditsTellraw3": "[Программисты]\n",
+      "mcp.SignFullCreditsTellraw4": "[Строители]\n",
+      "mcp.SignFullCreditsTellraw5": "[Текстурщики]\n",
+      "mcp.SignFullCreditsTellraw6": "[Частые тестировщики]\n",
+      "mcp.SignFullCreditsTellraw7": "[Переводчики]\n",
+      "mcp.SignFullCreditsTellraw8": "[Музыка]",
+      "mcp.SignFullCreditsTellraw9": "Интегратор в набор данных",
+      "mcp.SignFullCreditsTellraw10": "Английский",
+      "mcp.SignFullCreditsTellraw11": "Пиратский",
+      "mcp.SignFullCreditsTellraw12": "Русский",
+      "mcp.SignFullCreditsTellraw13": "Китайский (упрощённый)",
+      "mcp.SignFullCreditsTellraw14": " (нажмите, чтобы перейти к плейлисту)",
+      "mcp.SignMediaVideoTellraw":"Последнее видео по MCP2 от %1$s (нажмите сюда)",
+      "mcp.SignMediaVideoTellraw1":"Последний стрим по MCP2 от %1$s (нажмите сюда)",
+      "mcp.SignDewTellraw":"Построил Главный хаб\nПостроил доску Портового городка\nПостроил доску Районных схваток\nПостроил доску Пыльных дюн\nПостроил арену Сплифа\nПостроил арену Самой быстрой руки\nПостроил арену Реакции на реактор\nПостроил арену Бегуна\nПостроил арену Не повторяй за мной\nПостроил арену Больших башен\nПостроил арену Викторины Minecraft Party",
+      "mcp.SignJohnTellraw":"Построил Начальный хаб\nПостроил доску Грибного грота\nПомог с постройкой доски Лабиринта Пака\nПостроил арену 2v6 Пак-Куба\nПостроил арену Безумного Бабаха Бомбардира\nBuilt Bomber Brigade arenas",
+      "mcp.SignKirbTellraw":"Построил доску Таинственного острова\nBuild Crazy Carnival board\nСочинил все музыкальные композиции",
+      "mcp.SignTru1hTellraw":"Построил доску Сада дзен\nПостроил победные и дуэльные комнаты Сада дзен\nПостроил большую часть арены Красного света, зелёного света",
+      "mcp.SignDoubleHTellraw":"Построил доску Трубчатого каньона\nПомог с постройкой доски Сада дзен",
+      "mcp.SignСocoaTellraw":"Построила комнату режима Гран-при\nПереработала текстуры следующих арен: В зоне, Охотник на блоки, Гладиаторский бой, Бетрис, Рыцарский поединок",
+      "mcp.SignCrashTellraw":"Построил доску Обеденного лофта\nПостроил доску Замка мастей",
+      "mcp.SignAustinTellraw":"Построил доску Лабинита Пака, победную и дуэльную комнаты\nПомог с постройкой арены Бетриса\nПостроил доску Комнаты ритма",
+      "mcp.SignJonikTellraw":"Помог с постройкой Комнаты ритма\nHelped program the secret board",
+      "mcp.SignDaybreakTellraw":"Помог с постройкой Комнаты ритма",
+      "mcp.SignKingNothingTellraw":"Помог с постройкой арены Рутинной работы",
+      "mcp.SignPandaTellraw":"Помог с постройкой Победного театра",
 
   //signs from lost city
     "mcp.lost_city_board_cutscene_repeat.1": "5",
@@ -16781,7 +17437,7 @@
     "mcp.Place": "Место",
     "mcp.Cooldown": "Перезарядка",
     "mcp.SignEnhancedItem": "Улучш. предмет",
-    "mcp.Spectator": "Наблюдатель",
+    "mcp.Spectator": "Наблюдат.",
     "mcp.Customize": "Настроить",
     "mcp.MissingPlayer": "Не хватает игрока",
     "mcp.roll": "бросок",
@@ -16813,12 +17469,12 @@
 
   //new key, but I'm not sure where it's used
     "mcp._won_": " won ",
-  
-  //sign in master settings uses different key
-	  "mcp.SignShopItems": "Предм. в магаз.",
-	
+
   //might be outdated 'mcp.Task_'?
     "mcp.Task": "Задание",
+
+  //idk
+    "mcp.ShopItemsSign": "Предм. в магаз.",
 
   //sacred emerald lore uses different keys
     "mcp.SacredEmerladLore1": "Верните Барри, живущему под саванновым островом.",
@@ -16827,6 +17483,13 @@
 
 "______SECTION_DELETABLE______": "THESE LINES PROBABLY COULD BE DELETED FROM LANG FILES (OUTDATED OR NOT NEEDED)- - - - - - - - - - - - - - - - - - - - -",
 
+
+  //old gladiators stuff
+    "mcp.GladiatorAxe": "Топор гладиатора",
+    "mcp.weapon_devolution.1_old": "Сразитесь с другими игроками в огромной потасовке!",
+    "mcp.weapon_devolution.2_old": "Если хотите, можете построить свою арену ;)",
+    "mcp.weapon_devolution2.1_old": "Убейте всех остальных игроков!",
+    "mcp.weapon_devolution3.1_old": "Итоговое место определяется порядком выбывания.",
 
   //these steve says rules are probably old af
     "mcp.stevesays2.1": "Вы должны совершать действие только те действия, которые Стив говорит сделать.",
@@ -17062,7 +17725,74 @@
     "mcp.GoldRUshJumpBootsLore": "Наденьте, чтобы на некоторое время получить прыгучесть!",
 
   //not used anywhere?
-    "mcp.pass_colored_spot.10": "%1$s Бум-бадабум. У меня есть для тебя Звезда. Мне лишь нужно %2$s §6§lмонет§r§r." // 1: mcp.pass_colored_spot.10.1, 2: score, 3: (Coin or Coins)
+    "mcp.pass_colored_spot.10": "%1$s Бум-бадабум. У меня есть для тебя Звезда. Мне лишь нужно %2$s §6§lмонет§r§r.", // 1: mcp.pass_colored_spot.10.1, 2: score, 3: (Coin or Coins)
 
-    // translate the new Rainbow Run rules then delete this comment when you're done
+    // The description for "In a Circle" got changed. Change mcp.tic_tac_toe_task.37.2.hover, then delete this
+  "mcp.RicksChestShop": "Rick's Chest Shop",
+  "mcp.NicksBarrelShop": "Nick's Barrel Shop",
+  "mcp.RicksChestShopPrice": "%1$s 1 Chest Key: 5 %2$s %3$s\nChest Contents: 0-25 %2$s %3$s", // 1: key icon, 2: mcp.Coins, 3: coins icon
+  "mcp.NicksBarrelShopPrice": "%1$s 1 Barrel Key: %2$s %3$s %4$s\nBarrel Contents: 50%% chance for a %5$s %6$s", // 1: key icon, 2: score, 3: mcp.Coins, 4: coins icon, 5: mcp.Star, 6: star icon
+  "mcp.Available": "Available",
+  "mcp.Sold": "Sold",
+  "mcp.KeyAAvailability": "%1$s Key A: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyBAvailability": "%1$s Key B: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyCAvailability": "%1$s Key C: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyDAvailability": "%1$s Key D: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyEAvailability": "%1$s Key E: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyFAvailability": "%1$s Key F: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  // Update mcp.GoodieBagDescription and mcp.TreasureBagDescription to specify that players can't received Triple Star Vouchers/Triple Star Discount Vouchers from it rather than Star Vouchers in general then delete this comment
+  "mcp.pass_colored_spot.36": "%1$sAye, ya bloody wanderer! Fancy a %2$s for 20 %3$s?",
+  "mcp.GamblingPost": "Gambling Post",
+  "mcp.MagentaSpacesBoardCutscene": "\nMagenta Spaces>",
+  "mcp.magenta": "magenta",
+  "mcp.courtyard_cutscene.1": "%1$s%2$s is a compact board inside of a castle featuring gambling mechanics.", // 1: mcp.Info, 2: mcp.Courtyard1, 3: mcp.Courtyard2
+  "mcp.courtyard_cutscene.2": "%1$s On this Board, you can put bets on the next minigame. When passing a %2$s, you can choose the next minigame and bet on it. This will increase the reward for whoever gets first place. Everyone else also has to pay a small amount of their %3$s!", // 1: mcp.courtyard_cutscene.2.1, 2: mcp.GamblingPost, 3: mcp.Coins
+  "mcp.courtyard_cutscene.2.1": "\nGambling Posts>",
+  "mcp.courtyard_cutscene.3": "%1$s Inside the tree in the middle of the board is a slot machine. If you manage to match 3 in a row you will earn %2$s.", // 1: mcp.courtyard_cutscene.3.1, 2:mcp.Coins
+  "mcp.courtyard_cutscene.3.1": "\nSlots>",
+  "mcp.courtyard_cutscene.4": "%1$s When passing the Skill Shot Challenge, you can %2$s for your archery skills!", // 1: mcp.courtyard_cutscene.4.1, 2:mcp.Coins
+  "mcp.courtyard_cutscene.4.1": "\nSkill Shot>",
+  "mcp.courtyard_cutscene.5": "%1$s Every %2$s space is at a junction and has a toll blocking off one of the paths. The toll costs 5 %3$s to open. Landing on the %2$s space swaps which path the toll is on.", // 1: mcp.MagentaSpacesBoardCutscene, 2: mcp.magenta, 3: mcp.Coins
+  "mcp.courtyard_cutscene.6": "%1$s The board specific bonus star for this board is awarded to whoever gambles the most amount of %2$s.",
+  "mcp.courtyard_cutscene.6.1": "\nGambler Star>",
+  "mcp.Nite": "Nite",
+  "mcp.gambling_post_approach": "%1$s> Oi, %2$s! Do you wanna take a risk and bet on the next minigame? You will be able to choose out of 3 randomly selected minigames. You will put 6 %3$s in to the pot while everyone else pays 2 %3$s. Whoever wins the next minigame will win the entire pot in addition to there regular reward. If multiple players bet on the same turn, the pot increases and the minigame will be choosen randomly out of those the players selected.", // 1: mcp.NIte, 2: player, 3: mcp.Coins
+  "mcp.courtyard_shop_approach": "%1$s Hey! Come take a look here! I may have something that you want!", // 1: mcp.Merchant
+  "mcp.courtyard_gambling_post_short_on_coins": "You do not have enough coins to bet on a minigame.",
+  "mcp.betting_select1": "The selected minigame is: %1$s", // 1: minigame name
+  "mcp.Fletch": "Fletch",
+  "mcp.courtyard_skill_shot_approach": "%1$s> Do you think you got the skills to beat my challenge? For 5 %2$s I will give you a bow and 2 arrows. If you can hit the floating target with those 2 arrows I will reward you with 20 %2$s!", // 1: mcp.Fletch, 2: mcp.Coins
+  "mcp.courtyard_betting_pot_status": "The betting pot currently holds %1$s %2$s. This will go to the winner of the next minigame!", // 1: score, 2: mcp.Coins
+  // translate mcp.mpiq_new_question.45 (the wording got changed) and delete this when done
+  "mcp.format_hours_and_minutes": "%1$sh %2$sm",
+  "mcp.ravager_rodeo_team_mode_rules.1": "%1$s and %2$s are each riding a ravager. %1$s's goal is to knock %4$s out of the arena first and %3$s's goal is to knock %2$s out of the arena first.",
+  "mcp.ravager_rodeo_team_mode_rules.2": "%1$s and %2$s are each riding a ravager. Their goal is to knock all of the opposing team's players out of the arena before their own team's players get knocked out.",
+  "mcp.ravager_rodeo_team_mode_rules.3": "%1$s and %2$s get a charge ability which dashes their ravager in a straight line at a high speed in the direction the rider is facing. Any runners in its path will get launched out of the arena.",
+  "mcp.ravager_rodeo_team_mode_rules.4": "The team that gets all of their runners (the players not riding the ravagers) eliminated first loses.",
+  "mcp.tedious_tasks_team_mode_rules.1": "Complete the 8 tasks as quickly as you can with your teammate.",
+  "mcp.tedious_tasks_team_mode_rules.2": "Both you and your teammate will be working on different tasks at the same time independently.",
+  "mcp.tedious_tasks_team_mode_rules.3": "After completing a task, you will be randomly given a new one from the pool of tasks that your team has not completed.",
+  "mcp.tedious_tasks_team_mode_rules.4": "Your tasks will be given in the chat.",
+  "mcp.tedious_task_team_mode_final_task": "%1$sHelp your teammate complete the final task.",
+  "mcp.minigame_death": "%1$s погиб!",
+  "mcp.bomber_brigade": "Bomber Brigade",
+  "mcp.bomber_brigade.1": "Blow up the other players with bombs!",
+  "mcp.bomber_brigade.2": "Every bomb leaves fire behind after it blows up.",
+  "mcp.bomber_brigade.3": "Stepping into fire will kill you. Be the last player standing.",
+  "mcp.bomber_brigade.4": "Watch out! A fire border will slowly encroach on the arena.",
+  "mcp.bomber_brigade.5": "There are four types of bombs in the minigame which do the following:",
+  "mcp.bomber_brigade.6": "%1$s: Receive one every five seconds (maximum of five). %2$s\n%3$s: Collect in the arena. %4$s\n%5$s: Collect in the arena. %6$s\n%7$s: Collect in the arena. %8$s", // 1: mcp.WallBreaker, 2: mcp.WallBreakerDescription, 3: mcp.FireCarpetBomb, 4: mcp.FireCarpetBombDescription, 5: mcp.SoulFireDynamite, 6: mcp.SoulFireDynamiteDescription, 7: mcp.HeatSeekingMine, 8: mcp.HeatSeekingMineDescription
+  "mcp.bomber_brigade.7": "All bombs blow up three seconds after being placed.",
+  "mcp.WallBreaker": "Wall Breaker",
+  "mcp.WallBreakerDescription": "Destroys nearby walls and leaves a small circle of fire behind that lasts 3 seconds.",
+  "mcp.FireCarpetBomb": "Fire Carpet Bomb",
+  "mcp.FireCarpetBombDescription": "Leaves a large circle of fire behind that lasts 5 seconds.",
+  "mcp.SoulFireDynamite": "Soul Fire Dynamite",
+  "mcp.SoulFireDynamiteDescription": "Leaves a small circle of soul fire that lasts 30 seconds.",
+  "mcp.HeatSeekingTNT": "Heat Seeking TNT",
+  "mcp.HeatSeekingTNTDescription": "Seeks out the nearest enemy to blow up on.",
+  "mcp.JonikStage2": "Assistant Programmer",
+  "mcp.JonikStage3": "Assistant Builder",
+  "mcp.JonikStage4": "(frequent tester)"
+  // Update mcp.SignJonikTellraw and mcp.SignKirbTellraw and mcp.SignJohnTellraw
 }

@@ -256,7 +256,7 @@
   "mcp.SpiritShieldDescription": "Passive ability. Upon activation protects ye from thar next swashbuckler that tries t' steal a Shinin' Spiker or Doubloons from ye.",
   "mcp.CandyCannonDescription": "Launches ye closer t' thar Shinin' Spiker Hawker.",
   "mcp.SandyCannonDescription": "Launches ye closer t' thar Shinin'/Dark Spiker Hawker.",
-  "mcp.GoodieBagDescription": "Instantly gives ye three random trinkets. Can receive any trinket in thar voyage except fer Shinin' Spiker Stealers, Twisted Tickers, Shinin' Spiker Vouchers.",
+  "mcp.GoodieBagDescription": "Instantly gives ye three random trinkets. Can receive any trinket in thar voyage except fer Shinin' Spiker Stealers, Twisted Tickers, and Triple Shinin' Spiker Voucher.",
   "mcp.MiniDiceDescription": "Player can only roll 1-3 fer their next roll. Can be unleashed on any swashbuckler.",
   "mcp.MagicDiceDescription": "Allows ye t' choose how many landmarks ye or another swashbuckler will move on their next turn. Can only choose numbers 1-10.",
   "mcp.CrazyClockDescription1": "Sets thar voyage t' thar last five helm runs n' runs a high tide affair after thar current turn be over. Only one swashbuckler can hold a Twisted Ticker at a time.",
@@ -292,7 +292,7 @@
   "mcp.ThornedSpiritShieldDescription": "Passive ability. Upon activation protects ye from thar next swashbuckler that tries t' steal a Shinin' Spiker or Doubloons from ye. Any swashbuckler that attempts t' steal doubloons will instead lose thar doubloons that they would have otherwise stolen.",
   "mcp.CandyCannon2Description": "Launches ye even closer t' thar Shinin' Spiker Hawker than thar normal Sweet Boomstick.",
   "mcp.SandyCannon2Description": "Launches ye even closer t' thar Shinin'/Dark Spiker Hawker than thar normal Grainy Boomstick.",
-  "mcp.TreasureBagDescription": "Instantly gives ye three random galleon trinkets. Can receive any trinket in thar voyage except fer Shinin' Spiker Plunder'n'Dupe, Tempest Tickers, Shinin' Spiker Vouchers.",
+  "mcp.TreasureBagDescription": "Instantly gives ye three random galleon trinkets. Can receive any trinket in thar voyage except fer Shinin' Spiker Plunder'n'Dupe, Tempest Tickers, Triple Shinin' Spiker Discount Voucher.",
   "mcp.BinaryDiceDescription": "Player can only roll 0-1 fer their next roll. Can be unleashed on any swashbuckler.",
   "mcp.BigMagicDiceDescription": "Allows ye t' choose how many landmarks ye or another swashbuckler will move on their next turn. Can choose any number 1-20.",
   "mcp.CuckooClockDescription1": "Select thar next turn number. Choose any turn between thar last 7 helm runs n' thar last 3 helm runs. Runs a high tide affair after thar current turn be over. Only one swashbuckler can hold a Twisted Ticker or Tempest Ticker at a time.",
@@ -534,7 +534,7 @@
   "mcp.20_Coins": "20 Doubloons",
   "mcp._15_Coins": " 15 coins",
   "mcp.Star_": "Shinin' Spiker ",
-  "mcp.picnic_panic_description": " I be namin’ 7-9 treasures in the title — ye must pluck 'em from the barrel and toss 'em into the grubbin’ basket (composter). Ye can chuck ‘em in any order ye fancy. Give me another tap when ye be done, and if the basket holds all, no more, no less, I’ll be rewardin’ ye with 15 doubloons!",
+  "mcp.picnic_panic_description": " I be namin’ 7-9 treasures in the title — ye must pluck 'em from the barrel and toss 'em into the grubbin’ weaver (composter). Ye can chuck ‘em in any order ye fancy. Give me another tap when ye be done, and if the weaver holds all, no more, no less, I’ll be rewardin’ ye with 15 doubloons!",
   "mcp.Present": "§2P§4r§2e§4s§2e§4n§2t",
   "mcp.Presents": "§2P§4r§2e§4s§2e§4n§2t§4s",
   "mcp.Presents.1": "§2P§4r§2e§4s§2e§4n§2t§4s",
@@ -1012,6 +1012,8 @@
   "mcp.ttt_task79": "Soul Cleanse",
   "mcp.ttt_task80": "Reckonin' Seamanship",
   "mcp.ttt_task81": "Rainbow Docker",
+  "mcp.ttt_task82": "Vase Rumlin",
+  "mcp.ttt_task83": "Toll Tributes",
   "mcp.10_Coins": " 10 Doubloons",
   "mcp.close_door": "Shut thar door!", //change in datapack 'mcp:temple_generate'
   "mcp.Bew": "Bew",
@@ -1145,7 +1147,7 @@
   "mcp.ReturnToHub": "Return To Hub",
   "mcp.QuestItems": "Expedition Trinkets",
   "mcp.SacrificialEnchantmentShard": "Sacrificial Enchantment Shard",
-  "mcp.SacrificialEnchantmentShardDescription": "Used to enhance luck at sacrificial alter",
+  "mcp.SacrificialEnchantmentShardDescription": "Used to enhance luck at sacrificial altar",
   "mcp.UltimateBladeOfDoom": "Ultimate Blade of Doom",
   "mcp.UltimateBladeOfDoomLore1": "Return to Lucas in sandstone house near lava pit.",
   "mcp.UltimateBladeOfDoomLore2": "Reward: Double Star Voucher",
@@ -1432,7 +1434,7 @@
   "mcp.aa_pass_spot.7": "%1$s Ahoy traveler. With me magic, I can build a fragile dripleaf parkour. Reach thar top, grab thar %2$s n' come avast t' plunder them. Thar water be toxic so make sure not t' fall in. Also, thar dripleaves stay up fer only 1 second after stepping on them, so be quick!", // 1: mcp.aa_pass_spot.7.1, 2: mcp.aa_pass_spot.7.2
   "mcp.aa_pass_spot.8.1": "Tarto>",
   "mcp.aa_pass_spot.8.2": "10 golden smackers.",
-  "mcp.aa_pass_spot.8": "%1$s Ahoy matey! Those bog monsters be after me loot again! Here be a crossbow wit' 5 arrows. Use it t' take care o' them. But ye can only miss one shot. And their arrows kill ye in 1 shot, so be careful! Kill them fer me n' I will reward ye wit' %2$s", // 1: mcp.aa_pass_spot.8.1, 2: mcp.aa_pass_spot.8.2
+  "mcp.aa_pass_spot.8": "%1$s Ahoy matey! Those bog monsters be after me loot again! Here be a crossbow wit' %3$s arrows. Use it t' take care o' them. But ye can only miss one shot. And their arrows kill ye in 1 shot, so be careful! Kill them fer me n' I will reward ye wit' %2$s", // 1: mcp.aa_pass_spot.8.1, 2: mcp.aa_pass_spot.8.2
   "mcp.aa_pass_spot.9": "%1$s Ahoy adventurer! Can I hook ye up wit' some trinkets?", // 1: mcp.merchant_
   "mcp.aa_random_item.1": "%1$s has received %2$s from thar extra luck event!", // 1: player, 2: mcp.TwiceDice
   "mcp.aa_random_item.2": "%1$s has received %2$s from thar extra luck event!", // 1: player, 2: mcp.ThriceDice
@@ -5386,7 +5388,7 @@
   "mcp.mpiq_new_question.42": "%1$sHow many trinkets have been cast by YE?", // 1: mcp.mpiq_new_question.42.1
   "mcp.mpiq_new_question.43": "%1$sWho has taken thar shortest on their turn?", // 1: mcp.mpiq_new_question.43.1
   "mcp.mpiq_new_question.44": "%1$sWho has taken thar longest on their turn?", // 1: mcp.mpiq_new_question.44.1
-  "mcp.mpiq_new_question.45": "%1$sHow many minutes has thar voyage lasted fer?", // 1: mcp.mpiq_new_question.45.1
+  "mcp.mpiq_new_question.45": "%1$sHow long has thar voyage lasted fer?", // 1: mcp.mpiq_new_question.45.1
   "mcp.mpiq_new_question.46": "%1$sWhich piece o' equipment does %2$s have in their feet?", // 1: mcp.mpiq_new_question.46.1, 2: player
   "mcp.mpiq_new_question.47": "%1$sWhich piece o' equipment does %2$s have in their legs?", // 1: mcp.mpiq_new_question.47.1, 2: player
   "mcp.mpiq_new_question.48": "%1$sWhich piece o' equipment does %2$s have in their chest?", // 1: mcp.mpiq_new_question.48.1, 2: player
@@ -5633,14 +5635,14 @@
   "mcp.oitq_rules.5": "The swashbuckler wit' thar most kills at thar end o' thar voyage wins! Ye will not get credit fer killing yer tribemate.",
   "mcp.oitq_rules.6": "The swashbuckler wit' thar most kills at thar end o' thar voyage wins!",
   "mcp.oitq_start.1": "Kill!",
-  "mcp.on_the_dot.1": "This be a timing scallywag. Ye must time 15 seconds as accurately as possible.",
+  "mcp.on_the_dot.1": "This be a timing scallywag; Ye must time 15 seconds as accurately as possible.",
   "mcp.on_the_dot_end.2": "%1$s%2$s%3$s ticks early", // 1: player, 2: ": ", 3: score
   "mcp.on_the_dot_end.3": "%1$s%2$s%3$s ticks off. On thar dot!", // 1: player, 2: ": ", 3: score
   "mcp.on_the_dot_end.4": "%1$s%2$s%3$s ticks early", // 1: player, 2: ": ", 3: score
   "mcp.on_the_dot_end.5": "%1$s%2$s%3$s ticks off. On thar dot!", // 1: player, 2: ": ", 3: score
   "mcp.on_the_dot_end.6": "%1$s%2$s%3$s ticks late", // 1: player, 2: ": ", 3: score
   "mcp.on_the_dot_end.7": "%1$s%2$s%3$s ticks late", // 1: player, 2: ": ", 3: score
-  "mcp.on_the_dot_rules.1": "You will be give thar first three seconds.",
+  "mcp.on_the_dot_rules.1": "You will be given thar first three seconds.",
   "mcp.on_the_dot_rules.2": "Press thar button as close t' thar zero second mark as possible.",
   "mcp.on_the_dot_rules.3": "The swashbuckler who presses thar button thar closest t' thar zero second mark wins!",
   "mcp.on_the_dot_start.1": "Count!",
@@ -6623,7 +6625,7 @@
   "mcp.ravager_rodeo.1": "%1$s has %3$s seconds t' knock all o' thar %2$s's swashbucklers out o' thar arena while riding on top o' a Arravager.", // 1: player, 2: mcp.ravager_rodeo.1.1, 3: score
   "mcp.ravager_rodeo.2.1": "Aqua Tribe",
   "mcp.ravager_rodeo.2": "%1$s and %2$s have %4$s seconds t' knock all o' thar %3$s's swashbucklers out o' thar arena while riding on top o' Arravagers.", // 1: player, 2: player, 3: mcp.ravager_rodeo.2.1, 4: score
-  "mcp.ravager_rodeo.3": "%1$s must eliminate swashbucklers by colliding their Arravager's head wit' thar opposing swashbucklers.", // 1: player
+  "mcp.ravager_rodeo.3": "%1$s eliminate swashbucklers by colliding their Arravager's head wit' thar opposing swashbucklers.", // 1: player
   "mcp.ravager_rodeo.4": "%1$s and %2$s must eliminate swashbucklers by colliding their Arravager's head wit' thar opposing swashbucklers.", // 1: player, 2: player
   "mcp.ravager_rodeo.5": "%1$s gets a charge ability which dashes thar Arravager in a straight line at a high speed in thar direction thar rider be facing. Any aqua tribe members in its path will get launched t' oblivian.", // 1: player
   "mcp.ravager_rodeo.6": "%1$s and %2$s get a charge ability which dashes their Arravager in a straight line at a high speed in thar direction thar rider be facing. Any aqua tribe members in its path will get launched t' oblivian.", // 1: player, 2: player
@@ -7264,9 +7266,9 @@
   "mcp.ssnexttask2.18": "Steve says click thar sign once",
   "mcp.ssnexttask2.19": "Click thar sign once",
   "mcp.ssnexttask2.20": "Click thar sign once",
-  "mcp.ssnexttask2.21": "Steve says tune thar noteblock 3 times",
-  "mcp.ssnexttask2.22": "Tune thar noteblock 3 times",
-  "mcp.ssnexttask2.23": "Tune thar noteblock 3 times",
+  "mcp.ssnexttask2.21": "Steve says tune thar noteblock exactly 3 times",
+  "mcp.ssnexttask2.22": "Tune thar noteblock exactly 3 times",
+  "mcp.ssnexttask2.23": "Tune thar noteblock exactly 3 times",
   "mcp.ssnexttask2.24": "Steve says drop thar stone block",
   "mcp.ssnexttask2.25": "Steve says drop thar cobblestone block",
   "mcp.ssnexttask2.26": "Steve says drop thar dripstone block",
@@ -7345,6 +7347,7 @@
   "mcp.ss_picnic_tick.3": "Apple",
   "mcp.ss_picnic_tick.4": "Pumpkin Pie",
   "mcp.ss_picnic_tick.5": "Cookie",
+  "mcp.ss_picnic_tick.6": "Toss thar trinkets in thar weaver.",
   "mcp.stars_cost_1_coin.1": "%1$s has chosen fer %2$s t' cost 1 %3$s!", // 1: player, 2: mcp.Stars, 3: mcp.Coin
   "mcp.stars_cost_1_coin.2": "%1$s now cost 1 %2$s!", // 1: mcp.Stars, 2: mcp.Coin
   "mcp.startspin.1": "You do not have enough doubloons t' spin thar grog guzzler!",
@@ -7415,7 +7418,7 @@
   "mcp.star_supplier_description.2": "%1$s%2$s%3$s Can be forked for from thar shop.\nCost: %4$s", // 1: mcp.StarSupplier, 2: ": ", 3: mcp.StarSupplierDescription2, 4: mcp.star_supplier_description.2.3
   "mcp.star_supplier_description.3.3": "30 Doubloons",
   "mcp.star_supplier_description.3": "%1$s%2$s%3$s Can be forked for from thar shop.\nCost: %4$s", // 1: mcp.StarSupplier, 2: ": ", 3: mcp.StarSupplierDescription3, 4: mcp.star_supplier_description.3.3
-  "mcp.step_into_altar.1": "Welcome t' thar sacrificial alter. Drop yer doubloons into thar lava cauldron t' sacrifice them. When ye're done, press thar button n' a reward will be given t' ye. Thar more doubloons ye sacrifice, thar higher thar chances be o' getting more n' better trinkets.",
+  "mcp.step_into_altar.1": "Welcome t' thar sacrificial altar. Drop yer doubloons into thar lava cauldron t' sacrifice them. When ye're done, press thar button n' a reward will be given t' ye. Thar more doubloons ye sacrifice, thar higher thar chances be o' getting more n' better trinkets.",
   "mcp.step_into_altar.2": "Drop doubloons into thar altar n' press thar button t' sacrifice them t' get some trinkets!",
   "mcp.stevesays2.1": "You must do thar action in chat only if Steve says so.",
   "mcp.stevesays3.1": "If ye do an action that ye be not supposed t', then ye get kicked out o' thar voyage!",
@@ -7468,7 +7471,7 @@
   "mcp.suburbia_scramble_cutscene.17.1": "\nPablo the Pincher> ",
   "mcp.suburbia_scramble_cutscene.17": "%1$sVisit Pablo thar Pincher's Humble Abode! Ye can choose an enemy n' Pablo will steal from a random parcel o' theirs n' deposit thar investment into yers. If ye have a spare trinket t' offer that Pablo wants, Pablo will Pinch extra hard.", // 1: mcp.suburbia_scramble_cutscene.17.1
   "mcp.suburbia_scramble_cutscene.18.1": "\nPicnic Panic Reckonin'> ",
-  "mcp.suburbia_scramble_cutscene.18": "%1$sHelp Tyren organize his picnic basket n' he will reward ye wit' 10 %2$s. ", // 1: mcp.suburbia_scramble_cutscene.18.1, 2: mcp.Coins
+  "mcp.suburbia_scramble_cutscene.18": "%1$sHelp Tyren organize his picnic weaver n' he will reward ye wit' 10 %2$s. ", // 1: mcp.suburbia_scramble_cutscene.18.1, 2: mcp.Coins
   "mcp.suburbia_scramble_cutscene.19.1": "\nDiversification Shinin' Spiker> ",
   "mcp.suburbia_scramble_cutscene.19.2": "Map Made Shinin' Spiker",
   "mcp.suburbia_scramble_cutscene.19": "%1$sThe %2$s fer this board be awarded t' thar swashbuckler that has thar highest minimum %3$s invested across all parcels.", // 1: mcp.suburbia_scramble_cutscene.19.1, 2: mcp.suburbia_scramble_cutscene.19.2, 3: mcp.Coins
@@ -8365,7 +8368,7 @@
   "mcp.tic_tac_toe_task.4": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task4
   "mcp.tic_tac_toe_task.5.2.hover": "Craft a shinin' spiker shard usin' thar Spiker Crafter Body Shell",
   "mcp.tic_tac_toe_task.5": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task5
-  "mcp.tic_tac_toe_task.6.2.hover": "Warp to a random landmark usin' thar Ender Body Shell",
+  "mcp.tic_tac_toe_task.6.2.hover": "Warp to another landmark usin' thar Ender Body Shell",
   "mcp.tic_tac_toe_task.6": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task6
   "mcp.tic_tac_toe_task.7.2.hover": "Plunder at bottom deck fer 3 All Fer Yerself scallywags",
   "mcp.tic_tac_toe_task.7": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task7
@@ -8379,15 +8382,15 @@
   "mcp.tic_tac_toe_task.11": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task11
   "mcp.tic_tac_toe_task.12.2.hover": "Scourage 8+ additional doubloons from scallywags using thar Bauble Body Shell",
   "mcp.tic_tac_toe_task.12": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task12
-  "mcp.tic_tac_toe_task.13.2.hover": "Traverse 6+ additional landmarks using thar Fleety Body Shell",
+  "mcp.tic_tac_toe_task.13.2.hover": "Traverse 5+ additional landmarks using thar Fleety Body Shell",
   "mcp.tic_tac_toe_task.13": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task13
   "mcp.tic_tac_toe_task.14.2.hover": "Plunder 15+ doubloons from other swashbucklers",
   "mcp.tic_tac_toe_task.14": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task14
   "mcp.tic_tac_toe_task.15.2.hover": "Fork for 5 unique trinkets from thar huts",
   "mcp.tic_tac_toe_task.15": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task15
-  "mcp.tic_tac_toe_task.16.2.hover": "Acquire a full set of the same type o' body shells",
+  "mcp.tic_tac_toe_task.16.2.hover": "Acquire a full set of the same type o' fresh body shells",
   "mcp.tic_tac_toe_task.16": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task16
-  "mcp.tic_tac_toe_task.17.2.hover": "Acquire a full set o' different pieces o' body shells",
+  "mcp.tic_tac_toe_task.17.2.hover": "Acquire a full set o' different pieces o' fresh body shells",
   "mcp.tic_tac_toe_task.17": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task17
   "mcp.tic_tac_toe_task.18.2.hover": "Toss a 1 on a regular bone",
   "mcp.tic_tac_toe_task.18": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task18
@@ -8399,17 +8402,17 @@
   "mcp.tic_tac_toe_task.21": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task21
   "mcp.tic_tac_toe_task.22.2.hover": "Unleash a trinket on every helm run fer 5 in a row",
   "mcp.tic_tac_toe_task.22": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task22
-  "mcp.tic_tac_toe_task.23.2.hover": "Land on 2 black n' 2 yellow landmarks",
+  "mcp.tic_tac_toe_task.23.2.hover": "Land on %1$s black n' %1$s yellow landmarks",
   "mcp.tic_tac_toe_task.23": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task23
   "mcp.tic_tac_toe_task.24.2.hover": "Pass a Shinin' Spiker Hawker without buying a shinin' spiker when ye can afford one",
   "mcp.tic_tac_toe_task.24": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task24
   "mcp.tic_tac_toe_task.25.2.hover": "Profit doubloons from a bloodlust scallywag",
   "mcp.tic_tac_toe_task.25": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task25
-  "mcp.tic_tac_toe_task.26.2.hover": "Claim victory in a small tribe v. large tribe scallywag as the solo player/team of 2",
+  "mcp.tic_tac_toe_task.26.2.hover": "Claim victory in a %1$sv%2$s scallywag as the tribe o' %1$s",
   "mcp.tic_tac_toe_task.26": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task26
   "mcp.tic_tac_toe_task.27.2.hover": "Unleash a Swashbuckler Swappin' o' Swashbuckler Swap'n Grab t' swap landmarks with an enemy",
   "mcp.tic_tac_toe_task.27": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task27
-  "mcp.tic_tac_toe_task.28.2.hover": "Toss an 8 using a Jolly Hex Cube",
+  "mcp.tic_tac_toe_task.28.2.hover": "Toss an 8 using a Jolly Hex Cube (ignoring toss lifts)",
   "mcp.tic_tac_toe_task.28": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task28
   "mcp.tic_tac_toe_task.29.2.hover": "Strip o' plunder another swashbuckler's turn",
   "mcp.tic_tac_toe_task.29": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task29
@@ -8427,19 +8430,19 @@
   "mcp.tic_tac_toe_task.35": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task35
   "mcp.tic_tac_toe_task.36.2.hover": "For fer a shinin' spiker from a Single-Use Shinin' Spiker Hawker",
   "mcp.tic_tac_toe_task.36": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task36
-  "mcp.tic_tac_toe_task.37.2.hover": "Pass thar landmark that ye start yer helm run on without unleashing an Ol' Deckhand Pet",
+  "mcp.tic_tac_toe_task.37.2.hover": "Pass the space that you start your turn on",
   "mcp.tic_tac_toe_task.37": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task37
   "mcp.tic_tac_toe_task.38.2.hover": "Pass a trinket hut without forking fer anything whilt havin' riches t' afford all trinkets n' having a free trinket slot",
   "mcp.tic_tac_toe_task.38": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task38
-  "mcp.tic_tac_toe_task.39.2.hover": "Become the richest in doubloons at any time",
+  "mcp.tic_tac_toe_task.39.2.hover": "Have 10+ doubloons more than every enemy",
   "mcp.tic_tac_toe_task.39": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task39
   "mcp.tic_tac_toe_task.40.2.hover": "Obtain over 100 doubloons",
   "mcp.tic_tac_toe_task.40": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task40
   "mcp.tic_tac_toe_task.41.2.hover": "Claim victory in 3 scallywags (at end of turn) in a row",
   "mcp.tic_tac_toe_task.41": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task41
-  "mcp.tic_tac_toe_task.42.2.hover": "Have 2+ more shinin' spikers than any enemy in thar voyage",
+  "mcp.tic_tac_toe_task.42.2.hover": "Have 2+ more shinin' spikers than every enemy in thar voyage",
   "mcp.tic_tac_toe_task.42": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task42
-  "mcp.tic_tac_toe_task.43.2.hover": "Claim victory in a 2v2 with every swashbuckler",
+  "mcp.tic_tac_toe_task.43.2.hover": "Claim victory in a %1$sv%1$s with every swashbuckler",
   "mcp.tic_tac_toe_task.43": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task43
   "mcp.tic_tac_toe_task.44.2.hover": "Collect 3+ trinkets in a single helm run without buying a Bag o' Goodies or a Bag o' Treasure",
   "mcp.tic_tac_toe_task.44": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task44
@@ -8467,7 +8470,7 @@
   "mcp.tic_tac_toe_task.55": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task55
   "mcp.tic_tac_toe_task.56.2.hover": "Get a piece o' grub plundered from ye",
   "mcp.tic_tac_toe_task.56": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task56
-  "mcp.tic_tac_toe_task.57.2.hover": "Take thar flyin' devil away from the island with thar wizard hut",
+  "mcp.tic_tac_toe_task.57.2.hover": "Sail on thar flyin' devil twice",
   "mcp.tic_tac_toe_task.57": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task57
   "mcp.tic_tac_toe_task.58.2.hover": "Deliver 10+ presents in a single sail",
   "mcp.tic_tac_toe_task.58": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task58
@@ -8477,7 +8480,7 @@
   "mcp.tic_tac_toe_task.60": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task60
   "mcp.tic_tac_toe_task.61.2.hover": "Break a Mystic Targe o' a Prickly Mystic Targe",
   "mcp.tic_tac_toe_task.61": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task61
-  "mcp.tic_tac_toe_task.62.2.hover": "Get a max tier body shell",
+  "mcp.tic_tac_toe_task.62.2.hover": "Get a max tier fresh body shell",
   "mcp.tic_tac_toe_task.62": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task62
   "mcp.tic_tac_toe_task.63.2.hover": "Toss Doubles o' Triples",
   "mcp.tic_tac_toe_task.63": "%1$s completed %2$s", // 1: player, 2: mcp.ttt_task63
@@ -8517,10 +8520,14 @@
   "mcp.tic_tac_toe_task.80": "%1$s completed %2$s",
   "mcp.tic_tac_toe_task.81.2.hover": "Plant yer feet on every unique single-hued landmark",
   "mcp.tic_tac_toe_task.81": "%1$s completed %2$s",
-  "mcp.tic_tac_toe_complete": "%1$s has scribbled thru thar tic-tac-toe map. Swashbucklers have %2$s helm runs after this time at helm terminates t' scribble thru their map n' scourage thar spoils.", // 1: player, 2: number
-  "mcp.tic_tac_toe_complete": "%1$s has scribbled thru thar tic-tac-toe map.", // 1: player, 2: number
-  "mcp.tic_tac_toe_next_turn.1": "%1$s helm runs 'til thar next tic-tac-toe map be set acourse.", // 1: number
-  "mcp.tic_tac_toe_next_turn.2": "A new tic-tac-toe map be set acourse. Type '/trigger TaskList' to lay eyes on yer map.", // 1: number
+  "mcp.tic_tac_toe_task.82.2.hover": "Win a minigame that was gambled on",
+  "mcp.tic_tac_toe_task.82": "%1$s completed %2$s",
+  "mcp.tic_tac_toe_task.83.2.hover": "Pay for %1$s tolls",
+  "mcp.tic_tac_toe_task.83": "%1$s completed %2$s",
+  "mcp.tic_tac_toe_complete": "%1$s has scribbled thru thar tic-tac-toe card. Swashbucklers have %2$s helm runs after this time at helm terminates t' scribble thru their map n' scourage thar spoils.", // 1: player, 2: number
+  "mcp.tic_tac_toe_complete": "%1$s has scribbled thru thar tic-tac-toe card.", // 1: player, 2: number
+  "mcp.tic_tac_toe_next_turn.1": "%1$s helm runs 'til thar next tic-tac-toe card be set acourse.", // 1: number
+  "mcp.tic_tac_toe_next_turn.2": "A new tic-tac-toe card be set acourse. Type '/trigger TaskList' to lay eyes on yer map.", // 1: number
   "mcp.tiebreaker.1": "There be a tie in multiple swashbucklers' scores!",
   "mcp.tiebreaker_2.1": "The following swashbucklers be tied fer ninth place: %1$s", // 1: player
   "mcp.tiebreaker_2.2": "The following swashbucklers be tied fer eighth place: %1$s", // 1: player
@@ -8546,7 +8553,7 @@
   "mcp.tips_message.3.2": "\"/trigger Settings\"",
   "mcp.tips_message.3": "%1$s Type %2$s t' review thar voyage settings", // 1: mcp.Tip_, 2: mcp.tips_message.3.2
   "mcp.tips_message.4.2": "\"/trigger TaskList\"",
-  "mcp.tips_message.4": "%1$s Type %2$s t' lay eyes on yer Tic-Tac-Toe map list", // 1: mcp.Tip_, 2: mcp.tips_message.4.2
+  "mcp.tips_message.4": "%1$s Type %2$s t' lay eyes on yer Tic-Tac-Toe card list", // 1: mcp.Tip_, 2: mcp.tips_message.4.2
   "mcp.tip_drop.1": "Dripstone will fall from thar ceiling.",
   "mcp.tip_drop_rules.1": "The dripstone will fall more frequently as thar voyage goes on.",
   "mcp.tip_drop_rules.2": "The last swashbuckler t' survive thar falling dripstone wins.",
@@ -9203,7 +9210,7 @@
   "mcp.zen_garden_pass_spot.2.1": "Poseidon>",
   "mcp.zen_garden_pass_spot.2": "%1$s Good day matey, do ye think ye can beat thar Atlantis Spear Race reckonin'? Complete ye sail in under %2$s seconds n' I will reward ye wit' %3$s%4$s!\nClick on me to start the reckonin'.", // 1: mcp.zen_garden_pass_spot.2.1, 2: score, 3: score, 4: mcp._Coins
   "mcp.zen_garden_pass_spot.3.1": "Shin Zu>",
-  "mcp.zen_garden_pass_spot.3": "%1$s Welcome, I have a reckonin' fer ye! I will reward ye wit' 15 %2$s if you can beat it!\nClick on me to start the reckonin'.", // 1: mcp.zen_garden_pass_spot.3.1, 2: mcp.Coins
+  "mcp.zen_garden_pass_spot.3": "%1$s Welcome, I have a reckonin' fer ye! I will reward ye wit' 10 %2$s if you can beat it!\nClick on me to start the reckonin'.", // 1: mcp.zen_garden_pass_spot.3.1, 2: mcp.Coins
   "mcp.zen_garden_pass_spot.4": "%1$s Ahoy humanoid. Welcome t' me humble abode. Care fer any trinkets?", // 1: mcp.merchant_
   "mcp.zen_garden_trident_race_end.1": "%1$s did not beat thar Trident Race Reckonin'.", // 1: player
   "mcp.zen_garden_trident_race_end.2": "%1$s beat thar Trident Race Reckonin' n' won %2$s%3$s!", // 1: player, 2: score, 3: mcp._Coins
@@ -9385,6 +9392,7 @@
   "mcp.advancement.nice.title": "A Fine Number",
   "mcp.advancement.nice.description": "Score exactly 69 glory tallies in any minigame — cheeky, ain’t ye?",
   "mcp.advancement.parkour_menace.title": "Parkour Scallywag",
+  "mcp.advancement.secret_map.title": "Seeecret Treasure Map",
   "mcp.advancement.parkour_menace.description": "Best Michael in the Abyss Hoppin'",
   "mcp.advancement.photographic.title": "Sharp-Eyed Sailor",
   "mcp.advancement.photographic.description": "Win a game o’ memory lane without hittin’ a wrong button",
@@ -9426,6 +9434,7 @@
   "mcp.advancement.wrong_minigame.description": "Catch a fish in a minigame where ye shouldn’t be fishin’",
   "mcp.advancement.youre_coming_with_me.title": "Ye Be Comin’ With Me",
   "mcp.advancement.youre_coming_with_me.description": "Trigger a magenta warp that drags ye and another sailor along fer the ride",
+  "mcp.advancement.secret_map.description": "Unlock thar seeecret map in thar main land",
   "mcp.SkullOfRetribution":"Skull O' Retribution",
   "mcp.mpiq_tick.4":"Each swashbuckler has their own answer",
   "mcp.MinigamePriority.1.2":"All swashbucklers",
@@ -9795,7 +9804,7 @@
   "mcp.guide_book.star_race_mode.page_17.1": "Available items:\n(Hover over item to view description)\n",
 
   "mcp.welcome_rules_book.book_title": "Minecraft Party 2",
-  "mcp.welcome_rules_book.page_1.1": "Shimmer' ye t' Minecraft Party 2! This map be a 2-10 swashbuckler voyage loosely based off Mario Party. It imitates a board voyage and features 17 maps (currently), 101 scallywags, 32 pairs o' trinkets, and more! We hope ye have a barrel o fun wit' thar map.",
+  "mcp.welcome_rules_book.page_1.1": "Shimmer' ye t' Minecraft Party 2! This map be a 2-10 swashbuckler voyage loosely based off Mario Party. It imitates a board voyage and features 17 maps (currently), 101 scallywags, 32 pairs o' trinkets, and more! We hope ye have a barrel o' fun wit' thar map.",
   "mcp.welcome_rules_book.page_2.1": "How t' play\n",
   "mcp.welcome_rules_book.page_2.2": "\nUp t' 10 swashbucklers can play but an even number be best. Each swashbuckler tosses thar bones when it be their time at helm and moves the thar number o' landmarks. After everyone has taken their helm time, a scallywag will trigger",
   "mcp.welcome_rules_book.page_3.1": "n' thar rumlins will earn doubloons. Yer main aim be t’ gather as many shinin' spikers as ye can, with the tie-breaker bein’ the doubloons ye carry in yer purse. The swashbuckler wit' thar most shinin' spikers claims victory. Ye can earn shinin' spikers by forkin’ ’em from a shinin' spiker",
@@ -9814,7 +9823,9 @@
   "mcp.welcome_rules_book.page_7.2": "Duos Mode\n",
   "mcp.welcome_rules_book.page_7.3": "Pair up in tribes of two in either Helm Run or Spiker Race mode. Doubloons, spikers, and trinkets be shared among tribemates. 2v2 scallywags keep same pairs n' 1v3s be forbidden.",
   "mcp.welcome_rules_book.page_8.1": "Vast Crew Mode",
-  "mcp.welcome_rules_book.page_8.2": "\nWith this mode selected, yer crew can play with up t' 10 swashbucklers. Choose between On Yer Own mode, two large tribes, o' pairs mode (exactly 8 swashucklers). Scallywags will accomadate for the crew size but some may be forbidden.",
+  "mcp.welcome_rules_book.page_8.2": "\nYer crew can play with up t' 10 swashbucklers. Choose between On Yer Own mode, two large tribes, o' pairs mode (exactly 8 swashucklers). Scallywags will accomadate for the crew size but some may be forbidden.",
+  "mcp.welcome_rules_book.page_15.2": "\nComplete rows o’ tasks upon a 4x4 grid, matey. Any row, column, or diagonal line o’ 4 finished bilges counts as one completed line. Choose how many lines be needed t’ finish yer Tic-Tac-Toe chart.",
+  "mcp.welcome_rules_book.page_16.2": "After any chart be done, choose between these two fates:\n1. The voyage ends once the helm be terminated, n' the chart rumlin(s) be victorious.\n2. Award shinin' spikers after a grace period to allow others to catch up then roll new Tic-Tac-Toe chart.",
   "mcp.welcome_rules_book.page_9.1": "For Youtubers o' Streamers\n",
   "mcp.welcome_rules_book.page_9.2": "\nYoutubers or streamers can get their skull on thar wall o' youtubers fer playing n' recording this map. Send the video t' one of thar captains o' thar map to get your swashbuckler skull and ship ",
   "mcp.welcome_rules_book.page_10.1": "on thar wall in the credits hut with a link to the video.",
@@ -9858,6 +9869,7 @@
   "mcp.weapon_devolution_rules.1":"Fer each plunder ye get, yer firepower be downgraded in the following order: Laser Turret, Mighty Hatchet, Poseidon's Fightin' Fork, Dull Cutlass, Pointy Balls o' Snow.",
   "mcp.weapon_devolution_rules.2":"The first swashbuckler t' plunder wit' thar final firepower (Pointy Balls o' Snow) wins!",
   "mcp.weapon_devolution_tick.1":"Ye got a plunder! Your new firepower be a %1$s.",
+  "mcp.weapon_devolution_tick.2":"%1$s got a plunder wit' the final firepower!",
   "mcp.MightyAxe":"Mighty Hatchet",
   "mcp.WeakSword":"Dull Cutlass",
   "mcp.SharpSnowball":"Pointy Ball o' Snow",
@@ -9867,21 +9879,94 @@
   "mcp.TicTacToeMode":"Tic-Tac-Toe Mode",
   "mcp.TicTacToeMode2":"",
   "mcp.SignTTTLineReq1":"Lines fer",
-  "mcp.SignTTTLineReq2":"Finishin' Map:",
+  "mcp.SignTTTLineReq2":"Finishin' Card:",
   "mcp.SignTTTLineReq3":"",
   "mcp.Blackout":"Blackout",
-  "mcp.SignTTTCompletion1":"High-Tide upon",
-  "mcp.SignTTTCompletion2":"map completion:",
-  "mcp.SignTTTCompletion3.1":"Voyage ends after",
-  "mcp.SignTTTCompletion4.1":"helm run be done",
-  "mcp.SignTTTCompletion3.2":"New Tic-Tac-Toe map",
+  "mcp.SignTTTCompletion1":"Card Finish:",
+  "mcp.SignTTTCompletion2":"(%1$s be recon'd)",
+  "mcp.SignTTTCompletion3.1":"Voyage ends",
+  "mcp.SignTTTCompletion4.1":"post helm run done",
+  "mcp.SignTTTCompletion3.2":"New Tic-Tac-Toe card",
   "mcp.SignTTTCompletion4.2":"after %1$s helm runs", // 1: number
   "mcp.SignTTTCompletion4.3":"after %1$s helm run",
   "mcp.SignTicTacToe":"Tic-Tac-Toe",
   "mcp.SignMode":"Mode",
-  "mcp.tic_tac_toe_award_stars":"%1$s be awarded %2$s securrred shinin' spikers fer finishin' thar tic-tac-toe map!",
+  "mcp.tic_tac_toe_award_stars":"%1$s be awarded %2$s securrred shinin' spikers fer finishin' thar tic-tac-toe card!",
   "mcp.1st_completion":"1st Finishin'",
   "mcp.2nd_completion":"2nd Finishin'",
   "mcp.3rd_completion":"3rd Finishin'",
-  "mcp.4th_completion":"4th Finishin'"
+  "mcp.4th_completion":"4th Finishin'",
+  "mcp.ttt_task17.progress":"(Footsies: %1$s/1) (Peg-Legs: %2$s/1) (Torso: %3$s/1)",
+  "mcp.TaskCard":"Bilge Card",
+  "mcp.TaskRewardHover1":"This value be ~40% of the Shinin' Spikers scouraged on thar map since thar shapin' o' thar Tic-Tac-Toe card (minimum o' 4)",
+  "mcp.TaskRewardHover2":"This value be ~30% of the Shinin' Spikers scouraged on thar map since thar shapin' o' thar Tic-Tac-Toe card (minimum o' 3)",
+  "mcp.TaskRewardHover3":"This value be ~20% of the Shinin' Spikers scouraged on thar map since thar shapin' o' thar Tic-Tac-Toe card (minimum o' 2)",
+  "mcp.TaskRewardHover4":"This value be ~10% of the Shinin' Spikers scouraged on thar map since thar shapin' o' thar Tic-Tac-Toe card (minimum o' 1)",
+  "mcp.RicksChestShop": "Rick's Chest Shop",
+  "mcp.NicksBarrelShop": "Nick's Barrel Shop",
+  "mcp.RicksChestShopPrice": "%1$s 1 Chest Key: 5 %2$s %3$s\nChest Contents: 0-25 %2$s %3$s", // 1: key icon, 2: mcp.Coins, 3: coins icon
+  "mcp.NicksBarrelShopPrice": "%1$s 1 Barrel Key: %2$s %3$s %4$s\nBarrel Contents: 50%% chance for a %5$s %6$s", // 1: key icon, 2: score, 3: mcp.Coins, 4: coins icon, 5: mcp.Star, 6: star icon
+  "mcp.Available": "Available",
+  "mcp.Sold": "Sold",
+  "mcp.KeyAAvailability": "%1$s Key A: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyBAvailability": "%1$s Key B: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyCAvailability": "%1$s Key C: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyDAvailability": "%1$s Key D: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyEAvailability": "%1$s Key E: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyFAvailability": "%1$s Key F: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.pass_colored_spot.36": "%1$sAye, ya bloody wanderer! Ye be tempted by a %2$s fer 20 %3$s?",
+  "mcp.GamblingPost": "Wagerin’ Post",
+  "mcp.MagentaSpacesBoardCutscene": "\nMagenta Spaces>",
+  "mcp.magenta": "magenta",
+  "mcp.courtyard_cutscene.1": "%1$s%2$s be a tight little board tucked inside a mighty castle, filled with all manner o’ wagerin’ shenanigans.",
+  "mcp.courtyard_cutscene.2": "%1$s On this here board, ye can place yer bets on the next scallywag. When ye pass a %2$s, ye may choose the next scallywag and stake yer wager upon it. This’ll fatten the treasure for whichever scallywag takes first place. The rest o’ the crew must fork over a wee portion o’ their %3$s!",
+  "mcp.courtyard_cutscene.2.1": "\nWagerin’ Posts>",
+  "mcp.courtyard_cutscene.3": "%1$s Deep inside the great tree standin’ in the board’s center lies a slot contraption. Match three o’ the same and ye’ll haul in %2$s.",
+  "mcp.courtyard_cutscene.3.1": "\nSlots>",
+  "mcp.courtyard_cutscene.4": "%1$s When ye pass the Skill Shot Challenge, ye can earn %2$s for showin’ off yer fine bow‑shootin’ prowess!",
+  "mcp.courtyard_cutscene.4.1": "\nSkill Shot>",
+  "mcp.courtyard_cutscene.5": "%1$s Every %2$s space sits at a crossroads and has a toll blockin’ one o’ the paths. The toll demands 5 %3$s to lift the blockade. Landin’ on the %2$s space swaps which path be barred.",
+  "mcp.courtyard_cutscene.6": "%1$s The board’s special bonus shinin' spiker be awarded to the swashbuckler who wagers away the greatest haul o’ %2$s.",
+  "mcp.courtyard_cutscene.6.1": "\nWagerin’ Shinin' Spiker>",
+  "mcp.Nite": "Nite",
+  "mcp.gambling_post_approach": "%1$s> Oi, %2$s! Ye be lookin’ to flirt with danger and wager on the next scallywag? Ye’ll get to choose from three scallywags plucked at random. Ye’ll toss 6 %3$s into the pot, while the rest o’ the crew coughs up 2 %3$s each. Whoever triumphs in the next scallywag claims the whole pot atop their usual spoils. If more than one swashbuckler places a bet on the same turn, the pot swells, and the minigame be chosen at random from the ones the bettors picked.",
+  "mcp.courtyard_shop_approach": "%1$s Ahoy! Cast yer eyes this way! I might be holdin’ somethin’ ye be keen to fork fer!",
+  "mcp.courtyard_gambling_post_short_on_coins": "Ye ain’t got enough coin to be wagerin’ on a scallywag, ye penniless bilge rat.",
+  "mcp.betting_select1": "The scallywag ye be choosin’ is: %1$s",
+  "mcp.Fletch": "Fletch",
+  "mcp.courtyard_skill_shot_approach": "%1$s> Think ye’ve got the grit to conquer me challenge? For 5 %2$s I’ll hand ye a bow and two arrows. If ye can strike that floatin’ target with both shots, I’ll shower ye with 20 %2$s!",
+  "mcp.courtyard_betting_pot_status": "The wagerin’ pot be holdin’ %1$s %2$s at the moment. All this booty goes to the victor of the next scallywag!",
+  "mcp.format_hours_and_minutes": "%1$sh %2$sm",
+  "mcp.ravager_rodeo_team_mode_rules.1": "%1$s and %2$s be ridin’ an arrvager each. %1$s be tryin’ to toss %4$s out o’ the arena first, while %3$s be aim’n to send %2$s flyin’ overboard.",
+  "mcp.ravager_rodeo_team_mode_rules.2": "%1$s and %2$s be ridin’ arrvagers. Their mission be to hurl every swahbuckler on the enemy crew out o’ the arena before their own mates get tossed.",
+  "mcp.ravager_rodeo_team_mode_rules.3": "%1$s and %2$s gain a mighty charge ability, lettin’ their arrvager dash straight ahead at fearsome speed in whatever direction the rider be facin’. Any runner fool enough to stand in its path be launched clean out o’ the arena.",
+  "mcp.ravager_rodeo_team_mode_rules.4": "The crew that loses all their runners (the deckhands not ridin’ arrvagers) first be the losers.",
+  "mcp.tedious_tasks_team_mode_rules.1": "Finish the eight burdensome chores as swift as the wind, side‑by‑side with yer trusty matey.",
+  "mcp.tedious_tasks_team_mode_rules.2": "Ye and yer crewmate will each be toilin’ on different chores at the same time, sailin’ independently.",
+  "mcp.tedious_tasks_team_mode_rules.3": "Once ye conquer a chore, ye’ll be handed a new one at random from the stash o’ chores yer crew hasn’t tackled yet.",
+  "mcp.tedious_tasks_team_mode_rules.4": "Yer chores’ll be delivered to ye through the ship’s log.",
+  "mcp.tedious_task_team_mode_final_task": "%1$sLend a hearty hand to yer matey and help ’em finish the last mighty chore.",
+  "mcp.minigame_death": "%1$s has been sent to Davy Jones' Locker!",
+  "mcp.bomber_brigade": "Boom-Barrel Bombin'",
+  "mcp.bomber_brigade.1": "Blast yer rival swahbucklers to smithereens with mighty boom‑barrels!",
+  "mcp.bomber_brigade.2": "Every blasted barrel leaves a trail o’ burnin’ flame in its wake.",
+  "mcp.bomber_brigade.3": "Step into the blaze and ye’ll be sent to Davy Jones. Be the last swahbuckler standin’!",
+  "mcp.bomber_brigade.4": "Keep a weather eye open! A fiery border be closin’ in on the arena, slow but deadly.",
+  "mcp.bomber_brigade.5": "There be four kinds o’ boom‑barrels in this here scallywag, each with its own devilish trick:",
+  "mcp.bomber_brigade.6": "%1$s: Ye earn one every five seconds (up to five). %2$s\n%3$s: Snag these in the arena. %4$s\n%5$s: Snag these in the arena. %6$s\n%7$s: Snag these in the arena. %8$s",
+  "mcp.bomber_brigade.7": "All boom‑barrels explode three seconds after ye drop ’em.",
+  "mcp.WallBreaker": "Wall‑Smash’r",
+  "mcp.WallBreakerDescription": "Shatters nearby walls and leaves behind a teeny ring o’ fire that burns for three seconds.",
+  "mcp.FireCarpetBomb": "Blazin’ Carpet Boom-Barrel",
+  "mcp.FireCarpetBombDescription": "Leaves behind a great ring o’ fire that burns for five seconds.",
+  "mcp.SoulFireDynamite": "Soul‑Fire Dynamite",
+  "mcp.SoulFireDynamiteDescription": "Leaves a cursed circle o’ soul‑fire burnin’ for thirty seconds.",
+  "mcp.HeatSeekingTNT": "Heat‑Seekin’ TNT",
+  "mcp.HeatSeekingTNTDescription": "Hunts down the nearest foe and blows ’em sky‑high.",
+  "mcp.JonikStage2": "Assistant Programmer",
+  "mcp.JonikStage3": "Assistant Builder",
+  "mcp.JonikStage4": "(frequent tester)",
+  "mcp.SignJonikTellraw":"Assisted with Rhythmic Room\nHelped program the secret board",
+  "mcp.SignKirbTellraw":"Built Arcane Atoll board\nBuild Crazy Carnival board\nCreated every music track",
+  "mcp.SignJohnTellraw":"Built starting hub\nBuilt Mooshroom Grotto\nAssisted with Pac-Maze\nBuilt 2v6 Pac Cube arena\nBuilt Creeper' Crazy Combustion\nBuilt Bomber Brigade arenas"
 }
