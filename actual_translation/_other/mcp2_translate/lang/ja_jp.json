@@ -856,7 +856,7 @@
   "mcp.fort_suits_beat_challenge": "勝ったボードチャレンジ: ",
   "mcp.PositiveKarma": "ポジティブカルマ",
   "mcp.NegativeKarma": "ネガティブカルマ",
-  "mcp:plus2_": "+2 ",
+  "mcp.plus2_": "+2 ",
   "mcp.Toggle": "切り替え",
   "mcp.Player": "プレイヤー",
   "mcp.SpectateMinigames": "ミニゲームを観戦します。",
@@ -985,7 +985,7 @@
   "mcp.ttt_task64": "大砲の長距離移動",
   "mcp.ttt_task65": "Trashed Treasure",
   "mcp.ttt_task66": "Three of a Kind",
-  "mcp.ttt_task67": "Lose Item",
+  "mcp.ttt_task67": "アイテムを失う",
   "mcp.ttt_task68": "コイン収集者",
   "mcp.ttt_task69": "Double Switch",
   "mcp.ttt_task70": "冒険家",
@@ -1002,8 +1002,10 @@
   "mcp.ttt_task81": "Rainbow Lander",
   "mcp.ttt_task82": "壺の勝者",
   "mcp.ttt_task83": "通行料",
+  "mcp.ttt_task84": "幸運のお守り",
+  "mcp.ttt_task85": "2回のテレポート",
   "mcp.10_Coins": " 10コイン",
-  "mcp.close_door": "ドアを閉じる",
+  "mcp.close_door": "ドアを閉じる", //change in datapack 'mcp:temple_generate'
   "mcp.Bew": "ビュー",
   "mcp.UseWarp": "ワープを使う",
   "mcp.7_Coins": "7コイン",
@@ -1035,7 +1037,7 @@
   "mcp.JumpRight": "右にジャンプ",
   "mcp.JumpLeft": "左にジャンプ",
   "mcp.GameStats": "ゲーム統計",
-  "mcp.Type": "タイプ",
+  "mcp.Type": "入力", //as in to type on a keyboard
   "mcp.Guess": "[推測]",
   "mcp.SkipDialogue2": "次のダイアログを",
   "mcp.SkipDialogue3": "スキップ",
@@ -1153,7 +1155,7 @@
   "mcp.CodLore3": "報酬: スターワープ",
   "mcp.StrengthPotion": "力のポーション",
   "mcp.StrengthPotionDescription": "黒い要塞でダイヤモンドの剣を引く直前にポーションを飲もう。",
-  "mcp.Drink": "飲む",
+  "mcp.Drink": "ドリンク", // noun
   "mcp.DrinkLore1": "赤い砂岩の小屋に戻ろう。",
   "mcp.DrinkLore2": "報酬: 25コイン",
   "mcp.SacredEmerald": "聖なるエメラルド",
@@ -1219,7 +1221,7 @@
   "mcp.SpawnSilverfish": "シルバーフィッシュを召喚",
   "mcp.SpawnBogged": "ボグドを召喚",
   "mcp.SpawnZoglin": "ゾグリンを召喚",
-  "mcp.Mouse": "マウス",
+  "mcp.Mouse": "ネズミ", // The rodent
   "mcp.Hatchet": "手斧",
   "mcp.MouseTrapEgg": "ブロックを設定 (投げる)",
   "mcp.GoToThisWarp": "このワープへ行く",
@@ -2288,13 +2290,13 @@
   "mcp.battle_minigame_payouts_sidebar.10": "10位%1$s%2$s%3$s", // 1: mcp.battle_minigame_payouts_sidebar.10.1, 2: mcp.battle_minigame_payouts_sidebar.10.2, 3: mcp._Coins
   "mcp.battle_minigame_pot_finish.1": "全員がポットに%1$sコインずつ入れる！", // 1: score
   "mcp.battle_minigame_title.1": "戦いの賭け:",
-  "mcp.bat_blast.1": "コインを乗せたコウモリがアリーナにランダムに出現します。",
+  "mcp.bat_blast.1": "コインを乗せたコウモリがステージにランダムに出現します。",
   "mcp.bat_blast.2": "コウモリ達は空中に浮かびながら、不規則な方向へ飛び回るでしょう。",
   "mcp.bat_blast.3": "コウモリをバットで叩いて、彼らが運んでいるコインを集めましょう。",
   "mcp.bat_blast.4": "金色のコウモリ(黄色で強調表示)を倒すと、コインが2つもらえます！",
   "mcp.bat_blast.5": "数秒ごとに新しいコウモリが出現します。",
   "mcp.bat_blast.6": "集めたコインは全てあなたのものです。",
-  "mcp.bat_blast.7": "最も多くのコインを集めたプレイヤーが勝ちです。",
+  "mcp.bat_blast.7": "最も多くのコインを集めたプレイヤーの勝ちです。",
   "mcp.bat_blast_start.1": "叩け！",
   "mcp.bew_reselect_player.1.1": "パブロ>",
   "mcp.bew_reselect_player.1": "%1$s 現在は私のサービスをご提供できません。", // 1: mcp.bew_reselect_player.1.1
@@ -2404,9 +2406,9 @@
   "mcp.black_event_1.4.1": "ベタベタになった！",
   "mcp.black_event_1.4": "%1$sは4倍%2$s", // 1: player, 2: mcp.black_event_1.4.1
   "mcp.black_event_2.1": "%1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
-  "mcp.black_event_3.1": "1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
-  "mcp.black_event_4.1": "1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
-  "mcp.black_event_5.1": "1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
+  "mcp.black_event_3.1": "%1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
+  "mcp.black_event_4.1": "%1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
+  "mcp.black_event_5.1": "%1$sは%2$s%3$s失った", // 1: player, 2: score, 3: mcp._Coins
   "mcp.black_event_6.1": "%1$sは%2$s%3$s手に入れた", // 1: player, 2: score, 3: mcp._Coins
   "mcp.black_event_6.2.1": "アクアチーム",
   "mcp.black_event_6.2": "%1$sは%2$s%3$s手に入れた", // 1: mcp.black_event_6.2.1, 2: score, 3: mcp._Coins
@@ -3046,8 +3048,8 @@
   "mcp.countdown.1": "3",
   "mcp.countdown.2": "2",
   "mcp.countdown.3": "1",
-  "mcp.crazy_clock_description.1": "%1$s%2$s%3$\ns%4$sマスから手に入る。", // 1: mcp.CrazyClock, 2: ": ", 3: mcp.CrazyClockDescription1, 4: mcp.yellow
-  "mcp.crazy_clock_description.2": "%1$s%2$s%3$\n%4$sマスから手に入る。", // 1: mcp.CrazyClock, 2: ": ", 3: mcp.CrazyClockDescription2, 4: mcp.yellow
+  "mcp.crazy_clock_description.1": "%1$s%2$s%3$s\n%4$sマスから手に入る。", // 1: mcp.CrazyClock, 2: ": ", 3: mcp.CrazyClockDescription1, 4: mcp.yellow
+  "mcp.crazy_clock_description.2": "%1$s%2$s%3$s\n%4$sマスから手に入る。", // 1: mcp.CrazyClock, 2: ": ", 3: mcp.CrazyClockDescription2, 4: mcp.yellow
   "mcp.crazy_clock_description.3.2": ":\n",
   "mcp.crazy_clock_description.3.4": "\n",
   "mcp.crazy_clock_description.3.6": "マスから手に入る。",
@@ -3115,7 +3117,7 @@
   "mcp.deuce_rules.1": "スライムをパンチで攻撃すると、向いている方向へ進みます。",
   "mcp.deuce_rules.2": "スライムはバーを越えて、相手側のオークのハーフブロックの上に着地しなければいけません。",
   "mcp.deuce_rules.3": "ショットをミスしたり、相手のショットを返せなかったりすると、ポイントを失います。",
-  "mcp.deuce_rules.4": "サーブする人は、2回のサーブごとに交代します。1回目のサーブは以下から始まります:%1$s.", // 1: player
+  "mcp.deuce_rules.4": "サーブする人は、2回のサーブごとに交代します。1回目のサーブは%1$sから始まります。", // 1: player
   "mcp.deuce_rules.5": "スライムボールを落として、現れたスライムをパンチで叩いてサーブしましょう。ヒント: 上向き45度の角度でサーブするのが最も良いです。",
   "mcp.deuce_rules.6": "2ポイント差で先に勝ったプレイヤーがデュエルに勝利します！",
   "mcp.deuce_start.1": "プレイしろ！",
@@ -4158,6 +4160,7 @@
   "mcp.give_game_stats.26": "探検家",
   "mcp.give_game_stats.27": "ロイヤル",
   "mcp.give_game_stats.28": "ギャンブラー",
+  "mcp.give_game_stats.29": "ランナー",
   "mcp.give_items.1": "1を出します。使用するにはドロップしてください。",
   "mcp.give_items.2": "2を出します。使用するにはドロップしてください。",
   "mcp.give_items.3": "3を出します。使用するにはドロップしてください。",
@@ -5341,15 +5344,15 @@
   "mcp.mpiq_new_question.6": "%1$s%2$sミニゲームは何回プレイされた？", // 1: mcp.mpiq_new_question.6.1, 2: mcp.mpiq_new_question.6.2
   "mcp.mpiq_new_question.7.1": "問題: ",
   "mcp.mpiq_new_question.7.2": "決闘マス",
-  "mcp.mpiq_new_question.7": "%1$s最初に%2$に止まったのは何ターン目？", // 1: mcp.mpiq_new_question.7.1, 2: mcp.mpiq_new_question.7.2
+  "mcp.mpiq_new_question.7": "%1$s最初に%2$sに止まったのは何ターン目？", // 1: mcp.mpiq_new_question.7.1, 2: mcp.mpiq_new_question.7.2
   "mcp.mpiq_new_question.8.1": "問題: ",
-  "mcp.mpiq_new_question.8": "%1$s最初に%2$に止まったのは何ターン目？", // 1: mcp.mpiq_new_question.8.1, 2: mcp.chance_time_space_
+  "mcp.mpiq_new_question.8": "%1$s最初に%2$sに止まったのは何ターン目？", // 1: mcp.mpiq_new_question.8.1, 2: mcp.chance_time_space_
   "mcp.mpiq_new_question.9.1": "問題: ",
   "mcp.mpiq_new_question.9.2": "橙マス",
-  "mcp.mpiq_new_question.9": "%1$s最初に%2$に止まったのは何ターン目？", // 1: mcp.mpiq_new_question.9.1, 2: mcp.mpiq_new_question.9.2
+  "mcp.mpiq_new_question.9": "%1$s最初に%2$sに止まったのは何ターン目？", // 1: mcp.mpiq_new_question.9.1, 2: mcp.mpiq_new_question.9.2
   "mcp.mpiq_new_question.10.1": "問題: ",
   "mcp.mpiq_new_question.10.2": "黒マス",
-  "mcp.mpiq_new_question.10": "%1$s最初に%2$に止まったのは何ターン目？", // 1: mcp.mpiq_new_question.10.1, 2: mcp.mpiq_new_question.10.2
+  "mcp.mpiq_new_question.10": "%1$s最初に%2$sに止まったのは何ターン目？", // 1: mcp.mpiq_new_question.10.1, 2: mcp.mpiq_new_question.10.2
   "mcp.mpiq_new_question.11": "1ターン目",
   "mcp.mpiq_new_question.12": "2ターン目",
   "mcp.mpiq_new_question.13": "3ターン目",
@@ -5392,7 +5395,7 @@
   "mcp.mpiq_new_question.40": "%1$s%2$s%3$sを買ったのは誰？", // 1: mcp.mpiq_new_question.40.1, 2: mcp.mpiq_new_question.40.2, 3: score
   "mcp.mpiq_new_question.41.2": "スター",
   "mcp.mpiq_new_question.41": "%1$s%2$s%3$sを買ったのは誰？", // 1: mcp.mpiq_new_question.41.1, 2: mcp.mpiq_new_question.41.2, 3: score
-  "mcp.mpiq_new_question.42": "%1$sすべてのプレイヤーが使ったアイテムの合計数はいくつ？", // 1: mcp.mpiq_new_question.42.1
+  "mcp.mpiq_new_question.42": "%1$sあなたが使ったアイテムの合計数はいくつ？", // 1: mcp.mpiq_new_question.42.1
   "mcp.mpiq_new_question.43": "%1$s自分の番でかかった時間が最も短かったのは誰？", // 1: mcp.mpiq_new_question.43.1
   "mcp.mpiq_new_question.44": "%1$s自分の番がかかった時間が最も長かったのは誰？", // 1: mcp.mpiq_new_question.44.1
   "mcp.mpiq_new_question.45": "%1$sゲームが始まってから何分経っている？", // 1: mcp.mpiq_new_question.45.1
@@ -5403,11 +5406,11 @@
   "mcp.mpiq_new_question.50": "%1$s各プレイヤーが持っている%2$sの合計は？", // 1: mcp.mpiq_new_question.50.1, 2: mcp._coins
   "mcp.mpiq_new_question.51": "%1$s各チームが持っている%2$sの合計は？", // 1: mcp.mpiq_new_question.51.1, 2: mcp._coins
   "mcp.mpiq_new_question.52": "%1$s%2$sは次の内どのアイテムを持っている？", // 1: mcp.mpiq_new_question.52.1, 2: player
-  "mcp.mpiq_new_question.53": "%1$s%2$sは無料アイテム受け取り所を何回通った？", // 1: mcp.mpiq_new_question.53.1, 2: player
+  "mcp.mpiq_new_question.53": "%1$sあなたは無料アイテム受け取り所を何回通った？", // 1: mcp.mpiq_new_question.53.1, 2: player
   "mcp.mpiq_new_question.54": "%1$s最も多くのアイテムを捨てたのは誰？", // 1: mcp.mpiq_new_question.54.1
-  "mcp.mpiq_new_question.55": "%1$s%2$sはトラップに何回引っかかった？", // 1: mcp.mpiq_new_question.55.1, 2: player
+  "mcp.mpiq_new_question.55": "%1$sあなたはトラップに何回引っかかった？", // 1: mcp.mpiq_new_question.55.1, 2: player
   "mcp.mpiq_new_question.56": "%1$s%2$sはトラップに何回設置した？", // 1: mcp.mpiq_new_question.56.1, 2: player
-  "mcp.mpiq_new_question.57": "%1$sすべてのプレイヤーが店で使ったコインの合計数はいくつ？", // 1: mcp.mpiq_new_question.57.1
+  "mcp.mpiq_new_question.57": "%1$sあなたが店で使ったコインの合計数はいくつ？", // 1: mcp.mpiq_new_question.57.1
   "mcp.mpiq_new_question.58": "%1$s%2$sの現在のボードボーナススター統計値はどれ？", // 1: mcp.mpiq_new_question.58.1, 2: player
   "mcp.mpiq_new_question.59": "%1$s%2$sはチケットをいくつ持っている？", // 1: mcp.mpiq_new_question.59.1, 2: player
   "mcp.mpiq_new_question.60": "%1$s%2$sはステージを何周した？", // 1: mcp.mpiq_new_question.60.1, 2: player
@@ -5422,10 +5425,11 @@
   "mcp.mpiq_new_question.69": "%1$s%2$sは最も安い区画にコインをいくつ投資した？", // 1: mcp.mpiq_new_question.69.1, 2: player
   "mcp.mpiq_new_question.70": "%1$s%2$sはミニゲームを何回始めた？", // 1: mcp.mpiq_new_question.70.1, 2: player
   "mcp.mpiq_new_question.71": "%1$s%2$sは呪文を何回唱えた？", // 1: mcp.mpiq_new_question.71.1, 2: player
-  "mcp.mpiq_new_question.72": "%1$s%2$sはプレゼントをいくつ届けた？", // 1: mcp.mpiq_new_question.72.1, 2: player
+  "mcp.mpiq_new_question.72": "%1$s%2$sはプレゼントをいくつ届けた？", // 1: mcp.m+piq_new_question.72.1, 2: player
   "mcp.mpiq_new_question.73": "%1$s%2$sは寺院のステージのクリアを何回した？", // 1: mcp.mpiq_new_question.73.1, 2: player
   "mcp.mpiq_new_question.74": "%1$s%2$sは異なる色の区画を何回通過した？", // 1: mcp.mpiq_new_question.74.1, 2: player
   "mcp.mpiq_new_question.75": "どのアイテムでもない",
+  "mcp.mpiq_new_question.76": "%1$s%2$sはユニークマスに何箇所訪れた？", // 1: mcp.Question_, 2: player
   "mcp.mpiq_rules.1": "問題がチャットに表示されます。選んだ回答の名前のアイテムをドロップすることで回答できます。",
   "mcp.mpiq_rules.2": "このミニゲームは雑学クイズではありません。",
   "mcp.mpiq_rules.3": "8ラウンド終了した時点で最も多く問題に正解したプレイヤーの勝ちです！",
@@ -5821,7 +5825,7 @@
   "mcp.pass_colored_spot.6": "%1$sやぁゲーマーさん！ %2$s%3$sでスターを売っています。", // 1: mcp.pass_colored_spot.6.1, 2: score, 3: (Coin or Coins)
   "mcp.pass_colored_spot.7": "%1$s良く来たね！ 数が違うスターを幅広い値段で用意しているよ。", // 1: mcp.pass_colored_spot.7.1
   "mcp.pass_colored_spot.8": "%1$sおい、地上の住人！ せっかく来たんだから、%2$s%3$sでスターをあげよう。", // 1: mcp.pass_colored_spot.8.1, 2: score, 3: (Coin or Coins)
-  "mcp.pass_colored_spot.9": "%1$s良く来たね！ 君の最高の%2$s%3$と引き換えに、スターをあげることができる！", // 1: mcp.pass_colored_spot.9.1, 2: score, 3: mcp._coins
+  "mcp.pass_colored_spot.9": "%1$s良く来たね！ 君の最高の%2$s%3$sと引き換えに、スターをあげることができる！", // 1: mcp.pass_colored_spot.9.1, 2: score, 3: mcp._coins
   "mcp.pass_colored_spot.10": "%1$sブン・ダ・ブン・ブン。君にスターをあげよう。%2$s%3$sが必要だ。", // 1: mcp.pass_colored_spot.10.1, 2: score, 3: (Coin or Coins)
   "mcp.pass_colored_spot.11": "%1$s君に必要なのはスターだ！ そして値段は%2$s%3$sだ！", // 1: mcp.pass_colored_spot.11.1, 2: score, 3: (Coin or Coins)
   "mcp.pass_colored_spot.12": "%1$sアブラカダブラ、ここにスターがある！ %2$s%3$s払えば君のものだ！", // 1: mcp.pass_colored_spot.12.1, 2: score, 3: (Coin or Coins)
@@ -5839,7 +5843,7 @@
   "mcp.pass_colored_spot.20.2": "20",
   "mcp.pass_colored_spot.20": "%1$sおい、地上の住人！ せっかく来たんだから、%2$s%3$sでスターをあげよう。", // 1: mcp.pass_colored_spot.20.1, 2: mcp.pass_colored_spot.20.2, 3: (Coin or Coins)
   "mcp.pass_colored_spot.21.2": "20",
-  "mcp.pass_colored_spot.21": "%1$s良く来たね！ 君の最高の%2$s%3$と引き換えに、スターをあげることができる！", // 1: mcp.pass_colored_spot.21.1, 2: mcp.pass_colored_spot.21.2, 3: mcp._coins
+  "mcp.pass_colored_spot.21": "%1$s良く来たね！ 君の最高の%2$s%3$sと引き換えに、スターをあげることができる！", // 1: mcp.pass_colored_spot.21.1, 2: mcp.pass_colored_spot.21.2, 3: mcp._coins
   "mcp.pass_colored_spot.22.2": "20",
   "mcp.pass_colored_spot.22": "%1$sブン・ダ・ブン・ブン。君にスターをあげよう。%2$s%3$sが必要だ。", // 1: mcp.pass_colored_spot.22.1, 2: mcp.pass_colored_spot.22.2, 3: (Coin or Coins)
   "mcp.pass_colored_spot.23.2": "20",
@@ -5867,7 +5871,7 @@
   "mcp.path_finder_rules.3": "最初に道をクリアしたプレイヤーがゲームに勝利します！",
   "mcp.path_finder_start.1": "通れ！",
   "mcp.pc_maze_challenge_end.1": "%1$sはキノコ迷路チャレンジに失敗した。", // 1: player
-  "mcp.pc_maze_challenge_end.2": "%1$sはキノコ迷路チャレンジをクリアし、以下を勝ち取った: %2$s.", // 1: player, 2: mcp.10_coins
+  "mcp.pc_maze_challenge_end.2": "%1$sはキノコ迷路チャレンジをクリアし、%2$sを手に入れた！", // 1: player, 2: mcp.10_coins
   "mcp.pc_maze_tick.1": "迷路が生成されるまでお待ちください...",
   "mcp.pc_maze_tick.2.1": "カーニー:",
   "mcp.pc_maze_tick.2": "%1$s 色付きのワープ地点を使って地下室の迷路を進んでください。ワープ地点の中にしゃがむと、同じ色の別のワープ地点にテレポートできます。ボタンを押した後、25秒以内に赤いキノコを見つけて、ドアが閉まる前に戻ってください。成功したら15コインを報酬として差し上げます。", // 1: mcp.pc_maze_tick.2.1
@@ -5928,14 +5932,14 @@
   "mcp.pipe_canyon_cutscene.11": "%1$s <ゲームを始める>", // 1: mcp.previous
   "mcp.pipe_canyon_defuse_end.1.1": "-10コイン",
   "mcp.pipe_canyon_defuse_end.1": "%1$sは正しい爆弾を解除しなかった。%2$s", // 1: player, 2: mcp.pipe_canyon_defuse_end.1.1
-  "mcp.pipe_canyon_defuse_end.2": "%1$sは爆弾を解除し、以下を勝ち取った: %2$s.", // 1: player, 2: mcp.10_coins
+  "mcp.pipe_canyon_defuse_end.2": "%1$sは爆弾を解除し、%2$sを手に入れた！", // 1: player, 2: mcp.10_coins
   "mcp.pipe_canyon_description.1.1": "パイプキャニオン> ",
   "mcp.pipe_canyon_description.1": "%1$s ワープ！ ワープ！ ワープ！ ボード上のワープを通過でき、同じ色の対応する土管にテレポートできます。赤紫マスは、周囲に同じ色の板材のハーフブロックがある別の赤紫マスに移動します。ボード上の特定のスターはワープスターです。ワープ料金所や赤紫マスワープ(Bewのワープは除く)はすべて、このボーナススターにカウントされます。ワープに加えて、このボードには中央にBewのポータルがあり、コインを獲得できるチャレンジがいくつかあります。", // 1: mcp.pipe_canyon_description.1.1
   "mcp.pipe_canyon_entities.1": "カーニー",
   "mcp.pipe_canyon_entities.2": "ガンボ",
   "mcp.pipe_canyon_magenta_event.1": "%1$sはワープした！", // 1: player
   "mcp.pipe_canyon_paint_cube_end.1": "%1$sはペイントキューブチャレンジに失敗した。", // 1: player
-  "mcp.pipe_canyon_paint_cube_end.2": "%1$sはペイントキューブチャレンジをクリアし、以下を勝ち取った%2$s.", // 1: player, 2: mcp.10_coins
+  "mcp.pipe_canyon_paint_cube_end.2": "%1$sはペイントキューブチャレンジをクリアし、%2$sを手に入れた！", // 1: player, 2: mcp.10_coins
   "mcp.pipe_canyon_pass_spot.1.1": "カーニー:",
   "mcp.pipe_canyon_pass_spot.1": "%1$s 私のチャレンジに挑戦して、勝てばコインがもらえます！ 遊び方は、私をクリックしてご覧ください。", // 1: mcp.pipe_canyon_pass_spot.1.1
   "mcp.pipe_canyon_pass_spot.2.1": "ガンボ:",
@@ -5976,7 +5980,7 @@
   "mcp.platforms_rules.3": "最も多くのダイヤモンドを獲得して勝利しましょう！",
   "mcp.Task_": "タスク> ",
   "mcp.player_next_task.1": "%1$s他のプレイヤーをキルする。", // 1: mcp.player_next_task.1.1
-  "mcp.player_next_task.2": "%1$sエンダーパールを中央の足場の上にある金ブロックに触れさせる。", // 1: mcp.player_next_task.2.1
+  "mcp.player_next_task.2": "%1$sエンダーパールを中央の金ブロックの上部に触れさせる。", // 1: mcp.player_next_task.2.1
   "mcp.player_next_task.3": "%1$sベルを正確に30回鳴らす。", // 1: mcp.player_next_task.3.1
   "mcp.player_next_task.4": "%1$s木の斧をクラフトする。(剣で木を壊す)", // 1: mcp.player_next_task.4.1
   "mcp.player_next_task.5": "%1$s村人からスターを入手する。", // 1: mcp.player_next_task.5.1
@@ -5989,7 +5993,7 @@
   "mcp.player_reset_task.2.1": "タスクをリセットします。",
   "mcp.player_reset_task.2": "ベルを鳴らしすぎた！%1$s", // 1: mcp.player_reset_task.2.1
   "mcp.player_reset_task.3": "%1$s他のプレイヤーをキルする。", // 1: mcp.mcp.Task_
-  "mcp.player_reset_task.4": "%1$sエンダーパールを中央の足場の上にある金ブロックに触れさせる。", // 1: mcp.mcp.Task_
+  "mcp.player_reset_task.4": "%1$sエンダーパールを中央の足場の金ブロックの上部に触れさせる。", // 1: mcp.mcp.Task_
   "mcp.player_reset_task.5": "%1$sベルを正確に30回鳴らす。", // 1: mcp.mcp.Task_
   "mcp.player_reset_task.6": "%1$s木の斧をクラフトする。", // 1: mcp.mcp.Task_
   "mcp.player_reset_task.7": "%1$s村人からネザースターを入手します。", // 1: mcp.mcp.Task_
@@ -6005,10 +6009,10 @@
   "mcp.player_swapper_description.1": "%1$s%2$s%3$s 店で買える\n値段: %4$s", // 1: mcp.PlayerSwapper, 2: ": ", 3: mcp.PlayerSwapperDescription, 4: mcp.player_swapper_description.1.3
   "mcp.player_swiper_description.1.3": "20コイン",
   "mcp.player_swiper_description.1": "%1$s%2$s%3$s 店で買える\n値段: %4$s", // 1: mcp.PlayerSwiper, 2: ": ", 3: mcp.PlayerSwiperDescription, 4: mcp.player_swiper_description.1.3
-  "mcp.player_swiper_tick.1": "盗めるアイテム: %1$s%2$s%3$s%4$s%5$s%6$s%7$s%8$s%9$s%10$s%11$s%12$s%13$s%14$s%15$s%16$s%17$s%18$s%19$s%20$s%21$s%22$s%23$s%24$s%25$s%26$s%27$s%28$s%29$s%30$s%31$s%32$s%33$s%34$s%35$s%36$s%37$s%38$s%39$s%40$s%41$s%42$s%43$s", // 1: entity, 2: entity, 3: entity, 4: entity, 5: entity, 6: entity, 7: entity, 8: entity, 9: entity, 10: entity, 11: entity, 12: entity, 13: entity, 14: entity, 15: entity, 16: entity, 17: entity, 18: entity, 19: entity, 20: entity, 21: entity, 22: entity, 23: entity, 24: entity, 25: entity, 26: entity, 27: entity, 28: entity, 29: entity, 30: entity, 31: entity, 32: entity, 33: entity, 34: entity, 35: entity, 36: entity, 37: entity, 38: entity, 39: entity, 40: entity, 41: entity, 42: entity, 43: entity
+  "mcp.player_swiper_tick.1": "盗めるアイテム: %1$s", // 1: entity
   "mcp.player_swiper_tick.2.1": "無し",
   "mcp.player_swiper_tick.2": "盗めるアイテム: %1$s", // 1: mcp.player_swiper_tick.2.1
-  "mcp.pocket_plunderer.1": "%1$sがアイテムを使用: %2$s%3$s", // 1: player, 2: mcp.PocketPlunderer, 3: mcp.exclamation_mark
+  "mcp.pocket_plunderer.1": "%1$sがアイテムを使用: %2$s！", // 1: player, 2: mcp.PocketPlunderer
   "mcp.pocket_plunderer.2": "あなたの%1$sは後%2$sターンで効果がきれます。", // 1: mcp.PocketPlunderer, 2: score
   "mcp.pocket_plunderer_description.1.3": "8 コイン",
   "mcp.pocket_plunderer_description.1": "%1$s%2$s%3$s\n無料アイテム受け取り所から手に入る。\n店から買える。\n値段: %4$s", // 1: mcp.PocketPlunderer, 2: ": ", 3: mcp.PocketPlundererDescription, 4: mcp.pocket_plunderer_description.1.3
@@ -6856,12 +6860,12 @@
   "mcp.rocket_launch_rules.4": "フィールドは2160ブロックまであります。終了地点で獲得した高さに応じてスコアが加算され、誰が最初に着地したかで同点のプレイヤーの勝敗が決定します。",
   "mcp.rocket_launch_start.1": "飛べ！",
   "mcp.roller.1": " %1$s%2$s%3$s", // 1: entity, 2: entity, 3: entity
-  "mcp.roll_off.1.1": "ROLL OFF",
+  "mcp.roll_off.1.1": "ロールオフ",
   "mcp.roll_off.1": "%1$sの時間だ！", // 1: mcp.roll_off.1.1
   "mcp.roll_off.2": "各プレイヤーはサイコロを振ります。",
   "mcp.roll_off.3": "最も高い出目を出したプレイヤーが、その目に相当するコインを獲得します。",
   "mcp.roll_off.4": "%1$sが最初にサイコロを振り、次にターン順で次のプレイヤーが振ります。", // 1: player
-  "mcp.roll_off_end.2": "%1$sはRoll Offに勝ち、%2$s%3$s手に入れた！", // 1: player, 2: score, 3: mcp._Coins
+  "mcp.roll_off_end.2": "%1$sはロールオフに勝ち、%2$s%3$s手に入れた！", // 1: player, 2: score, 3: mcp._Coins
   "mcp.roll_queue_tip.1.3.hover": "プレイヤーは次にサイコロを振る時にサイコロを2つ使う。どのプレイヤーにも発動できる。",
   "mcp.roll_queue_tip.1": "%1$s あなたは%2$sを発動しました。このアイテムを自分自身に使用した場合、次のターンにそれを振ります。", // 1: mcp.note_, 2: mcp.TwiceDice
   "mcp.roll_queue_tip.2": "%1$s あなたは%2$sを発動しました。このアイテムを自分自身に使用した場合、次のターンにそれを振ります。", // 1: mcp.note_, 2: mcp.WeightedTwiceDice
@@ -7153,32 +7157,32 @@
   "mcp.solidify_fail.5": "ブロックの端を砂利のように固めることはできません",
   "mcp.solidify_fail.6": "地面の上では固体ブロックとしてのみ固めることができます。",
   "mcp.space_description.1.1": "青マス>",
-  "mcp.space_description.1.2": " とてもよくあるマス。",
-  "mcp.space_description.1": "%1$s 止まったプレイヤーに+3コイン。%2$s", // 1: mcp.space_description.1.1, 2: mcp.space_description.1.2
+  "mcp.space_description.1.2": "とてもよくあるマス。",
+  "mcp.space_description.1": "%1$s 止まると+3コイン。%2$s", // 1: mcp.space_description.1.1, 2: mcp.space_description.1.2
   "mcp.space_description.2.1": "赤マス>",
-  "mcp.space_description.2.2": " よくあるマス。",
-  "mcp.space_description.2": "%1$s 止まったプレイヤーに-3コイン。%2$s", // 1: mcp.space_description.2.1, 2: mcp.space_description.2.2
+  "mcp.space_description.2.2": "よくあるマス。",
+  "mcp.space_description.2": "%1$s 止まると-3コイン。%2$s", // 1: mcp.space_description.2.1, 2: mcp.space_description.2.2
   "mcp.space_description.3.1": "黄色マス>",
-  "mcp.space_description.3.2": " 少し珍しいマス。",
-  "mcp.space_description.3": "%1$s 止まったプレイヤーにランダムに幸運な結果をもたらす。以下のイベントが含まれる: 7-10コインを手に入れる, 対戦相手が6コインを失う, ミニオンペットを受け取る, コインスナッチャーを受け取る, 狂った時計(レアアイテム)を受け取る。%2$s", // 1: mcp.space_description.3.1, 2: mcp.space_description.3.2
+  "mcp.space_description.3.2": "少し珍しいマス。",
+  "mcp.space_description.3": "%1$s 止まるとランダムに幸運な結果をもたらす。以下の中から選ばれる: 7-10コインを手に入れる, 対戦相手が6コインを失う, ミニオンペットを受け取る, コインスナッチャーを受け取る, 狂った時計(レアアイテム)を受け取る。%2$s", // 1: mcp.space_description.3.1, 2: mcp.space_description.3.2
   "mcp.space_description.4.1": "黒マス>",
-  "mcp.space_description.4.2": " 珍しいマス。",
-  "mcp.space_description.4": "%1$s 止まったプレイヤーにランダムに不幸な結果をもたらす。以下のイベントが含まれる: 7-10コインを失う, O対戦相手が6コインを手に入れる, すべてのアイテムを失う, 次のターンを飛ばされる。%2$s", // 1: mcp.space_description.4.1, 2: mcp.space_description.4.2
+  "mcp.space_description.4.2": "珍しいマス。",
+  "mcp.space_description.4": "%1$s 止まるとランダムに不幸な結果をもたらす。以下の中から選ばれる: 7-10コインを失う, O対戦相手が6コインを手に入れる, すべてのアイテムを失う, 次のターンを飛ばされる。%2$s", // 1: mcp.space_description.4.1, 2: mcp.space_description.4.2
   "mcp.space_description.5.1": "緑マス>",
-  "mcp.space_description.5.2": " 少し珍しいマス。",
-  "mcp.space_description.5": "%1$s すべてのプレイヤーに対してランダムな中立イベントが起こる。以下のイベントが含まれる: Roll off, コインミニゲーム, 1回きりスター販売人が出現する, コインの山, チャンプチャリティー, Stimulus, ダブルトラブル, 共産主義, コインシャワー。このスペースはイベントスターにカウントされる。%2$s", // 1: mcp.space_description.5.1, 2: mcp.space_description.5.2
+  "mcp.space_description.5.2": "少し珍しいマス。",
+  "mcp.space_description.5": "%1$s 全員に対してランダムな中立イベントが起こる。以下の中から選ばれる: ロールオフ, コインミニゲーム, 1回きりスター販売人が出現する, コインの山, チャンプチャリティー, Stimulus, ダブルトラブル, 共産主義, コインシャワー。このスペースはイベントスターにカウントされる。%2$s", // 1: mcp.space_description.5.1, 2: mcp.space_description.5.2
   "mcp.space_description.6.1": "橙色マス>",
-  "mcp.space_description.6.2": " 少し珍しいマス。",
-  "mcp.space_description.6": "%1$s 止まったプレイヤーは移動アイテムまたはトラップアイテムを受け取る。以下のアイテムが含まれる: ミニサイコロ, 2倍サイコロ, 3倍サイコロ, 炎トラップ, 金床トラップ, 氷トラップ, 電撃トラップ, ハチミツブースト, エンダートラップ(一部のボード)。%2$s", // 1: mcp.space_description.6.1, 2: mcp.space_description.6.2
+  "mcp.space_description.6.2": "少し珍しいマス。",
+  "mcp.space_description.6": "%1$s 止まるとは移動アイテムまたはトラップアイテムを受け取る。以下の中から選ばれる: ミニサイコロ, 2倍サイコロ, 3倍サイコロ, 炎トラップ, 金床トラップ, 氷トラップ, 電撃トラップ, ハチミツブースト, エンダートラップ(一部のボード)。%2$s", // 1: mcp.space_description.6.1, 2: mcp.space_description.6.2
   "mcp.space_description.7.1": "水色マス>",
-  "mcp.space_description.7.2": " 少し珍しいマス。",
-  "mcp.space_description.7": "%1$s 決闘を始める！ そのマスに止まったプレイヤーは、両方のプレイヤーがコインまたはスターを賭ける決闘ミニゲームで対戦する他のプレイヤーを選択する必要がある。賭け金はそこにに止まったプレイヤーによって選択される。%2$s", // 1: mcp.space_description.7.1, 2: mcp.space_description.7.2
+  "mcp.space_description.7.2": "少し珍しいマス。",
+  "mcp.space_description.7": "%1$s 決闘が始まる！ 止まったプレイヤーは対戦相手を選ぶ必要があり、両プレイヤーがコインやスターを賭ける決闘ミニゲームで対戦する。賭け金はそこに止まったプレイヤーが決める。%2$s", // 1: mcp.space_description.7.1, 2: mcp.space_description.7.2
   "mcp.space_description.8.1": "赤紫マス>",
-  "mcp.space_description.8": "%1$sボード固有のイベントが発生します。通常はプレイヤーの位置が移動したり、道が開いたり閉じたりします。このマスはイベントスターにカウントされます。 マスの珍しさはボードごとに異なる。", // 1: mcp.space_description.8.1
-  "mcp.space_description.9.3": " とても珍しいマス。",
-  "mcp.space_description.9": "%1$s%2$s バトルミニゲームを始める！ すべてのプレイヤーは、一定数のコイン(持っている場合)を壺に入れる。1位のプレイヤーは賞金の大部分を手に入れ、2位のプレイヤーは入れた分を取り戻す。メガパーティーモードではコインの分配が調整され、上位半分の参加者がコインを手に入れるようになる。%3$s", // 1: mcp.gray_space, 2: mcp.dialogue_start, 3: mcp.space_description.9.3
-  "mcp.space_description.10.3": " とても珍しいマス。",
-  "mcp.space_description.10": "%1$s%2$s チャンスタイムを始める！ チャンスタイムは、2人のプレイヤー間の取引が行われるイベントです。取引には、コイン、アイテム、スターの贈与または交換が含まれる。このマスはイベントスターにカウントされる。%3$s", // 1: mcp.chance_time_space, 2: mcp.dialogue_start, 3: mcp.space_description.10.3
+  "mcp.space_description.8": "%1$sボード固有のイベントが発生します。通常はプレイヤーの位置が移動したり、道が開いたり閉じたりする。このマスはイベントスターにカウントされる。マスの珍しさはボードごとに異なる。", // 1: mcp.space_description.8.1
+  "mcp.space_description.9.3": "とても珍しいマス。",
+  "mcp.space_description.9": "%1$s%2$s バトルミニゲームが始まる！ 全プレイヤーは一定数のコイン(持っている場合)を壺に入れる。1位はほとんどのコインを手に入れ、2位は入れた分を取り戻す。メガパーティーモードではコインの分配が調整され、上位半分の参加者がコインを手に入れるようになる。%3$s", // 1: mcp.gray_space, 2: mcp.dialogue_start, 3: mcp.space_description.9.3
+  "mcp.space_description.10.3": "とても珍しいマス。",
+  "mcp.space_description.10": "%1$s%2$s チャンスタイムが始まる！ チャンスタイムは、2人のプレイヤー間の取引が行われるイベントです。取引には、コイン、アイテム、スターの贈与または交換が含まれます。このマスはイベントスターにカウントされる。%3$s", // 1: mcp.chance_time_space, 2: mcp.dialogue_start, 3: mcp.space_description.10.3
   "mcp.space_jumpers.1": "各チームにはシューターとジャンパーが1人ずついます。",
   "mcp.space_jumpers.2": "各チームにはシューター2人とジャンパー1人がいます。",
   "mcp.space_jumpers.3": "各チームには、シューター2人、グリーファー1人、ジャンパー1人がいます。",
@@ -7299,9 +7303,9 @@
   "mcp.ssnexttask2.36": "スティーブは%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.36.1
   "mcp.ssnexttask2.37": "スティーブは%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.37.1
   "mcp.ssnexttask2.38": "スティーブは%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.38.1
-  "mcp.ssnexttask2.39": "ドロップ%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.39.1
-  "mcp.ssnexttask2.40": "ドロップ%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.40.1
-  "mcp.ssnexttask2.41": "ドロップ%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.41.1
+  "mcp.ssnexttask2.39": "%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.39.1
+  "mcp.ssnexttask2.40": "%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.40.1
+  "mcp.ssnexttask2.41": "%1$sのコンクリートをドロップしろと言った", // 1: mcp.ssnexttask2.41.1
   "mcp.ssnexttask2.42": "スティーブは%1$sの羊毛をドロップしろと言った", // 1: mcp.ssnexttask2.42.1
   "mcp.ssnexttask2.43": "スティーブは%1$sの羊毛をドロップしろと言った", // 1: mcp.ssnexttask2.43.1
   "mcp.ssnexttask2.44": "スティーブは%1$sの羊毛をドロップしろと言った", // 1: mcp.ssnexttask2.44.1
@@ -8321,7 +8325,7 @@
   "mcp.tedious_tasks.4": "ヒント: このゲームでは、%1$s の音量が聞き取れるレベルになっていることを確認してください。", // 1: soundCategory.record
   "mcp.temple_end.1": "%1$sは寺院ダンジョンチャレンジをクリアし、%2$sを手に入れた", // 1: player, 2: mcp._15_coins
   "mcp.temple_end.2.1": "20コイン",
-  "mcp.temple_end.2": "%1$sは寺院のダンジョンチャレンジをダメージを受けずにクリアし、以下を勝ち取った: %2$s", // 1: player, 2: mcp.temple_end.2.1
+  "mcp.temple_end.2": "%1$sは寺院のダンジョンチャレンジをダメージを受けずにクリアし、%2$sを手に入れた！", // 1: player, 2: mcp.temple_end.2.1
   "mcp.temple_end.3": "%1$sは寺院ダンジョンチャレンジの挑戦中に死亡した。", // 1: player
   "mcp.temple_end.4": "%1$sは寺院ダンジョンチャレンジの挑戦中に時間切れになった。", // 1: player
   "mcp.temple_generate.1.1": "寺院ウォーデン>",
@@ -8346,14 +8350,14 @@
   "mcp.tetris_rules.7": "操作:\nピースを落とす: %1$s\nピースをソフトドロップ: %2$s\nピースを移動: ホイールを動かす\nピースを時計回りに回転: %3$sまたは%4$s\nピースを反時計回りに回転: %5$sまたは%6$s\nピースの入れ替え: %7$s", // 1: keybind, 2: keybind, 3: keybind, 4: keybind, 5: keybind, 6: keybind, 7: keybind
   "mcp.tetris_rules.8": "ヒント：ゲーム開始前にコントロールキーに指を置いて、そのままにしておきましょう。先に相手を倒したプレイヤーの勝ちです！",
   "mcp.tetris_rules.9.1": "ホイールを動かす",
-  "mcp.tetris_rules.9": "ピースを動かす: %1$s", // 1: mcp.tetris_rules.9.1
+  "mcp.tetris_rules.9": "ピースを移動: %1$s", // 1: mcp.tetris_rules.9.1
   "mcp.tetris_rules.10": "ピースを落とす: %1$s", // 1: keybind
   "mcp.tetris_rules.11.1": "または",
-  "mcp.tetris_rules.11": "ピースを回転させる: %1$s%2$s%3$s%4$s%5$s", // 1: "\ue008", 2: ": ", 3: keybind, 4: mcp.tetris_rules.11.1, 5: keybind
+  "mcp.tetris_rules.11": "ピースを回転: %1$s%2$s%3$s%4$s%5$s", // 1: "\ue008", 2: ": ", 3: keybind, 4: mcp.tetris_rules.11.1, 5: keybind
   "mcp.tetris_rules.12.1": "または",
-  "mcp.tetris_rules.12": "ピースを回転させる: %1$s%2$s%3$s%4$s%5$s", // 1: "\ue007", 2: ": ", 3: keybind, 4: mcp.tetris_rules.12.1, 5: keybind
-  "mcp.tetris_rules.13": "ピースをソフトドロップする(長押し): %1$s", // 1: keybind
-  "mcp.tetris_rules.14": "ピースを入れ替える: %1$s", // 1: keybind
+  "mcp.tetris_rules.12": "ピースを回転: %1$s%2$s%3$s%4$s%5$s", // 1: "\ue007", 2: ": ", 3: keybind, 4: mcp.tetris_rules.12.1, 5: keybind
+  "mcp.tetris_rules.13": "ピースをソフトドロップ(長押し): %1$s", // 1: keybind
+  "mcp.tetris_rules.14": "ピースを交換: %1$s", // 1: keybind
   "mcp.tetris_start.1": "置け！",
   "mcp.tetris_tick.1": "今から10秒ごとに永遠に残る列が追加され、プレイエリアが小さくなります。",
   "mcp.thorned_spirit_shield.1.2.hover": "パッシブ能力。発動すると、次にあなたからスターやコインを奪おうとするプレイヤーからあなたを守る。コインを奪おうとしたプレイヤーは、本来奪うはずだったコインを失う。",
@@ -8452,7 +8456,7 @@
   "mcp.tic_tac_toe_task.43": "%1$sは%2$sを達成した", // 1: player, 2: mcp.ttt_task43
   "mcp.tic_tac_toe_task.44.2.hover": "グッディバッグやトレジャーバッグを買わずに、1ターンでアイテムを3つ以上手に入れる",
   "mcp.tic_tac_toe_task.44": "%1$sは%2$sを達成した", // 1: player, 2: mcp.ttt_task44
-  "mcp.tic_tac_toe_task.45.2.hover": "コイン強奪チャレンジで10コイン以上手に入れる",
+  "mcp.tic_tac_toe_task.45.2.hover": "1回のコイン強奪チャレンジで10コイン以上手に入れる",
   "mcp.tic_tac_toe_task.45": "%1$sは%2$sを達成した", // 1: player, 2: mcp.ttt_task45
   "mcp.tic_tac_toe_task.46.2.hover": "1ターンで2周する",
   "mcp.tic_tac_toe_task.46": "%1$sは%2$sを達成した", // 1: player, 2: mcp.ttt_task46
@@ -8530,6 +8534,10 @@
   "mcp.tic_tac_toe_task.82": "%1$sは%2$sを達成した",
   "mcp.tic_tac_toe_task.83.2.hover": "%1$sの通行料を支払う",
   "mcp.tic_tac_toe_task.83": "%1$sは%2$sを達成した",
+  "mcp.tic_tac_toe_task.84.2.hover": "[新しい]レリックを5ターン連続で保持する",
+  "mcp.tic_tac_toe_task.84": "%1$sは%2$sを達成した",
+  "mcp.tic_tac_toe_task.85.2.hover": "同じテレポート地点から2回テレポートする",
+  "mcp.tic_tac_toe_task.85": "%1$sは%2$sを達成した",
   "mcp.tic_tac_toe_complete": "%1$sが三目並べのカードを完成させた。現在のターンが終了した後、プレイヤーはあと%2$sターンでボードを完成させ、報酬を受け取ることができます。", // 1: player, 2: number
   "mcp.tic_tac_toe_complete.2": "%1$sが三目並べカードを完成させた。", // 1: player, 2: number
   "mcp.tic_tac_toe_next_turn.1": "あと%1$sで新しい三目並べカードが投下されます。", // 1: number
@@ -9056,10 +9064,10 @@
   "mcp.updatebonusstarstell_doubles.161": "%1$sはレッドスターを持っています！", // 1: mcp.Nobody
   "mcp.update_spirit_shields.1": "トゲ付き精霊の盾",
   "mcp.update_teams_mode_sign_text.1": "v",
-  "mcp.update_turn_bar.1": "%1$s %2$s/%3$s %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
-  "mcp.update_turn_bar.2": "%1$s %2$s/%3$s %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
-  "mcp.update_turn_bar.3": "%1$s %2$s - %3$s%4$s %5$s %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
-  "mcp.update_turn_bar.4": "%1$s %2$s - %3$s%4$s %5$s %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
+  "mcp.update_turn_bar.1": "%1$s %2$s/%3$s  %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
+  "mcp.update_turn_bar.2": "%1$s %2$s/%3$s  %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
+  "mcp.update_turn_bar.3": "%1$s %2$s - %3$s%4$s %5$s  %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
+  "mcp.update_turn_bar.4": "%1$s %2$s - %3$s%4$s %5$s  %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
   "mcp.use_binary_dice.1": "%1$sは%2$sを%3$sに使った！", // 1: player, 2: mcp.BinaryDice, 3: player
   "mcp.use_binary_dice.2": "%1$sは%2$sを使った！", // 1: player, 2: mcp.BinaryDice
   "mcp.use_coin_snatcher.1": "%1$sは%4$sから%2$s%3$s盗んだ！", // 1: player, 2: score, 3: mcp._Coins, 4: player
@@ -9219,7 +9227,7 @@
   "mcp.zen_garden_pass_spot.3": "%1$s ようこそ、あなたにチャレンジがあります！ あなた勝てばが15%2$sをあげましょう！\n私をクリックするとスタートします。", // 1: mcp.zen_garden_pass_spot.3.1, 2: mcp.Coins
   "mcp.zen_garden_pass_spot.4": "%1$s こんにちは、人間さん。私の小さな住まいへようこそ。何かお探しのアイテムはありますか？", // 1: mcp.merchant_
   "mcp.zen_garden_trident_race_end.1": "%1$sはトライデントレースチャレンジに失敗した。", // 1: player
-  "mcp.zen_garden_trident_race_end.2": "%1$sはトライデントレースチャレンジに勝利し、以下を勝ち取った: %2$s%3$s!", // 1: player, 2: score, 3: mcp._Coins
+  "mcp.zen_garden_trident_race_end.2": "%1$sはトライデントレースチャレンジに勝利し、%2$s%3$sを手に入れた！", // 1: player, 2: score, 3: mcp._Coins
   "mcp.zen_garden_update_star_cost_text.1.1": "5コイン",
   "mcp.zen_garden_update_star_cost_text.1": "1 スター:     %1$s", // 1: mcp.zen_garden_update_star_cost_text.1.1
   "mcp.zen_garden_update_star_cost_text.2.1": "20コイン",
@@ -9281,6 +9289,7 @@
   "mcp.PresentsDelivered":"届けたプレゼント\n\n",
   "mcp.TempleStagesCompleted":"クリアした寺院のステージ\n\n",
   "mcp.QuadrantSwitches":"切り替えた区画\n\n",
+  "mcp.UniqueSpacesVisited":"訪れたユニークマス\n\n",
   "mcp.DuelsInitiated":"始めた決闘\n\n",
   "mcp.DuelsWon":"決闘で勝った回数\n\n",
   "mcp.DuelsLost":"決闘で負けた回数\n\n",
@@ -9383,6 +9392,7 @@
 	"mcp.advancement.nice.title": "ナイス",
   "mcp.advancement.nice.description": "ミニゲームでちょうど69ポイントを獲得する",
 	"mcp.advancement.parkour_menace.title": "パルクールの脅威",
+  "mcp.advancement.secret_map.title": "隠しマップ",
 	"mcp.advancement.parkour_menace.description": "洞窟パルクールでマイケルを倒す",
 	"mcp.advancement.photographic.title": "写真",
 	"mcp.advancement.photographic.description": "間違ったボタンを押さずに思い出のゲームに勝利する",
@@ -9424,6 +9434,7 @@
 	"mcp.advancement.wrong_minigame.description": "本来釣ってはいけないミニゲームで魚を釣る",
 	"mcp.advancement.youre_coming_with_me.title": "君も一緒に行くんだ",
 	"mcp.advancement.youre_coming_with_me.description": "あなたともう一人のプレイヤーをテレポートさせる赤紫色のワープを発動する",
+  "mcp.advancement.secret_map.description": "ハブにある隠しボードをアンロックする",
   "mcp.SkullOfRetribution":"報復の頭蓋骨",
 	"mcp.mpiq_tick.4":"各プレイヤーはそれぞれ独自の答えを持っている",
 	"mcp.MinigamePriority.1.2":"全プレイヤーを",
@@ -9434,6 +9445,7 @@
 	"mcp.MinigamePriority.2.4":"タイプを有効",
 	"mcp.SignShopItems":"ショップアイテム",
 	"mcp.Minigames":"ミニゲーム",
+  "mcp.MinigamesGameStats":"ミニゲーム",
 	"mcp.Customize":"カスタマイズ",
   "mcp.slime_time_rules.7": "%1$sは、制限時間内にすべてのスライムを避ければ勝ちです", // 1: players
 	"mcp.TeleportToHorse":"ウマにテレポート",
@@ -9632,11 +9644,11 @@
   "mcp.HERE": "ここ",
   "mcp.DiscordJoinTextDisplay": "アイコンをクリックして、Discordサーバーに参加しよう！",
   "mcp.DiscordJoinMessage": "Discordサーバーに参加するには%1$sをクリックしてください。", // 1: mcp.HERE
-  "mcp.KoFiTipTextDisplay": "アイコンをクリックして、Ko-Fiでチップをいただくことで、このマップの製作を支援してください！",
+  "mcp.KoFiTipTextDisplay": "アイコンをクリックし、Ko-Fiでチップを送って、このマップの製作を支援してください！",
   "mcp.KoFiTipMessage": "このマップとその貢献者を支援するには%1$sをクリックしてください。",  // 1: mcp.HERE
   "mcp.start_game_sign.10": "%1$s Minecraft Party 2では、ボードゲームを開始するには最低2人のプレイヤーが必要です。", // 1: mcp.start_game_sign.3.1
   "mcp.guide_book.turn_mode.page_1.1": "\n\n\n\nMinecraft Partyガイド\n  -",
-  "mcp.guide_book.turn_mode.page_1.2": " Turns Edition-\n\n(",
+  "mcp.guide_book.turn_mode.page_1.2": "ターンエディション-\n\n(",
   "mcp.guide_book.turn_mode.page_1.3": "赤",
   "mcp.guide_book.turn_mode.page_1.4": "や",
   "mcp.guide_book.turn_mode.page_1.5": "水色",
@@ -9653,16 +9665,16 @@
   "mcp.guide_book.turn_mode.page_2.10": "\n24 装備",
   "mcp.guide_book.turn_mode.page_3.1": "設定",
   "mcp.guide_book.turn_mode.page_3.1.hover.1": "内容",
-  "mcp.guide_book.turn_mode.page_3.2": "\n\n-最低4人のプレイヤーが必要\n-描画距離 = 10\n-明るさ = 明るい\n-RAM/帯域幅が多いほど良い",
+  "mcp.guide_book.turn_mode.page_3.2": "\n\n-最低4人必要\n-描画距離 = 10\n-明るさ = 明るい\n-RAM/帯域幅が多いほど良い",
   "mcp.guide_book.turn_mode.page_4.1": "遊び方",
   "mcp.guide_book.turn_mode.page_4.1.hover.1": "内容",
-  "mcp.guide_book.turn_mode.page_4.2": "\n\n-自分のターンになったら、ホットバーからサイコロブロックを落として振り、出た目の数だけボード上のマスを進みます。\n\n-ホットバーの上に、残りのマスの数が表示されます。",
-  "mcp.guide_book.turn_mode.page_5.1": "-各ターンの開始時に、アイテムを使うことができます。\n\n-アイテムはサイコロを振る前に使わなければなりません\n(ホットバーからアイテムをドロップで使用します)\n\n-ホットバーからランタンをドロップすることで、ボード表示モードを切り替えることができます。",
+  "mcp.guide_book.turn_mode.page_4.2": "\n\n-自分のターンになったら、ホットバーからサイコロブロックをドロップして振り、出た目の数だけボード上のマスを進みます。\n\n-ホットバーの上に、残りのマス数が表示されます。",
+  "mcp.guide_book.turn_mode.page_5.1": "-各ターンの開始時に、アイテムを使うことができます。\n\n-アイテムはサイコロを振る前に使う必要があります\n(ホットバーからアイテムをドロップで使用)\n\n-ホットバーからランタンをドロップすると、ボード表示モードを切り替えます。",
   "mcp.guide_book.turn_mode.page_6.1": "勝ち方",
   "mcp.guide_book.turn_mode.page_6.1.hover.1": "内容",
   "mcp.guide_book.turn_mode.page_6.2": "\n\n-",
-  "mcp.guide_book.turn_mode.page_6.3": "ターン後、最も多くスターを獲得したプレイヤーがゲームに勝利します。\n-複数のプレイヤーが同じ数のスターを所持している場合、順位はコインで決まります。\n-ボード上の光る村人からスターを買うことができます。",
-  "mcp.guide_book.turn_mode.page_7.1": "-スターが買われると村人はランダムに選ばれた新しい場所に移動します。\n\n-スターは1つ20コインで購入でき、コインは特定のマスから手に入れるか、ミニゲームに勝利することで獲得できます。",
+  "mcp.guide_book.turn_mode.page_6.3": "ターン後、最も多くスターを獲得した人の勝ちです。\n-複数のプレイヤーが同じ数のスターを所持している場合、順位はコインで決まります。\n-ボード上の光る村人からスターを買うことができます。",
+  "mcp.guide_book.turn_mode.page_7.1": "-スターが買われると村人はランダムな新しい場所に移動します。\n\n-スターは1つ20コインで購入でき、コインは特定のマスから手に入れるか、ミニゲームに勝利することで獲得できます。",
   "mcp.guide_book.turn_mode.page_8.1": "ボーナススター",
   "mcp.guide_book.turn_mode.page_8.1.hover.1": "内容",
   "mcp.guide_book.turn_mode.page_8.2": "\n\n",
@@ -9712,11 +9724,11 @@
   "mcp.guide_book.turn_mode.page_15.3": "決闘マス",
   "mcp.guide_book.turn_mode.page_15.4": "に止まった時、または",
   "mcp.guide_book.turn_mode.page_15.5": "過去5ターン",
-  "mcp.guide_book.turn_mode.page_15.6": "の間に2人のプレイヤーが同じマスに止まった時に開始されます。プレイヤーはそれぞれコインかスターを賭けなければなりません。\n",
+  "mcp.guide_book.turn_mode.page_15.6": "の間に2人のプレイヤーが同じマスに止まると始まります。プレイヤーはそれぞれコインかスターを賭ける必要があります。\n",
   "mcp.guide_book.turn_mode.page_16.1": "ショップとアイテム\n\n",
   "mcp.guide_book.turn_mode.page_16.1.hover.1": "内容",
   "mcp.guide_book.turn_mode.page_16.2": "プレイヤーは店でアイテムを買うことができます。店はボード上のバナーで示されています。\n\n",
-  "mcp.guide_book.turn_mode.page_16.3": "すべてのアイテムはサイコロを振る前に使わなければなりません。",
+  "mcp.guide_book.turn_mode.page_16.3": "全アイテムはサイコロを振る前に使う必要があります。",
   "mcp.guide_book.turn_mode.page_17.1": "使えるアイテム:\n(アイテムにカーソルを合わせると説明が表示されます)\n",
   "mcp.guide_book.turn_mode.page_19.7": "\n\n内容に戻る",
   "mcp.guide_book.turn_mode.page_20.1": "\n\n通常アイテム\n\n \n        <---\n\n\nエンチャントアイテム\n\n  \n        --->",
@@ -9741,25 +9753,25 @@
   "mcp.guide_book.star_race_mode.page_2.10": "\n24 装備",
   "mcp.guide_book.star_race_mode.page_3.1": "設定",
   "mcp.guide_book.star_race_mode.page_3.1.hover.1": "内容",
-  "mcp.guide_book.star_race_mode.page_3.2": "\n\n-最低4人のプレイヤーが必要\n-描画距離 = 10\n-明るさ = 明るい\n-RAM/帯域幅が多いほど良い",
+  "mcp.guide_book.star_race_mode.page_3.2": "\n\n-最低4人必要\n-描画距離 = 10\n-明るさ = 明るい\n-RAM/帯域幅が多いほど良い",
   "mcp.guide_book.star_race_mode.page_4.1": "遊び方",
   "mcp.guide_book.star_race_mode.page_4.1.hover.1": "内容",
-  "mcp.guide_book.star_race_mode.page_4.2": "\n\n-自分のターンになったら、ホットバーからサイコロブロックを落として振り、出た目の数だけボード上のマスを進みます。\n\n-ホットバーの上に、残りのマスの数が表示されます。",
-  "mcp.guide_book.star_race_mode.page_5.1": "-各ターンの開始時に、アイテムを使うことができます。\n\n-アイテムはサイコロを振る前に使わなければなりません\n(ホットバーからアイテムをドロップで使用します)\n\n-ホットバーからランタンをドロップすることで、ボード表示モードを切り替えることができます。",
+  "mcp.guide_book.star_race_mode.page_4.2": "\n\n-自分のターンになったら、ホットバーからサイコロブロックをドロップして振り、出た目の数だけボード上のマスを進みます。\n\n-ホットバーの上に、残りのマスの数が表示されます。",
+  "mcp.guide_book.star_race_mode.page_5.1": "-各ターンの開始時に、アイテムを使うことができます。\n\n-アイテムはサイコロを振る前に使う必要があります\n(ホットバーからアイテムをドロップで使用します)\n\n-ホットバーからランタンをドロップすることで、ボード表示モードを切り替えることができます。",
   "mcp.guide_book.star_race_mode.page_6.1": "勝ち方",
   "mcp.guide_book.star_race_mode.page_6.1.hover.1": "内容",
-  "mcp.guide_book.star_race_mode.page_6.2": "\n\n-ターン終了時に、最低1人のプレイヤーがスターを",
-  "mcp.guide_book.star_race_mode.page_6.3": "個手に入れるとゲームが終了します。最も多くスターを獲得したプレイヤーがゲームに勝利します。\n-複数のプレイヤーが同じ数のスターを獲得した場合、順位はコインに基づいて決定されます。\n-ボード上の光る村人からスターを買うことができます。",
-  "mcp.guide_book.star_race_mode.page_7.1": "\n\n-スターが買われると村人はランダムに選ばれた新しい場所に移動します。\n\n-スターは1つ20コインで購入でき、コインは特定のマスから手に入れるか、ミニゲームに勝利することで獲得できます。",
+  "mcp.guide_book.star_race_mode.page_6.2": "\n\n-ターン終了時に、最低1人がスターを",
+  "mcp.guide_book.star_race_mode.page_6.3": "個手に入れるとゲームが終了します。最も多くスターを獲得した人の勝ちです。\n-複数人が同じ数のスターを獲得した場合、順位はコインで決まります。\n-ボード上の光る村人からスターを買うことができます。",
+  "mcp.guide_book.star_race_mode.page_7.1": "\n\n-スターが買われると村人はランダムな新しい場所に移動します。\n\n-スターは1つ20コインで購入でき、コインは特定のマスから手に入れるか、ミニゲームに勝利することで獲得できます。",
   "mcp.guide_book.star_race_mode.page_8.1": "ボーナススター",
   "mcp.guide_book.star_race_mode.page_8.1.hover.1": "内容",
-  "mcp.guide_book.star_race_mode.page_8.2": "\n\nターン終了時、順位が決定する前にボーナススターが",
+  "mcp.guide_book.star_race_mode.page_8.2": "\n\n全てのターン終了時、順位が決まる前にボーナススターが",
   "mcp.guide_book.star_race_mode.page_8.3": "個配られます。\n\nボーナススターの説明は以下のとおりです:",
   "mcp.guide_book.star_race_mode.page_8.4": "\n",
   "mcp.guide_book.star_race_mode.page_9.1": "イベントスター\n",
-  "mcp.guide_book.star_race_mode.page_9.2": "緑、赤紫、バトルミニゲーム、決闘、チャンスタイムのマスに最も多く止まる。\n\n",
+  "mcp.guide_book.star_race_mode.page_9.2": "緑、赤紫、バトルミニゲーム、決闘、チャンスタイムマスに最も多く止まる。\n\n",
   "mcp.guide_book.star_race_mode.page_9.3": "ランナースター",
-  "mcp.guide_book.star_race_mode.page_9.4": "\n最も多くのマスを移動する。",
+  "mcp.guide_book.star_race_mode.page_9.4": "\n最も多くマスを移動する。",
   "mcp.guide_book.star_race_mode.page_10.1": "ゴールドスター",
   "mcp.guide_book.star_race_mode.page_10.2": "\n最高コイン数に到達する。\n\n",
   "mcp.guide_book.star_race_mode.page_10.3": "オールスター\n",
@@ -9788,7 +9800,7 @@
   "mcp.guide_book.star_race_mode.page_12.9": "§8灰§7色§8§7§8マ§7ス§8§7§8\n",
   "mcp.guide_book.star_race_mode.page_12.10": "バトルミニゲーム",
   "mcp.guide_book.star_race_mode.page_13.1": "§cチ§9ャ§aン§eス§c§9§タ§eイ§cム§9",
-  "mcp.guide_book.star_race_mode.page_13.2": "\n何が起こるかわからない！ ランダムに選ばれた2人のプレイヤーがコイン、スター、またはアイテムをランダムに交換(譲渡/入れ替え)します！",
+  "mcp.guide_book.star_race_mode.page_13.2": "\n何が起こるかわからない！ ランダムに選ばれた2人がコイン、スター、またはアイテムをランダムに交換(譲渡/入れ替え)します！",
   "mcp.guide_book.star_race_mode.page_14.1": "ミニゲーム",
   "mcp.guide_book.star_race_mode.page_14.1.hover.1": "内容",
   "mcp.guide_book.star_race_mode.page_14.2": "\n\n各「ターン」の終わりにミニゲームがプレイされます。ゲーム開始前にチャットで指示を確認してください！\nコインの分配は順位に基づいて行われます。",
@@ -9797,32 +9809,32 @@
   "mcp.guide_book.star_race_mode.page_15.1.hover.1": "内容",
   "mcp.guide_book.star_race_mode.page_15.2": "決闘は1対1のミニゲームです。決闘はプレイヤーが",
   "mcp.guide_book.star_race_mode.page_15.3": "決闘マス",
-  "mcp.guide_book.star_race_mode.page_15.4": "に止まった時、またはどちらかのプレイヤーがスターを",
-  "mcp.guide_book.star_race_mode.page_15.5": "個獲得した後に2人のプレイヤーが同じマスに並んだ時に開始されます。プレイヤーはそれぞれコインかスターを賭けなければなりません。\n",
+  "mcp.guide_book.star_race_mode.page_15.4": "に止まった時、または片方のプレイヤーがスターを",
+  "mcp.guide_book.star_race_mode.page_15.5": "個獲得した後に2人のプレイヤーが同じマスに止まると始まります。プレイヤーはそれぞれコインかスターを賭ける必要があります。\n",
   "mcp.guide_book.star_race_mode.page_16.1": "ショップとアイテム\n\n",
   "mcp.guide_book.star_race_mode.page_16.1.hover.1": "内容",
   "mcp.guide_book.star_race_mode.page_16.2": "プレイヤーは店でアイテムを買うことができます。店はボード上のバナーで示されています。\n\n",
-  "mcp.guide_book.star_race_mode.page_16.3": "すべてのアイテムはサイコロを振る前に使わなければなりません。",
+  "mcp.guide_book.star_race_mode.page_16.3": "全アイテムはサイコロを振る前に使う必要があります。",
   "mcp.guide_book.star_race_mode.page_17.1": "使えるアイテム:\n(アイテムにカーソルを合わせると説明が表示されます)\n",
   "mcp.welcome_rules_book.book_title": "Minecraft Party 2",
   "mcp.welcome_rules_book.page_1.1": "Minecraft Party 2へようこそ！このマップは、マリオパーティを元にした2-10人用のゲームです。ボードゲームのような仕様になっており、現在16種類のボード、101種類のミニゲーム、32種類のアイテムなどが用意されています！ ぜひ楽しんでください。",
   "mcp.welcome_rules_book.page_2.1": "遊び方\n",
-  "mcp.welcome_rules_book.page_2.2": "\n最大10人までプレイできますが、偶数人のプレイが推奨されます。各プレイヤーは自分の番になるとサイコロを振り、出た目の数だけコマを進めます。全員が順番を終えるとミニゲームが始まり、勝者はコインを獲得します。",
-  "mcp.welcome_rules_book.page_3.1": "主な目標はできるだけ多くのスターを集めることです。同点の場合は現在のコインの数で勝者が決まります。最も多くスターを集めたプレイヤーの勝ちです。スターは、ボード上のランダムな場所に配置されるスター販売人から購入することで獲得できます。",
-  "mcp.welcome_rules_book.page_4.1": "スターが売れるたびに、スター販売人は移動します。コインを使ってショップでアイテムを購入し、勝利に役立てることもできます。各ボードはそれぞれ異なり、独自のチャレンジと戦略が求められます。\n",
+  "mcp.welcome_rules_book.page_2.2": "\n最大10人までプレイできますが、偶数人でのプレイが推奨です。各プレイヤーは自分の番でサイコロを振り、出た目の数だけコマを進めます。全員の順番が終わるとミニゲームが始まり、勝者はコインを獲得します。",
+  "mcp.welcome_rules_book.page_3.1": "主な目標はできるだけ多くスターを集めることです。同点の場合は現在のコインの数で勝者が決まります。最も多くスターを集めた人の勝ちです。スターは、ボード上のランダムな場所に出現するスター販売人から買うことで獲得できます。",
+  "mcp.welcome_rules_book.page_4.1": "スターが売れるたびに、スター販売人は移動します。コインを使ってショップでアイテムを買い、勝利に役立てることもできます。各ボードはそれぞれ異なり、独自のチャレンジと戦略が求められます。\n",
   "mcp.welcome_rules_book.page_4.2": "\n ",
   "mcp.welcome_rules_book.page_5.1": "ゲームモード\n",
   "mcp.welcome_rules_book.page_5.2": "\nスターレースモード",
-  "mcp.welcome_rules_book.page_5.3": "\nゲームは、最初のプレイヤーが指定された数のスターを獲得した時点で終了します(スターの数は設定で指定できます)。\n",
+  "mcp.welcome_rules_book.page_5.3": "\n誰かが決まった数のスターを獲得すると、ゲームが終了します(スターの数は設定可能)。\n",
   "mcp.welcome_rules_book.page_5.4": "ターンモード",
-  "mcp.welcome_rules_book.page_5.5": "\nすべてのプレイヤーが指定された回数のターンを終えると、ゲームは終了します(設定で指定)。",
+  "mcp.welcome_rules_book.page_5.5": "\n全員が決まった回数のターンを終えると、ゲームが終了します(設定で指定)。",
   "mcp.welcome_rules_book.page_6.1": "クイックプレイモード\n",
   "mcp.welcome_rules_book.page_6.2": "プレイヤーはマップ上のどのミニゲームも自由にプレイできます。このゲームモードではスコアは記録されず、ミニゲームのローテーションにも影響はありません。",
   "mcp.welcome_rules_book.page_6.3": "\nグランプリモード\n",
-  "mcp.welcome_rules_book.page_6.4": "ボードゲームとしての要素はなく、さまざまな種類のミニゲームが次々と連続して行われます。",
+  "mcp.welcome_rules_book.page_6.4": "ボードを使わず、色んな種類のミニゲームを連続でプレイします。",
   "mcp.welcome_rules_book.page_7.1": "さまざまなカテゴリーのミニゲームが5つずつセットになって繰り返されます。\n",
   "mcp.welcome_rules_book.page_7.2": "ダブルスモード\n",
-  "mcp.welcome_rules_book.page_7.3": "「ターン」モードまたは「スターレース」モードで、2人1組のチームを組んでプレイします。コイン、スター、アイテムはチームメイト間で共有されます。2対2のミニゲームでは常に同じペアでプレイし、1対3のミニゲームはプレイできません。",
+  "mcp.welcome_rules_book.page_7.3": "「ターン」モードまたは「スターレース」モードで、2人1組のチームを組んでプレイします。コイン、スター、アイテムはチーム内で共有されます。2対2のミニゲームでは常に同じペアでプレイし、1対3のミニゲームはプレイできません。",
   "mcp.welcome_rules_book.page_8.1": "メガパーティーモード",
   "mcp.welcome_rules_book.page_8.2": "\nこのモードを選択すると、最大10人でプレイできます。ソロモード、2つの大人数チームによる対戦、またはペアモード(プレイヤーは丁度8人必要です)から選択してください。ミニゲームはプレイヤー人数に合わせて調整されますが、一部のミニゲームはプレイできない場合があります。",
   "mcp.welcome_rules_book.page_15.2": "\n4x4のグリッド内のタスクの行をクリアします。 4つのタスクの各行、列、または対角のタスクをクリアすると、1行クリアしたとしてカウントされます。三目並べカードを完成させるために必要な行数を選択してください。",
@@ -9939,17 +9951,17 @@
   "mcp.CoinsGambled":"賭けに使われたコイン",
   "mcp.TicTacToeMode":"三目並べモード",
   "mcp.TicTacToeMode2":"",
-  "mcp.SignTTTLineReq1":"Lines Required to",
-  "mcp.SignTTTLineReq2":"Complete Card:",
+  "mcp.SignTTTLineReq1":"カードの完成に",
+  "mcp.SignTTTLineReq2":"必要な行数:",
   "mcp.SignTTTLineReq3":"",
   "mcp.Blackout":"Blackout",
-  "mcp.SignTTTCompletion1":"Card Completion:",
+  "mcp.SignTTTCompletion1":"カードの完了:",
   "mcp.SignTTTCompletion2":"(推奨: %1$s)",
-  "mcp.SignTTTCompletion3.1":"Game ends after",
-  "mcp.SignTTTCompletion4.1":"turn is over",
-  "mcp.SignTTTCompletion3.2":"New Tic-Tac-Toe card",
-  "mcp.SignTTTCompletion4.2":"after %1$s turns", // 1: number
-  "mcp.SignTTTCompletion4.3":"after %1$s turn",
+  "mcp.SignTTTCompletion3.1":"ゲーム終了条件",
+  "mcp.SignTTTCompletion4.1":"ターン終了後",
+  "mcp.SignTTTCompletion3.2":"新しい三目並べカード",
+  "mcp.SignTTTCompletion4.2":"%1$sターン終了後", // 1: number
+  "mcp.SignTTTCompletion4.3":"%1$sターン終了後",
   "mcp.SignTicTacToe":"三目並べ",
   "mcp.SignMode":"モード",
   "mcp.tic_tac_toe_award_stars":"%1$sは、三目並べカードを完成させ、「保護されたスター」を%2$s個手に入れた！",
@@ -9958,7 +9970,7 @@
   "mcp.3rd_completion":"3rd Completion",
   "mcp.4th_completion":"4th Completion",
   "mcp.ttt_task17.progress":"(足: %1$s/1) (脚: %2$s/1) (胸: %3$s/1)",
-  "mcp.SignFIRSTAID": "FIRST AID",
+  "mcp.SignFIRSTAID": "応急処置",
   "mcp.SignToTheEngine":"エンジン",
   "mcp.SignRoom_":"ルームへ！",
   "mcp.Sign2ndOfficer":"二等航海士",
@@ -9984,12 +9996,12 @@
   "mcp.SignUsedItems":"使ったアイテム",
   "mcp.SignUsedTools1":"使った道具",
   "mcp.SignUsedTools2":"",
-  "mcp.SignTheMiningCorner":"The Mining Corner",
-  "mcp.SignStore1":"Store",
+  "mcp.SignTheMiningCorner":"採掘コーナー",
+  "mcp.SignStore1":"店",
   "mcp.SignStore2":"",
-  "mcp.SignLumberSection1":"Lumber Section",
+  "mcp.SignLumberSection1":"伐採区画",
   "mcp.SignLumberSection2":"",
-  "mcp.SignFarmingSection1":"Farming Section",
+  "mcp.SignFarmingSection1":"農業区画",
   "mcp.SignFarmingSection2":"",
   "mcp.SignReturns":"戻る",
   "mcp.SignW":"W",
@@ -9997,48 +10009,48 @@
   "mcp.SignOpenAllDoors1":"すべてのドアを",
   "mcp.SignOpenAllDoors2":"開ける",
   "mcp.SignDesignBy":"Design By:",
-  "mcp.SignBuildersWall1":"Every build not",
-  "mcp.SignBuildersWall2":"listed on this wall",
-  "mcp.SignBuildersWall3":"was built by",
-  "mcp.SignBuildersWall4":"either",
-  "mcp.SignBuildersWall5":"ClashAssassin or",
-  "mcp.SignBuildersWall6":"Loominardy",
-  "mcp.SignBuildersWall7":"Click sign to view",
-  "mcp.SignBuildersWall8":"each assistant",
-  "mcp.SignBuildersWall9":"builder's",
-  "mcp.SignBuildersWall10":"contribution",
-  "mcp.SignMediaWall1":"To get on the",
-  "mcp.SignMediaWall2":"wall record and",
-  "mcp.SignMediaWall3":"play a game of",
-  "mcp.SignMediaWall4":"Minecraft Party 2",
-  "mcp.SignMediaWall5":"and send the",
-  "mcp.SignMediaWall6":"video link to",
-  "mcp.SignMediaWall7":"TeamMCP or",
+  "mcp.SignBuildersWall1":"この壁に記載されて",
+  "mcp.SignBuildersWall2":"いない建築物はすべて",
+  "mcp.SignBuildersWall3":"ClashAssassin",
+  "mcp.SignBuildersWall4":"またはLoominardy",
+  "mcp.SignBuildersWall5":"によって制作",
+  "mcp.SignBuildersWall6":"制作されたものです",
+  "mcp.SignBuildersWall7":"各補助ビルダーの",
+  "mcp.SignBuildersWall8":"貢献内容を確認",
+  "mcp.SignBuildersWall9":"するには看板を",
+  "mcp.SignBuildersWall10":"クリックしてください",
+  "mcp.SignMediaWall1":"壁のレコードに",
+  "mcp.SignMediaWall2":"載るには",
+  "mcp.SignMediaWall3":"Minecraft Party 2",
+  "mcp.SignMediaWall4":"のプレイ動画を録画し",
+  "mcp.SignMediaWall5":"そのリンクを",
+  "mcp.SignMediaWall6":"Planet Minecraft",
+  "mcp.SignMediaWall7":"のTeamMCPまたは",
   "mcp.SignMediaWall8":"ClashAssassin",
-  "mcp.SignMediaWall9":"on Planet",
-  "mcp.SignMediaWall10":"Minecraft. Or",
-  "mcp.SignMediaWall11":"just hope we",
-  "mcp.SignMediaWall12":"notice you.",
-  "mcp.SignMediaWall13":"Additional",
-  "mcp.SignMediaWall14":"Streamers",
+  "mcp.SignMediaWall9":"に送信してください。",
+  "mcp.SignMediaWall10":"あるいは私たちが",
+  "mcp.SignMediaWall11":"あなたに気づくのを",
+  "mcp.SignMediaWall12":"待つのもいいでしょう。",
+  "mcp.SignMediaWall13":"その他の",
+  "mcp.SignMediaWall14":"ストリーマー",
   "mcp.SignMediaWall15":"",
   "mcp.SignMediaWall16":"(ここをクリック)",
   "mcp.SignMediaWall17":"",
-  "mcp.SignMediaWall18":"Click sign to be",
-  "mcp.SignMediaWall19":"directed to video",
+  "mcp.SignMediaWall18":"看板をクリックすると",
+  "mcp.SignMediaWall19":"動画へ移動します",
   "mcp.SignMediaWall20":"",
   "mcp.FullCredits2":"(ここをクリック)",
   "mcp.FullCredits3":"",
-  "mcp.SignPlaytestersWall1":"Additional",
-  "mcp.SignPlaytestersWall2":"Playtesters",
+  "mcp.SignPlaytestersWall1":"追加の",
+  "mcp.SignPlaytestersWall2":"プレイテスター",
   "mcp.SignPlaytestersWall3":"(ここをクリック)",
   "mcp.SignBuildByRR1":"Built by",
   "mcp.SignBuildByRR2":"DayBrake76",
   "mcp.SignBuildByRR3":"& friends",
   "mcp.SignBuildByRR4":"",
   "mcp.SignLauncherRR":"Launcher",
-  "mcp.SignUranium1":"Uranium",
-  "mcp.SignUranium2":"DO NOT BLOW UP",
+  "mcp.SignUranium1":"ウラン",
+  "mcp.SignUranium2":"爆発させないで",
   "mcp.SignPresentChute1":"            Present",
   "mcp.SignPresentChute2":"Chute               ",
   "mcp.SignOrnament":"ornament",
@@ -10063,10 +10075,10 @@
   "mcp.Sign1stTurn":"1ターン目",
   "mcp.Sign2ndTurn":"2ターン目",
   "mcp.Sign3rdTurn":"3ターン目",
-  "mcp.SignMoveUp1Level1":"Move up 1 Level",
+  "mcp.SignMoveUp1Level1":"1階上がる",
   "mcp.SignMoveUp1Level2":"",
-  "mcp.SignMoveDown1Level1":"Move down 1",
-  "mcp.SignMoveDown1Level2":"level",
+  "mcp.SignMoveDown1Level1":"1階下がる",
+  "mcp.SignMoveDown1Level2":"",
   "mcp.SignHumbleAbode1":"Come    ",
   "mcp.SignHumbleAbode2":"       in",
   "mcp.SignHumbleAbode3":"Pablo the",
@@ -10078,19 +10090,19 @@
   "mcp.SignTainojiStage4":"翻訳者",
   "mcp.SignDisapphireStage2":"ロシア語",
   "mcp.SignDisapphireStage3":"翻訳者",
-  "mcp.SignDisapphireStage4":"(frequent tester)",
+  "mcp.SignDisapphireStage4":"(積極的なテスター)",
   "mcp.SignInkarroStage2":"",
   "mcp.SignInkarroStage3":"中国語",
   "mcp.SignInkarroStage4":"翻訳者",
   "mcp.SignAustinStage2":"",
-  "mcp.SignAustinStage3":"Assistant Builder",
-  "mcp.SignAustinStage4":"(frequent tester)",
+  "mcp.SignAustinStage3":"建築補佐",
+  "mcp.SignAustinStage4":"(積極的なテスター)",
   "mcp.SignKirbStage2":"音楽制作者",
-  "mcp.SignKirbStage3":"Assistant Builder",
-  "mcp.SignKirbStage4":"(frequent tester)",
+  "mcp.SignKirbStage3":"建築補佐",
+  "mcp.SignKirbStage4":"(積極的なテスター)",
   "mcp.SignJohnStage2":"",
-  "mcp.SignJohnStage3":"Assistant Builder",
-  "mcp.SignJohnStage4":"(frequent tester)",
+  "mcp.SignJohnStage3":"建築補佐",
+  "mcp.SignJohnStage4":"(積極的なテスター)",
   "mcp.SignLoominardy2":"",
   "mcp.SignLoominardy3":"(Developer of the",
   "mcp.SignLoominardy4":"people)",
@@ -10098,98 +10110,98 @@
   "mcp.SignClash3":"(Developer of the",
   "mcp.SignClash4":"people's clone)",
   "mcp.SignDewStage2":"",
-  "mcp.SignDewStage3":"Assistant Builder",
-  "mcp.SignDewStage4":"(frequent tester)",
+  "mcp.SignDewStage3":"建築補佐",
+  "mcp.SignDewStage4":"(積極的なテスター)",
   "mcp.SignDevinStage2":"",
-  "mcp.SignDevinStage3":"Texture Savant",
-  "mcp.SignDevinStage4":"Map Tester",
+  "mcp.SignDevinStage3":"テクスチャの達人",
+  "mcp.SignDevinStage4":"マップテスター",
   "mcp.SignDoubleHStage2":"",
-  "mcp.SignDoubleHStage3":"Assistant Builder",
+  "mcp.SignDoubleHStage3":"建築補佐",
   "mcp.SignDoubleHStage4":"(repeat tester)",
   "mcp.SignTru1hStage2":"",
-  "mcp.SignTru1hStage3":"Assistant Builder",
+  "mcp.SignTru1hStage3":"建築補佐",
   "mcp.SignTru1hStage4":"(repeat tester)",
   "mcp.SignCocoaStage2":"",
-  "mcp.SignCocoaStage3":"Assistant Builder",
-  "mcp.SignCocoaStage4":"(frequent tester)",
+  "mcp.SignCocoaStage3":"建築補佐",
+  "mcp.SignCocoaStage4":"(積極的なテスター)",
   "mcp.SignCrashStage2":"",
-  "mcp.SignCrashStage3":"Assistant Builder",
-  "mcp.SignCrashStage4":"(frequent tester)",
+  "mcp.SignCrashStage3":"建築補佐",
+  "mcp.SignCrashStage4":"(積極的なテスター)",
   "mcp.SignLeadDeveloper2":"",
   "mcp.SignRules1":"ようこそ/ルール",
   "mcp.SignRules2":"ブックへ",
   "mcp.SignRules3":"",
   "mcp.SignRules4":"",
-  "mcp.SignStats1":"Game Stats Books",
+  "mcp.SignStats1":"ゲーム統計本",
   "mcp.SignStats2":"",
   "mcp.SignStats3":"",
   "mcp.SignStats4":"",
-  "mcp.SignSelectedBoard1":"       Selected",
-  "mcp.SignSelectedBoard2":"Board               ",
-  "mcp.SignMapBuildersLL2":"Map Builders",
+  "mcp.SignSelectedBoard1":"       選択中の",
+  "mcp.SignSelectedBoard2":"ボード               ",
+  "mcp.SignMapBuildersLL2":"マップ建築者",
   "mcp.SignMapBuildersLL3":"",
-  "mcp.SignChipsFS1":"Hey there, if",
-  "mcp.SignChipsFS2":"you are reading",
-  "mcp.SignChipsFS3":"this then listen",
-  "mcp.SignChipsFS4":"to me...",
-  "mcp.SignChipsFS5":"The king has",
-  "mcp.SignChipsFS6":"locked my son in",
-  "mcp.SignChipsFS7":"his dungeon...",
-  "mcp.SignChipsFS8":"please save him!",
-  "mcp.SignChipsFS9":"He's a small lad,",
-  "mcp.SignChipsFS10":"he likes MCP2",
-  "mcp.SignChipsFS11":"and his name...",
-  "mcp.SignChipsFS12":"is Chips",
-  "mcp.SignTrophyFS1":"WORLDS",
-  "mcp.SignTrophyFS2":"UNLUCKIEST",
-  "mcp.SignTrophyFS3":"PLAYER",
+  "mcp.SignChipsFS1":"やあ、これを",
+  "mcp.SignChipsFS2":"読んでいるなら",
+  "mcp.SignChipsFS3":"少し聞いてくれ",
+  "mcp.SignChipsFS4":"...",
+  "mcp.SignChipsFS5":"王は私の息子を",
+  "mcp.SignChipsFS6":"地下牢に閉じ込めた",
+  "mcp.SignChipsFS7":"...",
+  "mcp.SignChipsFS8":"息子を助けてください！",
+  "mcp.SignChipsFS9":"彼は小柄な少年で、",
+  "mcp.SignChipsFS10":"MCP2が好きで、",
+  "mcp.SignChipsFS11":"名前は...",
+  "mcp.SignChipsFS12":"チップスです",
+  "mcp.SignTrophyFS1":"世界で一番",
+  "mcp.SignTrophyFS2":"運が悪い",
+  "mcp.SignTrophyFS3":"プレイヤー",
   "mcp.SignTrophyFS4":"",
-  "mcp.SignTrophyFS5":"THIS TROPHY",
-  "mcp.SignTrophyFS6":"ACKNOWLEDGES",
-  "mcp.SignTrophyFS7":"YOUR ABSOLUTELY",
-  "mcp.SignTrophyFS8":"HORRIBLE RNG! :)",
-  "mcp.SignTrophyFS9":"WORLD'S",
-  "mcp.SignTrophyFS10":"LUCKIEST",
-  "mcp.SignTrophyFS11":"PLAYER",
+  "mcp.SignTrophyFS5":"このトロフィーは",
+  "mcp.SignTrophyFS6":"あなたのとてつもなく",
+  "mcp.SignTrophyFS7":"酷い運をたたえる",
+  "mcp.SignTrophyFS8":"ものです！ :)",
+  "mcp.SignTrophyFS9":"世界で一番",
+  "mcp.SignTrophyFS10":"運が良い",
+  "mcp.SignTrophyFS11":"プレイヤー",
   "mcp.SignTrophyFS12":"",
-  "mcp.SignTrophyFS13":"MAY YOU",
-  "mcp.SignTrophyFS14":"CONTINUE TO",
-  "mcp.SignTrophyFS15":"WIN EVERY",
-  "mcp.SignTrophyFS16":"MINECRAFT PARTY!",
+  "mcp.SignTrophyFS13":"これからも",
+  "mcp.SignTrophyFS14":"Minecraftパーティ",
+  "mcp.SignTrophyFS15":"で勝ち続けられます",
+  "mcp.SignTrophyFS16":"ように！",
   "mcp.SignBonusFS2":"MEGA",
   "mcp.SignBonusFS3":"BONUS",
   "mcp.SignBalloons":"Balloons!",
-  "mcp.SignTapCreepers1":"Insert Coin &",
+  "mcp.SignTapCreepers1":"コインを入れて、",
   "mcp.SignTapCreepers2":"",
   "mcp.SignTapCreepers3":"",
   "mcp.SignTapCreepers4":"",
-  "mcp.SignTapCreepers5":"quickly tap the",
+  "mcp.SignTapCreepers5":"クリーパーの頭を",
   "mcp.SignTapCreepers6":"",
   "mcp.SignTapCreepers7":"",
   "mcp.SignTapCreepers8":"",
-  "mcp.SignTapCreepers9":"Creeper heads!",
+  "mcp.SignTapCreepers9":"素早くタップしよう！",
   "mcp.SignTapCreepers10":"",
   "mcp.SignTapCreepers11":"",
   "mcp.SignTapCreepers12":"",
   "mcp.SignShootTargets1":"",
-  "mcp.SignShootTargets2":"Shoot the targets",
+  "mcp.SignShootTargets2":"的を撃って",
   "mcp.SignShootTargets3":"",
   "mcp.SignShootTargets4":"",
   "mcp.SignShootTargets5":"",
-  "mcp.SignShootTargets6":"and win",
+  "mcp.SignShootTargets6":"ぬいぐるみを",
   "mcp.SignShootTargets7":"",
   "mcp.SignShootTargets8":"",
   "mcp.SignShootTargets9":"",
-  "mcp.SignShootTargets10":"lots of",
+  "mcp.SignShootTargets10":"たくさん",
   "mcp.SignShootTargets11":"",
   "mcp.SignShootTargets12":"",
   "mcp.SignShootTargets13":"",
-  "mcp.SignShootTargets14":"plushies!",
+  "mcp.SignShootTargets14":"ゲットしよう！",
   "mcp.SignShootTargets15":"",
   "mcp.SignShootTargets16":"",
   "mcp.SignThrowDisks1":"",
-  "mcp.SignThrowDisks2":"Throw the disks",
-  "mcp.SignThrowDisks3":"on the sticks!",
+  "mcp.SignThrowDisks2":"棒に円盤を",
+  "mcp.SignThrowDisks3":"投げよう！",
   "mcp.SignThrowDisks4":"",
   "mcp.SignCandles1":"イエロー: 1ポイント",
   "mcp.SignCandles2":"",
@@ -10209,8 +10221,8 @@
   "mcp.SignTurnSkipper":"",
   "mcp.SignStarStealer":"",
   "mcp.SignBonusStarOptions1":"",
-  "mcp.SignBonusStarOptions2":"Bonus Star",
-  "mcp.SignBonusStarOptions3":"Options",
+  "mcp.SignBonusStarOptions2":"ボーナススター",
+  "mcp.SignBonusStarOptions3":"オプション",
   "mcp.SignBonusStarOptions4":"",
   "mcp.SignTrapOverwriting1":"",
   "mcp.SignMaxItemsSolos4":"無制限",
@@ -10229,49 +10241,49 @@
   "mcp.MusicDisc2":"チャレンジ",
   "mcp.MusicDisc3":"",
   "mcp.StartChallenge1":"",
-  "mcp.SignTask":"Task",
+  "mcp.SignTask":"タスク",
   "mcp.BenefitsAltar0":"",
   "mcp.StarAltar0":"",
   "mcp.AttackAltar0":"",
   "mcp.VarietyAltar0":"",
   "mcp.ClickToConfirm0":"",
   "mcp.PicnicChallenge2":"",
-  "mcp.SignFullCreditsTellraw1": "Full Credits (hover):\n",
-  "mcp.SignFullCreditsTellraw2": "[Lead Developers]\n",
+  "mcp.SignFullCreditsTellraw1": "完全なクレジット(ホバー):\n",
+  "mcp.SignFullCreditsTellraw2": "[主要開発者]\n",
   "mcp.SignFullCreditsTellraw3": "[プログラマー]\n",
   "mcp.SignFullCreditsTellraw4": "[建築]\n",
   "mcp.SignFullCreditsTellraw5": "[テクスチャ]\n",
-  "mcp.SignFullCreditsTellraw6": "[Frequent Playtesters]\n",
+  "mcp.SignFullCreditsTellraw6": "[積極的なテスター]\n",
   "mcp.SignFullCreditsTellraw7": "[翻訳者]\n",
   "mcp.SignFullCreditsTellraw8": "[音楽]",
   "mcp.SignFullCreditsTellraw9": "Datapack Integrator",
   "mcp.SignFullCreditsTellraw10": "英語",
-  "mcp.SignFullCreditsTellraw11": "Pirate Speak",
+  "mcp.SignFullCreditsTellraw11": "海賊語",
   "mcp.SignFullCreditsTellraw12": "ロシア語",
   "mcp.SignFullCreditsTellraw13": "中国語",
-  "mcp.SignFullCreditsTellraw14": " (click to view playlist)",
-  "mcp.SignMediaVideoTellraw":"%1$s' latest MCP2 video (click here)",
-  "mcp.SignMediaVideoTellraw1":"%1$s' latest MCP2 stream (click here)",
-  "mcp.SignDewTellraw":"Built Main Hub\nBuilt Port Town board\nBuilt Suburbia Scramble board\nBuilt Dusty Dunes board\nBuilt Spleef\nBuilt Quick Draw\nBuilt Reactor Reactor\nBuilt Runner\nBuilt Match Me Not\nBuilt Power Towers\nBuilt Minecraft Party Intelligence Quiz",
-  "mcp.SignJohnTellraw":"Built starting hub\nBuilt Mooshroom Grotto\nAssisted with Pac-Maze\nBuilt 2v6 Pac Cube arena\nBuilt Creeper' Crazy Combustion\nBuilt Bomber Brigade arenas",
-  "mcp.SignKirbTellraw":"Built Arcane Atoll board\nBuild Crazy Carnival board\nCreated every music track",
-  "mcp.SignTru1hTellraw":"Built Zen Garden board\nBuilt Zen Garden victory rooms and duel room\nBuilt most of Red Light, Green Light arena",
-  "mcp.SignDoubleHTellraw":"Built Pipe Canyon board\nAssisted with Zen Garden board",
-  "mcp.SignСocoaTellraw":"Built Minigame Grand Prix Room\nRetextured the following builds: In The Zone, Block Buster, Fight Fight Fight!, Betris, Just Joust",
-  "mcp.SignCrashTellraw":"Built Lofty Luncheon\nBuilt Fort Suits",
-  "mcp.SignAustinTellraw":"Built Pac-Maze board, victory room, and duel room\nAssisted with Betris arena\nBuilt Rhythmic Room",
-  "mcp.SignJonikTellraw":"Assisted with Rhythmic Room\nHelped program the secret board",
+  "mcp.SignFullCreditsTellraw14": " (クリックでプレイリストを表示)",
+  "mcp.SignMediaVideoTellraw":"%1$sの最新のMCP2動画(ここをクリック)",
+  "mcp.SignMediaVideoTellraw1":"%1$sの最新のMCP2配信(ここをクリック)",
+  "mcp.SignDewTellraw":"メインハブを建築\nポートタウンボードを建築\nSuburbia Scrambleボードを建築\nDusty Dunesボードを建築\n落とし合いを建築\nクイックドローを建築\nReactor Reactorを建築\nランナーを建築\nMatch Me Notを建築\n力の塔を建築\nMinecraft Party知能クイズを建築",
+  "mcp.SignJohnTellraw":"開始ハブを建築\nムーシュルーム洞窟を建築\nパックメイズをサポート\n2v6パックキューブのステージを建築\nクリーパーの狂った爆発を建築",
+  "mcp.SignKirbTellraw":"アルカナ環礁ボードを建築\nすべての音楽を作曲",
+  "mcp.SignTru1hTellraw":"禅庭園ボードを建築\n禅庭園の勝利部屋と決闘部屋を建築\nだるまさんがころんだのステージの大部分を建築",
+  "mcp.SignDoubleHTellraw":"パイプキャニオンボードを建築\n禅庭園ボードをサポート",
+  "mcp.SignСocoaTellraw":"ミニゲームグランプリの部屋を建築\nRetextured the following builds: In The Zone, Block Buster, Fight Fight Fight!, Betris, Just Joust",
+  "mcp.SignCrashTellraw":"Lofty Luncheonを建築\nBuilt Fort Suits",
+  "mcp.SignAustinTellraw":"パックメイズのボード、勝利部屋、決闘部屋を制作しました。\nAssisted with Betris arena\nBuilt Rhythmic Room",
+  "mcp.SignJonikTellraw":"Assisted with Rhythmic Room",
   "mcp.SignDaybreakTellraw":"Assisted with Rhythmic Room",
   "mcp.SignKingNothingTellraw":"Helped Build Tedious Tasks arena",
   "mcp.SignPandaTellraw":"Helped Build Victory Theater",
   "mcp.SignTeleportDown1Level1":"",
-  "mcp.SignTeleportDown1Level2":"Teleport Down",
-  "mcp.SignTeleportDown1Level3":"1 Level",
+  "mcp.SignTeleportDown1Level2":"1つ下の階に",
+  "mcp.SignTeleportDown1Level3":"テレポート",
   "mcp.SignTeleportUp1Level1":"",
-  "mcp.SignTeleportUp1Level2":"Teleport Up",
-  "mcp.SignTeleportUp1Level3":"1 Level",
-  "mcp.TeleportationCost1":"Teleportation",
-  "mcp.TeleportationCost2":"Cost:",
+  "mcp.SignTeleportUp1Level2":"1つ上の階に",
+  "mcp.SignTeleportUp1Level3":"テレポート",
+  "mcp.TeleportationCost1":"テレポートの",
+  "mcp.TeleportationCost2":"値段:",
   "mcp.Savanna3":"",
   "mcp.Savanna4":"サバンナ",
   "mcp.Mesa3":"",
@@ -10284,83 +10296,420 @@
   "mcp.rr_tuner_challenge_start.2":"",
   "mcp.GrabItem2":"",
   "mcp.BuildParkour2":"",
-  "mcp.SignJumpMiddle1":"Jump Middle",
+  "mcp.SignJumpMiddle1":"真ん中にジャンプ",
   "mcp.SignJumpMiddle2":"",
-  "mcp.SignJumpLeft1":"Jump Left",
+  "mcp.SignJumpLeft1":"左にジャンプ",
   "mcp.SignJumpLeft2":"",
-  "mcp.JumpRight1":"Jump Right",
+  "mcp.JumpRight1":"右にジャンプ",
   "mcp.JumpRight2":"",
-  "mcp.TaskCard":"Task Card",
-  "mcp.TaskRewardHover1":"This value is ~40% of the Stars collected on the board since the creation of the Tic-Tac-Toe card (minimum of 4)",
-  "mcp.TaskRewardHover2":"This value is ~30% of the Stars collected on the board since the creation of the Tic-Tac-Toe card (minimum of 3)",
-  "mcp.TaskRewardHover3":"This value is ~20% of the Stars collected on the board since the creation of the Tic-Tac-Toe card (minimum of 2)",
-  "mcp.TaskRewardHover4":"This value is ~10% of the Stars collected on the board since the creation of the Tic-Tac-Toe card (minimum of 1)",
-  "mcp.BlackSpacesLandedOn":"Black Spaces Landed On\n\n",
+  "mcp.TaskCard":"タスクのカード",
+  "mcp.TaskRewardHover1":"この値は、三目並べカードが作成されてからボード上で獲得されたスターの約40％に相当します（最小値は4）。",
+  "mcp.TaskRewardHover2":"この値は、三目並べカードが作成されてからボード上で獲得されたスターの約30％に相当します（最小値は3）。",
+  "mcp.TaskRewardHover3":"この値は、三目並べカードが作成されてからボード上で獲得されたスターの約20％に相当します（最小値は2）。",
+  "mcp.TaskRewardHover4":"この値は、三目並べカードが作成されてからボード上で獲得されたスターの約10％に相当します（最小値は1）。",
+  "mcp.BlackSpacesLandedOn":"黒マスに止まった\n\n",
   "mcp.battle_minigame.8.1":"3rd Place",
-  "mcp.MmnNetherite":"Netherite",
-  "mcp.tic_tac_toe_list.1":"Progress: %1$s of %2$s lines completed",
-  "mcp.RicksChestShop": "Rick's Chest Shop",
-  "mcp.NicksBarrelShop": "Nick's Barrel Shop",
-  "mcp.RicksChestShopPrice": "%1$s 1 Chest Key: 5 %2$s %3$s\nChest Contents: 0-25 %2$s %3$s", // 1: key icon, 2: mcp.Coins, 3: coins icon
-  "mcp.NicksBarrelShopPrice": "%1$s 1 Barrel Key: %2$s %3$s %4$s\nBarrel Contents: 50%% chance for a %5$s %6$s", // 1: key icon, 2: score, 3: mcp.Coins, 4: coins icon, 5: mcp.Star, 6: star icon
-  "mcp.Available": "Available",
-  "mcp.Sold": "Sold",
-  "mcp.KeyAAvailability": "%1$s Key A: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.KeyBAvailability": "%1$s Key B: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.KeyCAvailability": "%1$s Key C: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.KeyDAvailability": "%1$s Key D: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.KeyEAvailability": "%1$s Key E: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.KeyFAvailability": "%1$s Key F: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
-  "mcp.pass_colored_spot.36": "%1$sAye, ya bloody wanderer! Fancy a %2$s for 20 %3$s?",
-  "mcp.GamblingPost": "Gambling Post",
-  "mcp.MagentaSpacesBoardCutscene": "\nMagenta Spaces>",
-  "mcp.magenta": "magenta",
-  "mcp.courtyard_cutscene.1": "%1$s%2$s is a compact board inside of a castle featuring gambling mechanics.", // 1: mcp.Info, 2: mcp.Courtyard1, 3: mcp.Courtyard2
-  "mcp.courtyard_cutscene.2": "%1$s On this Board, you can put bets on the next minigame. When passing a %2$s, you can choose the next minigame and bet on it. This will increase the reward for whoever gets first place. Everyone else also has to pay a small amount of their %3$s!", // 1: mcp.courtyard_cutscene.2.1, 2: mcp.GamblingPost, 3: mcp.Coins
-  "mcp.courtyard_cutscene.2.1": "\nGambling Posts>",
-  "mcp.courtyard_cutscene.3": "%1$s Inside the tree in the middle of the board is a slot machine. If you manage to match 3 in a row you will earn %2$s.", // 1: mcp.courtyard_cutscene.3.1, 2:mcp.Coins
-  "mcp.courtyard_cutscene.3.1": "\nSlots>",
-  "mcp.courtyard_cutscene.4": "%1$s When passing the Skill Shot Challenge, you can %2$s for your archery skills!", // 1: mcp.courtyard_cutscene.4.1, 2:mcp.Coins
-  "mcp.courtyard_cutscene.4.1": "\nSkill Shot>",
-  "mcp.courtyard_cutscene.5": "%1$s Every %2$s space is at a junction and has a toll blocking off one of the paths. The toll costs 5 %3$s to open. Landing on the %2$s space swaps which path the toll is on.", // 1: mcp.MagentaSpacesBoardCutscene, 2: mcp.magenta, 3: mcp.Coins
-  "mcp.courtyard_cutscene.6": "%1$s The board specific bonus star for this board is awarded to whoever gambles the most amount of %2$s.",
-  "mcp.courtyard_cutscene.6.1": "\nGambler Star>",
+  "mcp.MmnNetherite":"ネザライト",
+  "mcp.tic_tac_toe_list.1":"Progress: %2$s行中%1$s行が揃った",
+  "mcp.RicksChestShop": "リックのチェストショップ",
+  "mcp.NicksBarrelShop": "ニックの樽ショップ",
+  "mcp.RicksChestShopPrice": "%1$s チェストの鍵1つ: 5 %2$s %3$s\nチェストの中身: 0-25 %2$s %3$s", // 1: key icon, 2: mcp.Coins, 3: coins icon
+  "mcp.NicksBarrelShopPrice": "%1$s 樽の鍵1つ: %2$s %3$s %4$s\n樽の中身: 50%%の確率で%5$s %6$s", // 1: key icon, 2: score, 3: mcp.Coins, 4: coins icon, 5: mcp.Star, 6: star icon
+  "mcp.Available": "利用",
+  "mcp.Sold": "売り切れ",
+  "mcp.KeyAAvailability": "%1$s 鍵 A: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyBAvailability": "%1$s 鍵 B: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyCAvailability": "%1$s 鍵 C: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyDAvailability": "%1$s 鍵 D: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyEAvailability": "%1$s 鍵 E: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.KeyFAvailability": "%1$s 鍵 F: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+  "mcp.pass_colored_spot.36": "%1$sおい、そこの旅人！ %2$sを20%3$sでどうだ？",
+  "mcp.GamblingPost": "ギャンブルポスト",
+  "mcp.MagentaSpacesBoardCutscene": "\n赤紫マス>",
+  "mcp.magenta": "赤紫",
+  "mcp.courtyard_cutscene.1": "%1$s%2$sはギャンブルの要素を取り入れた、城の内部を舞台とするコンパクトなボードです。", // 1: mcp.Info, 2: mcp.Courtyard1, 3: mcp.Courtyard2
+  "mcp.courtyard_cutscene.2": "%1$s このボードでは、次のミニゲームに賭けを行うことができます。%2$sを通過する際、次のミニゲームを選んで賭けをすることができます。これにより、1位になったプレイヤーが獲得できる報酬が増加します。他のプレイヤーも、自身の%3$sから少額を支払わなければなりません！", // 1: mcp.courtyard_cutscene.2.1, 2: mcp.GamblingPost, 3: mcp.Coins
+  "mcp.courtyard_cutscene.2.1": "\nギャンブルポスト>",
+  "mcp.courtyard_cutscene.3": "%1$s ボード中央にある木の中にはスロットマシンがあります。3つ揃えることができれば、%2$sが手に入ります。", // 1: mcp.courtyard_cutscene.3.1, 2:mcp.Coins
+  "mcp.courtyard_cutscene.3.1": "\nスロット>",
+  "mcp.courtyard_cutscene.4": "%1$s 射撃の腕前チャレンジをクリアすると、アーチェリーの腕前によって%2$sが手に入ります！", // 1: mcp.courtyard_cutscene.4.1, 2:mcp.Coins
+  "mcp.courtyard_cutscene.4.1": "\n射撃の腕前>",
+  "mcp.courtyard_cutscene.5": "%1$s すべての%2$sマスは分岐点にあり、いずれかの通路が料金所で塞がれています。この料金所を開くには5%3$s必要です。%2$sマスに止まると、料金所が設置されている通路が切り替わります。", // 1: mcp.MagentaSpacesBoardCutscene, 2: mcp.magenta, 3: mcp.Coins
+  "mcp.courtyard_cutscene.6": "%1$s このボード独自のボーナススターは、最も多く%2$sを賭けたプレイヤーに与えられます。",
+  "mcp.courtyard_cutscene.6.1": "\nギャンブラースター>",
   "mcp.Nite": "Nite",
-  "mcp.gambling_post_approach": "%1$s> Oi, %2$s! Do you wanna take a risk and bet on the next minigame? You will be able to choose out of 3 randomly selected minigames. You will put 6 %3$s in to the pot while everyone else pays 2 %3$s. Whoever wins the next minigame will win the entire pot in addition to there regular reward. If multiple players bet on the same turn, the pot increases and the minigame will be choosen randomly out of those the players selected.", // 1: mcp.NIte, 2: player, 3: mcp.Coins
-  "mcp.courtyard_shop_approach": "%1$s Hey! Come take a look here! I may have something that you want!", // 1: mcp.Merchant
-  "mcp.courtyard_gambling_post_short_on_coins": "You do not have enough coins to bet on a minigame.",
-  "mcp.betting_select1": "The selected minigame is: %1$s", // 1: minigame name
+  "mcp.gambling_post_approach": "%1$s> おい、%2$s！ 次のミニゲームに賭けてみないか？ ランダムに選ばれた3つのミニゲームから好きなものを選べるぞ。参加するには壺に6%3$sを入れる必要がある(他のプレイヤーは2%3$s)。次のミニゲームの勝者は、通常の報酬に加えて壺の中身を総取りできる。もし同じターンに複数のプレイヤーが賭けに参加すれば、壺の額は増え、ミニゲームはプレイヤーたちが選んだものの中からランダムに決定されることになる。", // 1: mcp.NIte, 2: player, 3: mcp.Coins
+  "mcp.courtyard_shop_approach": "%1$s ねえ、ちょっとこっちを見てみて！ 君が欲しがっているものがあるかもしれないよ！", // 1: mcp.Merchant
+  "mcp.courtyard_gambling_post_short_on_coins": "ミニゲームに賭けるためのコインが足りません。",
+  "mcp.betting_select1": "選択されたミニゲーム: %1$s", // 1: minigame name
   "mcp.Fletch": "Fletch",
-  "mcp.courtyard_skill_shot_approach": "%1$s> Do you think you got the skills to beat my challenge? For 5 %2$s I will give you a bow and 2 arrows. If you can hit the floating target with those 2 arrows I will reward you with 20 %2$s!", // 1: mcp.Fletch, 2: mcp.Coins
-  "mcp.courtyard_betting_pot_status": "The betting pot currently holds %1$s %2$s. This will go to the winner of the next minigame!", // 1: score, 2: mcp.Coins
-  "mcp.format_hours_and_minutes": "%1$sh %2$sm",
-  "mcp.ravager_rodeo_team_mode_rules.1": "%1$s and %2$s are each riding a ravager. %1$s's goal is to knock %4$s out of the arena first and %3$s's goal is to knock %2$s out of the arena first.",
-  "mcp.ravager_rodeo_team_mode_rules.2": "%1$s and %2$s are each riding a ravager. Their goal is to knock all of the opposing team's players out of the arena before their own team's players get knocked out.",
-  "mcp.ravager_rodeo_team_mode_rules.3": "%1$s and %2$s get a charge ability which dashes their ravager in a straight line at a high speed in the direction the rider is facing. Any runners in its path will get launched out of the arena.",
-  "mcp.ravager_rodeo_team_mode_rules.4": "The team that gets all of their runners (the players not riding the ravagers) eliminated first loses.",
-  "mcp.tedious_tasks_team_mode_rules.1": "Complete the 8 tasks as quickly as you can with your teammate.",
-  "mcp.tedious_tasks_team_mode_rules.2": "Both you and your teammate will be working on different tasks at the same time independently.",
-  "mcp.tedious_tasks_team_mode_rules.3": "After completing a task, you will be randomly given a new one from the pool of tasks that your team has not completed.",
-  "mcp.tedious_tasks_team_mode_rules.4": "Your tasks will be given in the chat.",
-  "mcp.tedious_task_team_mode_final_task": "%1$sHelp your teammate complete the final task.",
-  "mcp.minigame_death": "%1$sは死んでしまった！",
-  "mcp.bomber_brigade": "Bomber Brigade",
-  "mcp.bomber_brigade.1": "Blow up the other players with bombs!",
-  "mcp.bomber_brigade.2": "Every bomb leaves fire behind after it blows up.",
-  "mcp.bomber_brigade.3": "Stepping into fire will kill you. Be the last player standing.",
-  "mcp.bomber_brigade.4": "Watch out! A fire border will slowly encroach on the arena.",
-  "mcp.bomber_brigade.5": "There are four types of bombs in the minigame which do the following:",
-  "mcp.bomber_brigade.6": "%1$s: Receive one every five seconds (maximum of five). %2$s\n%3$s: Collect in the arena. %4$s\n%5$s: Collect in the arena. %6$s\n%7$s: Collect in the arena. %8$s", // 1: mcp.WallBreaker, 2: mcp.WallBreakerDescription, 3: mcp.FireCarpetBomb, 4: mcp.FireCarpetBombDescription, 5: mcp.SoulFireDynamite, 6: mcp.SoulFireDynamiteDescription, 7: mcp.HeatSeekingMine, 8: mcp.HeatSeekingMineDescription
-  "mcp.bomber_brigade.7": "All bombs blow up three seconds after being placed.",
-  "mcp.WallBreaker": "Wall Breaker",
-  "mcp.WallBreakerDescription": "Destroys nearby walls and leaves a small circle of fire behind that lasts 3 seconds.",
-  "mcp.FireCarpetBomb": "Fire Carpet Bomb",
-  "mcp.FireCarpetBombDescription": "Leaves a large circle of fire behind that lasts 5 seconds.",
-  "mcp.SoulFireDynamite": "Soul Fire Dynamite",
-  "mcp.SoulFireDynamiteDescription": "Leaves a small circle of soul fire that lasts 30 seconds.",
-  "mcp.HeatSeekingTNT": "Heat Seeking TNT",
-  "mcp.HeatSeekingTNTDescription": "Seeks out the nearest enemy to blow up on.",
-  "mcp.JonikStage2": "Assistant Programmer",
-  "mcp.JonikStage3": "Assistant Builder",
-  "mcp.JonikStage4": "(frequent tester)"
+  "mcp.courtyard_skill_shot_approach": "%1$s> 私の挑戦をクリアする腕前はあるかな？ 5%2$sで、弓と矢を2本貸してあげよう。その2本の矢で空中に浮かぶ的を射抜くことができたら、報酬として20%2$sをあげよう！", // 1: mcp.Fletch, 2: mcp.Coins
+  "mcp.courtyard_betting_pot_status": "現在の賭けの壺には%1$s%2$sが入っています。これは次のミニゲームの勝者に与えられます！", // 1: score, 2: mcp.Coins
+  "mcp.format_hours_and_minutes": "%1$s時間 %2$s分",
+  "mcp.ravager_rodeo_team_mode_rules.1": "%1$sと%2$sはそれぞれラヴェジャーに乗っています。%1$sの目標は%4$sを先にステージから突き落とすことであり、%3$sの目標は%2$sを先にステージから突き落とすことです。",
+  "mcp.ravager_rodeo_team_mode_rules.2": "%1$sと%2$sはそれぞれラヴェジャーに乗っています。彼らの目標は、自チームのプレイヤーが脱落させられる前に、相手チームのプレイヤー全員をステージから脱落させることです。",
+  "mcp.ravager_rodeo_team_mode_rules.3": "%1$sと%2$sは「突進」能力を手に入れます。これを使うと、騎乗者が向いている方向にラヴェジャーが高速で直線的に突進します。突進の進路にいるランナーは、ステージの外へと弾き飛ばされます。",
+  "mcp.ravager_rodeo_team_mode_rules.4": "ランナー(ラヴェジャーに乗っていないプレイヤー)全員が先に脱落させられたチームの負けとなります。注意してください！ラヴェジャーの乗り手は、味方に体当たりしてしまうこともあります。",
+  "mcp.tedious_tasks_team_mode_rules.1": "チームメイトと一緒に、8つのタスクをできるだけ早くクリアしましょう。",
+  "mcp.tedious_tasks_team_mode_rules.2": "あなたとチームメイトは、それぞれ異なるタスクを同時に、かつ個人で取り組むことになります。",
+  "mcp.tedious_tasks_team_mode_rules.3": "タスクをクリアすると、チームがまだクリアしていないタスクの中から、新しいタスクがランダムに割り当てられます。",
+  "mcp.tedious_tasks_team_mode_rules.4": "タスクはチャットに表示されます。",
+  "mcp.tedious_task_team_mode_final_task": "%1$sチームメイトが最後のタスクをクリアするのを手伝いましょう。",
+  "mcp.minigame_death": "%1$sは死んだ！",
+  "mcp.bomber_brigade": "爆撃部隊",
+  "mcp.bomber_brigade.1": "爆弾で他のプレイヤーを吹き飛ばそう！",
+  "mcp.bomber_brigade.2": "爆弾はどれも、爆発した後に炎を残します。",
+  "mcp.bomber_brigade.3": "炎を踏むと、死んでしまう。最後まで生き残るろう。",
+  "mcp.bomber_brigade.4": "気をつけろ！ 炎のボーダーがゆっくりとステージに迫ってくる。",
+  "mcp.bomber_brigade.5": "ミニゲームには4種類の爆弾があり、それぞれ以下のような効果があります:",
+  "mcp.bomber_brigade.6": "%1$s: 5秒ごとに1つ受け取る(最大5つまで)。 %2$s\n%3$s: ステージで集める。 %4$s\n%5$s:  ステージで集める。 %6$s\n%7$s:  ステージで集める。 %8$s", // 1: mcp.WallBreaker, 2: mcp.WallBreakerDescription, 3: mcp.FireCarpetBomb, 4: mcp.FireCarpetBombDescription, 5: mcp.SoulFireDynamite, 6: mcp.SoulFireDynamiteDescription, 7: mcp.HeatSeekingMine, 8: mcp.HeatSeekingMineDescription
+  "mcp.bomber_brigade.7": "すべての爆弾は、設置されてから3秒後に爆発します。",
+  "mcp.WallBreaker": "ウォールブレイカー",
+  "mcp.WallBreakerDescription": "周囲の壁を破壊し、3秒間残る小さな炎の円を残す。",
+  "mcp.FireCarpetBomb": "炎のカーペット爆弾",
+  "mcp.FireCarpetBombDescription": "背後に5秒間残る大きな炎の円を残す。",
+  "mcp.SoulFireDynamite": "魂の炎ダイナマイト",
+  "mcp.SoulFireDynamiteDescription": "30秒間残る魂の炎の小さな円を残します。",
+  "mcp.HeatSeekingTNT": "熱追尾型TNT",
+  "mcp.HeatSeekingTNTDescription": "最も近い敵を探して自爆する。",
+  "mcp.JonikStage2": "プログラマー補佐",
+  "mcp.JonikStage3": "建築補佐",
+  "mcp.JonikStage4": "(積極的なテスター)",
+  "mcp.SkillShot": "スキルショット",
+  "mcp.skill_shot_challenge_win": "%1$sが%2$sのチャレンジをクリアし、15%3$s(利益10)を手に入れた！",
+  "mcp.skill_shot_challenge_lose": "%1$sは%2$sのチャレンジに失敗しました。",
+  "mcp.secret_map.title":"隠しマップ",
+  "mcp.award_gamble_star.2":"%1$sは、最も多くのコインを賭けたプレイヤーに与えられます。",
+  "mcp.award_gamble_star.3":"%1$sは、最も多くのコインを賭けたチームに与えられます。",
+  "mcp.award_gamble_star.2.1":"ギャンブルスター",
+  "mcp.award_gamble_star.3.1":"ギャンブルスター",
+  "mcp.award_gamble_star.4":"最も多くのコインを賭けたプレイヤーは...",
+  "mcp.award_gamble_star.5":"最も多くのコインを賭けたチームは...",
+  "mcp.award_gamble_star.6":"%1$s%2$s %3$s Coins!",
+  "mcp.award_gamble_star.6.1":" with",
+  "mcp.award_gamble_star.7":"誰もいない！ There was a tie in gambled coins between the two teams.",
+  "mcp.award_gamble_star.8":"Purple Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.9":"Teal Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.10":"Pink Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.11":"Tan Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.8.1":" with",
+  "mcp.award_gamble_star.9.1":" with",
+  "mcp.award_gamble_star.10.1":" with",
+  "mcp.award_gamble_star.11.1":" with",
+  "mcp.award_gamble_star.12":"誰もいない！ There was a tie in highest coin count between multiple teams.",
+  "mcp.award_gamble_star.13":"Gold Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.14":"Aqua Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.15":"誰もいない！ There was a tie in highest coin count between multiple players.",
+  "mcp.award_gamble_star.13.1":" with",
+  "mcp.award_gamble_star.14.1":" with",
+  "mcp.award_gamble_star.13.2":" Coins!",
+  "mcp.award_gamble_star.14.2":" Coins!",
+  "mcp.award_gamble_star.8.2":" Coins!",
+  "mcp.award_gamble_star.9.2":" Coins!",
+  "mcp.award_gamble_star.10.2":" Coins!",
+  "mcp.award_gamble_star.11.2":" Coins!",
+  "mcp.bet_reward_coins": "%1$sは、賭けの壺からさらに%2$s%3$sを獲得しました。",
+  "mcp.courtyard_toll_not_enough_coins": "申し訳ありませんが、この料金所を通過するための%1$sが不足しています！",
+  "mcp.Courtyard": "Courtyard",
+  "mcp.board_explanation.29": "%1$sボードの作者: %2$s",
+  "mcp1_board_explanation_verview": "%1$sは、バージョン1.17.1の「Minecraft Party 1」向けに作成されたボードです。このリメイク版はオリジナルを再現しつつ、「Minecraft Party 2」の要素も新たに追加しています。",
+  "mcp.SignYlaComaStage2": "",
+  "mcp.SignYlaComaStage3": "建築補佐",
+  "mcp.SignYlaComaStage4": "(積極的なテスター)",
+  "mcp.SignYlaComaTellraw": "森の洋館のかくれんぼステージを建築",
+  "mcp.return_to_hub_tip": "ハブの中心へ飛ぶと、アドベンチャーモードに戻ります。",
+  "mcp.lost_city_star_cost_sign": "%1$s 値段:",
+  "mcp.Steve": "スティーブ",
+  "mcp.CenterPark": "センターパーク",
+  "mcp.AirborneIsles": "天空の島々",
+  "mcp.PortTown": "港町",
+  "mcp.LostCity": "失われた都市",
+  "mcp.Candyland": "§c§lキ§f§lャ§c§lン§f§lデ§c§lィ§f§lラ§c§lン§f§lド§c§l",
+  "mcp.PacMaze": "パックメイズ",
+  "mcp.ZenGarden": "禅庭園",
+  "mcp.MooshroomGrotto": "ムーシュルームの洞窟",
+  "mcp.PipeCanyon": "パイプキャニオン",
+  "mcp.RhythmicRoom": "リズミックルーム",
+  "mcp.SuburbiaScramble": "郊外スクランブル",
+  "mcp.LoftyLuncheon": "優雅な昼食会",
+  "mcp.ArcaneAtoll": "アルカナ環礁",
+  "mcp.PresentPalace": "§2§lプ§4§lレ§2§lゼ§4§lン§2§lト§4§lパ§2§lレ§4§lス§2§l§4§l§2§l§4§l§2§l",
+  "mcp.DustyDunes": "砂ぼこりの砂丘",
+  "mcp.FortSuits": "§0§lF§c§lo§0§lr§c§lt §0§lS§c§lu§0§li§c§lt§0§ls",
+  "mcp.CrazyCarnival": "クレイジーカーニバル",
+  "mcp.LushCrater": "緑豊かなクレーター",
+  "mcp.CenterParkBuildCredit": "建築者: %1$s",
+  "mcp.AirborneIslesBuildCredit": "建築者: %1$s",
+  "mcp.PortTownBuildCredit": "建築者: %1$s",
+  "mcp.LostCityBuildCredit": "建築者: %1$s",
+  "mcp.CandylandBuildCredit": "建築者: %1$s, %2$s",
+  "mcp.PacMazeBuildCredit": "建築者: %1$s, %2$s",
+  "mcp.ZenGardenBuildCredit": "建築者: %1$s",
+  "mcp.MooshroomGrottoBuildCredit": "建築者: %1$s",
+  "mcp.PipeCanyonBuildCredit": "建築者: %1$s",
+  "mcp.RhythmicRoomBuildCredit": "建築者: %1$s, %2$s, %3$s",
+  "mcp.SuburbiaScrambleBuildCredit": "建築者: %1$s",
+  "mcp.LoftyLuncheonBuildCredit": "建築者: %1$sの建築チーム",
+  "mcp.ArcaneAtollBuildCredit": "建築者: %1$s",
+  "mcp.PresentPalaceBuildCredit": "建築者: %1$s",
+  "mcp.DustyDunesBuildCredit": "建築者: %1$s",
+  "mcp.FortSuitsBuildCredit": "建築者: %1$sの建築チーム",
+  "mcp.CrazyCarnivalBuildCredit": "建築者: %1$s",
+  "mcp.LushCraterBuildCredit": "建築者: %1$s",
+  "mcp.CourtyardBuildCredit": "建築者: %1$s, %2$s",
+  "mcp.Key1": "鍵 1",
+  "mcp.Key2": "鍵 2",
+  "mcp.Key3": "鍵 3",
+  "mcp.lush_crater_approach_star_seller1": "%1$s こんにちは！ 最近、あのクリーキングは少しおとなしくなっています。おかげで、%2$sは1個あたり%3$s%4$sになります。",
+  "mcp.lush_crater_approach_star_seller2": "%1$s こんにちは！ この村では、あのクリーキングたちが大暴れしているんだ。そのせいで、%2$sは1つにつき%3$s%4$sもかかってしまう。",
+  "mcp.FreeForAlls":"乱闘",
+  "mcp.CoinMinigames":"コインミニゲーム",
+  "mcp.CoinsFrom_":"\n\nCoins From: ",
+  "mcp.Spaces":"マス",
+  "mcp.GreenEvents":"緑イベント",
+  "mcp.Challenges":"チャレンジ",
+  "mcp.StatsStarTransactions":"スターの取引",
+  "mcp.SpentInShops":"ショップの支出",
+  "mcp.Miscellaneous":"その他",
+  "mcp.Equipment":"装備",
+  "mcp.BonusStarsRolled":"ボーナススターの獲得(ホバー)",
+  "mcp.lush_crater_star_cost_text.1": "1 %1$s:        %2$s %3$s", // 1:mcp.Star, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_star_cost_text.2": "2 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_star_cost_text.3": "3 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_approach_star_seller1": "%1$s こんにちは！ 最近、あのクリーキングは少しおとなしくなっています。おかげで、%2$sは1個あたり%3$s%4$sになります。",
+  "mcp.lush_crater_approach_star_seller2": "%1$s こんにちは！ この村では、あのクリーキングたちが大暴れしているんだ。そのせいで、%2$sは1つにつき%3$s%4$sもかかってしまう。",
+  "mcp.ResinClumpCountText" : "樹脂の数: %1$s%2$s",
+  "mcp.ResinClumpAccumulateText": "%1$sの次のターンの開始時に、ここに新たな樹脂の塊が蓄積します",
+  "mcp.ResinClumps": "樹脂の塊",
+  "mcp.LushCraterTreeStumpEvent": "%1$sは切り株から%2$s%3$sを手に入れた！", // 1: player, 2: score, 3: mcp.ResinClumps
+  "mcp.LushCraterMudEvent": "%1$sは泥を掘り返し、%2$s%3$sを見つけた！", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.MudCoinsCountText": "%1$s 泥の中で%2$sを失った: %3$s%4$s", // 1: mud icon, 2: mcp.Coins, 3: score, 4: coin icon
+  "mcp.LushCraterPassMud": "%1$sは泥の中に%2$s%3$sを落とした。", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.DiceMagnet": "サイコロ磁石",
+  "mcp.8LeafClover": "8つ葉のクローバー",
+  "mcp.RareGem": "希少な宝石",
+  "mcp.CelestialCharm": "天のお守り",
+  "mcp.MysticIdol": "神秘の偶像",
+  "mcp.GoldPan": "金のフライパン",
+  "mcp.HoboSack": "ホボサック",
+  "mcp.DiceMagnetDescription": "通常のサイコロの目すべてに補正を加え、より高い値が出やすくなるようにする。",
+  "mcp.8LeafCloverDescription": "赤と黒のマスの効果を反転させる。",
+  "mcp.RareGemDescription": "村人のリーダーのところへ戻り、50コインを受け取ろう。",
+  "mcp.CelestialCharmDescription": "ターン終了時に75%%の確率で星の欠片を手に入れる。",
+  "mcp.MysticIdolDescription": "強化アイテムのドロップ率が25%%上昇する。",
+  "mcp.GoldPanDescription": "各ターの開始時に3コインを受け取る。",
+  "mcp.HoboSackDescription": "アイテムスロットを1つ消費する代わりに、追加のスロットを2つ追加する。なかなか便利だろ？",
+  "mcp.too_many_items_tick.68" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.DiceMagnet
+  "mcp.too_many_items_tick.69" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.8LeafClover
+  "mcp.too_many_items_tick.70" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.RareGem
+  "mcp.too_many_items_tick.71" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.CelestialCharm
+  "mcp.too_many_items_tick.72" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.MysticIdol
+  "mcp.too_many_items_tick.73" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.GoldPan
+  "mcp.too_many_items_tick.74" : "%1$sは%2$sを捨てた", // 1: player, 2: mcp.HoboSack
+  "mcp.give_random_item.66": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.DiceMagnet
+  "mcp.give_random_item.67": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.8LeafClover
+  "mcp.give_random_item.68": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.RareGem
+  "mcp.give_random_item.69": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.CelestialCharm
+  "mcp.give_random_item.70": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.MysticIdol
+  "mcp.give_random_item.71": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.GoldPan
+  "mcp.give_random_item.72": "%1$sは%2$sに%3$sをあげた！", // 1: player, 2: player, 3: mcp.HoboSack
+  "mcp.RelicUseInfo": "このアイテムはレリックであるため常に効果が発動しており、捨てるかレリックショップで売らない限り消滅しません",
+  "mcp.ExtraTurn": "追加ターン",
+  "mcp.BlackSpaceExtraTurn": "%1$sは%2$sを得た！", // 1: player, 2: mcp.ExtraTurn
+  "mcp.ExtraTurns": "追加ターン",
+  "mcp.BlackSpaceExtraTurns": "%1$sは%3$sを%2$sターン得た！",  // 1: player, 2: score, 3: mcp.ExtraTurns
+  "mcp.BlackEventDuplicateItems": "%1$sがすべてのアイテムを複製した！",
+  "mcp.ForgeStarShardWithCelestialCharm": "%1$sは%4$sを使って%3$sを%2$s個を作り出した！", // 1: player, 2: score, 3: mcp.StarShard, 4: mcp.CelestialCharm
+  "mcp.ForgeStarShardsWithCelestialCharm": "%1$sは%4$sを使って%3$sを%2$s個を作り出した！", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.CelestialCharm
+  "mcp.VillagerLeader": "村長",
+  "mcp.ApproachVillageLeaderWithRareGem": "%1$s> こんにちは、%2$s！ その手に持っている%3$sが目に留まりました。ずっと探していたんです。どうでしょう、1つにつき%4$s%5$sでお譲りいただけませんか？", // 1: mcp.VillagerLeader, 2: player, 3: mcp.RareGem, 4: score, 5: mcp.Coins
+  "mcp.ApproachVillageLeaderTip": "アイテムを持った状態で%1$sか%2$sを押すと、そのアイテムを%3$sに渡せます。", // 1: key.drop, 2: key.right, 3: mcp.RareGem, 4: mcp.VillageLeader
+  "mcp.VillageLeaderRareGemThankYou": "%1$s> ありがとうございます、%2$s！ こちらが%3$s%4$sです。",
+  "mcp.VillageLeaderTurnInItemsTip": "村長の隣に立ち、アイテムを渡してください。",
+  "mcp.ResinClump": "樹脂の塊",
+  "mcp.VillageLeaderStarThankYou": "%1$s> ありがとうございます、%2$s！ こちらが%3$sです。",
+  "mcp.VillageLeaderNotEnoughResin": "%1$s> 申し訳ありません、%2$s。%4$sを買うための%3$sが足りません。",
+  "mcp.ApproachVillageLeaderWithResinClumps": "%1$s> こんにちは、%2$s！ %3$sを集めて、あの不気味なクリーキングから村を守ってくれて素晴らしい働きぶりですね。その功績に報いて、%3$s1つにつき、%4$s%5$sを渡します。",
+  "mcp.Tharos": "タロス",
+  "mcp.Luna": "ルナ",
+  "mcp.ApproachRelicShop": "%1$s> %2$s、ようこそ！ ここはこの上なく神秘的なお店ですよ。持っているだけで特別な能力を授けてくれる「レリック」を扱っています。", // 1: entity, 2: player
+  "mcp.ApproachRelicShopSellRelicTip": "%1$s> アイテムをドロップすることで、所有しているレリックを1つにつき%2$s%3$sで売ることもできます。", // 1: entity, 2: score, 3: mcp.Coins
+  "mcp.RelicShopCost": "値段: %1$s%2$s",
+  "mcp.DiceMagnetSign1": "サイコロ磁石",
+  "mcp.DiceMagnetSign2": "",
+  "mcp.8LeafCloverSign1": "8つ葉のクローバー",
+  "mcp.8LeafCloverSign2": "",
+  "mcp.RareGemSign1": "希少な宝石",
+  "mcp.RareGemSign2": "",
+  "mcp.CelestialCharmSign1": "天のお守り",
+  "mcp.CelestialCharmSign2": "",
+  "mcp.MysticIdolSign1": "神秘の偶像",
+  "mcp.MysticIdolSign2": "",
+  "mcp.GoldPanSign1": "金のフライパン",
+  "mcp.GoldPanSign2": "",
+  "mcp.HoboSackSign1": "ホボサック",
+  "mcp.HoboSackSign2": "",
+  "mcp.NotEnoughCoinsForDiceMagnet": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.DiceMagnet
+  "mcp.NotEnoughCoinsFor8LeafClover": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.8LeafClover
+  "mcp.NotEnoughCoinsForRareGem": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.RareGem
+  "mcp.NotEnoughCoinsForCelestialCharm": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.CelestialCharm
+  "mcp.NotEnoughCoinsForMysticIdol": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.MysticIdol
+  "mcp.NotEnoughCoinsForGoldPan": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.GoldPan
+  "mcp.NotEnoughCoinsForHoboSack": "%2$sを買うのに%1$sが足りない。", // 1: mcp.ResinClumps, 2: mcp.HoboSack
+  "mcp.BoughtDiceMagnet": "%1$sは%2$sを買った。", // 1: player, 2: mcp.DiceMagnet
+  "mcp.Bought8LeafClover": "%1$sは%2$sを買った。", // 1: player, 2: mcp.8LeafClover
+  "mcp.BoughtRareGem": "%1$sは%2$sを買った。", // 1: player, 2: mcp.RareGem
+  "mcp.BoughtCelestialCharm": "%1$sは%2$sを買った。", // 1: player, 2: mcp.CelestialCharm
+  "mcp.BoughtMysticIdol": "%1$sは%2$sを買った。", // 1: player, 2: mcp.MysticIdol
+  "mcp.BoughtGoldPan": "%1$sは%2$sを買った。", // 1: player, 2: mcp.GoldPan
+  "mcp.BoughtHoboSack": "%1$sは%2$sを買った。", // 1: player, 2: mcp.HoboSack
+  "mcp.lush_crater_challenge_setup.1":"この鉱山があなたを呼んでいます。クリーキングの森にある木々の幹に付いた3つの樹脂を50秒以内に見つけ出し、手に入れることができた勇敢な冒険者には、%1$sを渡します。クリーキングには気をつけてください！ もっとも、じっと見つめていれば襲ってはきませんが。",
+  "mcp.lush_crater_creaking_tick.1":"%1$sが樹脂の塊を渡し、%2$sを獲得しました！",  // 1: player, 2: 10 coins
+  "mcp.lush_crater_creaking_tick.2":"%1$sはクリーキングの森のランチャレンジに失敗した。", 
+  "mcp.lush_crater_challenge_setup.2":"%1$s> 丸太から丸太へと飛び移り、急流を渡りきってください。ただし、水に落ちないように！ 水には毒があるんです。もし向こう岸にある木の実までたどり着けたら、%2$sをたくさん差し上げます。", // 1: mcp.Timberstride, 2: 10 coins
+  "mcp.lush_crater_log_run_tick.1":"%1$sが激流を乗り越え、%2$sを手に入れた！",  // 1: player, 2: 10 coins
+  "mcp.DropToSellRelic": "%2$s (ドロップで5%1$sで売る)", // 1: score, 2: mcp.Coins, 3: relic name
+  "mcp.PlayerItems": "%1$sのアイテム:\n",
+  "mcp.LushCraterPassShop": "%1$s> やあ、%2$s！ 一瞬、あの不気味なクリーキングかと思ったよ。それはさておき、何かアイテムを買っていかないかい？",
+  "mcp.Corwin": "コービン",
+  "mcp.Elswyth": "Elswyth",
+  "mcp.Beau": "Beau",
+  "mcp.Elowen": "Elowen",
+  "mcp.Garran": "Garran",
+  "mcp.BewStealResinClumps": "2-5%1$sを盗む", // 1: icon
+  "mcp.BewStealStarWithResinCost": "[%1$s%2$s]", // 1: score, 2: icon
+  "mcp.BewStealResinClumpsFromPlayer": "%1$sが%4$sから%2$s%3$sを盗んだ！", // 1: player, 2: score, 3: mcp.ResinClumps, 4: player
+  "mcp.BewStealResinClumpsFromPlayerTeam": "%1$sが%4$sから%2$s%3$sを盗んだ！", // 1: player, 2: score, 3: mcp.ResinClumps, 4: team name
+  "mcp.LushCraterApproachBew": "%1$s 僕のツリーハウスへようこそ！ 盗みに関するお手伝いなら任せてよ。",
+  "mcp.BewNoSteal": "%1$s %2$s、申し訳ないけど今は盗める相手がいない。",
+  "mcp.MagentaTeleporter": "赤紫色のテレポーター",
+  "mcp.CyanTeleporter": "青緑色のテレポーター",
+  "mcp.LushCraterTeleporterSubtitle": "値段: %1$s%2$s §7(ドロップで支払う)",
+  "mcp.LushCraterTeleporterCostSign": "値段: %1$s%2$s", // 1: score, 2: icon
+  "mcp.Marwick": "Marwick",
+  "mcp.Resin": "Resin",
+  "mcp.LushCraterApproachCampfire": "%1$s> %2$s、その%3$sは持っているか？ 村をあの恐ろしいクリーキングから守るために、それを溶かす必要があるんだ！ 集めてきてくれたら、手元にある適当なアイテムを報酬としてやろう。持ってきた%3$sの数が多いほど、たくさんのアイテムをやるぞ。", // 1: entity, 2: player, 3: mcp.Resin
+  "mcp.LushCraterApproachCampfireTip": "%1$s %2$sを大釜に入れ、%3$sを右クリックしてアイテムを受け取りましょう。", // 1: mcp.Tip_, 2: mcp.Resin, 3: entity
+  "mcp._NEXT_": "<次へ>",
+  "mcp._START_GAME_": "<ゲームを開始>",
+  "mcp.CrazyCarnivalApproachTeacups": "%1$s> %2$s、ようこそ！ ティーカップに乗って、反対側へ近道してみませんか？ 料金は%3$s%4$sですが、もし他の全員の料金も上げたいなら、より多く支払うこともできます。その場合、次のティーカップの料金は、今回あなたが支払う額より最低でも%5$s高くなります。", // 1: mcp.RideOperator, 2: player, #: score, 4: mcp.Coins, 5: mcp.Coin
+  "mcp.PreviousAndNext": "%1$s %2$s", // 1: mcp._PREVIOUS, 2: mcp._NEXT_/mcp._START_GAME_
+  "mcp.lush_crater_cutscene.1": "%1$s%2$sは、楽しい仕掛けが満載の神秘的な森のボードです。", // 1: mcp.Info, 2: mcp.LushCrater",
+  "mcp.lush_crater_cutscene.2": "%1$s 遥か昔、この場所に隕石が落下し、「クリーキングの種」が残されました。それらはやがて結合し、「クリーキングの心臓」となりました。この心臓は、大量の樹液の近くにあると孵化して「クリーキング」になります。クリーキングの孵化を防ぐため、村人たちは見つけた樹液をすべて取り除かなければなりません。", // 1: mcp.Lore_
+  "mcp.lush_crater_cutscene.3": "%1$s> このボードには「%2$s%3$s」という通貨が登場し、ボード周辺にある5つの切り株に少しずつ蓄積されていきます。切り株に未回収の%2$sが溜まるほど、ボード上に出現するクリーキングの数も増えていきます。", // 1: mcp.Resin, 2: mcp.ResinClumps, 3: icon
+  "mcp.LushCraterTreeStumpSpaces": "切り株マス",
+  "mcp.lush_crater_cutscene.4": "%1$s§d>§r A player that lands on a %2$s space next to a tree stump will collect all the accumulated %3$s. From that point on, 1 %4$s will appear in the tree every 8 individual player turns.", // 1: mcp.TreeStumpSpaces, 2: mcp.magenta_space, 3: mcp.ResinClumps, 4: mcp.ResinClump
+  "mcp.BuyingStars": "スターの購入",
+  "mcp.lush_crater_cutscene.5": "%1$s§e>§r %2$sの値段は、すべての切り株にある樹脂の塊の合計数と同じです。%4$sを通過する際、一度に%3$sを最大3つまで購入できます。%4$sはゲーム中ずっと中央に留まります。", // 1: mcp.BuyingStars, 2: mcp.Star, 3: mcp.Stars, 4: mcp.StarSeller, 5: mcp.ResinClumps
+  "mcp.Relics": "レリック",
+  "mcp.lush_crater_cutscene.6": "%1$s§9>§r このボードには特別な「レリック」が登場します。レリックはアイテムバッグの容量に含まれます。所持しているプレイヤーは、それぞれレリックが持つパッシブ能力を得ることができます。レリックは、ボード上にある2つのレリックショップで%2$s%3$sを使って購入できます。", // 1: mcp.Relics, 2: mcp.ResinClumps, 3: icon
+  "mcp.lush_crater_cutscene.7": "%1$s§9>§r 丘の上にある%1$sの家を訪ねると、%3$sを6個渡すごとに%2$sを1個報酬として受け取れます。", // 1: mcp.Village Leader, 2: mcp.Star, 3: mcp.ResinClumps
+  "mcp.Campsite": "Campsite",
+  "mcp.lush_crater_cutscene.8": "%1$s§9>§r %1$sを訪れて%2$sを溶かせば、お礼に%3$sからアイテムがもらえます。", // 1: cmp.Campsite, 2: mcp.ResinClumps, 3: mcp.Marwick
+  "mcp.lush_crater_cutscene.9": "%1$s§8>§r %1$sを通過する際、対戦相手から%2$sを2～5個無料で奪うか、%2$sを10個支払って%3$sを1個奪うことができます。", // 1: mcp.Bew, 2: mcp.ResinClumps, 3: mcp.Star
+  "mcp.Teleporters": "テレポーター",
+  "mcp.lush_crater_cutscene.10": "%1$s§3>§r ボード上には、ペアのテレポーターが2組あります。1%2$sを支払うことで、それらを使ってワープできます。", // 1: mcp.Teleporters, 2: mcp.ResinClump
+  "mcp.MudPiles": "泥の山",
+  "mcp.lush_crater_cutscene.11": "%1$s§d>§r 泥の山の上を歩くと、%2$sを5つ失います。泥の山の近くにある%3$​​sのマスに止まると、その泥の山を掘り進め、中に失われていた%2$sを回収できます。泥の山は、探索された後、新たに5つの%2$sが蓄積されます。", // 1: mcp.MudPiles, 2: mcp.Coins
+  "mcp.LogRunChallenge": "ログランチャレンジ",
+  "mcp.lush_crater_cutscene.12": "%1$s§9>§r このチャレンジで川の終点まで行って戻ってくれば、報酬として10%2$sがもらえます。", // 1: mcp.LogRunChallenge, 2: mcp.Coins
+  "mcp.CreakingForestChallenge": "クリーキングの森のチャレンジ",
+  "mcp.lush_crater_cutscene.13": "%1$s§9>§r 森の奥まで行って戻ってくる間、クリーキングを避けられれば、報酬として10%2$sが与えられます。", // 1: mcp.CreakingForestChallenge, 2: mcp.Coins
+  "mcp.ExplorerStar": "探検家スター",
+  "mcp.lush_crater_cutscene.14": "%1$s§e>§r このボード独自のボーナススターは、最も多くユニークマスを訪れたプレイヤー(チーム)が貰えます。", // 1: mcp.ExplorerStar
+  "mcp.MrWayfarer": "Mr. Wayfarer",
+  "mcp.MsTimberstride": "Ms. Timberstride",
+  "mcp.UniqueSpacesVisited":"訪れたユニークマス\n\n",
+  "mcp.mpiq_new_question.76": "%1$s%2$sは何箇所のユニークマスを訪れた？", // 1: mcp.Question_, 2: player
+  "mcp.LushCraterMudPileSpaceLandText": "泥の中から%1$sを集めよう", // 1: mcp.Coins
+  "mcp.LushCraterTreeStumpSpaceLandText": "切り株から %1$sを回収しよう", // 1: mcp.ResinClumps
+  "mcp.LushCrater1": "緑豊かなクレーター",
+  "mcp.LushCrater2": "",
+  "mcp.LushCraterStarCost": "  %1$s%2$s 値段: %3$s %4$s%5$s (%3$s%6$s)",
+  "mcp.NEXT":"<次へ>",
+  "mcp._STARTGAME":"<ゲーム開始>",
+  "mcp.Lore_":"Lore>",
+  "mcp.VillageLeader":"村長",
+  "mcp.GhostModeLushCraterDescription": "泥の中にコインを落とさなくなり、罠の影響も受けなくなる。次に振るサイコロの値を+3する。",
+  "mcp.GhoulModeLushCraterDescription": "泥の中にコインを落とさなくなり、通過した対戦相手の罠を自分のものに変換する。次に振るサイコロの値を+3する。",
+  "mcp.LushCraterApproachSingleUseStarSeller": "%1$sIs the %5$s building up too much? No worry, because I will sell you a %2$s and it will always be %3$s %4$s.",
+  "mcp.board_explanation_lush_crater": "%1$s board built by %2$s and developed by %3$s and %4$s.",
+  "mcp.lush_crater_resin_chance_blue_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.blue_space
+  "mcp.lush_crater_resin_chance_red_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.red_space
+  "mcp.lush_crater_resin_chance_yellow_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.yellow_space
+  "mcp.lush_crater_resin_chance_black_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.black_space
+  "mcp.lush_crater_resin_chance_green_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.green_space
+  "mcp.lush_crater_resin_chance_orange_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.orange_space
+  "mcp.lush_crater_resin_chance_duel_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.Duel
+  "mcp.lush_crater_resin_chance_magenta_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.magenta_space
+  "mcp.lush_crater_resin_battle_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.battle_cutscene.1
+  "mcp.lush_crater_resin_chance_chance_time_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.chance_time_space
+  "mcp.FreeverserReverseBoardDescription": "Reverses the direction of the board and keeps it that way for the remainder of your turn. Drop to use.",
+  "mcp.freeverser_reverse_board.1": "You must be standing on a spot to reverse the board.",
+  "mcp.freeverser_reverse_board.2": "You must cross the space that you are standing on before you can reverse the board (hint: move forward a little bit).",
+  "mcp.MeltResin": "Melt Resin",
+  "mcp.Mira": "Mira",
+  "mcp.RelicItemCostDescription": "Can only be aquired from a relic shop in the %1$s board for the cost of %2$s %3$s%4$s.", // 1: mcp.LushCrater, 2: score, 3: mcp.ResinClumps, 4: icon
+  // mcp.lush_crater_cutscene.4 needs to be retranslated because of game design changes. Delete this when done.
+  // mcp.lush_crater_cutscene.6 needs to say "three" instead of "two" for the number of relic shops on the board
+  // added 5: mcp.ResinClumps as a parameter to mcp.lush_crater_cutscene.5. Adjust accordingly
+  "mcp.ComboCard": "Combo Card",
+  "mcp.ComboCardUse": "%1$s received an extra turn!", // 1: player
+  "mcp.ComboCardDescription": "Gives you an extra turn.",
+  "mcp.recover_item_attempt_combo_card": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.DoubleComboCard": "Double Combo Card",
+  "mcp.DoubleComboCardUse": "%1$s received two extra turns!", // 1: player
+  "mcp.DoubleComboCardDescription": "Gives you two extra turns.",
+  "mcp.recover_item_attempt_double_combo_card": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.WarpPipe": "Warp Pipe",
+  "mcp.WarpPipeUse": "%1$s used a %2$s!", // 1: player, 2: mcp.WarpPipe
+  "mcp.WarpPipeDescription": "Choose between three random places on the board to warp to.",
+  "mcp.recover_item_attempt_warp_pipe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.SuperWarpPipe": "Super Warp Pipe",
+  "mcp.SuperWarpPipeUse": "%1$s used a %2$s and found %3$s inside the pipe!", // 1: player, 2: mcp.SuperWarpPipe, 3: a [item name]
+  "mcp.SuperWarpPipeDescription": "Choose between three random places on the board to warp to and receive a random item worth less than 15 coins.",
+  "mcp.recover_item_attempt_super_warp_pipe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.CoinForger": "Coin Forger",
+  "mcp.CoinForgerUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.Coins, 4: mcp.CoinForger
+  "mcp.CoinForgerDescription": "Instantly receive a random amount of coins between 6 and 12.",
+  "mcp.recover_item_attempt_coin_forger": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.CoinForgerDeluxe": "Coin Forger Deluxe",
+  "mcp.CoinForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.Coins, 4: mcp.CoinForgerDeluxe
+  "mcp.CoinForgerDeluxeDescription": "Instantly receive a random amount of coins between 10 and 20.",
+  "mcp.recover_item_attempt_coin_forger_deluxe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.StarShards": "Star Shards",
+  "mcp.StarForger": "Star Forger",
+  "mcp.StarForgerUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.StarForger
+  "mcp.StarForgerDescription": "Instantly receive a random amount of star shards between 6 and 12. Every 5 star shards that you have get automatically converted into a star.",
+  "mcp.recover_item_attempt_star_forger": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.StarForgerDeluxe": "Star Forger Deluxe",
+  "mcp.StarForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.StarForgerDeluxe
+  "mcp.StarForgerDeluxeDescription": "Instantly receive a random amount of star shards between 10 and 20. Every 5 star shards that you have get automatically converted into a star.",
+  "mcp.recover_item_attempt_star_forger_deluxe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.too_many_items_discard": "%1$s discarded %2$s", // 1: item
+  "mcp.give_random_item.73": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.ComboCard
+  "mcp.give_random_item.74": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.DoubleComboCard
+  "mcp.give_random_item.75": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.WarpPipe
+  "mcp.give_random_item.76": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.SuperWarpPipe
+  "mcp.give_random_item.77": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.CoinForger
+  "mcp.give_random_item.78": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.CoinForgerDeluxe
+  "mcp.give_random_item.79": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.StarForger
+  "mcp.give_random_item.80": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.StarForgerDeluxe
+  "mcp.ss_approach_pablo_with_coin_forger": "%1$s Aye, welcome! In need of my services, eh? I’ll steal some coins from whoever ya want, free of charge! Though, I can’t help but notice that %2$s ya got there... Tell ya what, I’ll pinch some extra coins just for you if you lemme have that...", // 1: player, 2: mcp.CoinForger
+  "mcp.ss_approach_pablo_with_coin_forger_deluxe": "%1$s Aye, welcome! In need of my services, eh? I’ll steal some coins from whoever ya want, free of charge! Though, I can’t help but notice that %2$s ya got there... Tell ya what, I’ll pinch some extra coins just for you if you lemme have that...", // 1: player, 2: mcp.CoinForgerDeluxe
+  "mcp.buy_goodie_bag_combo_card": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.ComboCard, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_warp_pipe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.WarpPipe, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_coin_forger": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.CoinForger, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_star_forger": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.StarForger, 3:mcp.GoodieBag
+  "mcp.buy_treasure_bag_double_combo_card": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.DoubleComboCard, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_super_warp_pipe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.SuperWarpPipe, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_coin_forger_deluxe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.CoinForgerDeluxe, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_star_forger_deluxe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.StarForgerDeluxe, 3:mcp.TreasureBag
+  "mcp.SuperWarpPipeFindItem": "%1$s found a %2$s in the %3$s.", // 1: player, 2: entity, 3: mcp.SuperWarpPipe
+  "mcp.NameColorKey": "Name color key:",
+  "mcp.OneTimeTester": "One Time Tester",
+  "mcp.RepeatTester": "Repeat Tester",
+  "mcp.FrequentTester": "Frequent Tester",
+  "mcp.PickpocketerSingleplayerDescription": "Steals 5 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn.",
+  "mcp.PocketPlundererSingleplayerDescription": "Steals 8 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn."
 }

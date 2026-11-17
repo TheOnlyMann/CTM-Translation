@@ -454,12 +454,12 @@
     //tic tac toe (ttt)
 
       //tic tac toe card finish
-        "mcp.tic_tac_toe_complete": "%1$s завершил свою карту Бинго. После завершения текущего хода у игроков будет %2$s хода на завершение своих карт и сбор наград.", // 1: player, 2: number
-        "mcp.tic_tac_toe_complete.2": "%1$s завершил свою карту Бинго.", // 1: player, 2: number
+        "mcp.tic_tac_toe_complete": "%1$s завершил свою бинго-карту. После завершения текущего хода у игроков будет %2$s хода на завершение своих карт и сбор наград.", // 1: player, 2: number
+        "mcp.tic_tac_toe_complete.2": "%1$s завершил свою бинго-карту.", // 1: player, 2: number
 
       //tic tac toe new card
-        "mcp.tic_tac_toe_next_turn.1": "%1$s ходов до появления новой карты Бинго.", // 1: number
-        "mcp.tic_tac_toe_next_turn.2": "Появилась новая карта Бинго. Введите '/trigger TaskList', чтобы посмотреть вашу карту.", // 1: number
+        "mcp.tic_tac_toe_next_turn.1": "%1$s ходов до появления новой бинго-доски.", // 1: number
+        "mcp.tic_tac_toe_next_turn.2": "Появилась новая бинго-карта. Введите '/trigger TaskList', чтобы посмотреть вашу карту.", // 1: number
 
       //tic tac toe award
         "mcp.tic_tac_toe_award_stars":"%1$s получил %2$s защищённых Звёзд за завершение своей карты Бинго!",
@@ -475,7 +475,7 @@
         //full armor set progress
           "mcp.ttt_task17.progress":"(Ступни: %1$s/1) (Ноги: %2$s/1) (Грудь: %3$s/1)",
 
-        //player's tasks
+        //player's armor
           "mcp.tic_tac_toe_task_list.1": "Задания %1$s", // 1: player
       
       //tic tac toe tasks
@@ -486,13 +486,13 @@
           "mcp.tic_tac_toe_task.1": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task1
         
         //win star from a duel
-          "mcp.ttt_task2": "Выигрыш Звезды на дуэли",
+          "mcp.ttt_task2": "Выигрыш звезды на дуэли",
           "mcp.tic_tac_toe_task.2.2.hover": "Получите Звезду за победу в дуэли",
           "mcp.tic_tac_toe_task.2": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task2
         
         //be broke
           "mcp.ttt_task3": "Нищета",
-          "mcp.tic_tac_toe_task.3.2.hover": "В любой момент игры владейте 0 монет",
+          "mcp.tic_tac_toe_task.3.2.hover": "В любой момент игры владейте 0 монетами",
           "mcp.tic_tac_toe_task.3": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task3
         
         //exacto balance
@@ -521,7 +521,7 @@
           "mcp.tic_tac_toe_task.8": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task8
         
         //lose star or turn
-          "mcp.ttt_task9": "Потеря Звезды или хода",
+          "mcp.ttt_task9": "Потеря звезды или хода",
           "mcp.tic_tac_toe_task.9.2.hover": "Дождитесь кражи вашей Звезды или пропуска вашего хода",
           "mcp.tic_tac_toe_task.9": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task9
         
@@ -557,12 +557,12 @@
         
         //full suit
           "mcp.ttt_task16": "Полный комплект",
-          "mcp.tic_tac_toe_task.16.2.hover": "Соберите полный комплект новой брони одного типа",
+          "mcp.tic_tac_toe_task.16.2.hover": "Соберите новый полный комплект брони одного типа",
           "mcp.tic_tac_toe_task.16": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task16
         
         //mixed suit
-          "mcp.ttt_task17": "Различный комплект",
-          "mcp.tic_tac_toe_task.17.2.hover": "Соберите полный комплект новой брони разных типов",
+          "mcp.ttt_task17": "Неполный комплект",
+          "mcp.tic_tac_toe_task.17.2.hover": "Соберите полный комплект брони разных типов",
           "mcp.tic_tac_toe_task.17": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task17
         
         //exacto roll
@@ -581,7 +581,7 @@
           "mcp.tic_tac_toe_task.20": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task20
 
         //item discarder
-          "mcp.ttt_task21": "Мусорщик",
+          "mcp.ttt_task21": "Избавитель от предметов",
           "mcp.tic_tac_toe_task.21.2.hover": "Избавьтесь от 3-х предметов",
           "mcp.tic_tac_toe_task.21": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task21
         
@@ -596,8 +596,8 @@
           "mcp.tic_tac_toe_task.23": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task23
         
         //star refuser
-          "mcp.ttt_task24": "Отказчик Звёздам",
-          "mcp.tic_tac_toe_task.24.2.hover": "Пройдите мимо Звёздного торговца, не купив Звезду, но имея деньги на её покупку",
+          "mcp.ttt_task24": "Отказчик звёздам",
+          "mcp.tic_tac_toe_task.24.2.hover": "Пройдите мимо Звёздного торговца, не купив звезду, но имея деньги на её покупку",
           "mcp.tic_tac_toe_task.24": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task24
         
         //battle warrior
@@ -607,7 +607,7 @@
         
         //small team victory
           "mcp.ttt_task26": "Маленькая командная победа",
-          "mcp.tic_tac_toe_task.26.2.hover": "Победите в мини-игре %1$sv%2$s в из %1$s",
+          "mcp.tic_tac_toe_task.26.2.hover": "Победите в мини-игре %1$sv%2$s в качестве одного игрока/команды из %1$s",
           "mcp.tic_tac_toe_task.26": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task26
         
         //space swap
@@ -626,7 +626,7 @@
           "mcp.tic_tac_toe_task.29": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task29
         
         //self mini/binary dice
-          "mcp.ttt_task30": "Потихоньку",
+          "mcp.ttt_task30": "Не спеша",
           "mcp.tic_tac_toe_task.30.2.hover": "Примените на себя Мини-кубик/Двоичный кубик",
           "mcp.tic_tac_toe_task.30": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task30
 
@@ -646,8 +646,8 @@
           "mcp.tic_tac_toe_task.33": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task33
         
         //trap exhaust
-          "mcp.ttt_task34": "Истощение ловушки",
-          "mcp.tic_tac_toe_task.34.2.hover": "Истощите одну из ваших многоразовых ловушек",
+          "mcp.ttt_task34": "Ловушечное изнурение",
+          "mcp.tic_tac_toe_task.34.2.hover": "Истощите одну из ваших ловушек",
           "mcp.tic_tac_toe_task.34": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task34
         
         //trap evade
@@ -656,28 +656,28 @@
           "mcp.tic_tac_toe_task.35": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task35
         
         //single use star purchase
-          "mcp.ttt_task36": "Одноразовая покупка Звезды",
-          "mcp.tic_tac_toe_task.36.2.hover": "Купите Звезду у Одноразового звёздного торговца",
+          "mcp.ttt_task36": "Одноразовая покупка звезды",
+          "mcp.tic_tac_toe_task.36.2.hover": "Купите звезду у Одноразового звёздного торговца",
           "mcp.tic_tac_toe_task.36": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task36
         
         //in a circle
           "mcp.ttt_task37": "В кругу",
-          "mcp.tic_tac_toe_task.37.2.hover": "Pass the space that you start your turn on",
+          "mcp.tic_tac_toe_task.37.2.hover": "Пройдите мимо клетки, на которой начали ход",
           "mcp.tic_tac_toe_task.37": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task37
         
         //coin hoard
           "mcp.ttt_task38": "Запас монет",
-          "mcp.tic_tac_toe_task.38.2.hover": "Пройдите мимо магазина, ничего не купив, но имея свободное место для предмета и возможность купить любой предмет",
+          "mcp.tic_tac_toe_task.38.2.hover": "Пройдите мимо магазина, ничего не купив, но имея свободную ячейку для предмета и возможность купить любой предмет",
           "mcp.tic_tac_toe_task.38": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task38
         
         //richest in coins
           "mcp.ttt_task39": "Монетный богач",
-          "mcp.tic_tac_toe_task.39.2.hover": "В любой момент игры владейте наибольшим количеством монет",
+          "mcp.tic_tac_toe_task.39.2.hover": "Имейте на 10+ больше монет, чем у каждого противника",
           "mcp.tic_tac_toe_task.39": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task39
         
         //deep coin pockets
           "mcp.ttt_task40": "Полные карманы",
-          "mcp.tic_tac_toe_task.40.2.hover": "Владейте более 100 монет",
+          "mcp.tic_tac_toe_task.40.2.hover": "Соберите более 100 монет",
           "mcp.tic_tac_toe_task.40": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task40
         
         //win streak
@@ -702,7 +702,7 @@
         
         //coin robber
           "mcp.ttt_task45": "Похититель монет",
-          "mcp.tic_tac_toe_task.45.2.hover": "Получите 10+ монет на Испытании кражи монет",
+          "mcp.tic_tac_toe_task.45.2.hover": "Получите 10+ монет за одну попытку прохождения Испытания кражи монет",
           "mcp.tic_tac_toe_task.45": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task45
         
         //racer
@@ -727,21 +727,21 @@
         
         //random warp
           "mcp.ttt_task50": "Случайный телепорт",
-          "mcp.tic_tac_toe_task.50.2.hover": "Переместитесь с помощью случайного телепорта",
+          "mcp.tic_tac_toe_task.50.2.hover": "Переместитесь к случайному телепорту",
           "mcp.tic_tac_toe_task.50": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task50
         
         //shuffle loss
-          "mcp.ttt_task51": "Потеря на перемешке",
-          "mcp.tic_tac_toe_task.51.2.hover": "Активируйте событие перемешки и потеряйте на нём монеты или Звёзды",
+          "mcp.ttt_task51": "Потеря тасовки",
+          "mcp.tic_tac_toe_task.51.2.hover": "Активируйте событие перемешки и потеряйте на нём монеты или звёзды",
           "mcp.tic_tac_toe_task.51": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task51
         
         //poisoner
           "mcp.ttt_task52": "Отравитель",
-          "mcp.tic_tac_toe_task.52.2.hover": "Отравите Суповара",
+          "mcp.tic_tac_toe_task.52.2.hover": "Отравите зельевара",
           "mcp.tic_tac_toe_task.52": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task52
         
         //minion suction
-          "mcp.ttt_task53": "Засос приспешников",
+          "mcp.ttt_task53": "Присос приспешников",
           "mcp.tic_tac_toe_task.53.2.hover": "Заставьте приспешника переместиться по пурпурной трубе",
           "mcp.tic_tac_toe_task.53": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task53
         
@@ -752,7 +752,7 @@
         
         //give item to pablo
           "mcp.ttt_task55": "Передача предмета Пабло",
-          "mcp.tic_tac_toe_task.55.2.hover": "Дайте Пабло предмет в обмен на вложение большего количества монет",
+          "mcp.tic_tac_toe_task.55.2.hover": "Дайте Пабло предмет в обмен на реинвестицию большего количества монет",
           "mcp.tic_tac_toe_task.55": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task55
         
         //lose food thrice
@@ -762,17 +762,17 @@
         
         //fly away
           "mcp.ttt_task57": "Улёт",
-          "mcp.tic_tac_toe_task.57.2.hover": "Улетите на фантоме от острова с избушкой волшебника",
+          "mcp.tic_tac_toe_task.57.2.hover": "Прокатитесь на фантоме дважды",
           "mcp.tic_tac_toe_task.57": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task57
         
         //large haul
-          "mcp.ttt_task58": "Большой груз",
+          "mcp.ttt_task58": "Большая перетяжка",
           "mcp.tic_tac_toe_task.58.2.hover": "Доставьте 10+ подарков за один заход",
           "mcp.tic_tac_toe_task.58": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task58
         
         //ztar curse
-          "mcp.ttt_task59": "Проклятие Свезды",
-          "mcp.tic_tac_toe_task.59.2.hover": "Потеряйте Звезду из-за Свёздного торговца",
+          "mcp.ttt_task59": "Проклятие свезды",
+          "mcp.tic_tac_toe_task.59.2.hover": "Потеряйте звезду из-за Свёздного торговца",
           "mcp.tic_tac_toe_task.59": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task59
         
         //judged twice
@@ -786,8 +786,8 @@
           "mcp.tic_tac_toe_task.61": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task61
         
         //maxed equipment piece
-          "mcp.ttt_task62": "Максимальное улучшение",
-          "mcp.tic_tac_toe_task.62.2.hover": "Улучшите новую часть брони до максимального уровня",
+          "mcp.ttt_task62": "Максимально улучшенные части экипировки",
+          "mcp.tic_tac_toe_task.62.2.hover": "Улучшите новую часть экипировки до максимального уровня",
           "mcp.tic_tac_toe_task.62": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task62
         
         //doubles or triples
@@ -805,82 +805,82 @@
           "mcp.tic_tac_toe_task.65.2.hover": "Избавьтесь от Похитителя звёзд или Подделывателя звёзд",
           "mcp.tic_tac_toe_task.65": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task65
 
-        //three of a kind
+        //
           "mcp.ttt_task66": "Три в ряд",
-          "mcp.tic_tac_toe_task.66.2.hover": "Владейте 3-мя одинаковыми предметами одновременно (не зависит от улучшения)",
+          "mcp.tic_tac_toe_task.66.2.hover": "Владейте 3-мя одинаковыми предметами одновременно (улучшение не влияет)",
           "mcp.tic_tac_toe_task.66": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
 
-        //lose item
+        //
           "mcp.ttt_task67": "Потеря предмета",
           "mcp.tic_tac_toe_task.67.2.hover": "Потеряйте предмет любым способом, не избавляясь от него",
           "mcp.tic_tac_toe_task.67": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
 
-        //coin collector
+        //
           "mcp.ttt_task68": "Нумизмат",
           "mcp.tic_tac_toe_task.68.2.hover": "Получите 30+ монет за один ход, не активировав мини-игру",
           "mcp.tic_tac_toe_task.68": "%1$s завершил %2$s", // 1: player, 2: mcp.ttt_task6
 
-        //double switch
+        //
           "mcp.ttt_task69": "Вкл-выкл",
           "mcp.tic_tac_toe_task.69.2.hover": "Переключите светофоры дважды за один ход",
           "mcp.tic_tac_toe_task.69": "%1$s завершил %2$s",
 
-        //adventurer
+        //
           "mcp.ttt_task70": "Приключенец",
           "mcp.tic_tac_toe_task.70.2.hover": "Пройдите любой квест",
           "mcp.tic_tac_toe_task.70": "%1$s завершил %2$s",
 
-        //lighthouse strike
+        //
           "mcp.ttt_task71": "Маяковый прилёт",
-          "mcp.tic_tac_toe_task.71.2.hover": "Поразите хоты бы двух игроков одним выстрелом из пушки",
+          "mcp.tic_tac_toe_task.71.2.hover": "Одновременно поразите двух игроков выстрелом из пушки",
           "mcp.tic_tac_toe_task.71": "%1$s завершил %2$s",
 
-        //bews guest
+        //
           "mcp.ttt_task72": "Постоялец Пчела",
           "mcp.tic_tac_toe_task.72.2.hover": "Посетите Пчела дважды",
           "mcp.tic_tac_toe_task.72": "%1$s завершил %2$s",
 
-        //megastar bundle
+        //
           "mcp.ttt_task73": "Суперзвёздный набор",
           "mcp.tic_tac_toe_task.73.2.hover": "Купите 5 Звёзд за раз",
           "mcp.tic_tac_toe_task.73": "%1$s завершил %2$s",
 
-        //expedition
+        //
           "mcp.ttt_task74": "Экспедиция",
           "mcp.tic_tac_toe_task.74.2.hover": "Пройдите все испытания доски",
           "mcp.tic_tac_toe_task.74": "%1$s завершил %2$s",
 
-        //secret diner
+        //
           "mcp.ttt_task75": "Секретная забегаловка",
           "mcp.tic_tac_toe_task.75.2.hover": "Вложите монеты в 5-й участок",
           "mcp.tic_tac_toe_task.75": "%1$s завершил %2$s",
 
-        //fast magic
+        //
           "mcp.ttt_task76": "Дешёвые трюки",
-          "mcp.tic_tac_toe_task.76.2.hover": "Примените два заклинания за один ход",
+          "mcp.tic_tac_toe_task.76.2.hover": "Примените два испытания за ход",
           "mcp.tic_tac_toe_task.76": "%1$s завершил %2$s",
 
-        //present reclaimer
+        //
           "mcp.ttt_task77": "Возврат подарков",
           "mcp.tic_tac_toe_task.77.2.hover": "Соберите 5+ подарков в Испытании пещеры Гринча",
           "mcp.tic_tac_toe_task.77": "%1$s завершил %2$s",
 
-        //not a scratch
+        //
           "mcp.ttt_task78": "Без единой царапины",
           "mcp.tic_tac_toe_task.78.2.hover": "Пройдите храм без потери здоровья",
           "mcp.tic_tac_toe_task.78": "%1$s завершил %2$s",
 
-        //soul cleanse
+        //
           "mcp.ttt_task79": "Очищение души",
-          "mcp.tic_tac_toe_task.79.2.hover": "Пожертвуйте 5 Отрицательной кармы за раз в Спиритической комнате",
+          "mcp.tic_tac_toe_task.79.2.hover": "Пожертвуйте 5 Отрицательной кармы в Спиритической комнате",
           "mcp.tic_tac_toe_task.79": "%1$s завершил %2$s",
 
-        //challenge mastery
+        //
           "mcp.ttt_task80": "Настоящее мастерство",
           "mcp.tic_tac_toe_task.80.2.hover": "Пройдите любое испытание дважды",
           "mcp.tic_tac_toe_task.80": "%1$s завершил %2$s",
 
-        //rainbow lander
+        //
           "mcp.ttt_task81": "Радужный наступатель",
           "mcp.tic_tac_toe_task.81.2.hover": "Наступите на все клетки уникальных цветов",
           "mcp.tic_tac_toe_task.81": "%1$s завершил %2$s",
@@ -3060,7 +3060,7 @@
           "mcp.player_swiper_description.1.3": "20 монет",
     
         //player swiper use
-          "mcp.player_swiper_tick.1": "Предметы, которые можно украсть: %1$s%2$s%3$s%4$s%5$s%6$s%7$s%8$s%9$s%10$s%11$s%12$s%13$s%14$s%15$s%16$s%17$s%18$s%19$s%20$s%21$s%22$s%23$s%24$s%25$s%26$s%27$s%28$s%29$s%30$s%31$s%32$s%33$s%34$s%35$s%36$s%37$s%38$s%39$s%40$s%41$s%42$s%43$s", // 1: entity, 2: entity, 3: entity, 4: entity, 5: entity, 6: entity, 7: entity, 8: entity, 9: entity, 10: entity, 11: entity, 12: entity, 13: entity, 14: entity, 15: entity, 16: entity, 17: entity, 18: entity, 19: entity, 20: entity, 21: entity, 22: entity, 23: entity, 24: entity, 25: entity, 26: entity, 27: entity, 28: entity, 29: entity, 30: entity, 31: entity, 32: entity, 33: entity, 34: entity, 35: entity, 36: entity, 37: entity, 38: entity, 39: entity, 40: entity, 41: entity, 42: entity, 43: entity
+          "mcp.player_swiper_tick.1": "Предметы, которые можно украсть: %1$s", // 1: entity
     
           "mcp.player_swiper_tick.2": "Предметы, которые можно украсть: %1$s", // 1: mcp.player_swiper_tick.2.1
           "mcp.player_swiper_tick.2.1": "Никакие",
@@ -3457,7 +3457,7 @@
           "mcp.GoodieBag": "Мешок со всячиной",
 
         //goodie bag description
-          "mcp.GoodieBagDescription": "Моментально даёт вам три случайных предмета. Может дать любые предметы, кроме Похитителей звёзд, Безумных часов и Купонов удвоения/утроения звёзд.",
+          "mcp.GoodieBagDescription": "Моментально даёт вам три случайных предмета. Может дать любые предметы, кроме Похитителей звёзд, Безумных часов и Купонов утроения звёзд.",
           "mcp.goodie_bag_description.1": "%1$s%2$s%3$s Можно купить в магазине.\nЦена: %4$s", // 1: mcp.GoodieBag, 2: ": ", 3: mcp.GoodieBagDescription, 4: mcp.goodie_bag_description.1.3
           "mcp.goodie_bag_description.1.3": "30 монет",
 
@@ -3498,7 +3498,7 @@
           "mcp.TreasureBagTextDisplay": "Мешок с сокровищами",
 
         //treasure bag description
-          "mcp.TreasureBagDescription": "Моментально даёт вам три случайных улучшенных предмета. Может дать любые предметы, кроме Подделывателей звёзд, Часов с кукушкой и Купонов удвоения/утроения звёзд.",
+          "mcp.TreasureBagDescription": "Моментально даёт вам три случайных улучшенных предмета. Может дать любые предметы, кроме Подделывателей звёзд, Часов с кукушкой и Купонов утроения звёзд.",
           "mcp.treasure_bag_description.1": "%1$s%2$s%3$s Можно купить в магазине.\nЦена: %4$s", // 1: mcp.TreasureBag, 2: ": ", 3: mcp.TreasureBagDescription, 4: mcp.treasure_bag_description.1.3
           "mcp.treasure_bag_description.1.3": "30 монет",
 
@@ -3773,7 +3773,7 @@
           "mcp.next_turn.12.2.hover": "%1$s%2$s монет у всех игроков, мимо которых владелец проходит на доске, а также у всех проходящих мимо него игроков. Пропадает после 3-х ходов.", // 1: mcp.PickpocketerDescription1, 2: score
     
         //pocket plunderer use
-          "mcp.pocket_plunderer.1": "%1$s активировал %2$s%3$s", // 1: player, 2: mcp.PocketPlunderer, 3: mcp.exclamation_mark
+          "mcp.pocket_plunderer.1": "%1$s активировал %2$s!", // 1: player, 2: mcp.PocketPlunderer
           "mcp.pocket_plunderer.2": "Ваш %1$s закончится через %2$s хода.", // 1: mcp.PocketPlunderer, 2: score
 
           "mcp.next_turn.10": "%2$s игрока %1$s закончится через %3$s хода.", // 1: player, 2: mcp.PocketPlunderer, 3: score
@@ -6071,12 +6071,12 @@
           "mcp.ssendjump.1": "Стив не сказал подпрыгнуть",
         
         //go off the problem
-          "mcp.ssnexttask2.15": "Стив сказал спрыгнуть с платформы",
+          "mcp.ssnexttask2.15": "Стив сказал посмотреть на потолок",
 
-          "mcp.ssnexttask2.16": "Спрыгните с платформы",
-          "mcp.ssnexttask2.17": "Спрыгните с платформы",
+          "mcp.ssnexttask2.16": "Посмотрите на потолок",
+          "mcp.ssnexttask2.17": "Посмотрите на потолок",
 
-          "mcp.ssendjumpop.1": "Стив не сказал спрыгнуть с платформы",
+          "mcp.ssendjumpop.1": "Стив не сказал посмотреть на потолок",
         
         //click the sign one time 
           "mcp.ssnexttask2.18": "Стив сказал нажать на табличку один раз",
@@ -6111,12 +6111,12 @@
           "mcp.ssenddrop.1": "Стив не сказал выбросить этот предмет",
         
         //eat 2 cake slices
-          "mcp.ssnexttask2.33": "Стив сказал съесть ровно 2 куска торта",
+          "mcp.ssnexttask2.33": "Стив сказал встать на стол",
 
-          "mcp.ssnexttask2.34": "Съешьте ровно 2 куска торта",
-          "mcp.ssnexttask2.35": "Съешьте ровно 2 куска торта",
+          "mcp.ssnexttask2.34": "Встаньте на стол",
+          "mcp.ssnexttask2.35": "Стив сказал встать на стол",
 
-          "mcp.ssendeatcake.1": "Стив не сказал съесть торт",
+          "mcp.ssendeatcake.1": "Стив не сказал встать на стол",
           "mcp.ssendeatcake.2": "Вы съели не то количество кусков торта.",
         
         //drop x concrete
@@ -6660,7 +6660,7 @@
 
           "mcp.mpiq_new_question.43": "%1$s У кого был самый короткий ход?", // 1: mcp.mpiq_new_question.43.1
           "mcp.mpiq_new_question.44": "%1$s У кого был самый длинный ход?", // 1: mcp.mpiq_new_question.44.1
-          "mcp.mpiq_new_question.45": "%1$sHow long has the game lasted for?", // 1: mcp.Question_
+          "mcp.mpiq_new_question.45": "%1$s Сколько продлилась игра?", // 1: mcp.mpiq_new_question.45.1
           "mcp.mpiq_new_question.46": "%1$s Какие ботинки носит %2$s?", // 1: mcp.mpiq_new_question.46.1, 2: player
           "mcp.mpiq_new_question.47": "%1$s Какие поножи носит %2$s?", // 1: mcp.mpiq_new_question.47.1, 2: player
           "mcp.mpiq_new_question.48": "%1$s Какой нагрудник носит %2$s?", // 1: mcp.mpiq_new_question.48.1, 2: player
@@ -8525,9 +8525,9 @@
         "mcp.increment_turn_bar.8": "Первый до %1$s Звезд(ы)", // 1: score
 
         "mcp.update_turn_bar.1": "%1$s %2$s/%3$s %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
-        "mcp.update_turn_bar.2": "%1$s %2$s/%3$s %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
-        "mcp.update_turn_bar.3": "%1$s %2$s — %3$s%4$s §a§lЗвёзд§r§r %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
-        "mcp.update_turn_bar.4": "%1$s %2$s — %3$s%4$s §a§lЗвёзд§r§r %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
+        "mcp.update_turn_bar.2": "%1$s %2$s/%3$s  %4$s", // 1: mcp.TurnBossbar, 2: score, 3: score, 4: entity
+        "mcp.update_turn_bar.3": "%1$s %2$s — %3$s%4$s §a§lЗвёзд§r§r  %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
+        "mcp.update_turn_bar.4": "%1$s %2$s — %3$s%4$s §a§lЗвёзд§r§r  %6$s", // 1: mcp.TurnBossbar, 2: score, 3: mcp.SignFirstTo, 4: score, 5: mcp.Stars, 6: entity
 
       //guidebook
         "mcp.Guidebook": "§c§lО§6§l§lб§e§lу§a§lч§2§lе§b§lн§9§lи§5§lе§d§l", //item name
@@ -15290,7 +15290,7 @@
     "mcp.leave_team.6": "Вы вышли из %1$s команды", // 1: mcp.Tan
     "mcp.Tan": "Бежевой",
 
-    "mcp.leave_team.7": "Вы вышли из %1$s", // 1: selectWorld.gameMode.spectator
+    "mcp.leave_team.7": "Вы больше не %1$s", // 1: selectWorld.gameMode.spectator
 
     //colors in solo gamemodes
 
@@ -17356,10 +17356,383 @@
     "mcp.end_podium_end.9": "заставок»:",
     "mcp.DarkPurple": "Фиолетовый",
     "mcp.X_Coins": "%1$s монет", // 1: score
+    "mcp.TaskCard":"Карта заданий",
+    "mcp.TaskRewardHover1":"Это значение — примерно ~40% от числа Звёзд, полученных на доске с момента создания карты Бинго (минимум — 4)",
+    "mcp.TaskRewardHover2":"Это значение — примерно ~30% от числа Звёзд, полученных на доске с момента создания карты Бинго (минимум — 3)",
+    "mcp.TaskRewardHover3":"Это значение — примерно ~20% от числа Звёзд, полученных на доске с момента создания карты Бинго (минимум — 2)",
+    "mcp.TaskRewardHover4":"Это значение — примерно ~10% от числа Звёзд, полученных на доске с момента создания карты Бинго (минимум — 1)",
+    "mcp.BlackSpacesLandedOn":"Чёрных клеток активировано\n\n",
+    "mcp.battle_minigame.8.1":"3-е место",
+    "mcp.MmnNetherite":"Незерит",
+    "mcp.tic_tac_toe_list.1":"Прогресс: завершено %1$s линий из %2$s",
+    "mcp.give_game_stats.29": "Бегуна",
+    "mcp.lush_crater_approach_star_seller1": "%1$s Привет! Скрипуны в последнее время ведут себя довольно скромно. Из-за этого, %2$s будут стоить по %3$s %4$s за штуку.",
+    "mcp.lush_crater_approach_star_seller2": "%1$s Привет! Скрипуны в последнее время сильно разбушевались в нашей деревне. Из-за этого, %2$s будут стоить по %3$s %4$s за штуку.",
+    "mcp.FreeForAlls":"Мини-игры потасовки",
+    "mcp.CoinMinigames":"Монетные мини-игры",
+    "mcp.CoinsFrom_":"\n\nМонет за: ",
+    "mcp.Spaces":"Клетки",
+    "mcp.GreenEvents":"Зелёные события",
+    "mcp.Challenges":"Испытания",
+    "mcp.StatsStarTransactions":"Звёздные покупки",
+    "mcp.SpentInShops":"Потрачено в магазинах",
+    "mcp.Miscellaneous":"Прочее",
+    "mcp.Equipment":"Экипировка",
+    "mcp.BonusStarsRolled":"Дополнительных звёзд получено (наведитесь)",
+    "mcp.ss_picnic_tick.6": "Бросьте предметы в корзину.",
+    "mcp.RicksChestShop": "Магазинчик сундуков Рика",
+    "mcp.NicksBarrelShop": "Магазинчик бочек Ника",
+    "mcp.RicksChestShopPrice": "%1$s 1 ключ от сундука: 5 %2$s %3$s\nСодержимое бочки: 0-25 %2$s %3$s", // 1: key icon, 2: mcp.Coins, 3: coins icon
+    "mcp.NicksBarrelShopPrice": "%1$s 1 ключ от бочки: %2$s %3$s %4$s\nСодержимое бочки: 50%% шанс получения %5$s %6$s", // 1: key icon, 2: score, 3: mcp.Coins, 4: coins icon, 5: mcp.Star, 6: star icon
+    "mcp.Available": "Доступен",
+    "mcp.Sold": "Продан",
+    "mcp.KeyAAvailability": "%1$s Ключ A: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.KeyBAvailability": "%1$s Ключ B: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.KeyCAvailability": "%1$s Ключ C: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.KeyDAvailability": "%1$s Ключ D: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.KeyEAvailability": "%1$s Ключ E: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.KeyFAvailability": "%1$s Ключ F: %2$s", // 1: key icon, 2: mcp.Available/mcp.Sold
+    "mcp.pass_colored_spot.36": "%1$sЭй, чёртов бродяга! Хочешь %2$s за 20 %3$s?",
+    "mcp.GamblingPost": "Ставочного столба",
+    "mcp.MagentaSpacesBoardCutscene": "\nПурпурные клетки>",
+      "mcp.magenta": "пурпурные",
+    "mcp.courtyard_cutscene.1": "%1$s%2$s — это компактная доска внутри замка с механиками азартных ставок.", // 1: mcp.Info, 2: mcp.Courtyard1, 3: mcp.Courtyard2
+    "mcp.courtyard_cutscene.2": "%1$s На этой доске вы сможете делать ставки на исход следующей мини-игры. Пройдя мимо %2$s, вы сможете выбрать следующую мини-игру и поставить на неё. Это действие увеличит награду для победителя этой мини-игры. Остальным тоже придётся заплатить небольшую часть своих %3$s!", // 1: mcp.courtyard_cutscene.2.1, 2: mcp.GamblingPost, 3: mcp.Coins
+    "mcp.courtyard_cutscene.2.1": "\nСтавочные столбы>",
+    "mcp.courtyard_cutscene.3": "%1$s Внутри дерева посредине карты располагается игровой автомат. Если сможете выбить 3 одинаковых предмета в ряд, то получите %2$s.", // 1: mcp.courtyard_cutscene.3.1, 2:mcp.Coins
+    "mcp.courtyard_cutscene.3.1": "\nИгровой автомат>",
+    "mcp.courtyard_cutscene.4": "%1$s Проходя мимо Испытания точного выстрела, вы сможете получить %2$s за ваши навыки стрельбы из лука!", // 1: mcp.courtyard_cutscene.4.1, 2:mcp.Coins
+    "mcp.courtyard_cutscene.4.1": "\nТочный выстрел>",
+    "mcp.courtyard_cutscene.5": "%1$s Все %2$s клетки стоят на развилках и имеют ворота с пошлиной, перекрывающие один из путей. Ворота открываются за 5 %3$s. Попадание на %2$s клетки перемещает ворота на другой проход.", // 1: mcp.MagentaSpacesBoardCutscene, 2: mcp.magenta, 3: mcp.Coins
+    "mcp.courtyard_cutscene.6": "%1$s Уникальная звезда для этой доски даётся игроку, поставившему наибольшее количество %2$s.",
+    "mcp.courtyard_cutscene.6.1": "\nСтавочная звезда>",
+    "mcp.Nite": "Нит",
+    "mcp.gambling_post_approach": "%1$s> Йо, %2$s! Хочешь рискнуть и поставить на следующую мини-игру? Ты сможешь выбрать одну из 3-х случайных мини-игр. Ты положишь в казну 6 %3$s, а остальные — по 2 %3$s. Победитель следующей мини-игры получит всю казну, в дополнение к своей обычной награде. Если за один ход поставит несколько игроков, казна увеличится, а мини-игра будет выбрана случайно (из выбранных поставившими игроками).", // 1: mcp.NIte, 2: player, 3: mcp.Coins
+    "mcp.courtyard_shop_approach": "%1$s Эй! Глянь сюда! У меня могло заваляться что-то тебе нужное!", // 1: mcp.Merchant
+    "mcp.courtyard_gambling_post_short_on_coins": "У вас недостаточно монет для ставки на мини-игру.",
+    "mcp.betting_select1": "Выбранная мини-игра: %1$s", // 1: minigame name
+    "mcp.Fletch": "Перро",
+    "mcp.courtyard_skill_shot_approach": "%1$s> Думаешь, ты достаточно умел ддя прохождения моего испытания? За 5 %2$s я дам тебе лук и 2 стрелы. Если сможешь попасть в летающую цель, я награжу тебя 20 %2$s!", // 1: mcp.Fletch, 2: mcp.Coins
+    "mcp.courtyard_betting_pot_status": "Прямо сейчас в ставочной казне лежит %1$s %2$s. Они уйдут победителю следующей мини-игры!", // 1: score, 2: mcp.Coins
+    "mcp.format_hours_and_minutes": "%1$sч %2$sм",
+    "mcp.ravager_rodeo_team_mode_rules.1": "%1$s и %2$s будут ездить на разорителях. Цель %1$s — первым выбросить %4$s с арены, также как и цель %3$s — выбросить с арены %2$s.",
+    "mcp.ravager_rodeo_team_mode_rules.2": "%1$s и %2$s будут ездить на разорителях. Их цель — выбросить всех игроков команды противника с арены до того, как игроки из их команды будут выброшены сами.",
+    "mcp.ravager_rodeo_team_mode_rules.3": "У %1$s и %2$s будет способность совершить рывок, отправляя разорителя с огромной скоростью по прямой линии, в направлении взгляда наездника. Все бегуны на пути движения разорителя вылетят с арены.",
+    "mcp.ravager_rodeo_team_mode_rules.4": "Команда, которая первой потеряет всех своих бегунов (игроков не на разорителях), проиграет.",
+    "mcp.ttt_task82": "Получатель казны",
+    "mcp.ttt_task83": "Toll Taxes",
+    "mcp.tic_tac_toe_task.82.2.hover": "Победите в мини-игре, на которую сделали ставку",
+    "mcp.tic_tac_toe_task.82": "%1$s завершил %2$s",
+    "mcp.tic_tac_toe_task.83.2.hover": "Заплатите %1$s пошлин",
+    "mcp.tic_tac_toe_task.83": "%1$s завершил %2$s",
+    "mcp.weapon_devolution_tick.2":"%1$s получил убийство с помощью последнего оружия!",
+    "mcp.tedious_tasks_team_mode_rules.1": "Вместе с союзником как можно быстрее выполните 8 заданий.",
+    "mcp.tedious_tasks_team_mode_rules.2": "Вы и ваш союзник будете выполнять одновременно и независимо друг от друга выполнять различные задания.",
+    "mcp.tedious_tasks_team_mode_rules.3": "После выполнения задания, вы получите новое задание из списка заданий, ещё не выполненных вашей командой.",
+    "mcp.tedious_tasks_team_mode_rules.4": "Ваши задания будут отображаться в чате.",
+    "mcp.tedious_task_team_mode_final_task": "%1$sПомогите своему союзнику выполнить последние задание.",
+    "mcp.advancement.secret_map.title": "Секретная карта",
+    "mcp.advancement.secret_map.description": "Разблокируйте секретную карту в хабе",
+    "mcp.minigame_death": "%1$s погиб!",
+    "mcp.bomber_brigade": "Бригада бомбардёров",
+    "mcp.bomber_brigade.1": "Взрывайте других игроков бомбами!",
+    "mcp.bomber_brigade.2": "После взрыва бомбы остаётся огонь.",
+      "mcp.bomber_brigade.3": "Попадание в огонь убивает. Останьтесь последним выжившим.",
+      "mcp.bomber_brigade.4": "Осторожно! Огненная граница будет медленно сужаться вокруг арены.",
+      "mcp.bomber_brigade.5": "В этой игре есть четыре вида бомб, делающих следующее:",
+      "mcp.bomber_brigade.6": "%1$s: Получается один заряд раз в пять секунд (максимум — 5). %2$s\n%3$s: Находится на арене. %4$s\n%5$s: Находится на арене. %6$s\n%7$s: Находится на арене. %8$s", // 1: mcp.WallBreaker, 2: mcp.WallBreakerDescription, 3: mcp.FireCarpetBomb, 4: mcp.FireCarpetBombDescription, 5: mcp.SoulFireDynamite, 6: mcp.SoulFireDynamiteDescription, 7: mcp.HeatSeekingMine, 8: mcp.HeatSeekingMineDescription
+      "mcp.bomber_brigade.7": "Все бомбы взрываются через три секунды после установки.",
+      "mcp.WallBreaker": "Крушитель стен",
+      "mcp.WallBreakerDescription": "Разрушает стены неподалёку и  на 3 секунды оставляет за собой небольшой огненный круг.",
+      "mcp.FireCarpetBomb": "Ковровая бомба",
+      "mcp.FireCarpetBombDescription": "На 5 секунд оставляет за собой большой огненный круг.",
+      "mcp.SoulFireDynamite": "Динамит душ",
+      "mcp.SoulFireDynamiteDescription": "На 30 секунд оставляет за собой небольшое кольцо из огня душ.",
+      "mcp.HeatSeekingTNT": "Теплонаводящийся динамит",
+      "mcp.HeatSeekingTNTDescription": "Отыскивает ближайшего противника для подрыва.",
+      "mcp.JonikStage2": "Программист",
+      "mcp.JonikStage3": "Строитель",
+      "mcp.JonikStage4": "(частый тестер)",
+      "mcp.SkillShot": "Точного выстрела",
+      "mcp.skill_shot_challenge_win": "%1$s прошёл испытание %2$s и получил 15 %3$s (в плюсе на 10)!",
+      "mcp.skill_shot_challenge_lose": "%1$s не прошёл испытание %2$s.",
+      "mcp.secret_map.title":"Секретная карта",
+  "mcp.award_gamble_star.2":"%1$s даётся игроку, поставившему наибольшее количество монет.",
+  "mcp.award_gamble_star.3":"%1$s даётся команде, поставившей наибольшее количество монет.",
+  "mcp.award_gamble_star.2.1":"Ставочная звезда",
+  "mcp.award_gamble_star.3.1":"Ставочная звезда",
+  "mcp.award_gamble_star.4":"Игрок, поставивший наибольшее количество монет, — это...",
+  "mcp.award_gamble_star.5":"Команда, поставившая наибольшее количество монет, — это...",
+  "mcp.award_gamble_star.6":"%1$s %2$s %3$s монетами!",
+  "mcp.award_gamble_star.6.1":"с",
+  "mcp.award_gamble_star.7":"Не определена! Обе команды поставили одинаковое количество монет.",
+  "mcp.award_gamble_star.8":"Фиолетовая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.9":"Зеленоватая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.10":"Розовая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.11":"Бежевая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.8.1":"с",
+  "mcp.award_gamble_star.9.1":"с",
+  "mcp.award_gamble_star.10.1":"с",
+  "mcp.award_gamble_star.11.1":"с",
+  "mcp.award_gamble_star.12":"Не определена! Несколько команд поставили одинаковое количество монет.",
+  "mcp.award_gamble_star.13":"Золотая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.14":"Голубая команда %1$s %2$s%3$s",
+  "mcp.award_gamble_star.15":"Не определён! Несколько игроков поставили одинаковое количество монет.",
+  "mcp.award_gamble_star.13.1":"с",
+  "mcp.award_gamble_star.14.1":"с",
+  "mcp.award_gamble_star.13.2":" монетами!",
+  "mcp.award_gamble_star.14.2":" монетами!",
+  "mcp.award_gamble_star.8.2":" монетами!",
+  "mcp.award_gamble_star.9.2":" монетами!",
+  "mcp.award_gamble_star.10.2":" монетами!",
+  "mcp.award_gamble_star.11.2":" монетами!",
+  "mcp.bet_reward_coins": "%1$s получил дополнительные %2$s %3$s из ставочной казны.",
+  "mcp.courtyard_toll_not_enough_coins": "Извини, у тебя недостаточно %1$s для прохождения через эти ворота!",
+  "mcp.Courtyard": "Внутренний двор",
+  "mcp.board_explanation.29": "Доска %1$s была создана: %2$s",
+  "mcp1_board_explanation_verview": "%1$s — это доска, созданная для Minecraft Party 1 в версии 1.17.1. Эта рекреация была сделана с целью повторить оригинал, но добавляя новые штучки из Minecraft Party 2.",
+  "mcp.SignYlaComaStage2": "",
+  "mcp.SignYlaComaStage3": "Строитель",
+  "mcp.SignYlaComaStage4": "(тестер)",
+  "mcp.SignYlaComaTellraw": "Построил арену Лесного особняка для Пряток",
+  "mcp.return_to_hub_tip": "Залетите в центр хаба, чтобы вернуться в режим приключений.",
+  "mcp.lost_city_star_cost_sign": "Цена %1$s:",
+  "mcp.Steve": "Стив",
+    "mcp.CenterPark": "Центральный парк",
+  "mcp.AirborneIsles": "Парящие острова",
+  "mcp.PortTown": "Портовый городок",
+  "mcp.LostCity": "Затерянный город",
+  "mcp.Candyland": "§c§lК§f§lо§c§lн§f§lф§c§lе§f§lт§c§lн§f§lа§c§lя §f§lс§c§lт§f§lр§c§lа§f§lн§c§lа",
+  "mcp.PacMaze": "Лабиринт Пака",
+  "mcp.ZenGarden": "Сад дзен",
+  "mcp.MooshroomGrotto": "Грибной грот",
+  "mcp.PipeCanyon": "Трубчатый каньон",
+  "mcp.RhythmicRoom": "Комната ритма",
+  "mcp.SuburbiaScramble": "Районные схватки",
+  "mcp.LoftyLuncheon": "Обеденный лофт",
+  "mcp.ArcaneAtoll": "Таинственный остров",
+  "mcp.PresentPalace": "§2§lД§4§lв§2§lо§4§lр§2§lе§4§lц §2§lп§4§lо§2§lд§4§lа§2§lр§4§lк§2§lо§4§lв",
+  "mcp.DustyDunes": "Пыльные дюны",
+  "mcp.FortSuits": "§0§lЗ§c§lа§0§lм§c§lо§0§lк §c§lм§0§lа§c§lс§0§lт§c§lе§0§lй",
+  "mcp.CrazyCarnival": "Безумный карнавал",
+  "mcp.LushCrater": "Пышный кратер",
+  "mcp.CenterParkBuildCredit": "Построен %1$s",
+  "mcp.AirborneIslesBuildCredit": "Построены %1$s",
+  "mcp.PortTownBuildCredit": "Построен %1$s",
+  "mcp.LostCityBuildCredit": "Построен %1$s",
+  "mcp.CandylandBuildCredit": "Построена %1$s и %1$s",
+  "mcp.PacMazeBuildCredit": "Построен %1$s и %2$s",
+  "mcp.ZenGardenBuildCredit": "Построен %1$s, %2$s, %3$s и %4$s",
+  "mcp.MooshroomGrottoBuildCredit": "Построен %1$s",
+  "mcp.PipeCanyonBuildCredit": "Построен %1$s, %2$s и %3$s",
+  "mcp.RhythmicRoomBuildCredit": "Построена %1$s, %2$s и %3$s",
+  "mcp.SuburbiaScrambleBuildCredit": "Построены %1$s",
+  "mcp.LoftyLuncheonBuildCredit": "Построен командой строителей %1$s",
+  "mcp.ArcaneAtollBuildCredit": "Построен %1$s и %2$s",
+  "mcp.PresentPalaceBuildCredit": "Построен %1$s",
+  "mcp.DustyDunesBuildCredit": "Построены %1$s",
+  "mcp.FortSuitsBuildCredit": "Построен командой строителей %1$s",
+  "mcp.CrazyCarnivalBuildCredit": "Построен %1$s",
+  "mcp.LushCraterBuildCredit": "Построен %1$s",
+  "mcp.CourtyardBuildCredit": "Построен %1$s и %2$s",
+  "mcp.Key1": "Ключ 1",
+  "mcp.Key2": "Ключ 1",
+  "mcp.Key3": "Ключ 3",
+      "mcp.ResinClumpCountText" : "Количество смолы: %1$s%2$s",
+      "mcp.ResinClumpAccumulateText": "Новый сгусток смолы появится здесь в начале следующего хода %1$s",
+      "mcp.lush_crater_star_cost_text.1": "1 %1$s:        %2$s %3$s", // 1:mcp.Star, 2: score, 3: mcp.Coins
+      "mcp.lush_crater_star_cost_text.2": "2 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+      "mcp.lush_crater_star_cost_text.3": "3 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+      "mcp.ResinClumps": "Сгустков смолы",
+      "mcp.LushCraterTreeStumpEvent": "%1$s собрал %2$s %3$s с древесного пня!", // 1: player, 2: score, 3: mcp.ResinClumps
+      "mcp.LushCraterMudEvent": "%1$s прорылся сквозь грязь и нашёл %2$s %3$s!", // 1: player, 2: score, 3: mcp.Coins
+      "mcp.MudCoinsCountText": "%1$s %2$s потеряно в грязи: %3$s%4$s", // 1: mud icon, 2: mcp.Coins, 3: score, 4: coin icon
+      "mcp.LushCraterPassMud": "%1$s уронил %2$s %3$s в грязь.", // 1: player, 2: score, 3: mcp.Coins
+      "mcp.DiceMagnet": "Кубиковый магнит",
+  "mcp.8LeafClover": "8-листный клевер",
+  "mcp.RareGem": "Редкий самоцвет",
+  "mcp.CelestialCharm": "Небесный талисман",
+  "mcp.MysticIdol": "Загадочный идол",
+  "mcp.GoldPan": "Золотая сковорода",
+  "mcp.HoboSack": "Мешок бродяги",
+  "mcp.DiceMagnetDescription": "Взвешивает все броски обычного кубика, повышая шанс выбросить бо́льшие числа.",
+  "mcp.8LeafCloverDescription": "Обращает эффект красных и чёрных клеток вспять.",
+  "mcp.RareGemDescription": "Верните Главе деревни, чтобы получить 50 монет.",
+  "mcp.CelestialCharmDescription": "С 75% шансом даёт Осколок звезды в конце хода игрока.",
+  "mcp.MysticIdolDescription": "Увеличивает шанс выпадения улучшенных предметов у владельца на 25%.",
+  "mcp.GoldPanDescription": "Даёт 3 монеты в начале каждого хода.",
+  "mcp.HoboSackDescription": "Забирает одну ячейку для предметов и даёт две дополнительных. Неплохо, не правда ли?",
+      "mcp.too_many_items_tick.68" : "%1$s избавился от %2$s", // 1: player, 2: mcp.DiceMagnet
+  "mcp.too_many_items_tick.69" : "%1$s избавился от %2$s", // 1: player, 2: mcp.8LeafClover
+  "mcp.too_many_items_tick.70" : "%1$s избавился от %2$s", // 1: player, 2: mcp.RareGem
+  "mcp.too_many_items_tick.71" : "%1$s избавился от %2$s", // 1: player, 2: mcp.CelestialCharm
+  "mcp.too_many_items_tick.72" : "%1$s избавился от %2$s", // 1: player, 2: mcp.MysticIdol
+  "mcp.too_many_items_tick.73" : "%1$s избавился от %2$s", // 1: player, 2: mcp.GoldPan
+  "mcp.too_many_items_tick.74" : "%1$s избавился от %2$s", // 1: player, 2: mcp.HoboSack
+  "mcp.give_random_item.66": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.DiceMagnet
+  "mcp.give_random_item.67": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.8LeafClover
+  "mcp.give_random_item.68": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.RareGem
+  "mcp.give_random_item.69": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.CelestialCharm
+  "mcp.give_random_item.70": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.MysticIdol
+  "mcp.give_random_item.71": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.GoldPan
+  "mcp.give_random_item.72": "%1$s дал %2$s %3$s!", // 1: player, 2: player, 3: mcp.HoboSack
+  "mcp.RelicUseInfo": "Этот предмет — реликвия, он активен всегда и не пропадёт до тех пор, пока от него не избавятся или не продадут обратно в магазин реликвий.",
+  "mcp.ExtraTurn": "Дополнительный ход",
+  "mcp.BlackSpaceExtraTurn": "%1$s получил %2$s!", // 1: player, 2: mcp.ExtraTurn
+  "mcp.ExtraTurns": "Дополнительных хода",
+  "mcp.BlackSpaceExtraTurns": "%1$s получил %2$s %3$s!",  // 1: player, 2: score, 3: mcp.ExtraTurns
+  "mcp.BlackEventDuplicateItems": "%1$s дублировал все свои предметы!",
+  "mcp.ForgeStarShardWithCelestialCharm": "%1$s выковал %2$s %3$s с помощью %4$s!", // 1: player, 2: score, 3: mcp.StarShard, 4: mcp.CelestialCharm
+  "mcp.ForgeStarShardsWithCelestialCharm": "%1$s выковал %2$s %3$s с помощью %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.CelestialCharm
+  "mcp.VillagerLeader": "Глава деревни",
+      "mcp.ttt_task84": "Талисман на удачу",
+      "mcp.ttt_task85": "Двойной телепорт",
+      "mcp.tic_tac_toe_task.84.2.hover": "Владейте любой [новой] реликвией в течение пяти ходов подряд",
+      "mcp.tic_tac_toe_task.84": "%1$s завершил %2$s",
+      "mcp.tic_tac_toe_task.85.2.hover": "Телепортируйтесь из одного места для телепортации дважды",
+      "mcp.tic_tac_toe_task.85": "%1$s завершил %2$s",
+      "mcp.MinigamesGameStats":"Мини-игры",
+  "mcp.lush_crater_challenge_setup.1":"Шахты зовут бравого авантюриста, предлагая ему %1$s%2$s, если он сможет за 50 секунд найти и забрать кусочки смолы с пней, растущих в лесу скрипунов. Остерегайтесь скрипунов! Они не будут атаковать, если на них смотреть.",
+    "mcp.lush_crater_creaking_tick.1":"%1$s вернул сгустки смолы и получил %2$s %3$s%4$s!",  // 1: player, 2: 10 coins
+    "mcp.lush_crater_creaking_tick.2":"%1$s провалил Испытание погони в лесу скрипунов.", 
+  "mcp.lush_crater_challenge_setup.2":"%1$s> Проберись через речные пороги, прыгая с бревна на бревно, при этом не падая в воду. Вода ядовита! Если сможешь добраться до ягод в самом конце, я щедро награжу тебя %2$s.", // 1: mcp.Timberstride, 2: 10 coins
+      "mcp.lush_crater_log_run_tick.1":"%1$s пробрался через речные пороги и заработал %2$s!", // 1: player, 2: 10 coins
+  "mcp.ApproachVillageLeaderWithRareGem": "%1$s> Приветствую, %2$s! Я не мог не заметить этот %3$s у тебя в руках. Я давненько хотел его заполучить. Знаешь что, я дам тебе %4$s %5$s за него!", // 1: mcp.VillagerLeader, 2: player, 3: mcp.RareGem, 4: score, 5: mcp.Coins
+  "mcp.ApproachVillageLeaderTip": "Нажмите %1$s или %2$s, держа предмет в руках, чтобы отдать его %3$s.", // 1: key.drop, 2: key.right, 3: mcp.RareGem, 4: mcp.VillageLeader
+  "mcp.VillageLeaderRareGemThankYou": "%1$s> Благодарю, %2$s! Вот твои %3$s %4$s.",
+  "mcp.VillageLeaderTurnInItemsTip": "Стойте рядом с Главой деревни, чтобы отдать ему предметы.",
+  "mcp.ResinClump": "Сгусток смолы",
+  "mcp.VillageLeaderStarThankYou": "%1$s> Спасибо %2$s! Вот твой %3$s.",
+  "mcp.VillageLeaderNotEnoughResin": "%1$s> Извини, %2$s, у тебя не хватает %3$s, чтобы купить у меня  %4$s.",
+  "mcp.ApproachVillageLeaderWithResinClumps": "%1$s> Приветствую, %2$s! Ты отлично справляешься с собиранием %3$s и защитой деревни от этих жутких скрипунов. За твою работу я могу предложить %4$s %5$s за каждый %6$s %3$s, который ты захочешь обменять.",
+  "mcp.Tharos": "Тарос",
+  "mcp.Luna": "Луна",
+  "mcp.ApproachRelicShop": "%1$s> %2$s, добро пожаловать в самый загадочный магазин в мире! Я продаю реликвии, дающие самые необыкновенные способности.", // 1: entity, 2: player
+  "mcp.ApproachRelicShopSellRelicTip": "%1$s> Также ты можешь продавать свои реликвии (за %2$s %3$s каждая), выбрасывая их.", // 1: entity, 2: score, 3: mcp.Coins
+  "mcp.RelicShopCost": "Цена: %1$s%2$s",
+  "mcp.DiceMagnetSign1": "Кубиковый",
+  "mcp.DiceMagnetSign2": "магнит",
+  "mcp.8LeafCloverSign1": "8-листный",
+  "mcp.8LeafCloverSign2": "клевер",
+  "mcp.RareGemSign1": "Редкий",
+  "mcp.RareGemSign2": "самоцвет",
+  "mcp.CelestialCharmSign1": "Небесный",
+  "mcp.CelestialCharmSign2": "амулет",
+  "mcp.MysticIdolSign1": "Загадочный",
+  "mcp.MysticIdolSign2": "идол",
+  "mcp.GoldPanSign1": "Золотая",
+  "mcp.GoldPanSign2": "сковорода",
+  "mcp.HoboSackSign1": "Мешок",
+  "mcp.HoboSackSign2": "бродяги",
+  "mcp.NotEnoughCoinsForDiceMagnet": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.DiceMagnet
+  "mcp.NotEnoughCoinsFor8LeafClover": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.8LeafClover
+  "mcp.NotEnoughCoinsForRareGem": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.RareGem
+  "mcp.NotEnoughCoinsForCelestialCharm": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.CelestialCharm
+  "mcp.NotEnoughCoinsForMysticIdol": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.MysticIdol
+  "mcp.NotEnoughCoinsForGoldPan": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.GoldPan
+  "mcp.NotEnoughCoinsForHoboSack": "У вас недостаточно %1$s для покупки %2$s.", // 1: mcp.ResinClumps, 2: mcp.HoboSack
+  "mcp.BoughtDiceMagnet": "%1$s купил %2$s.", // 1: player, 2: mcp.DiceMagnet
+  "mcp.Bought8LeafClover": "%1$s купил %2$s.", // 1: player, 2: mcp.8LeafClover
+  "mcp.BoughtRareGem": "%1$s купил %2$s.", // 1: player, 2: mcp.RareGem
+  "mcp.BoughtCelestialCharm": "%1$s купил %2$s.", // 1: player, 2: mcp.CelestialCharm
+  "mcp.BoughtMysticIdol": "%1$s купил %2$s.", // 1: player, 2: mcp.MysticIdol
+  "mcp.BoughtGoldPan": "%1$s купил %2$s.", // 1: player, 2: mcp.GoldPan
+  "mcp.BoughtHoboSack": "%1$s купил %2$s.", // 1: player, 2: mcp.HoboSack
+      "mcp.DropToSellRelic": "%2$s (выбросьте, чтобы продать за 5 %1$s)", // 1: score, 2: mcp.Coins, 3: relic name
+      "mcp.PlayerItems": "Предметы %1$s:\n",
+      "mcp.LushCraterPassShop": "%1$s> Ой, приветик, %2$s! На секунду я перепутал тебя с одним из этих жутких скрипунов. В лббом случае, хочешь купить предметов?",
+      "mcp.Corwin": "Корвин",
+  "mcp.Elswyth": "Элсвит",
+  "mcp.Beau": "Боу",
+  "mcp.Elowen": "Эловен",
+  "mcp.Garran": "Гарран",
+  "mcp.BewStealResinClumps": "Украсть 2-5 %1$s", // 1: icon
+  "mcp.BewStealStarWithResinCost": "[%1$s%2$s]", // 1: score, 2: icon
+  "mcp.BewStealResinClumpsFromPlayer": "%1$s украл %2$s %3$s у %4$s!", // 1: player, 2: score, 3: mcp.ResinClumps, 4: player
+  "mcp.BewStealResinClumpsFromPlayerTeam": "%1$s украл %2$s %3$s у %4$s!", // 1: player, 2: score, 3: mcp.ResinClumps, 4: team name
+  "mcp.LushCraterApproachBew": "%1$s Приветствую в моём древесном замке! Я могу помочь с твоими воровскими нуждами.",
+  "mcp.BewNoSteal": "%1$s Извини, %2$s, но сейчас мне не у кого красть.",
+      "mcp.MagentaTeleporter": "Пурпурный телепорт",
+      "mcp.CyanTeleporter": "Бирюзовый телепорт",
+      "mcp.LushCraterTeleporterSubtitle": "Цена: %1$s%2$s §7(выбросьте, чтобы заплатить)",
+      "mcp.LushCraterTeleporterCostSign": "Цена: %1$s%2$s", // 1: score, 2: icon
+      "mcp.Marwick": "Марвин",
+      "mcp.Resin": "Смолы",
+      "mcp.LushCraterApproachCampfire": "%1$s> %2$s, есть чуточку %3$s? Мне нужно расплавить её, чтобы защитить деревню от этих чёртовых скрипунов! За твои собирательские заслуги я награжу тебя любыми предметами, валяющимися вокруг. Чем больше %3$s ты принесёшь, тем больше предметов я дам.", // 1: entity, 2: player, 3: mcp.Resin
+      "mcp.LushCraterApproachCampfireTip": "%1$s Выбросьте кусочки %2$s в котёл и нажмите ПКМ по %3$s, чтобы получить предметы.", // 1: mcp.Tip_, 2: mcp.Resin, 3: entity
+      "mcp._NEXT_": "<ДАЛЬШЕ>",
+  "mcp._START_GAME_": "<НАЧАТЬ ИГРУ>",
+  "mcp.Lore_":"История>",
+  "mcp.PreviousAndNext": "%1$s %2$s", // 1: mcp._PREVIOUS, 2: mcp._NEXT_/mcp._START_GAME_
+"mcp.lush_crater_cutscene.1": "%1$s %2$s — это доска в загадочном лесу с кучей весёлых и необычных фишек.", // 1: mcp.Info, 2: mcp.LushCrater",
+  "mcp.lush_crater_cutscene.2": "%1$s В стародавние времена, метеорит ударил в этот кратер и оставил за собой скрипучие семена, которые впоследствии сформировались в скрипцевины. При пребывании в непосредственной близости с большими объёмами древесной смолы, скрипцевины вылупляются, рождая на свет скрипунов. Чтобы предотварить вылупление скрипунов, жителям приходится убирать всю смолу, попадающуюся им на глаза.", // 1: mcp.Lore_
+  "mcp.lush_crater_cutscene.3": "Смола> На этой доске есть валюта, носящая название %2$s%3$s, которая медленно формируется в пяти пнях на доске. Чем больше несобранных %2$s лежит в пнях, тем больше скрипунов будет появляться на доске.", // 1: mcp.Resin, 2: mcp.ResinClumps, 3: icon
+  "mcp.LushCraterTreeStumpSpaces": "Клетки с пнями",
+  "mcp.lush_crater_cutscene.4": "%1$s§d§r Игрок, наступивший на одну из %2$s клеток рядом с пнём, получит всё множество несобранных %3$s. После этого, 1 %4$s будет появляться в дереве раз в 8 ходов.", // 1: mcp.TreeStumpSpaces, 2: mcp.magenta_space, 3: mcp.ResinClumps, 4: mcp.ResinClump
+  "mcp.BuyingStars": "Покупка Звёзд",
+  "mcp.lush_crater_cutscene.5": "%1$s Цена %2$s равняется сумме сгустков смолы во всех пнях. Вы можете купить до трёх %3$s за раз, когда проходите мимо %4$s. %4$s на протяжении всей игры остаётся в центре доски.", // 1: mcp.BuyingStars, 2: mcp.Star, 3: mcp.Stars, 4: mcp.StarSeller, 5: mcp.ResinClumps
+    "mcp.Relics": "Реликвии",
+    "mcp.lush_crater_cutscene.6": "%1$s§9>§r На этой доске есть особые реликвии. Реликвии лежат в сумке для предметов. Они дают пассивные эффекты своим владельцам. Реликвии можно покупать в двух магазинах реликвий на доске, оплачивая с помощью %2$s%3$s.", // 1: mcp.Relics, 2: mcp.ResinClumps, 3: icon
+    "mcp.lush_crater_cutscene.7": "%1$s§9>§r %1$s и его дом находятся на верхушке холма. Загляните к нему, и он наградит вас 1 %2$s за каждые 6 отданных %3$s.", // 1: mcp.Village Leader, 2: mcp.Star, 3: mcp.ResinClumps
+      "mcp.Campsite": "Костёр",
+    "mcp.lush_crater_cutscene.8": "%1$s§9>§r Посетите %1$s, расплавьте там  свою коллекцию %2$s а %3$s в благодарность даст предметы.", // 1: cmp.Campsite, 2: mcp.ResinClumps, 3: mcp.Marwick
+    "mcp.lush_crater_cutscene.9": "%1$s§8>§r Проходя мимо %1$sа, вы сможете либо бесплатно украсть у противника 2-5 %2$s, либо украсть %3$s за 10 %2$s.", // 1: mcp.Bew, 2: mcp.ResinClumps, 3: mcp.Star
+      "mcp.Teleporters": "Телепорты",
+    "mcp.lush_crater_cutscene.10": "%1$s§3>§r На доске есть две пары связанных между собой телепортов. Вы можете перемещаться между ними, заплатив 1 %2$s.", // 1: mcp.Teleporters, 2: mcp.ResinClump
+      "mcp.MudPiles": "Лужи грязи",
+    "mcp.lush_crater_cutscene.11": "%1$s§d>§r Наступив в лужу грязи, вы потеряете 5 %2$s. Применение %4$s или %5$s защитит вас от роняния %2$s в грязь. Наступив на %3$s клетку рядом с лужей грязи, вы выкопаете грязь и соберёте все %2$s, собравшиеся в ней. После осмотра лужи грязи, в ней появляется 5 %2$s.", // 1: mcp.MudPiles, 2: mcp.Coins, 3: mcp.magenta_space, 4: mcp.GhostMode, 5: mcp.GhoulMode
+      "mcp.LogRunChallenge": "Испытание бега по брёвнам",
+    "mcp.lush_crater_cutscene.12": "%1$s§9>§r Доберитесь до конца реки и обратно, чтобы получить 10 %2$s.", // 1: mcp.LogRunChallenge, 2: mcp.Coins
+      "mcp.CreakingForestChallenge": "Испытание леса скрипунов",
+    "mcp.lush_crater_cutscene.13": "%1$s§9>§r Доберитесь до конца леса и обратно, избегая скрипунов, чтобы получить до 4 %2$s%3$s.", // 1: mcp.CreakingForestChallenge, 2: mcp.Coins
+      "mcp.ExplorerStar": "Исследовательская звезда",
+    "mcp.lush_crater_cutscene.14": "%1$s§e>§r Уникальная для доски звезда даётся игроку/команде, наступившим на наибольшее количество уникальных клеток.", // 1: mcp.ExplorerStar
+    "mcp.CrazyCarnivalApproachTeacups": "%1$s> Добро пожаловать на борт, %2$s! Хочешь сократить путь и оказаться на другой стороне, прокатившись на чашках? Это будет стоить тебе %3$s %4$s, но ты можешь заплатить больше, чтобы увеличить цену для всех остальных. Стоимость следующей поездки на чашках будет как минимум на 1 %5$s больше, чем у тебя.", // 1: mcp.RideOperator, 2: player, #: score, 4: mcp.Coins, 5: mcp.Coin
+      "mcp.MrWayfarer": "Мистер Вейфарер",
+      "mcp.MsTimberstride": "Миссис Тимберстрайд",
+      "mcp.lush_crater_log_run_end.1":"%1$s упал в ядовитую воду и не смог вернуть ягоды.", // 1: player
+      "mcp.lush_crater_log_run_end.2":"%1$s прошёл Испытание бега по брёвнам и получил %2$s.", // 1: player, 2: mcp.10_Coins
+      "mcp.LushCraterMudPileSpaceLandText": "Заберите %1$s из грязи", // 1: mcp.Coins
+      "mcp.LushCraterTreeStumpSpaceLandText": "Заберите %1$s из древесного пня", // 1: mcp.ResinClumps
+      "mcp.mpiq_new_question.76": "%1$s Сколько уникальных клеток посетил %2$s?", // 1: mcp.Question_, 2: player
+      "mcp.UniqueSpacesVisited":"Уникальных клеток посещено\n\n",
+      "mcp.LushCrater1": "Пышный",
+      "mcp.LushCrater2": "кратер",
+      "mcp.LushCraterStarCost": "  Цена %1$s%2$s: %3$s %4$s%5$s (%3$s%6$s)",
+      "mcp.GhostModeLushCraterDescription": "Даёт иммунитет к ловушкам и ронянию монет в грязь, а также добавляет 3 очка к броску.",
+   "mcp.GhoulModeLushCraterDescription": "Превращает ловушки противников в ловушки владельца при прохождении мимо них, даёт иммунитет к ронянию монет в грязь и добавляет 3 очка к броску.",
+  "mcp.LushCraterApproachSingleUseStarSeller": "%1$sНакопилось слишком много  %5$s? Не волнуйся, потому что я всегда продам тебе %2$s, и она всегда будет по %3$s %4$s.",
+  "mcp.board_explanation_lush_crater": "Доска %1$s построена %2$s, а разработана %3$s и %4$s.",
+  "mcp.lush_crater_resin_chance_blue_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.blue_space
+  "mcp.lush_crater_resin_chance_red_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.red_space
+  "mcp.lush_crater_resin_chance_yellow_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.yellow_space
+  "mcp.lush_crater_resin_chance_black_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.black_space
+  "mcp.lush_crater_resin_chance_green_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.green_space
+  "mcp.lush_crater_resin_chance_orange_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.orange_space
+  "mcp.lush_crater_resin_chance_duel_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.Duel
+  "mcp.lush_crater_resin_chance_magenta_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.magenta_space
+  "mcp.lush_crater_resin_battle_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.battle_cutscene.1
+  "mcp.lush_crater_resin_chance_chance_time_space": "%1$s нашёл 1 %2$s на %3$s клетке.", // 1: player, 2: mcp.ResinClump, 3: mcp.chance_time_space
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     //courtyard stuff
       "mcp.give_game_stats.28": "Ставочная",
-      "mcp.CoinsGambled":"Монет поставлено",
+      "mcp.CoinsGambled":"Монет поставлено\n\n",
 
     //tic tac toe stuff
       "mcp.TicTacToeMode":"Режим Бинго",
@@ -17368,20 +17741,15 @@
       "mcp.SignTTTLineReq2":"завершения",
       "mcp.SignTTTLineReq3":"карты:",
       "mcp.Blackout":"Блэкаут",
-      "mcp.SignTTTCompletion1":"Событие после",
-      "mcp.SignTTTCompletion2":"заверш. карты:",
+      "mcp.SignTTTCompletion1":"Заверш. карты",
+      "mcp.SignTTTCompletion2":"(рекомендовано %1$s)",
       "mcp.SignTTTCompletion3.1":"Игра заканч.",
       "mcp.SignTTTCompletion4.1":"в конце хода",
-      "mcp.SignTTTCompletion3.2":"Новая карта",
+      "mcp.SignTTTCompletion3.2":"Новая доска",
       "mcp.SignTTTCompletion4.2":"через %1$s хода", // 1: number
       "mcp.SignTTTCompletion4.3":"через %1$s ход",
       "mcp.SignTicTacToe":"Бинго",
       "mcp.SignMode":"режим",
-      "mcp.TaskCard":"Карта бинго",
-      "mcp.TaskRewardHover1":"Этим значением считается ~40% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 4)",
-      "mcp.TaskRewardHover2":"Этим значением считается ~30% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 3)",
-      "mcp.TaskRewardHover3":"Этим значением считается ~20% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 2)",
-      "mcp.TaskRewardHover4":"Этим значением считается ~10% от всех Звёзд, собранных на доске с момента появления Карты бинго (минимум 1)",
 
     //credits tellraws
       "mcp.SignFullCreditsTellraw1": "Все создатели (наведитесь):\n",
@@ -17401,14 +17769,14 @@
       "mcp.SignMediaVideoTellraw":"Последнее видео по MCP2 от %1$s (нажмите сюда)",
       "mcp.SignMediaVideoTellraw1":"Последний стрим по MCP2 от %1$s (нажмите сюда)",
       "mcp.SignDewTellraw":"Построил Главный хаб\nПостроил доску Портового городка\nПостроил доску Районных схваток\nПостроил доску Пыльных дюн\nПостроил арену Сплифа\nПостроил арену Самой быстрой руки\nПостроил арену Реакции на реактор\nПостроил арену Бегуна\nПостроил арену Не повторяй за мной\nПостроил арену Больших башен\nПостроил арену Викторины Minecraft Party",
-      "mcp.SignJohnTellraw":"Построил Начальный хаб\nПостроил доску Грибного грота\nПомог с постройкой доски Лабиринта Пака\nПостроил арену 2v6 Пак-Куба\nПостроил арену Безумного Бабаха Бомбардира\nBuilt Bomber Brigade arenas",
-      "mcp.SignKirbTellraw":"Построил доску Таинственного острова\nBuild Crazy Carnival board\nСочинил все музыкальные композиции",
+      "mcp.SignJohnTellraw":"Построил Начальный хаб\nПостроил доску Грибного грота\nПомог с постройкой доски Лабиринта Пака\nПостроил арену 2v6 Пак-Куба\nПостроил арену Безумного Бабаха Бомбардира\nПостроил арены Бригады бомбардёров",
+      "mcp.SignKirbTellraw":"Построил доску Таинственного острова\nПостроил доску Безумного карнавала\nСочинил все музыкальные композиции",
       "mcp.SignTru1hTellraw":"Построил доску Сада дзен\nПостроил победные и дуэльные комнаты Сада дзен\nПостроил большую часть арены Красного света, зелёного света",
       "mcp.SignDoubleHTellraw":"Построил доску Трубчатого каньона\nПомог с постройкой доски Сада дзен",
       "mcp.SignСocoaTellraw":"Построила комнату режима Гран-при\nПереработала текстуры следующих арен: В зоне, Охотник на блоки, Гладиаторский бой, Бетрис, Рыцарский поединок",
       "mcp.SignCrashTellraw":"Построил доску Обеденного лофта\nПостроил доску Замка мастей",
       "mcp.SignAustinTellraw":"Построил доску Лабинита Пака, победную и дуэльную комнаты\nПомог с постройкой арены Бетриса\nПостроил доску Комнаты ритма",
-      "mcp.SignJonikTellraw":"Помог с постройкой Комнаты ритма\nHelped program the secret board",
+      "mcp.SignJonikTellraw":"Помог с постройкой Комнаты ритма\nПомог с кодлм для секретной доски",
       "mcp.SignDaybreakTellraw":"Помог с постройкой Комнаты ритма",
       "mcp.SignKingNothingTellraw":"Помог с постройкой арены Рутинной работы",
       "mcp.SignPandaTellraw":"Помог с постройкой Победного театра",
@@ -17793,6 +18161,328 @@
   "mcp.HeatSeekingTNTDescription": "Seeks out the nearest enemy to blow up on.",
   "mcp.JonikStage2": "Assistant Programmer",
   "mcp.JonikStage3": "Assistant Builder",
-  "mcp.JonikStage4": "(frequent tester)"
+  "mcp.JonikStage4": "(frequent tester)",
   // Update mcp.SignJonikTellraw and mcp.SignKirbTellraw and mcp.SignJohnTellraw
+  "mcp.SkillShot": "Skill Shot",
+  "mcp.skill_shot_challenge_win": "%1$s beat the %2$s challenge was was awarded with 15 %3$s (a profit of 10)!",
+  "mcp.skill_shot_challenge_lose": "%1$s failed the %2$s challenge.",
+  "mcp.secret_map.title":"Secret Map",
+  "mcp.award_gamble_star.2":"The %1$s, is awarded to the player with the most coins gambled.",
+  "mcp.award_gamble_star.3":"The %1$s, is awarded to the team with the most coins gambled.",
+  "mcp.award_gamble_star.2.1":"Gamble Star",
+  "mcp.award_gamble_star.3.1":"Gamble Star",
+  "mcp.award_gamble_star.4":"The player that gambled the most coins is...",
+  "mcp.award_gamble_star.5":"The team that gambled the most coins is...",
+  "mcp.award_gamble_star.6":"%1$s%2$s %3$s Coins!",
+  "mcp.award_gamble_star.6.1":" with",
+  "mcp.award_gamble_star.7":"Nobody! There was a tie in gambled coins between the two teams.",
+  "mcp.award_gamble_star.8":"Purple Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.9":"Teal Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.10":"Pink Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.11":"Tan Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.8.1":" with",
+  "mcp.award_gamble_star.9.1":" with",
+  "mcp.award_gamble_star.10.1":" with",
+  "mcp.award_gamble_star.11.1":" with",
+  "mcp.award_gamble_star.12":"Nobody! There was a tie in highest coin count between multiple teams.",
+  "mcp.award_gamble_star.13":"Gold Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.14":"Aqua Team%1$s %2$s%3$s",
+  "mcp.award_gamble_star.15":"Nobody! There was a tie in highest coin count between multiple players.",
+  "mcp.award_gamble_star.13.1":" with",
+  "mcp.award_gamble_star.14.1":" with",
+  "mcp.award_gamble_star.13.2":" Coins!",
+  "mcp.award_gamble_star.14.2":" Coins!",
+  "mcp.award_gamble_star.8.2":" Coins!",
+  "mcp.award_gamble_star.9.2":" Coins!",
+  "mcp.award_gamble_star.10.2":" Coins!",
+  "mcp.award_gamble_star.11.2":" Coins!",
+  "mcp.bet_reward_coins": "%1$s won an additional %2$s %3$s from the betting pot.",
+  "mcp.courtyard_toll_not_enough_coins": "I'm sorry, but you don't have enough %1$s to go through this toll!",
+  "mcp.Courtyard": "Courtyard",
+  "mcp.board_explanation.29": "%1$s board created by: %2$s",
+  "mcp1_board_explanation_verview": "%1$s is the board created for Minecraft Party 1 in version 1.17.1. This recreation aims to replicate the original, while also adding new stuff from Minecraft Party 2.",
+  "mcp.SignYlaComaStage2": "",
+  "mcp.SignYlaComaStage3": "Assistant Builder",
+  "mcp.SignYlaComaStage4": "(repeat tester)",
+  "mcp.SignYlaComaTellraw": "Built Woodland Mansion Hide And Seek Arena",
+  "mcp.return_to_hub_tip": "Fly back to the center of the hub to return to adventure mode.",
+  "mcp.lost_city_star_cost_sign": "%1$s Cost:",
+  "mcp.Steve": "Steve",
+  "mcp.CenterPark": "Center Park",
+  "mcp.AirborneIsles": "Airborne Isles",
+  "mcp.PortTown": "Port Town",
+  "mcp.LostCity": "Lost City",
+  "mcp.Candyland": "§c§lC§f§la§c§ln§f§ld§c§ly§f§ll§c§la§f§ln§c§ld",
+  "mcp.PacMaze": "Pac Maze",
+  "mcp.ZenGarden": "Zen Garden",
+  "mcp.MooshroomGrotto": "Mooshroom Grotto",
+  "mcp.PipeCanyon": "Pipe Canyon",
+  "mcp.RhythmicRoom": "Rhythmic Room",
+  "mcp.SuburbiaScramble": "Suburbia Scramble",
+  "mcp.LoftyLuncheon": "Lofty Luncheon",
+  "mcp.ArcaneAtoll": "Arcane Atoll",
+  "mcp.PresentPalace": "§2§lP§4§lr§2§le§4§ls§2§le§4§ln§2§lt §4§lP§2§la§4§ll§2§la§4§lc§2§le",
+  "mcp.DustyDunes": "Dusty Dunes",
+  "mcp.FortSuits": "§0§lF§c§lo§0§lr§c§lt §0§lS§c§lu§0§li§c§lt§0§ls",
+  "mcp.CrazyCarnival": "Crazy Carnival",
+  "mcp.LushCrater": "Lush Crater",
+  "mcp.CenterParkBuildCredit": "Built by %1$s",
+  "mcp.AirborneIslesBuildCredit": "Built by %1$s",
+  "mcp.PortTownBuildCredit": "Built by %1$s",
+  "mcp.LostCityBuildCredit": "Built by %1$s",
+  "mcp.CandylandBuildCredit": "Built by %1$s and %2$s",
+  "mcp.PacMazeBuildCredit": "Built by %1$s and %2$s",
+  "mcp.ZenGardenBuildCredit": "Built by %1$s, %2$s,  %3$s and %4$s",
+  "mcp.MooshroomGrottoBuildCredit": "Built by %1$s",
+  "mcp.PipeCanyonBuildCredit": "Built by %1$s, %2$s and %3$s",
+  "mcp.RhythmicRoomBuildCredit": "Built by %1$s, %2$s and %3$s",
+  "mcp.SuburbiaScrambleBuildCredit": "Built by %1$s",
+  "mcp.LoftyLuncheonBuildCredit": "Built by %1$s's build team",
+  "mcp.ArcaneAtollBuildCredit": "Built by %1$s and %2$s",
+  "mcp.PresentPalaceBuildCredit": "Built by %1$s",
+  "mcp.DustyDunesBuildCredit": "Built by %1$s",
+  "mcp.FortSuitsBuildCredit": "Built by %1$s's build team",
+  "mcp.CrazyCarnivalBuildCredit": "Built by %1$s",
+  "mcp.LushCraterBuildCredit": "Built by %1$s",
+  "mcp.CourtyardBuildCredit": "Built by %1$s and %2$s",
+  "mcp.Key1": "Key 1",
+  "mcp.Key2": "Key 1",
+  "mcp.Key3": "Key 3",
+  "mcp.lush_crater_star_cost_text.1": "1 %1$s:        %2$s %3$s", // 1:mcp.Star, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_star_cost_text.2": "2 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_star_cost_text.3": "3 %1$s:       %2$s %3$s", // 1:mcp.Stars, 2: score, 3: mcp.Coins
+  "mcp.lush_crater_approach_star_seller1": "%1$s Hello! These creakings have been a bit tame lately. %2$s are going to cost %3$s %4$s a piece because of it.",
+    // change  mcp.tic_tac_toe_task.45.2.hover to specify that the requirement is for one attempt
+  "mcp.lush_crater_approach_star_seller2": "%1$s Hello! These creakings have sure been running amok in our here village. %2$s are going to cost %3$s %4$s a piece because of it.",
+  "mcp.ResinClumpCountText" : "Resin Count: %1$s%2$s",
+  "mcp.ResinClumpAccumulateText": "A new resin clump will accumulate here at the start of %1$s's next turn",
+  // Update mcp.FreeverserDescription to the new wording (Allows you to move in any direction on the board during your turn without turning around.)
+  "mcp.ResinClumps": "Resin Clumps",
+  "mcp.LushCraterTreeStumpEvent": "%1$s collected %2$s %3$s from the tree stump!", // 1: player, 2: score, 3: mcp.ResinClumps
+  "mcp.LushCraterMudEvent": "%1$s dug through the mud and found %2$s %3$s!", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.MudCoinsCountText": "%1$s %2$s lost in mud: %3$s%4$s", // 1: mud icon, 2: mcp.Coins, 3: score, 4: coin icon
+  "mcp.LushCraterPassMud": "%1$s dropped %2$s %3$s in the mud.", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.DiceMagnet": "Dice Magnet",
+  "mcp.8LeafClover": "8 Leaf Clover",
+  "mcp.RareGem": "Rare Gem",
+  "mcp.CelestialCharm": "Celestial Charm",
+  "mcp.MysticIdol": "Mystic Idol",
+  "mcp.GoldPan": "Gold Pan",
+  "mcp.HoboSack": "Hobo Sack",
+  "mcp.DiceMagnetDescription": "Weights all regular dice rolls so that they are more likely to roll higher values.",
+  "mcp.8LeafCloverDescription": "Reverses the effect of red and black spaces.",
+  "mcp.RareGemDescription": "Return to the Villager Leader to collect 50 Coins.",
+  "mcp.CelestialCharmDescription": "75% chance to receive a Star Shard at the end of your turn.",
+  "mcp.MysticIdolDescription": "Increases your enhanced item drop rate by 25%.",
+  "mcp.GoldPanDescription": "Receive three Coins at the start of each turn.",
+  "mcp.HoboSackDescription": "Takes up one item slot and gives you an extra two. Pretty nifty, aye?",
+  "mcp.too_many_items_tick.68" : "%1$s discarded %2$s", // 1: player, 2: mcp.DiceMagnet
+  "mcp.too_many_items_tick.69" : "%1$s discarded %2$s", // 1: player, 2: mcp.8LeafClover
+  "mcp.too_many_items_tick.70" : "%1$s discarded %2$s", // 1: player, 2: mcp.RareGem
+  "mcp.too_many_items_tick.71" : "%1$s discarded %2$s", // 1: player, 2: mcp.CelestialCharm
+  "mcp.too_many_items_tick.72" : "%1$s discarded %2$s", // 1: player, 2: mcp.MysticIdol
+  "mcp.too_many_items_tick.73" : "%1$s discarded %2$s", // 1: player, 2: mcp.GoldPan
+  "mcp.too_many_items_tick.74" : "%1$s discarded %2$s", // 1: player, 2: mcp.HoboSack
+  "mcp.give_random_item.66": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.DiceMagnet
+  "mcp.give_random_item.67": "%1$s gave %2$s an %3$s!", // 1: player, 2: player, 3: mcp.8LeafClover
+  "mcp.give_random_item.68": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.RareGem
+  "mcp.give_random_item.69": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.CelestialCharm
+  "mcp.give_random_item.70": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.MysticIdol
+  "mcp.give_random_item.71": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.GoldPan
+  "mcp.give_random_item.72": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.HoboSack
+  "mcp.RelicUseInfo": "This item is a relic, so it is active at all times and does not go away until it is discarded or sold back at the relic shop.",
+  "mcp.ExtraTurn": "Extra Turn",
+  "mcp.BlackSpaceExtraTurn": "%1$s has received an %2$s!", // 1: player, 2: mcp.ExtraTurn
+  "mcp.ExtraTurns": "Extra Turns",
+  "mcp.BlackSpaceExtraTurns": "%1$s has received %2$s %3$s!",  // 1: player, 2: score, 3: mcp.ExtraTurns
+  "mcp.BlackEventDuplicateItems": "%1$s duplicated all of their items!",
+  "mcp.ForgeStarShardWithCelestialCharm": "%1$s forged %2$s %3$s with their %4$s!", // 1: player, 2: score, 3: mcp.StarShard, 4: mcp.CelestialCharm
+  "mcp.ForgeStarShardsWithCelestialCharm": "%1$s forged %2$s %3$s with their %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.CelestialCharm
+  "mcp.VillagerLeader": "Village Leader",
+  "mcp.ApproachVillageLeaderWithRareGem": "%1$s> Hello %2$s! I couldn't help but notice that %3$s in your hand. I've been looking to get my hands on those. Tell you what, I'll give you %4$s %5$s for one!", // 1: mcp.VillagerLeader, 2: player, 3: mcp.RareGem, 4: score, 5: mcp.Coins
+  "mcp.ApproachVillageLeaderTip": "Press %1$s or %2$s while holding an item to turn it in the to the %3$s.", // 1: key.drop, 2: key.right, 3: mcp.RareGem, 4: mcp.VillageLeader
+  "mcp.VillageLeaderRareGemThankYou": "%1$s> Thank you %2$s! Here are %3$s %4$s.",
+  "mcp.VillageLeaderTurnInItemsTip": "Stand next to the Village Leader to turn in items.",
+  "mcp.ResinClump": "Resin Clump",
+  "mcp.VillageLeaderStarThankYou": "%1$s> Thank you %2$s! Here is your %3$s.",
+  "mcp.VillageLeaderNotEnoughResin": "%1$s> I'm sorry %2$s, you do not have enough %3$s to purchase a %4$s from me.",
+  "mcp.ApproachVillageLeaderWithResinClumps": "%1$s> Hello %2$s! Great job with collecting %3$s and keeping the village free from those creepy creakings. For your work, I'll offer %4$s %5$s for each %6$s %3$s that you are willing to trade.",
+  "mcp.Tharos": "Tharos",
+  "mcp.Luna": "Luna",
+  "mcp.ApproachRelicShop": "%1$s> Welcome %2$s to the most mystical shop that you will find! I offer relics that give you fancy abilities when in possession of them.", // 1: entity, 2: player
+  "mcp.ApproachRelicShopSellRelicTip": "%1$s> You can also sell any relics that you have for %2$s %3$s each by dropping the item.", // 1: entity, 2: score, 3: mcp.Coins
+  "mcp.RelicShopCost": "Cost: %1$s%2$s",
+  "mcp.DiceMagnetSign1": "DiceMagnet",
+  "mcp.DiceMagnetSign2": "",
+  "mcp.8LeafCloverSign1": "8 Leaf Clover",
+  "mcp.8LeafCloverSign2": "",
+  "mcp.RareGemSign1": "Rare Gem",
+  "mcp.RareGemSign2": "",
+  "mcp.CelestialCharmSign1": "Celestial Charm",
+  "mcp.CelestialCharmSign2": "",
+  "mcp.MysticIdolSign1": "Mystic Idol",
+  "mcp.MysticIdolSign2": "",
+  "mcp.GoldPanSign1": "Gold Pan",
+  "mcp.GoldPanSign2": "",
+  "mcp.HoboSackSign1": "Hobo Sack",
+  "mcp.HoboSackSign2": "",
+  "mcp.NotEnoughCoinsForDiceMagnet": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.DiceMagnet
+  "mcp.NotEnoughCoinsFor8LeafClover": "You do not have enough %1$s to buy an %2$s.", // 1: mcp.ResinClumps, 2: mcp.8LeafClover
+  "mcp.NotEnoughCoinsForRareGem": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.RareGem
+  "mcp.NotEnoughCoinsForCelestialCharm": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.CelestialCharm
+  "mcp.NotEnoughCoinsForMysticIdol": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.MysticIdol
+  "mcp.NotEnoughCoinsForGoldPan": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.GoldPan
+  "mcp.NotEnoughCoinsForHoboSack": "You do not have enough %1$s to buy a %2$s.", // 1: mcp.ResinClumps, 2: mcp.HoboSack
+  "mcp.BoughtDiceMagnet": "%1$s bought a %2$s.", // 1: player, 2: mcp.DiceMagnet
+  "mcp.Bought8LeafClover": "%1$s bought an %2$s.", // 1: player, 2: mcp.8LeafClover
+  "mcp.BoughtRareGem": "%1$s bought a %2$s.", // 1: player, 2: mcp.RareGem
+  "mcp.BoughtCelestialCharm": "%1$s bought a %2$s.", // 1: player, 2: mcp.CelestialCharm
+  "mcp.BoughtMysticIdol": "%1$s bought a %2$s.", // 1: player, 2: mcp.MysticIdol
+  "mcp.BoughtGoldPan": "%1$s bought a %2$s.", // 1: player, 2: mcp.GoldPan
+  "mcp.BoughtHoboSack": "%1$s bought a %2$s.", // 1: player, 2: mcp.HoboSack
+  "mcp.DropToSellRelic": "%2$s (drop to sell for 5 %1$s)", // 1: score, 2: mcp.Coins, 3: relic name
+  "mcp.PlayerItems": "%1$s's items:\n",
+  "mcp.LushCraterPassShop": "%1$s> Oh hi there %2$s! For a second I thought you were one of those eerie creakings. Anyway, would you like to buy an item?",
+  "mcp.Corwin": "Corvin",
+  "mcp.Elswyth": "Elswyth",
+  "mcp.Beau": "Beau",
+  "mcp.Elowen": "Elowen",
+  "mcp.Garran": "Garran",
+  "mcp.BewStealResinClumps": "Steal 2-5 %1$s", // 1: icon
+  "mcp.BewStealStarWithResinCost": "[%1$s%2$s]", // 1: score, 2: icon
+  "mcp.BewStealResinClumpsFromPlayer": "%1$s stole %2$s %3$s from %4$s!", // 1: player, 2: score, 3: mcp.ResinClumps, 4: player
+  "mcp.BewStealResinClumpsFromPlayerTeam": "%1$s stole %2$s %3$s from %4$s!", // 1: player, 2: score, 3: mcp.ResinClumps, 4: team name
+  "mcp.LushCraterApproachBew": "%1$s Welcome to my tree fort! I can assist you with your stealing needs.",
+  "mcp.BewNoSteal": "%1$s I'm sorry %2$s, but there is no one I can steal from right now.",
+  "mcp.MagentaTeleporter": "Magneta Teleporter",
+  "mcp.CyanTeleporter": "Cyan Teleporter",
+  "mcp.LushCraterTeleporterSubtitle": "Cost: %1$s%2$s §7(drop to pay)",
+  "mcp.LushCraterTeleporterCostSign": "Cost: %1$s%2$s", // 1: score, 2: icon
+  "mcp.Marwick": "Marwick",
+  "mcp.Resin": "Resin",
+  "mcp.LushCraterApproachCampfire": "%1$s> %2$s, got any of that %3$s? I need to melt it down to keep the village free from the dreaded creakings! For your collection efforts, I will reward you with whatever items I have lying around. The more %3$s to put in, the more items I'll give you.", // 1: entity, 2: player, 3: mcp.Resin
+  "mcp.LushCraterApproachCampfireTip": "%1$s Drop your %2$s into the cauldron and right-click on %3$s to receive the items.", // 1: mcp.Tip_, 2: mcp.Resin, 3: entity
+  "mcp._NEXT_": "<NEXT>",
+  "mcp._START_GAME_": "<START GAME>",
+  "mcp.CrazyCarnivalApproachTeacups": "%1$s> Welcome aboard %2$s! Would you like to take a shortcut across to the other side and ride the teacups? It will cost you %3$s %4$s but you can pay more if you wish to raise the price for everyone else. The cost of the next teacup ride will be at least one more %5$s than what you pay for this one.", // 1: mcp.RideOperator, 2: player, #: score, 4: mcp.Coins, 5: mcp.Coin
+  "mcp.PreviousAndNext": "%1$s %2$s", // 1: mcp._PREVIOUS, 2: mcp._NEXT_/mcp._START_GAME_
+  "mcp.lush_crater_cutscene.1": "%1$s%2$s is a mystical forest board with plenty of fun gimmicks.", // 1: mcp.Info, 2: mcp.LushCrater",
+  "mcp.lush_crater_cutscene.2": "%1$s A long time ago, a meteorite hit this crater and left behind creaking seeds which combined to form creaking hearts. These creaking hearts hatch into creakings when in proximity of large amounts of tree resin. To prevent the creakings from hatching, the villagers need to clean up any resin they find.", // 1: mcp.Lore_
+  "mcp.lush_crater_cutscene.3": "%1$s> This board features a currency called %2$s%3$s which slowly accumulate in the five tree stumps around the board. The more uncollected %2$s in the tree stumps, the more creakings that will be spawned on the board.", // 1: mcp.Resin, 2: mcp.ResinClumps, 3: icon
+  "mcp.LushCraterTreeStumpSpaces": "Tree Stump Spaces",
+  "mcp.lush_crater_cutscene.4": "%1$s§d>§r A player that lands on a %2$s space next to a tree stump will collect all the accumulated %3$s. From that point on, 1 %4$s will appear in the tree every 8 individual player turns.", // 1: mcp.TreeStumpSpaces, 2: mcp.magenta_space, 3: mcp.ResinClumps, 4: mcp.ResinClump
+  "mcp.BuyingStars": "Buying Stars",
+  "mcp.lush_crater_cutscene.5": "%1$s§e>§r The cost of a %2$s is equal to the total number of resin clumps in all of the tree stumps. You can buy up to three %3$s at a time when passing the %4$s. The %4$s stays in the center for the entire game.", // 1: mcp.BuyingStars, 2: mcp.Star, 3: mcp.Stars, 4: mcp.StarSeller
+  "mcp.Relics": "Relics",
+  "mcp.lush_crater_cutscene.6": "%1$s§9>§r This board features special relics. Relics count towards your item bag. They each give passive abilities to the player in possession of it. Relics can be bought from the two relic shops on the board using %2$s%3$s.", // 1: mcp.Relics, 2: mcp.ResinClumps, 3: icon
+  "mcp.lush_crater_cutscene.7": "%1$s§9>§r Visit the %1$s's house on top of the hill and he will reward you with 1 %2$s per 6 %3$s that you turn in.", // 1: mcp.Village Leader, 2: mcp.Star, 3: mcp.ResinClumps
+  "mcp.Campsite": "Campsite",
+  "mcp.lush_crater_cutscene.8": "%1$s§9>§r Visit the %1$s, melt your %2$s and %3$s will give you items as a thanks.", // 1: cmp.Campsite, 2: mcp.ResinClumps, 3: mcp.Marwick
+  "mcp.lush_crater_cutscene.9": "%1$s§8>§r When you pass %1$s you have the ability to steal 2-5 %2$s from an opponent for free or steal a %3$s for 10 %2$s.", // 1: mcp.Bew, 2: mcp.ResinClumps, 3: mcp.Star
+  "mcp.Teleporters": "Teleporters",
+  "mcp.lush_crater_cutscene.10": "%1$s§3>§r There are two pairs of linked teleporters on the board. You can warp through them for the cost of 1 %2$s.", // 1: mcp.Teleporters, 2: mcp.ResinClump
+  "mcp.MudPiles": "Mud Piles",
+  "mcp.lush_crater_cutscene.11": "%1$s§d>§r Walking over a pile of mud will lose you 5 %2$s. Using %4$s or %5$s will prevent you from dropping %2$s when traveling over the mud. When you land on a %3$s space nearby a mud pile, you will dig through the mud pile and collect any %2$s that have been lost in there. Every mud pile will accumulate 5 additional %2$s in it after being searched.", // 1: mcp.MudPiles, 2: mcp.Coins, 3: mcp.magenta_space, 4: mcp.GhostMode, 5: mcp.GhoulMode
+  "mcp.LogRunChallenge": "Log Run Challenge",
+  "mcp.lush_crater_cutscene.12": "%1$s§9>§r Make it to the end of the river and back in this challenge and you will be rewarded with 10 %2$s.", // 1: mcp.LogRunChallenge, 2: mcp.Coins
+  "mcp.CreakingForestChallenge": "Creaking Forest Challenge",
+  "mcp.lush_crater_cutscene.13": "%1$s§9>§r Get to the end of the forest and back while avoiding the creakings and you will be rewarded with 10 %2$s.", // 1: mcp.CreakingForestChallenge, 2: mcp.Coins
+  "mcp.ExplorerStar": "Explorer Star",
+  "mcp.lush_crater_cutscene.14": "%1$s§e>§r The board specific bonus star for this board is awarded to the player/team that visits the most unique spaces.", // 1: mcp.ExplorerStar
+  "mcp.MrWayfarer": "Mr. Wayfarer",
+  "mcp.MsTimberstride": "Ms. Timberstride",
+  "mcp.UniqueSpacesVisited":"Unique Spaces Visited\n\n",
+  "mcp.mpiq_new_question.76": "%1$sHow many unique spaces has %2$s visited?", // 1: mcp.Question_, 2: player
+  "mcp.LushCraterMudPileSpaceLandText": "Collect the %1$s from the mud", // 1: mcp.Coins
+  "mcp.LushCraterTreeStumpSpaceLandText": "Collect the %1$s from the tree stump", // 1: mcp.ResinClumps
+  "mcp.LushCrater1": "Lush Crater",
+  "mcp.LushCrater2": "",
+  "mcp.LushCraterStarCost": "  %1$s%2$s Cost: %3$s %4$s%5$s (%3$s%6$s)",
+  "mcp.lush_crater_challenge_setup.2":"%1$s> Make your way across the rapids by jumping from log to log but do not fall into the water. It's poisonous! If you can reach the berries at the end, I'll generously reward you with%2$s.", // 1: mcp.Timberstride, 2: 10 coins
+  "mcp.NEXT":"<NEXT>",
+  "mcp._STARTGAME":"<START GAME>",
+  "mcp.Lore_":"Lore>",
+  "mcp.VillageLeader":"Village Leader",
+  "mcp.GhostModeLushCraterDescription": "Makes you immune to dropping Coins in mud, makes you immune to traps, and adds 3 to your next roll.",
+  "mcp.GhoulModeLushCraterDescription": "Makes you immune to dropping Coins in mud, converts any opponents' traps that you cross to yours, and adds 3 to your next roll.",
+  "mcp.LushCraterApproachSingleUseStarSeller": "%1$sIs the %5$s building up too much? No worry, because I will sell you a %2$s and it will always be %3$s %4$s.",
+  "mcp.board_explanation_lush_crater": "%1$s board built by %2$s and developed by %3$s and %4$s.",
+  "mcp.lush_crater_resin_chance_blue_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.blue_space
+  "mcp.lush_crater_resin_chance_red_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.red_space
+  "mcp.lush_crater_resin_chance_yellow_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.yellow_space
+  "mcp.lush_crater_resin_chance_black_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.black_space
+  "mcp.lush_crater_resin_chance_green_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.green_space
+  "mcp.lush_crater_resin_chance_orange_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.orange_space
+  "mcp.lush_crater_resin_chance_duel_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.Duel
+  "mcp.lush_crater_resin_chance_magenta_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.magenta_space
+  "mcp.lush_crater_resin_battle_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.battle_cutscene.1
+  "mcp.lush_crater_resin_chance_chance_time_space": "%1$s found 1 %2$s on the %3$s space.", // 1: player, 2: mcp.ResinClump, 3: mcp.chance_time_space
+  "mcp.FreeverserReverseBoardDescription": "Reverses the direction of the board and keeps it that way for the remainder of your turn. Drop to use.",
+  "mcp.freeverser_reverse_board.1": "You must be standing on a spot to reverse the board.",
+  "mcp.freeverser_reverse_board.2": "You must cross the space that you are standing on before you can reverse the board (hint: move forward a little bit).",
+  "mcp.pass_colored_spot.10": "%1$s Бум-бадабум. У меня есть для тебя Звезда. Мне лишь нужно %2$s §6§lмонет§r§r.", // 1: mcp.pass_colored_spot.10.1, 2: score, 3: (Coin or Coins)
+  "mcp.MeltResin": "Melt Resin",
+  "mcp.Mira": "Mira",
+  "mcp.RelicItemCostDescription": "Can only be aquired from a relic shop in the %1$s board for the cost of %2$s %3$s%4$s.", // 1: mcp.LushCrater, 2: score, 3: mcp.ResinClumps, 4: icon
+  // mcp.lush_crater_cutscene.6 needs to say "three" instead of "two" for the number of relic shops on the board
+  // added 5: mcp.ResinClumps as a parameter to mcp.lush_crater_cutscene.5. Adjust accordingly
+  "mcp.ComboCard": "Combo Card",
+  "mcp.ComboCardUse": "%1$s received an extra turn!", // 1: player
+  "mcp.ComboCardDescription": "Gives you an extra turn.",
+  "mcp.recover_item_attempt_combo_card": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.DoubleComboCard": "Double Combo Card",
+  "mcp.DoubleComboCardUse": "%1$s received two extra turns!", // 1: player
+  "mcp.DoubleComboCardDescription": "Gives you two extra turns.",
+  "mcp.recover_item_attempt_double_combo_card": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.WarpPipe": "Warp Pipe",
+  "mcp.WarpPipeUse": "%1$s used a %2$s!", // 1: player, 2: mcp.WarpPipe
+  "mcp.WarpPipeDescription": "Choose between three random places on the board to warp to.",
+  "mcp.recover_item_attempt_warp_pipe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.SuperWarpPipe": "Super Warp Pipe",
+  "mcp.SuperWarpPipeUse": "%1$s used a %2$s and found %3$s inside the pipe!", // 1: player, 2: mcp.SuperWarpPipe, 3: a [item name]
+  "mcp.SuperWarpPipeDescription": "Choose between three random places on the board to warp to and receive a random item worth less than 15 coins.",
+  "mcp.recover_item_attempt_super_warp_pipe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.CoinForger": "Coin Forger",
+  "mcp.CoinForgerUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.Coins, 4: mcp.CoinForger
+  "mcp.CoinForgerDescription": "Instantly receive a random amount of coins between 6 and 12.",
+  "mcp.recover_item_attempt_coin_forger": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.CoinForgerDeluxe": "Coin Forger Deluxe",
+  "mcp.CoinForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.Coins, 4: mcp.CoinForgerDeluxe
+  "mcp.CoinForgerDeluxeDescription": "Instantly receive a random amount of coins between 10 and 20.",
+  "mcp.recover_item_attempt_coin_forger_deluxe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.StarShards": "Star Shards",
+  "mcp.StarForger": "Star Forger",
+  "mcp.StarForgerUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.StarForger
+  "mcp.StarForgerDescription": "Instantly receive a random amount of star shards between 6 and 12. Every 5 star shards that you have get automatically converted into a star.",
+  "mcp.recover_item_attempt_star_forger": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.StarForgerDeluxe": "Star Forger Deluxe",
+  "mcp.StarForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s!", // 1: player, 2: score, 3: mcp.StarShards, 4: mcp.StarForgerDeluxe
+  "mcp.StarForgerDeluxeDescription": "Instantly receive a random amount of star shards between 10 and 20. Every 5 star shards that you have get automatically converted into a star.",
+  "mcp.recover_item_attempt_star_forger_deluxe": "%1$s received their %2$s back using %3$s armor!",
+  "mcp.too_many_items_discard": "%1$s discarded %2$s", // 1: item
+  "mcp.give_random_item.73": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.ComboCard
+  "mcp.give_random_item.74": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.DoubleComboCard
+  "mcp.give_random_item.75": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.WarpPipe
+  "mcp.give_random_item.76": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.SuperWarpPipe
+  "mcp.give_random_item.77": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.CoinForger
+  "mcp.give_random_item.78": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.CoinForgerDeluxe
+  "mcp.give_random_item.79": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.StarForger
+  "mcp.give_random_item.80": "%1$s gave %2$s a %3$s!", // 1: player, 2: player, 3: mcp.StarForgerDeluxe
+  "mcp.ss_approach_pablo_with_coin_forger": "%1$s Aye, welcome! In need of my services, eh? I’ll steal some coins from whoever ya want, free of charge! Though, I can’t help but notice that %2$s ya got there... Tell ya what, I’ll pinch some extra coins just for you if you lemme have that...", // 1: player, 2: mcp.CoinForger
+  "mcp.ss_approach_pablo_with_coin_forger_deluxe": "%1$s Aye, welcome! In need of my services, eh? I’ll steal some coins from whoever ya want, free of charge! Though, I can’t help but notice that %2$s ya got there... Tell ya what, I’ll pinch some extra coins just for you if you lemme have that...", // 1: player, 2: mcp.CoinForgerDeluxe
+  "mcp.buy_goodie_bag_combo_card": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.ComboCard, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_warp_pipe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.WarpPipe, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_coin_forger": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.CoinForger, 3:mcp.GoodieBag
+  "mcp.buy_goodie_bag_star_forger": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.StarForger, 3:mcp.GoodieBag
+  "mcp.buy_treasure_bag_double_combo_card": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.DoubleComboCard, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_super_warp_pipe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.SuperWarpPipe, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_coin_forger_deluxe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.CoinForgerDeluxe, 3:mcp.TreasureBag
+  "mcp.buy_treasure_bag_star_forger_deluxe": "%1$s received a %2$s from the %3$s!", // 1: player, 2: mcp.StarForgerDeluxe, 3:mcp.TreasureBag
+  "mcp.SuperWarpPipeFindItem": "%1$s found a %2$s in the %3$s.", // 1: player, 2: entity, 3: mcp.SuperWarpPipe
+  "mcp.NameColorKey": "Name color key:",
+  "mcp.OneTimeTester": "One Time Tester",
+  "mcp.RepeatTester": "Repeat Tester",
+  "mcp.FrequentTester": "Frequent Tester",
+  "mcp.PickpocketerSingleplayerDescription": "Steals 5 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn.",
+  "mcp.PocketPlundererSingleplayerDescription": "Steals 8 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn."
 }
