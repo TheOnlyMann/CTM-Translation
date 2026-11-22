@@ -1,0 +1,443 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uF001": -1,
+        "\uF007": -7,
+        "\uF103": 3
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr.png",
+      "ascent": 0,
+      "height": 224,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_tl.png",
+      "ascent": 0,
+      "height": 224,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_tr.png",
+      "ascent": 0,
+      "height": 224,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_bl.png",
+      "ascent": 0,
+      "height": 224,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_br.png",
+      "ascent": 0,
+      "height": 224,
+      "chars": ["\uE004"]
+    },
+
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_tl.png",
+      "ascent": 24,
+      "height": 64,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_tr.png",
+      "ascent": 24,
+      "height": 64,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_bl.png",
+      "ascent": -31,
+      "height": 64,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:1000mwr_br.png",
+      "ascent": -31,
+      "height": 64,
+      "chars": ["\uE008"]
+    },
+
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE105"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE106"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE107"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE108"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE109"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_10.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE110"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_11.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE111"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_12.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE112"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_13.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE113"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_14.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE114"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_15.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE115"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_16.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE116"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:en_us/lectern_17.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE117"]
+    },
+
+
+
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE201"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE202"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE203"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE204"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE205"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE206"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE207"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE208"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE209"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_10.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE210"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_11.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE211"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_12.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE212"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_13.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE213"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_14.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE214"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_15.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE215"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_16.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE216"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ja_jp/lectern_17.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE217"]
+    },
+
+    
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_01.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE301"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_02.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE302"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_03.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE303"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_04.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE304"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_05.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE305"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_06.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE306"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_07.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE307"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_08.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE308"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_09.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE309"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_10.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE310"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_11.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE311"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_12.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE312"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_13.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE313"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_14.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE314"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_15.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE315"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_16.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE316"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ko_kr/lectern_17.png",
+      "ascent": 10,
+      "height": 128,
+      "chars": ["\uE317"]
+    }
+  ]
+}
