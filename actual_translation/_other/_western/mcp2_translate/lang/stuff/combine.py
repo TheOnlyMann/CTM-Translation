@@ -11,26 +11,26 @@ from collections import OrderedDict
 # ============================================================
 
 snippet_dir = [
-    "actual_translation/_other/mcp2_translate/lang/stuff/ko_kr_oth.json"
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/ko_kr_oth.json"
 ]
 
 mergejson_dir = "translation_tools/python/mergejson.py"
 managemultivalue_dir = "translation_tools/python/managemultivalue.py"
 
 base_dir = (
-    "actual_translation/_other/mcp2_translate/lang/stuff/"
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/"
     "en_us_pr.json"
 )
 
 save_dir_base = (
-    "actual_translation/_other/mcp2_translate/lang/stuff/"
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/"
     "assembly/"
 )
 
 # value -> value 형태의 번역 매핑 파일
 # 여러 개 지정할 수 있으며 위에서 아래 순서로 적용
 multivalue_dir = [
-    "actual_translation/_other/mcp2_translate/lang/stuff/ko_kr_key.json",
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/ko_kr_key.json",
 ]
 
 # True: 모듈 병합 이후에 일괄 치환
