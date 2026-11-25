@@ -11,7 +11,8 @@ from collections import OrderedDict
 # ============================================================
 
 snippet_dir = [
-    "actual_translation/_other/_western/mcp2_translate/lang/stuff/ko_kr_oth.json"
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/ko_kr_oth.json",
+    "actual_translation/_other/_western/mcp2_translate/lang/stuff/ko_kr_2part.json"
 ]
 
 mergejson_dir = "translation_tools/python/mergejson.py"

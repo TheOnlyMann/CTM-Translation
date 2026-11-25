@@ -2446,11 +2446,11 @@
   "mcp.board_explanation.14": "Click here fer an explanation o' this board.",
   "mcp.board_explanation.15": "Candyland board created by: %1$s and %2$s", // 1: "Loominardy", 2: "ClashAssassin"
   "mcp.board_explanation.16": "Click here fer an explanation o' this board.",
-  "mcp.board_explanation.17": "Pac Maze board built by: %1$s and %2$s.", // 1: "AustinTheManiac", 2: "JohnGlacious"
+  "mcp.board_explanation.17": "Pac Maze board built by: %1$s and %2$s.", // 1: "PacManiaFan", 2: "JohnGlacious"
   "mcp.board_explanation.18": "Zen Garden board created by: %1$s%2$s%3$s, %4$s, n'%5$s", // 1: "Tru1h", 2: ",", 3: " xDoubleH", 4: "Loominardy", 5: " ClashAssassin"
   "mcp.board_explanation.19": "Mooshroom Grotto board built by: %1$s", // 1: "JohnGlacious"
   "mcp.board_explanation.20": "Pipe Canyon board built by %1$s n' developed by %2$s and %3$s.", // 1: "xDoubleH", 2: "Loominardy", 3: "ClashAssassin"
-  "mcp.board_explanation.21": "Rhythmic Room board built by %1$s%2$s%3$s and %4$s n' developed by %5$s and %6$s.", // 1: "AustinTheManiac", 2: ",", 3: " Daybreak76", 4: "JonikHD", 5: "Loominardy", 6: "ClashAssassin"
+  "mcp.board_explanation.21": "Rhythmic Room board built by %1$s%2$s%3$s and %4$s n' developed by %5$s and %6$s.", // 1: "PacManiaFan", 2: ",", 3: " Daybreak76", 4: "JonikHD", 5: "Loominardy", 6: "ClashAssassin"
   "mcp.board_explanation.22.1": "Suburbia Scramble",
   "mcp.board_explanation.22": "%1$s board built by %2$s n' developed by %3$s and %4$s.", // 1: mcp.board_explanation.22.1, 2: "DewSixtyFour", 3: "Loominardy", 4: "ClashAssassin"
   "mcp.board_explanation.23.1": "Lofty Luncheon",
@@ -2822,7 +2822,7 @@
   "mcp.center_park_cutscene.3": "%1$sThis board has two %2$s active at all times wit' each o' them selling a %3$s fer 20 %4$s. Thar shinin' spiker hawker moves after a shinin' spiker gets forked for.", // 1: mcp.center_park_cutscene.3.1, 2: mcp.center_park_cutscene.3.2, 3: mcp.Star, 4: mcp.Coins
   "mcp.center_park_cutscene.4.1": "\nTraffic Lights> ",
   "mcp.center_park_cutscene.4.2": "GREEN",
-  "mcp.center_park_cutscene.4": "%1$sWhen entering an intersection, there be always two exits available. Only thar exits wit' thar traffic lights in thar %2$s state be able taken. Thar exits wit' thar blockades be not able t' be taken. Right away, thar East n' West exits at every intersection be open.", // 1: mcp.center_park_cutscene.4.1, 2: mcp.center_park_cutscene.4.2
+  "mcp.center_park_cutscene.4": "%1$sWhen entering an intersection, there be always two exits available. Only thar exits wit' thar traffic lights in thar %2$s state be able to be taken. Thar exits wit' thar blockades be not able t' be taken. Right away, thar East n' West exits at every intersection be open.", // 1: mcp.center_park_cutscene.4.1, 2: mcp.center_park_cutscene.4.2
   "mcp.center_park_cutscene.5.1": "\nMagenta Landmarks> ",
   "mcp.center_park_cutscene.5": "%1$sWhen a swashbuckler lands on a magenta landmark, thar East n' West exits close n' thar North n' South exits open. Thar exit states swap every time a swashbuckler lands on a magenta spot.", // 1: mcp.center_park_cutscene.5.1
   "mcp.center_park_cutscene.6.1": "\nTicket Spiker> ",
@@ -3564,7 +3564,7 @@
   "mcp.farming_frenzy.4.6": "Cocoa beans",
   "mcp.farming_frenzy.4.7": "Melons",
   "mcp.farming_frenzy.4.8": "Pumpkins",
-  "mcp.farming_frenzy.4": "%1$s: 1 Glory Tally\n%2$s: 1 Glory Tally\n%3$s: 2 Glory Tallies\n%4$s: 2 Glory Tallies\n%5$s: 2 Glory Tallies\n%6$s: 4 Glory Tallies\n%7$s: 6 Glory Tallies\n%8$s: 6 Glory Tallies", // 1: mcp.farming_frenzy.4.1, 2: mcp.farming_frenzy.4.2, 3: mcp.farming_frenzy.4.3, 4: mcp.farming_frenzy.4.4, 5: mcp.farming_frenzy.4.5, 6: mcp.farming_frenzy.4.6, 7: mcp.farming_frenzy.4.7, 8: mcp.farming_frenzy.4.8
+  "mcp.farming_frenzy.4": "%1$s: 1 Glory Tally\n%2$s: 1 Glory Tally\n%3$s: 2 Glory Tallies\n%4$s: 2 Glory Tallies\n%5$s: 2 Glory Tallies\n%6$s: 4 Glory Tallies\n%7$s: 7 Glory Tallies\n%8$s: 7 Glory Tallies", // 1: mcp.farming_frenzy.4.1, 2: mcp.farming_frenzy.4.2, 3: mcp.farming_frenzy.4.3, 4: mcp.farming_frenzy.4.4, 5: mcp.farming_frenzy.4.5, 6: mcp.farming_frenzy.4.6, 7: mcp.farming_frenzy.4.7, 8: mcp.farming_frenzy.4.8
   "mcp.farming_frenzy.5": "A new crop season will occur every 10 seconds where that crop's yield be doubled.",
   "mcp.farming_frenzy.6": "The swashbuckler wit' thar most glory tallies wins!",
   "mcp.farming_frenzy_end.2": "The voyage has ended!",
@@ -4038,25 +4038,16 @@
   "mcp.fort_suits_spirit_room_tick.52": "%1$s used %2$s%3$sfor %4$s%5$s", // 1: player, 2: score, 3: "\uE006 ", 4: score, 5: mcp._Coins
   "mcp.fort_suits_spirit_room_tick.53.1": "5 Shinin' Spiker Shards ",
   "mcp.fort_suits_spirit_room_tick.53": "%1$s converted %2$sinto a %3$s", // 1: player, 2: mcp.fort_suits_spirit_room_tick.53.1, 3: mcp.star_
-  "mcp.fort_suits_update_star_cost_text.1.1": "30 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.1.2": "25 Doubloons",
+  "mcp.fort_suits_update_star_cost_text.1.1": "%1$s Doubloons",
+  "mcp.fort_suits_update_star_cost_text.1.2": "%1$s Doubloons",
   "mcp.fort_suits_update_star_cost_text.1.3": "1",
-  "mcp.fort_suits_update_star_cost_text.1.4": "20 Doubloons",
+  "mcp.fort_suits_update_star_cost_text.1.4": "%1$s Doubloons",
   "mcp.fort_suits_update_star_cost_text.1.5": "2",
-  "mcp.fort_suits_update_star_cost_text.1.6": "15 Doubloons",
+  "mcp.fort_suits_update_star_cost_text.1.6": "%1$s Doubloons",
   "mcp.fort_suits_update_star_cost_text.1.7": "3",
-  "mcp.fort_suits_update_star_cost_text.1.8": "10 Doubloons",
+  "mcp.fort_suits_update_star_cost_text.1.8": "%1$s Doubloons",
   "mcp.fort_suits_update_star_cost_text.1.9": "4",
   "mcp.fort_suits_update_star_cost_text.1": "1 Shinin' Spiker:           %1$s%2$s1 Shinin' Spiker:           %3$s%4$s%5$s%6$s1 Shinin' Spiker:           %7$s%8$s%9$s%10$s1 Shinin' Spiker:           %11$s%12$s%13$s%14$s1 Shinin' Spiker:           %15$s%16$s%17$s%18$s", // 1: mcp.fort_suits_update_star_cost_text.1.1, 2: "      \n", 3: mcp.fort_suits_update_star_cost_text.1.2, 4: " + ", 5: mcp.fort_suits_update_star_cost_text.1.3, 6: "\ue005\n", 7: mcp.fort_suits_update_star_cost_text.1.4, 8: " + ", 9: mcp.fort_suits_update_star_cost_text.1.5, 10: "\ue005\n", 11: mcp.fort_suits_update_star_cost_text.1.6, 12: " + ", 13: mcp.fort_suits_update_star_cost_text.1.7, 14: "\ue005\n", 15: mcp.fort_suits_update_star_cost_text.1.8, 16: " + ", 17: mcp.fort_suits_update_star_cost_text.1.9, 18: "\ue005"
-  "mcp.fort_suits_update_star_cost_text.2.1": "30 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.2.2": "25 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.2.3": "1",
-  "mcp.fort_suits_update_star_cost_text.2.4": "20 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.2.5": "2",
-  "mcp.fort_suits_update_star_cost_text.2.6": "15 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.2.7": "3",
-  "mcp.fort_suits_update_star_cost_text.2.8": "10 Doubloons",
-  "mcp.fort_suits_update_star_cost_text.2.9": "4",
   "mcp.fort_suits_update_star_cost_text.2": "1 Shinin' Spiker:           %1$s%2$s1 Shinin' Spiker:           %3$s%4$s%5$s%6$s1 Shinin' Spiker:           %7$s%8$s%9$s%10$s1 Shinin' Spiker:           %11$s%12$s%13$s%14$s1 Shinin' Spiker:           %15$s%16$s%17$s%18$s", // 1: mcp.fort_suits_update_star_cost_text.2.1, 2: "      \n", 3: mcp.fort_suits_update_star_cost_text.2.2, 4: " + ", 5: mcp.fort_suits_update_star_cost_text.2.3, 6: "\ue006\n", 7: mcp.fort_suits_update_star_cost_text.2.4, 8: " + ", 9: mcp.fort_suits_update_star_cost_text.2.5, 10: "\ue006\n", 11: mcp.fort_suits_update_star_cost_text.2.6, 12: " + ", 13: mcp.fort_suits_update_star_cost_text.2.7, 14: "\ue006\n", 15: mcp.fort_suits_update_star_cost_text.2.8, 16: " + ", 17: mcp.fort_suits_update_star_cost_text.2.9, 18: "\ue006"
   "mcp.fort_suits_vulcan_button.1": "%1$s galleon'd their %2$s", // 1: player, 2: entity
   "mcp.fort_suits_vulcan_button.2": "%1$s replicated their %2$s", // 1: player, 2: entity
@@ -4449,10 +4440,10 @@
   "mcp.hub_tick.2": "By: %1$s and %2$s", // 1: "ClashAssassin", 2: "Loominardy"
   "mcp.hungry_hungry_humans.1": "Grumblin' Grumblin'",
   "mcp.hungry_hungry_humans.2": "Sailors",
-  "mcp.hungry_hungry_humans.3": "Each swashbuckler be standing on their own island. Animals will spawn on thar center island.",
-  "mcp.hungry_hungry_humans.4": "Capture animals in yer moat by pulling them wit' yer fishing rod.",
-  "mcp.hungry_hungry_humans.5": "Animals will spawn fer 90 seconds n' thar voyage will end once all animals be captured.",
-  "mcp.hungry_hungry_humans.6": "The swashbuckler that stashs thar most doubloons wins.",
+  "mcp.hungry_hungry_humans.3": "Each swashbuckler be standing on their own section. Animals will spawn on thar center island.",
+  "mcp.hungry_hungry_humans.4": "Capture animals in yer moat by pulling them wit' yer fishing rod. Ye'll plunder one doubloon per animal captured.",
+  "mcp.hungry_hungry_humans.5": "Thar voyage will end after 90 seconds.",
+  "mcp.hungry_hungry_humans.6": "The swashbuckler that stashs thar most animals wins.",
   "mcp.hungry_hungry_humans.7": "Each animal that ye capture will reward ye wit' a doubloon!",
   "mcp.hungry_hungry_humans_start.1": "Capture!",
   "mcp.hungry_hungry_humans.item.animal_hook": "Animal Hook",
@@ -5719,9 +5710,9 @@
   "mcp.orange_event_reverse_a_board.4.1": " has received ",
   "mcp.orange_event_reverse_a_board.4": "%1$s%2$s%3$s Wack Trackers!", // 1: player, 2: mcp.orange_event_reverse_a_board.4.1, 3: score
   "mcp.orange_event_thrice_dice.1": "%1$s has received %2$s!", // 1: player, 2: mcp.ThriceDice
-  "mcp.orange_event_thrice_dice.2": "%1$s has received %2$s%3$s%4$s!", // 1: player, 2: score, 3: " ", 4: mcp.ThriceDice
+  "mcp.orange_event_thrice_dice.2": "%1$s has received %2$s %3$s!", // 1: player, 2: score, 3: mcp.ThriceDice
   "mcp.orange_event_thrice_dice.3": "%1$s has received %2$s!", // 1: player, 2: mcp.WeightedThriceDice
-  "mcp.orange_event_thrice_dice.4": "%1$s has received %2$s%3$s%4$s!", // 1: player, 2: score, 3: " ", 4: mcp.WeightedThriceDice
+  "mcp.orange_event_thrice_dice.4": "%1$s has received %2$s %3$s!", // 1: player, 2: score, 3: mcp.WeightedThriceDice
   "mcp.orange_event_twice_dice.1": "%1$s has received %2$s!", // 1: player, 2: mcp.TwiceDice
   "mcp.orange_event_twice_dice.2": "%1$s has received %2$s%3$s%4$s!", // 1: player, 2: score, 3: " ", 4: mcp.TwiceDice
   "mcp.orange_event_twice_dice.3": "%1$s has received %2$s!", // 1: player, 2: mcp.WeightedTwiceDice
@@ -5928,8 +5919,6 @@
   "mcp.pipe_canyon_defuse_end.1.1": " -10 Doubloons",
   "mcp.pipe_canyon_defuse_end.1": "%1$s did not defuse thar correct bomb.%2$s", // 1: player, 2: mcp.pipe_canyon_defuse_end.1.1
   "mcp.pipe_canyon_defuse_end.2": "%1$s defused thar bomb n' won %2$s.", // 1: player, 2: mcp.10_coins
-  "mcp.pipe_canyon_description.1.1": "Pipe Canyon> ",
-  "mcp.pipe_canyon_description.1": "%1$s Warps! Warps! Warps! Ye have thar ability t' traverse through warps around thar board which will teleport ye t' thar corresponding pipe o' thar same color. Magenta landmarks will move ye t' thar other magenta landmark wit' thar same surrounding colored slabs. Thar board specific shinin' spiker be thar warper shinin' spiker. Any warp tolls or magenta landmark warps (but not thar Bew warp) will count towards this bonus star. In addition t' warping, this board has a Bew portal in thar middle n' a few reckonin's around where ye can earn doubloons.", // 1: mcp.pipe_canyon_description.1.1
   "mcp.pipe_canyon_entities.1": "Carney",
   "mcp.pipe_canyon_entities.2": "Gumbo",
   "mcp.pipe_canyon_magenta_event.1": "%1$s be warped!", // 1: player
@@ -6591,6 +6580,7 @@
   "mcp.puzzled.1": "Recreate thar image shown on thar right side.",
   "mcp.puzzled_rules.1": "The image will be scrambled n' randomly rotated on thar left side.",
   "mcp.puzzled_rules.2": "Controls:\nSwap Piece: %1$s\nRotate Piece: %2$s", // 1: keybind, 2: keybind
+  "mcp.puzzled_rules.3": "Thar first swashbuckler t' conquor thar portrait be victorious!", 
   "mcp.puzzled_tick.1": "%1$s has finished!", // 1: player
   "mcp.quest6_choose.1.1": "[Player Swapper]",
   "mcp.quest6_choose.1": "You chose %1$s (Click again t' select a different trinket)", // 1: mcp.quest6_choose.1.1
@@ -6796,8 +6786,8 @@
   "mcp.rhythmic_room_cutscene.2": "%1$sRhythmic Room be a music room themed board.", // 1: mcp.rhythmic_room_cutscene.2.1
   "mcp.rhythmic_room_cutscene.3.1": "\nBuying Shinin' Spikers> ",
   "mcp.rhythmic_room_cutscene.3": "%1$sThe %2$s on this board sells 1 %3$s fer thar cost o' 20 %4$s. But once a swashbuckler buys a %3$s, the cost be shiftin’ at random to 0, 5, 10, 15, 20, 30, or 40 %4$s, and the %2$s sets sail for a new landmark on the map.", // 1: mcp.rhythmic_room_cutscene.3.1, 2: mcp.StarSeller, 3: mcp.Star, 4: mcp.Coins
-  "mcp.rhythmic_room_cutscene.4.1": "\nMetronome Event> ",
-  "mcp.rhythmic_room_cutscene.4": "%1$sLanding on one o' thar two magenta landmarks wit' a metronome next t' it will run thar Metronome Event. This event will randomly change thar price o' a %2$s t' either 0, 5, 10, 15, 20, 30 or 40 %3$s.", // 1: mcp.rhythmic_room_cutscene.4.1, 2: mcp.Star, 3: mcp.Coins
+  "mcp.rhythmic_room_cutscene.4.1": "\nWooden Tick'r Event> ",
+  "mcp.rhythmic_room_cutscene.4": "%1$sLanding on one o' thar two magenta landmarks wit' a wooden tick'r next t' it will run thar Wooden Tick'r Event. This event will randomly change thar price o' a %2$s t' either 0, 5, 10, 15, 20, 30 or 40 %3$s.", // 1: mcp.rhythmic_room_cutscene.4.1, 2: mcp.Star, 3: mcp.Coins
   "mcp.rhythmic_room_cutscene.5.1": "\nPiano Event> ",
   "mcp.rhythmic_room_cutscene.5": "%1$sLanding on one o' thar two magenta landmarks on thar piano will run an event that has a 50%% chance t' give all swashbucklers 5 %2$s t' take 5 %3$s away from all swashbucklers.", // 1: mcp.rhythmic_room_cutscene.5.1, 2: mcp.Coins, 3: mcp.Coins
   "mcp.rhythmic_room_cutscene.6.1": "\nDrum Event> ",
@@ -6910,10 +6900,6 @@
   "mcp.rpsc_rules.7": "First tribe t' eliminate thar other tribe wins!",
   "mcp.rpsc_shoot.1": "The choices be about t' be revealed!",
   "mcp.rpsc_start_round.1": "Select an trinket t' play by dropping it. One swashbuckler drops fer both.",
-  "mcp.rr_board_description.1.1": "Rhythmic Room Board> ",
-  "mcp.rr_board_description.1.2": "The shinin' spiker price on this board starts at 20 doubloons n' can change t' 0, 5, 10, 15, 20, 30, or 40 doubloons.",
-  "mcp.rr_board_description.1.3": "The bonus shinin' spiker fer this board be thar fortune shinin' spiker n' be awarded t' whoever lands on thar most yellow, black, n' chance time landmarks.",
-  "mcp.rr_board_description.1": "%1$s%2$s\nMagenta landmarks do the following:\nPiano: Gives or takes 5 doubloons from all swashbucklers\nDrum: Launches swashbuckler to a random landmark\nChair: Launches swashbuckler to a random swashbuckler\nHorn: Launches swashbuckler to spiker landmark\nMetronome: Changes spiker price. \n%3$s", // 1: mcp.rr_board_description.1.1, 2: mcp.rr_board_description.1.2, 3: mcp.rr_board_description.1.3
   "mcp.rr_chair_event.1": "%1$s got shot up t' %2$s", // 1: player, 2: entity
   "mcp.rr_chair_event.2": "%1$s got shot up t' %2$s", // 1: player, 2: entity
   "mcp.rr_drum_challenge.1.1": "Gunner>",
@@ -7095,7 +7081,7 @@
   "mcp.show_landing_spot.36": "Drum Event\n(launch to a random landmark)",
   "mcp.show_landing_spot.37": "Piano Event\n(give/take 5 Doubloons)",
   "mcp.show_landing_spot.38": "Piano Event\n(give/take 5 Doubloons)",
-  "mcp.show_landing_spot.39": "Metronome Event\n(change the Shinin' Spiker cost)",
+  "mcp.show_landing_spot.39": "Wooden Tick'r\n(change the Shinin' Spiker cost)",
   "mcp.show_landing_spot.40.2": "Parcel 1",
   "mcp.show_landing_spot.40": "Automatically Invest 10 %1$s Into %2$s", // 1: mcp.Coins, 2: mcp.show_landing_spot.40.2
   "mcp.show_landing_spot.41.2": "Parcel 2",
@@ -8314,7 +8300,7 @@
   "mcp.team_placements1.2": "Rumlin: %1$s", // 1: player
   "mcp.team_placements2.1": "Barnacles: %1$s", // 1: player
   "mcp.team_placements2.2": "Barnacle: %1$s", // 1: player
-  "mcp.tedious_tasks.1": "Complete thar 8 tasks as quickly as ye can.",
+  "mcp.tedious_tasks.1": "Complete thar %1$s tasks as quickly as ye can.",
   "mcp.tedious_tasks.2": "Tasks will be given (in chat) in a random order fer all swashbucklers.",
   "mcp.tedious_tasks.3": "You can kill/disrupt other swashbucklers. Do whatever it takes!",
   "mcp.tedious_tasks.4": "Tip: Make sure ye have yer %1$s channel at an audible level fer this voyage.", // 1: soundCategory.record
@@ -9204,8 +9190,6 @@
   "mcp.zen_garden_cutscene.8": "%1$sLanding on this magenta landmark will set sail a %2$s event. All swashbucklers put %3$s into a pot during thar daytime or will put one %4$s each into thar pot during thar nighttime. To be eligible, ye must have at least 20 %5$s (daytime) or at least 1 %6$s (nighttime). Each participant will plant a bamboo n' whichever swashbuckler's bamboo grows thar highest wins thar majority o' thar pot while 2nd place earns their bid back. 3rd place n' below will receive nothing.", // 1: mcp.zen_garden_cutscene.8.1, 2: mcp.zen_garden_cutscene.8.2, 3: mcp.Coins, 4: mcp.Star, 5: mcp.Coins, 6: mcp.Star
   "mcp.zen_garden_cutscene.9": "%1$s <NEXT>", // 1: mcp.previous
   "mcp.zen_garden_cutscene.10": "%1$s <BON VOYAGE>", // 1: mcp.previous
-  "mcp.zen_garden_description.1.1": "Zen Garden Board> ",
-  "mcp.zen_garden_description.1": "%1$s\nYou must turn at every intersection when traversing the board.\nYou can fork for up to 5 Spikers at a time from the main Spiker Seller. The more Spikers you buy at once, the more expensive each one is.\nThere is a passable Music Disc Reckonin' that awards 20 Doubloons if beat.\nThe Trident Race reckonin' awards you 10 Doubloons if beat. This reckonin' gets harder and the reward increases each time a swashbuckler beats it.\nThere is also a block guessing reckonin' which awards 15 Doubloons when beat.\nThe one magenta spot activates a coin shuffle in the beginning portion of the voyage and a shinin' spiker shuffle after a high tide affair has been ran.\nThe map specific spiker is the Transaction Shinin' Spiker and is awarded to the swashbuckler/team that does the most spiker transactions.", // 1: mcp.zen_garden_description.1.1
   "mcp.zen_garden_mastermind_check_guess.1.1": "Doubloons!",
   "mcp.zen_garden_mastermind_check_guess.1": "%1$s beat Thar Block Guessing Reckonin' n' won 10 %2$s", // 1: player, 2: mcp.zen_garden_mastermind_check_guess.1.1
   "mcp.zen_garden_mastermind_check_guess.2": "%1$s did not beat Thar Block Guessing Reckonin'.", // 1: player
@@ -9845,7 +9829,7 @@
   "mcp.welcome_rules_book.page_12.1": "Credits\n",
   "mcp.welcome_rules_book.page_12.2": "\n\nClashAssassin (Head Captain)\n\nLoominardy (Head Captain)",
   "mcp.welcome_rules_book.page_13.1": "",
-  "mcp.welcome_rules_book.page_13.2": "DewSixtyFour (Assistant Hammerer)\n\nKingNothing27 (Assistant Hammerer)\n\nHoodedPandaX (Assistant Hammerer)\n\nJohnGlacious (Assistant Hammerer)\n\nAustinTheManiac (Assistant Hammerer)",
+  "mcp.welcome_rules_book.page_13.2": "DewSixtyFour (Assistant Hammerer)\n\nKingNothing27 (Assistant Hammerer)\n\nHoodedPandaX (Assistant Hammerer)\n\nJohnGlacious (Assistant Hammerer)\n\nPacManiaFan (Assistant Hammerer)",
   "mcp.welcome_rules_book.page_14.1": "xDoubleH\n(Assistant Hammerer)\n\nTru1h\n(Assistant Hammerer)\n\nDaybreak76\n(Assistant Hammerer)\n\n_Yoshi12345\n(Tunes Maker)\n\ndevini15\n(Texture Savant)",
   "mcp.cannoneers_rules_key.1":"Move Target:",
   "mcp.cannoneers_rules_key.2":"Move Mouse",
@@ -10200,7 +10184,7 @@
   "mcp.PreviousAndNext": "%1$s %2$s",
   "mcp.lush_crater_cutscene.1": "%1$s%2$s be a mystical forest board full o’ strange tricks and merry mischief.",
   "mcp.lush_crater_cutscene.2": "%1$s Long ago, a meteorite smashed into this crater and left behind creakin’ seeds that fused into creakin’ hearts. These hearts hatch into creakings when near heaps o’ tree ooze. To stop the beasts from hatchin’, the villagers must clear out any ooze they find.",
-  "mcp.lush_crater_cutscene.3": "%1$s> This board features a currency called %2$s%3$s, slowly gatherin’ in the five tree stumps scattered about. The more unclaimed %2$s sits in the stumps, the more creakings’ll spawn across the land.",
+  "mcp.lush_crater_cutscene.3": "%1$s> This board features a currency called %2$s%3$s, slowly gatherin’ in the five tree stumps scattered about. The more unclaimed %2$s sits in the stumps, the more creakings’ll spawn across the land. Swashbucklers have a 25%% fate t' plunder 1 %4$s%3$s fer landin' on a landmark.",
   "mcp.LushCraterTreeStumpSpaces": "Tree Stump Spaces",
   "mcp.lush_crater_cutscene.4": "%1$s§d>§r Any sailor landin’ on a %2$s space beside a stump’ll snatch all the gathered %3$s. From then on, 1 %4$s’ll appear in the tree after 8 swashbucklers' helm runs.",
   "mcp.BuyingStars": "Buyin’ Stars",
@@ -10225,7 +10209,7 @@
   "mcp.MsTimberstride": "Ms. Timberstride",
   "mcp.LushCraterMudPileSpaceLandText": "Snag t' %1$s from thar mud", // 1: mcp.Coins
   "mcp.LushCraterTreeStumpSpaceLandText": "Snag t' %1$s from thar tree stump", // 1: mcp.ResinClumps
-  "mcp.lush_crater_log_run_end.1":"%1$s fell in the poisioned water and failed to retrieve the berries.", // 1: player
+  "mcp.lush_crater_log_run_end.1":"%1$s fell in the poisoned water and failed to retrieve the berries.", // 1: player
   "mcp.lush_crater_log_run_end.2":"%1$s beat the log run challenge and won %2$s.", // 1: player, 2: mcp.10_Coins
   "mcp.LushCrater1": "Pit o' Greenery",
   "mcp.LushCrater2": "",
@@ -10258,7 +10242,7 @@
   "mcp.ComboCardUse": "%1$s received another helm run!", // 1: player
   "mcp.ComboCardDescription": "Grants ye another helm run.",
   "mcp.recover_item_attempt_combo_card": "%1$s received their %2$s back using %3$s body shells!",
-  "mcp.DoubleComboCard": "Double Combo Card",
+  "mcp.DoubleComboCard": "§f§k§lM§rDouble Combo Card§f§k§lM§r",
   "mcp.DoubleComboCardUse": "%1$s received two more helm runs!", // 1: player
   "mcp.DoubleComboCardDescription": "Grants ye two more helm runs.",
   "mcp.recover_item_attempt_double_combo_card": "%1$s received their %2$s back using %3$s body shells!",
@@ -10266,7 +10250,7 @@
   "mcp.WarpPipeUse": "%1$s used a %2$s, arrr!", 
   "mcp.WarpPipeDescription": "Pick from three random spots on the board to warp yerself to, savvy?",
   "mcp.recover_item_attempt_warp_pipe": "%1$s received their %2$s back using %3$s body shells!",
-  "mcp.SuperWarpPipe": "Super Warp Pipe",
+  "mcp.SuperWarpPipe": "§f§k§lM§rSuper Warp Pipe§f§k§lM§r",
   "mcp.SuperWarpPipeUse": "%1$s used a %2$s and found %3$s inside the blasted pipe!", 
   "mcp.SuperWarpPipeDescription": "Pick from three random spots on the board to warp to, and snag a random trinket worth less than 15 doubloons.",
   "mcp.recover_item_attempt_super_warp_pipe": "%1$s received their %2$s back using %3$s body shells!",
@@ -10274,7 +10258,7 @@
   "mcp.CoinForgerUse": "%1$s forged %2$s %3$s with a %4$s, yarrr!", 
   "mcp.CoinForgerDescription": "Instantly haul in a random stash o’ doubloons between 6 and 12.",
   "mcp.recover_item_attempt_coin_forger": "%1$s received their %2$s back using %3$s body shells!",
-  "mcp.CoinForgerDeluxe": "Doubloon Forger Deluxe",
+  "mcp.CoinForgerDeluxe": "§f§k§lM§rDoubloon Forger Deluxe§f§k§lM§r",
   "mcp.CoinForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s, yarrr!", 
   "mcp.CoinForgerDeluxeDescription": "Instantly haul in a random stash o’ doubloons between 10 and 20.",
   "mcp.recover_item_attempt_coin_forger_deluxe": "%1$s received their %2$s back using %3$s body shells!",
@@ -10283,7 +10267,7 @@
   "mcp.StarForgerUse": "%1$s forged %2$s %3$s with a %4$s, arrr!", 
   "mcp.StarForgerDescription": "Instantly haul in a random stash o’ shinin' spikers bits between 6 and 12. Every 5 shards ye gather be turned into a shinin' spiker.",
   "mcp.recover_item_attempt_star_forger": "%1$s received their %2$s back using %3$s body shells!",
-  "mcp.StarForgerDeluxe": "Shinin' Spiker Forger Deluxe",
+  "mcp.StarForgerDeluxe": "§f§k§lM§rShinin' Spiker Forger Deluxe§f§k§lM§r",
   "mcp.StarForgerDeluxeUse": "%1$s forged %2$s %3$s with a %4$s, arrr!", 
   "mcp.StarForgerDeluxeDescription": "Instantly haul in a random stash o’ shinin' spiker bits between 10 and 20. Every 5 shards ye gather be turned into a shinin' spiker.",
   "mcp.recover_item_attempt_star_forger_deluxe": "%1$s received their %2$s back using %3$s body shells!",
@@ -10312,5 +10296,200 @@
   "mcp.RepeatTester": "Repeat Tester",
   "mcp.FrequentTester": "Frequent Tester",
   "mcp.PickpocketerSingleplayerDescription": "Steals 5 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn.",
-  "mcp.PocketPlundererSingleplayerDescription": "Steals 8 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn."
+  "mcp.PocketPlundererSingleplayerDescription": "Steals 8 coins from every villager, mannequin, and shopkeeper on the board. Each entity can only be stolen from once per turn.",
+  "mcp.AttemptsLeft":"Attempts Left: %1$s",
+  "mcp.fire_trap_single_player_damage.1": "+1 %1$s",
+  "mcp.fire_trap_single_player_damage.2": "+%1$s %2$s",
+  "mcp.GhoulModeSinglePlayerRestoreTrap": "%1$s replenish'd ther %2$s with %3$s.", // 1: player, 2: mcp.FireTrap, 3: mcp.GhoulMode
+  "mcp.GhostModeSingleplayerDescription": "Allows you to move through any blocked off path on your turn, adds 3 to your next roll, and allows you to activate traps without using up their durability (once per Ice/Freeze Trap).",
+  "mcp.GhoulModeSingleplayerDescription": "Allows you to move through any blocked off path on your turn, adds 3 to your next roll, and restores trap durability of activated traps (once per Ice/Freeze Trap).",
+  "mcp.GhostModeSingleplayerLushCraterDescription": "Makes you immune to dropping Coins in mud, adds 3 to your next roll, and allows you to activate traps without using up their durability (once per Ice/Freeze Trap).",
+  "mcp.GhoulModeSingleplayerLushCraterDescription": "Makes you immune to dropping Coins in mud, adds 3 to your next roll, and restores trap durability of activated traps (once per Ice/Freeze Trap).",
+  "mcp.AnvilTrapSingleplayerDescription": "Landing on this trap gives you 10 coins. This trap does not expire.",
+  "mcp.AnvilDeathTrapSingleplayerDescription": "Landing on this trap gives you coins equal to half of your current coin count (minimum of 10). This trap does not expire.",
+  "mcp.FireTrapSingleplayerDescription": "Crossing this trap gives you 1 coin for every spot that you pass for the remainder of your turn. Expires after 3 uses.",
+  "mcp.InfernoTrapSingleplayerDescription": "Crossing this trap gives you 2 coins for every spot that you pass for the remainder of your turn. Expires after 3 uses.",
+  "mcp.IceTrapSingleplayerDescription": "Crossing a space with this trap on it adds your current roll by half instead of taking away a space. Expires after 3 uses.",
+  "mcp.FreezeTrapSingleplayerDescription": "Crossing a space with this trap on it doubles your current roll instead of taking away a space. Expires after 2 uses.",
+  "mcp.ZapTrapSingleplayerDescription": "Crossing this space gives you 2 coins for every spot passed for the remainder of your turn. Expires after 1 use.",
+  "mcp.LightningTrapSingleplayerDescription": "Crossing this space gives you 3 coins for every spot passed for the remainder of your turn. Expires after 1 use.",
+  "mcp.EnderTrapSingleplayerDescription": "Landing on this trap teleports you (or whoever lands on it) to a random space and nullifies the space below it. Expires after 1 use.",
+  "mcp.EnderAuraTrapSingleplayerDescription": "Landing on this trap nullifies the space below it and makes you choose between four randomly selected locations on the board to teleport to. Expires after 1 use.",
+  "mcp.Yes": "Aye",
+  "mcp.No": "Nay",
+  "mcp.DoubleStarVoucherSign1": "Double Shinin'",
+  "mcp.DoubleStarVoucherSign2": "Spiker Voucher",
+  "mcp.TripleStarVoucherSign1": "Triple Shinin'",
+  "mcp.TripleStarVoucherSign2": "Spiker Voucher",
+  "mcp.ItemSettings": "Trinket Settings",
+  "mcp.CoinForgers": "Doubloon Forgers",
+  "mcp.yellow_event_receive_coin_forger": "%1$s has received a %2$s!",
+  "mcp.yellow_event_receive_multiple_coin_forgers": "%1$s has received %2$s %3$s!",
+  "mcp.CoinForgerDeluxes": "Coin Forger Deluxes",
+  "mcp.yellow_event_receive_coin_forger_deluxe": "%1$s has received a %2$s!",
+  "mcp.yellow_event_receive_multiple_coin_forger_deluxes": "%1$s has received %2$s %3$s!",
+  "mcp.buy_combo_card": "%1$s forked for %2$s!",
+  "mcp.buy_double_combo_card": "%1$s forked for %2$s!",
+  "mcp.buy_warp_pipe": "%1$s forked for %2$s!",
+  "mcp.buy_super_warp_pipe": "%1$s forked for %2$s!",
+  "mcp.buy_star_forger": "%1$s forked for %2$s!",
+  "mcp.buy_star_forger_deluxe": "%1$s forked for %2$s!",
+  "mcp.free_item_tick_coin_forger": "%1$s nabbed %2$s!",
+  "mcp.free_item_tick_coin_forger_deluxe": "%1$s nabbed %2$s!",
+  "mcp.alter_reward_item_coin_forger": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_coin_forger_deluxe": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_star_forger": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_star_forger_deluxe": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_combo_card": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_double_combo_card": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_warp_pipe": "%1$s won a %2$s!",
+  "mcp.alter_reward_item_super_warp_pipe": "%1$s won a %2$s!",
+  "mcp.fort_suits_judgement_warp_pipe": "%1$s%2$s Here is a %3$s",
+  "mcp.fort_suits_judgement_super_warp_pipe": "%1$s%2$s Here is a %3$s",
+  "mcp.fort_suits_judgement_combo_ard": "%1$s%2$s Here is a %3$s",
+  "mcp.fort_suits_judgement_double_combo_card": "%1$s%2$s Here is a %3$s",
+  "mcp.WAGER_MINIGAME": "WAGER MINIGAME, ARRR!",
+  "mcp.wager_minigame_time": "It be time fer a Wager Minigame!",
+  "mcp.MCP2SinglePlayerMode": "§9§lM§c§lC§a§lP§e§l2 §2§lLone Voyage Mode",
+  "mcp.wager_minigame_win": "%1$s won %2$s %3$s from the Wager Scallywag, yarrr!",
+  "mcp.wager_minigame_lose": "%1$s lost %2$s %3$s in the Wager Scallywag!",
+  "mcp.wager_minigame": "Wager Scallywag",
+  "mcp.battle_minigame_single_player_reward.1": "Finishin' 1 objective will earn ye %1$s %2$s!",
+  "mcp.battle_minigame_single_player_reward.2": "Finishin' both objectives will earn ye %1$s %2$s!",
+  "mcp.battle_minigame_single_player_reward.3": "Finishin' neither objective will earn ye no %1$s!",
+  "mcp.chance_time_tick_warp_event_line_2": "WARP TO A",
+  "mcp.chance_time_tick_warp_event_line_3": "RANDOM LANDMARK",
+  "mcp.WarpToARandomSpot": "WARP TO A RANDOM LANDMARK",
+  "mcp.chance_time_tick_lose_star_line_2": "LOSE",
+  "mcp.chance_time_tick_lose_star_line_3": "1 SHININ' SPIKER",
+  "mcp.Lose1Star": "LOSE 1 SHININ' SPIKER",
+  "mcp.chance_time_tick_gain_star_line_2": "GAIN",
+  "mcp.chance_time_tick_gain_star_line_3": "1 SHININ' SPIKER",
+  "mcp.Gain1Star": "GAIN 1 SHININ' SPIKER",
+  "mcp.chance_time_tick_gain_20_coins_line_2": "GAIN",
+  "mcp.chance_time_tick_gain_20_coins_line_3": "20 DOUBLOONS",
+  "mcp.Gain20Coins": "GAIN 20 DOUBLOONS",
+  "mcp.chance_time_tick_lose_20_coins_line_2": "LOSE",
+  "mcp.chance_time_tick_lose_20_coins_line_3": "20 DOUBLOONS",
+  "mcp.Lose20Coins": "LOSE 20 DOUBLOONS",
+  "mcp.chance_time_tick_lose_all_coins_line_2": "LOSE",
+  "mcp.chance_time_tick_lose_all_coins_line_3": "ALL DOUBLOONS",
+  "mcp.LoseAllCoins": "LOSE ALL DOUBLOONS",
+  "mcp.chance_time_tick_double_your_coins_line_2": "DOUBLE",
+  "mcp.chance_time_tick_double_your_coins_line_3": "YER DOUBLOONS",
+  "mcp.DoubleYourCoins": "DOUBLE YER DOUBLOONS",
+  "mcp.chance_time_tick_lose_random_item_line_2": "LOSE",
+  "mcp.chance_time_tick_lose_random_item_line_3": "RANDOM TRINKET",
+  "mcp.LoseRandomItem": "LOSE RANDOM TRINKET",
+  "mcp.chance_time_tick_duplicate_random_item_line_2": "DUPLICATE",
+  "mcp.chance_time_tick_duplicate_random_item_line_3": "RANDOM TRINKET",
+  "mcp.DuplicateRandomItem": "DUPLICATE RANDOM TRINKET",
+  "mcp.gain_20_coins": "%1$s has snagged %2$s %3$s!", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.lose_coins": "%1$s has be sunk %2$s %3$s!", // 1: player, 2: score, 3: mcp.Coins
+  "mcp.double_your_coins": "%1$s doubl'd thar %2$s! (%3$s → %4%s)", // 1: player, 2: mcp.Coins, 3: score, 4: score
+  "mcp.gain_1_star": "%1$s has snagged 1 %2$s!", // 1: player, 2: mcp.Star
+  "mcp.lose_1_star": "%1$s has be sunk 1 %2$s!", // 1: player, 2: mcp.Star
+  "mcp.lose_no_star": "%1$s had no %2$s to sink!", // 1: player, 2: mcp.Stars
+  "mcp.duplicate_random_item": "%1$s doubl'd thar %2$s!", // 1: player, 2: entity (item name)
+  "mcp.duplicate_no_random_item": "%1$s had no trinkets to doubl'!", // 1: player
+  "mcp.lose_no_random_item": "%1$s had no trinkets to sink!", // 1: player
+  "mcp.lose_random_item_chance_time": "%1$s sunk thar %2$s!", // 1: player, 2: entity (item name)
+  "mcp.warp_to_a_random_spot": "%1$s warped t' ar random landmark!", // 1: player
+  "mcp.FORGE_10_COINS.1": "FORGE 10",
+  "mcp.FORGE_10_COINS.2": "DOUBLOONS",
+  "mcp.FORGE_6-12_STAR_SHARDS.1": "FORGE 6-12",
+  "mcp.FORGE_6-12_STAR_SHARDS.2": "SHININ' SPIKER SHARDS",
+  "mcp.FORGE_6-12_STAR_SHARDS.3": "SHARDS",
+  "mcp.FORGE_5-10_COINS.1": "FORGE 5-10",
+  "mcp.FORGE_5-10_COINS.2": "DOUBLOONS",
+  "mcp.AddCoinsToPlot.1": "Add 5-10",
+  "mcp.AddCoinsToPlot.2": "doubloons t'",
+  "mcp.AddCoinsToPlot.3": "random parcel",
+  "mcp.AddCoinsToPlot2.1": "Add 15-20",
+  "mcp.AddCoinsToPlot2.2": "doubloons t'",
+  "mcp.AddCoinsToPlot2.3": "random parcel",
+  "mcp.BewForgeCoins": "%1$s forged %2$s %3$s fer %4$s!", // 1: mcp.Bew, 2: score, 3: mcp.Coins, 4: player
+  "mcp.BewForgeStarShards": "%1$s forged %2$s %3$s fer %4$s!", // 1: mcp.Bew, 2: score, 3: mcp.StarShards, 4: player
+  "mcp.ApproachPabloSinglePlayer": "%1$s Aye, welcome! In need o' me services, eh? I’ll pinch some doubloons n' add them to a random parcel, free o' charge!", // 1: player
+  "mcp.ApproachPabloSinglePlayerWithItem": "%1$s Aye, welcome! In need o' me services, eh? I’ll pinch some doubloons n' add them to a random parcel, free o' charge! Though, I can’t help but notice that %2$s ya plundered there... Tell ya what, I’ll pinch some extra doubloons just fer ye if ye lemme have that...", // 1: player, 2: entity (item name)
+  "mcp.pablo_add_coins_to_plot": "%1$s pinched %2$s %3$s into %4$s's %5$s stash!", // 1: mcp.pablo, 2: score, 3: mcp.Coins, 4: player, 5: entity (Plot 1/2/3/4/5)
+  "mcp.Merchants": "Tycooners",
+  "mcp.port_town_cannon_setup_single_player": "%1$s Do you see the cannon on top of this lighthouse? Dropping the TNT in your hand will steal coins from the %2$s, %3$s, and the %4$s. The closer the TNT hits to them, the more coins it will steal!",
+  "mcp.rhythmic_room_chair_event_single_player": "%1$s got shot t' th' start.",
+  "mcp.show_landing_spot_rhythmic_room_chair_event_single_player": "Chair Event\n(get shot back t' th' start)",
+  "mcp.courtyard_no_gamble": "There not be enough scallywags t' wager on.",
+  "mcp.courtyard_betting_pot_status_single_player.1": "%1$s put in 6 %2$s and th' wagerin' pot doubled it!",
+  "mcp.courtyard_betting_pot_status_single_player.2": "The wagerin' pot currently holds %1$s %2$s. This'll be paid out to %3$s if ye win the next minigame!",
+  "mcp.port_town_cutscene_bew_single_player": "%1$sWhen visiting %4$s's vessel, %4$s can forge 10 %2$s fer ye fer free or forge 6-12 %3$s fer the cost o' 40 %2$s. Landin' on th' %7$s landmark by %4$s will block visitors from his ship fer two heml runs but can be bypassed using %5$s/%6$s.",
+  "mcp.port_town_cutscene_lighthouse_single_player": "When passing thar lighthouse, ye can pick a spot on thar board t' fire an explosive. Thar explosive steals %2$s from nearby NPCs. Th' closer th' explosion be t' th' character being hit, th' more %2$s'll be stolen.",
+  "lost_city_cutscene_bew_single_player": "%1$sWhen visitin' Bew, Bew can forge 5-10 %2$s fer you (fer free) o' forge 6-12 %3$s fer th' cost o' double th' current %4$s price.",
+  "mcp.bew_single_player_description": "%1$sWhen visitin' Bew, Bew can forge 5-10 %2$s fer you (fer free) o' forge 6-12 %3$s fer th' cost o' 50 %2$s.",
+  "mcp.rhythmic_room_chair_event_single_player_description": "%1$sDockin' on t' magenta landmark on th' stool'll shoot th' lander t' th' start of the map.",
+  "mcp.hole_in_the_wall_single_player_objective": "Survive %1$s seconds: %2$s %3$s", // 1: score, 2: score, 3: mcp.Coins
+  "mcp.battle_minigame_single_player_2_objectives": "%1$s%2$s 2 objectives completed", // 1: player, 2: ":"
+  "mcp.battle_minigame_single_player_1_objective": "%1$s%2$s 1 objective completed", // 1: player, 2: ":"
+  "mcp.battle_minigame_single_player_0_objectives": "%1$s%2$s 0 objectives completed", // 1: player, 2: ":"
+  "mcp.tedious_tasks_single_player.1": "Orders'll be given (in chat) in a random order.",
+  "mcp.tedious_tasks_single_player.2": "Ye must finish yer orders in under %1$s%2$s%3$s to conquer this scallywag!", // 1: score (number of minutes), 2: ":" or ":0", 2: score (number of seconds)
+  "mcp.mcp.candyland_house_success.3":"%1$s beat the gingerbread house challenge and won %2$s!",
+  "mcp.Objective_": "Objective: ",
+  "mcp.farming_frenzy_single_player": "Ye must get %1$s glory tallies before t' hourglass runs out o' sand t' conquer this scallywag!",
+  "mcp.item_activate_negative_karma_single_player": "Unleash %1$s on yerself: %2$s%3$s%4$s fer %5$s", // 1: item name, 2: mcp.activate_item.1.1, 3: mcp.NegativeKarma, 4: icon, 5: player
+  "mcp.fort_suits_cutscene_negative_karma_single_player": "%1$sBad Karma (\ue006) be gained by stirrin’ trouble—snubbin’ merchants, refusin’ the Queen’s toll, dodgin’ trials, usin’ %2$s or %3$s, pickin’ pockets, layin’ traps, or stirrin’ up duels and games o’ chance.",
+  "mcp.rhythmic_room_cutscene_star_cost_single_player": "%1$sLanding on one of the two magenta spaces with a metronome next to it will run the Metronome Event. This event will randomly change the price of a %2$s to either 0, 5, 10, 15, 20, 30, 40, or 55 %3$s.",
+  "mcp.quickplayminigame.3": "Cannot set sail on this scallywag in lone sailor mode",
+  "mcp.rhythmic_room_cutscene_star_cost_single_player": "%1$sDockin' on one o' t' two magenta landmarks with a wooden tick'r beside it will unleash the Wooden Tick'r Event. This here event'll randomly change t' price o' a %2$s t' either 0, 5, 10, 15, 20, 30, 40, or 55 %3$s.",
+  "mcp.rainbow_run_single_player_rule": "Ye must survive %1$s seconds t' conquer this scallywag!", // 1: score
+  "mcp.rainbow_run_single_player_quickplay_rule": "Avoid gettin' sent t' Davy Jones' Locker fer as long as ye can!",
+  "mcp.speed_builders_single_player_rule": "Ye must copy 4 builds in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.port_priority_single_player_rule": "Ye must find all 3 trinkets in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.dropper_single_player_rule": "Ye must finish thar dropper in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.cave_parkour_single_player_rule": "Ye must finish thar course in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.raft_racers_single_player_rule": "Ye must finish two laps in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.tedious_tasks_single_player_rule": "Ye must complete 7 tasks in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.horse_race_single_player_rule": "Ye must finish two laps in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.rlgl_single_player_rule": "Ye must reach thar end in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.memory_lane_single_player_rule": "Ye must finish thar wall in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.pearl_hurl_single_player_rule": "Ye must finish thar course in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.take_flight_single_player_rule": "Ye must finish 3 laps in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.odd_one_out_single_player_rule": "Ye must finish 3 rounds in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.puzzled_single_player_rule": "Ye must finish thar puzzle in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.prison_pals_single_player_rule": "Ye must finish all 5 stages in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.maze_navigator_single_player_rule": "Ye must find both orange orbs in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.labyrinth_single_player_rule": "Ye must find two pieces of Ol' Bounty and return to your base in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.space_jumpers_single_player_rule": "Ye must finish thar course in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.eggcellence_single_player_rule": "Ye must match both walls in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.go_fish_single_player_rule": "Ye must catch a fish in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.pig_pushers_single_player_rule": "Ye must push thar bacon barrel to thar end in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.balance_beam_single_player_rule": "Ye must finish thar course in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.decryption_single_player_rule": "Ye must decrypt thar code in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.mining_away_single_player_rule": "Ye must reach thar bottom in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.path_finder_single_player_rule": "Ye must complete thar path in under %1$s%2$s%3$s to conquer this scallywag.",
+  "mcp.trident_tumblers_single_player_rule": "Ye must reach thar top platform in under %1$s to conquer this scallywag.",
+  "mcp.ring_in_the_ring_single_player_rule.1": "Yer score starts at 0 and rises by 1 each time ye ring the bell.",
+  "mcp.ring_in_the_ring_single_player_rule.2.1": "Yer score will drop by 1 automatically every 4 ticks (5 each second).",
+  "mcp.ring_in_the_ring_single_player_rule.2.2": "Yer score will drop by 1 automatically every 3 ticks (just under 7 each second).",
+  "mcp.ring_in_the_ring_single_player_rule.2.3": "Yer score will drop by 1 automatically every 2.25 ticks (just under 9 each second).",
+  "mcp.ring_in_the_ring_single_player_rule.3": "The minigame ends when the absolute value o' yer score reaches the endin' threshold, which starts at 20 and slowly shrinks as the minigame sails on.",
+  "mcp.ring_in_the_ring_single_player_rule.4": "If yer score be positive when th' minigame ends, ye'll conquer the minigame.",
+  "mcp.ring_in_the_ring_single_player_win": "%1$s rang their way to glory, yarrr!",
+  "mcp.ring_in_the_ring_single_player_loss": "%1$s couldn't ring the bell fast enough, matey!",
+  "mcp.go_fish_single_player_rule": "Catch a fish in %1$s seconds t' conquer this minigame!", // 1: score
+  "mcp.pig_pushers_single_player_rule": "Yer pig must get t' th' barn in %1$s seconds t' conquer this minigame!",
+  "mcp.zen_garden_star_shuffle_single_player": "%1$s be wagerin' 1 shinin' spiker on growin' bamboo! If %1$s's bamboo can outgrow the other three, %1$s will pocket 2 %2$s. A second-place finish earns nothin'. A third- or fourth-place finish will cost %1$s 1 %3$s.",
+  "mcp.zen_garden_coin_shuffle_single_player": "%1$s be wagerin' %2$s %3$s on growin' bamboo! If %1$s's bamboo can outgrow the other three, %1$s will pocket %4$s %3$s. A second-place finish earns nothin'. A third- or fourth-place finish will cost %1$s %2$s %3$s.",
+  "mcp.space_jumpers.5":"Each player will shoot blocks on the wall and jump along those blocks.", // <- still needs translation
+  "mcp.space_jumpers_rules.5":"Shots must hit the buttons on the end stone bricks to extend the block out.", // <- still needs translation
+  "mcp.space_jumpers_rules.6":"Players can swap between jumping and shooting by dropping their bow (when shooting) and dropping the empty slot (when jumping).",// <- still needs translation
+  "mcp.coin_minigame_goal_archipelago": "Ye need t' plunder %1$s %2$s to conquer the check fer this minigame.",
+  "mcp.single_player_item": "Lone voyage item",
+  "mcp.StarCostBossbar": "  §e1%1$s§f: %2$s%3$s",
+  "mcp.LostCityStarCostBossbar": "  §e1%1$s§f: %2$s%3$s  §e2%1$s§f: %4$s%3$s  §e3%1$s§f: %5$s%3$s", // 1: mcp.Star, 2: score, 3: mcp.Coins, 4: score, 5: score
+  "mcp.ZenGardenStarCostBossbar": "  §e1%1$s§f:%2$s%3$s  §e2%1$s§f:%4$s%3$s  §e3%1$s§f:%5$s%3$s  §e4%1$s§f:%6$s%3$s  §e5%1$s§f:%7$s%3$s",
+  "mcp.FortSuitsStarCostBossbar": "  §e1%1$s§f: %2$s%3$s minus §65§r%3$s per %4$s/%5$s",
+  "mcp.coin_minigame_single_player_quickplay_rule": "Collect as many coins as you can.",
+  "mcp.hungry_hungry_humans_single_player_rule.1": "Animals will spawn on the center island.",
+  "mcp.hungry_hungry_humans_single_player_rule.2": "Capture as many animals as you can.",
+  "mcp.start_game_sign_archipelago": "%1$s Archipelago mode be a lone sailer voyage n' needs just a single matey t' be playin'.", // 1: mcp.note_
+  "mcp.MCP2ArchipelagoMode": "§9§lM§c§lC§a§lP§e§l2 §2§lArchipelago Mode"
 }
