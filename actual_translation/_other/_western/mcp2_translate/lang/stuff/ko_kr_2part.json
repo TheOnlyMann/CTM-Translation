@@ -90,5 +90,9 @@
     "mcp.AddCoinsToPlot2.3": "추가",
 
     "mcp.SignFullCreditsTellraw10": "영어",
-    "mcp.SignSettings2": "(설정 리셋)"
+    "mcp.SignSettings2": "(설정 리셋)",
+
+  
+  "mcp.JoinSpectator2": "관전",
+  "mcp.JoinSpectator3": "참여"
 }
